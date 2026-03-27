@@ -1,0 +1,52 @@
+	# ================================
+# Data Mastery 120 – Dependencies
+# ================================
+
+
+# ================================
+# A) SQL
+# ================================
+1. Descarga PostgreSQL desde el sitio oficial de PostgreSQL (https://www.postgresql.org/download/).
+2. Instala DBeaver para administrar la base (https://dbeaver.io/download/).
+
+
+# ================================
+# B) Python
+# ================================
+
+# --- SQL / Database Connectivity ---
+psycopg2==2.9.9          # Conector nativo para PostgreSQL
+sqlalchemy==2.0.29       # ORM y gestión avanzada de consultas SQL
+python-dotenv==1.0.1     # Manejo seguro de credenciales (variables de entorno)
+
+# --- Data Manipulation ---
+pandas==2.2.1            # Manipulación tabular y conexión con SQL
+numpy==1.26.4            # Operaciones numéricas y soporte para pandas
+
+# --- Power BI Integration ---
+# Nota: Power BI Desktop no se instala vía pip, pero se complementa con librerías
+# que permiten preparar datasets y exportarlos en formatos compatibles.
+openpyxl==3.1.2          # Exportación a Excel (formato .xlsx)
+xlrd==2.0.1              # Lectura de archivos Excel antiguos (.xls)
+pyodbc==5.1.0            # Conexión ODBC (alternativa para integración con Power BI)
+requests==2.31.0         # Consumo de APIs externas para enriquecer datasets
+
+# --- Visualization Support (previo a Power BI) ---
+matplotlib==3.8.3        # Gráficos básicos en Python
+seaborn==0.13.2          # Visualización estadística avanzada
+
+# --- Data Quality & Profiling ---
+pandas-profiling==3.6.6  # Reportes de calidad de datos
+
+# --- Machine Learning ---
+scikit-learn==1.4.1
+xgboost==2.0.3
+
+# --- Utilities ---
+pathlib==1.0.1
+
+
+# ================================
+# C) Power BI
+# ================================
+1. Descarga Power BI Desktop desde el sitio oficial de Microsoft (https://www.microsoft.com/es-es/download/details.aspx?id=58494).
