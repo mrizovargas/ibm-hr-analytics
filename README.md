@@ -47,53 +47,63 @@ Este proyecto de **People Analytics** transforma datos de Recursos Humanos en de
 
 DM_Roadmap_P1_120D/
 │
-├── 01_strategy/		# Documentación estratégica (ej. PDF): roadmap del proyecto, definición de KPIs, business case y justificación de valor.
-├── 02_data/           		# Contiene todos los datos del proyecto, organizados por estado de procesamiento.
-│   ├── raw/        		# Datos originales sin modificar (CSV, JSON, SQL dumps, APIs, fuentes externas).
-│       ├── rrhh/
-│           ├── WA_Fn-UseC_-HR-Employee-Attrition.csv           # Dataset original.
-│   ├── processed/  		# Datos finales listos para modelado, BI o dashboards (limpios y transformados).
-│   └── interim/       		# Datos intermedios: parcialmente transformados, aún no aptos para modelado/BI.
+├── 01_strategy/           # Fundamentos del proyecto: Roadmap, KPIs, Business Case y justificación del proyecto.
 │
-├── 03_scripts_etl/		# Código para extracción, transformación y carga (ETL).
-│   ├── src/			# Scripts en Python para pipelines reutilizables y producción. reutilizables.
-│   │	├── data_loader.py	# ej. Script para conectar y extraer datos desde SQL u otras fuentes.
-│   │	└── feature_eng.py	# ej. Script para ingeniería de características (creación de nuevas variables).
-│   └── sql/			# Código SQL para gestión de tablas y consultas.
-│    	├── create_tables.sql	# ej. Script de creación de tablas en la base de datos.
-│    	└── queries.sql		# ej. Consultas SQL para extracción y análisis.
+├── 02_data/               # Ciclo de vida del dato: Repositorio de datos clasificado por etapas de procesamiento.
+│   ├── interim/           # Datos en transformación: Limpieza técnica, normalización y validaciones temporales.
+│   ├── processed/         # "Single Source of Truth": Datos finales listos para consumo en modelos de ML o BI.
+│   └── raw/               # Solo lectura: Fuentes originales (CSV, JSON, SQL). ¡Prohibido modificar estos archivos!
 │
-├── 04_exploration_eda/		# Exploración inicial de datos y prototipado.
-│   └── notebooks/		# Jupyter Notebooks para análisis exploratorio y pruebas rápidas.
-│    	├── 01-eda.ipynb	# ej. Notebook de EDA: gráficas, outliers, correlaciones.
-│    	└── 02-modelado.ipynb	# ej. Notebook de prototipado de modelos iniciales.
+├── 03_scripts_etl/        # Automatización: Motores de procesamiento para mover datos de 'raw' a 'processed'.
+│   ├── sql/               # Código SQL para gestión de tablas y consultas.
+│   │   ├── create_tables.sql # ej. Estructura y esquemas de tablas.
+│   │   └── queries.sql       # ej. Consultas para consumo y análisis avanzado.
+│   └── src/               # Código fuente en Python para extracción, limpieza y Feature Engineering.
+│   	├── data_loader.py # ej. Conexiones y extracción de fuentes externas o bases de datos.
+│	└── feature_eng.py # ej. Creación de nuevas variables y lógica de negocio.
 │
-├── 05_reports			# Reportes generados: análisis en CSV, PDF, HTML, imágenes, etc.
-│   └── figures/		# # Gráficos y visualizaciones (PNG, PDF, HTML) exportadas para informes finales.
+├── 04_exploration_eda/    # Laboratorio de experimentación: Sandbox para descubrimiento de patrones y testing.
+│   └── notebooks/         # Jupyter Notebooks: Documentación visual de hipótesis, outliers y prototipos.
+│       ├── 01_eda.ipynb   # ej. Análisis de calidad de datos, outliers y correlaciones.
+│       └── 02_modelado.ipynb # ej. Pruebas preliminares de modelos y algoritmos.
 │
-├── 06_dashboards/		# Archivos de visualización interactiva (Power BI .pbix, Tableau .twbx).
+├── 05_results/            # Salidas estáticas (CSV): Reportes finales en formato plano divididos por unidad de negocio.
+│   ├── bussiness intelligence/ ... sales/ # Segmentación por stakeholder para facilitar la entrega de valor.
+│   └── screenshots/   # Evidencias visuales, gráficos clave y diagramas para presentaciones (PNG, PDF, HTML).
+│       └── bussiness intelligence/ ... sales/ # Segmentación por stakeholder para facilitar la entrega de valor.
 │
-├── 07_workspace/		# Espacio de trabajo temporal (archivos auxiliares, pruebas).
+├── 06_dashboards/         # Entregables visuales interactivos (archivos .pbix, .twbx o similares).
+│   ├── pbi/		   # Archivos binarios de Power BI (.pbix).
+│   └── tabl/		   # Archivos binarios de Tableau (.twbx).
 │
-├── 08_config/			# Archivos de configuración y credenciales (no subir a Git por seguridad).
+├── 07_workspace/          # Zona de juegos: Borradores locales y pruebas rápidas. No se sube a producción.
 │
-├── 09_github/			# Evidencia organizada para GitHub (subcarpetas con documentación y resultados).
-│   └── ibm-hr-analytics/
-│   	└── .gitignore/		# Define qué archivos no deben subirse a Git (datos sensibles, entornos virtuales, credenciales, etc.).
-│   	└── day1_conecction_dataset/
-│   		└── docs/	# Documentación.
-│   		└── results/	# Resultados obtenidos.
-│   		└── scripts_etl/	# Código para extracción, transformación y carga (ETL).
-│   			└── scr/	# Scripts en Python para pipelines reutilizables y producción.
-│   			└── sql/	# Código SQL para gestión de tablas y consultas. reutilizables.
-│   		└── README.md		# Guía rápida del subproyecto.
-│   	└── README.md			# Descripción general del repositorio.
+├── 08_config/             # Seguridad: Variables de entorno, .env y tokens (excluir de Git por seguridad).
 │
-├── 10_docs/			# Documentación adicional (manuales, referencias, papers, etc.).
+├── 09_github/             # Reflejo del repositorio remoto: Estructura pública optimizada para colaboración.
+│   └── ibm_hr_analytics/  #Proyecto específico: Aplicación de analítica de RRHH de IBM.
+│       ├── .gitignore/    # Filtro de seguridad: Evita la fuga de datos sensibles o archivos pesados (.csv, .log).
+│       ├── day1_connection_dataset/	# Onboarding: Guía y scripts para la conexión inicial de datos.
+│       │   ├── docs/      # Documentación técnica: Diccionario de datos y diagramas de flujo.
+│       │   ├── results/   # Entregables del módulo: Reportes (CSV) y evidencias específicas del día 1.
+│       │   │   ├── bussiness intelligence/ ... sales/ # Segmentación por stakeholder para facilitar la entrega de valor.
+│       │   │   └── screenshot/	# Evidencias visuales, gráficos clave y diagramas para presentaciones (PNG, PDF, HTML).
+│       │   │       └── bussiness intelligence/ ... sales/ # Segmentación por stakeholder para facilitar la entrega de valor.
+│       │   │       
+│       │   ├── scripts_etl/	# Código para extracción, transformación y carga (ETL).
+│       │   │   ├── scr/	# Código fuente en Python para extracción, limpieza y Feature Engineering.
+│       │   │   └── sql/	# Código SQL para gestión de tablas y consultas. reutilizables.
+│   	│   └── README.md      # Guía del día 1: Contexto específico para el desarrollador del subproyecto.
+│       ├── ...            # (Otros días o módulos del proyecto).
+│       ├── README.md      # Guía del módulo: Contexto específico para el desarrollador del subproyecto.
+│	└── requirements.txt	# Dependencias locales: Listado necesario para replicar el entorno de ejecución.
 │
-├── README.md           	# Documento principal: explica el propósito del proyecto, objetivos, alcance, guías de uso y cómo reproducir resultados.
-├── requirements.txt    	# Lista de dependencias (pip/conda) necesarias para ejecutar el proyecto de forma reproducible.
-└──
+├── 10_docs/               # Biblioteca de referencia: Manuales, material de referencia técnica y especificaciones externas.
+│   ├── day1_connection_dataset/ # Módulo inicial: Configuración y carga del dataset.
+│   └── ...           	   # (Otros días o módulos del proyecto). 
+│
+├── README.md              # Carta de presentación: Resumen ejecutivo, guía de instalación y arquitectura.
+└── requirements.txt       # Entorno global: Listado necesario para replicar todo el ecosistema del proyecto.
 
 ---
 
