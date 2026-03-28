@@ -1,0 +1,11 @@
+"age","gender","marital_status","over18","attrition","business_travel","distance_from_home","department","job_role","job_level","employee_number","employee_count","monthly_income","monthly_rate","daily_rate","hourly_rate","percent_salary_hike","stock_option_level","education","education_field","training_times_last_year","environment_satisfaction","job_involvement","job_satisfaction","performance_rating","relationship_satisfaction","work_life_balance","num_companies_worked","total_working_years","years_at_company","years_in_current_role","years_since_last_promotion","years_with_curr_manager","over_time","standard_hours"
+41,Female,Single,Y,Yes,Travel_Rarely,1,Sales,Sales Executive,2,1,1,5993,19479,1102,94,11,0,2,Life Sciences,0,2,3,4,3,1,1,8,8,6,4,0,5,Yes,80
+49,Male,Married,Y,No,Travel_Frequently,8,Research & Development,Research Scientist,2,2,1,5130,24907,279,61,23,1,1,Life Sciences,3,3,2,2,4,4,3,1,10,10,7,1,7,No,80
+37,Male,Single,Y,Yes,Travel_Rarely,2,Research & Development,Laboratory Technician,1,4,1,2090,2396,1373,92,15,0,2,Other,3,4,2,3,3,2,3,6,7,0,0,0,0,Yes,80
+33,Female,Married,Y,No,Travel_Frequently,3,Research & Development,Research Scientist,1,5,1,2909,23159,1392,56,11,0,4,Life Sciences,3,4,3,3,3,3,3,1,8,8,7,3,0,Yes,80
+27,Male,Married,Y,No,Travel_Rarely,2,Research & Development,Laboratory Technician,1,7,1,3468,16632,591,40,12,1,1,Medical,3,1,3,2,3,4,3,9,6,2,2,2,2,No,80
+32,Male,Single,Y,No,Travel_Frequently,2,Research & Development,Laboratory Technician,1,8,1,3068,11864,1005,79,13,0,2,Life Sciences,2,4,3,4,3,3,2,0,8,7,7,3,6,No,80
+59,Female,Married,Y,No,Travel_Rarely,3,Research & Development,Laboratory Technician,1,10,1,2670,9964,1324,81,20,3,3,Medical,3,3,4,1,4,1,2,4,12,1,0,0,0,Yes,80
+30,Male,Divorced,Y,No,Travel_Rarely,24,Research & Development,Laboratory Technician,1,11,1,2693,13335,1358,67,22,1,1,Life Sciences,2,4,3,3,4,2,3,1,1,1,0,0,0,No,80
+38,Male,Single,Y,No,Travel_Frequently,23,Research & Development,Manufacturing Director,3,12,1,9526,8787,216,44,21,0,3,Life Sciences,2,4,2,3,4,2,3,0,10,9,7,1,8,No,80
+36,Male,Married,Y,No,Travel_Rarely,27,Research & Development,Healthcare Representative,2,13,1,5237,16577,1299,94,13,2,3,Medical,3,3,3,3,3,2,2,6,17,7,7,7,7,No,80

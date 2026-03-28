@@ -1,3 +1,18 @@
+/*******************************************************************************
+Título: Visualización Preliminar de Datos de Empleados
+Objetivo: Obtener una muestra rápida de los datos maestros de los empleados.
+Descripción: Esta consulta selecciona las primeras 10 filas de la tabla 
+             'employee_master_data' para verificar la estructura y el tipo de 
+             información contenida en ella.
+*******************************************************************************/
+
+-- Selecciona todas las columnas y limita el resultado a 10 filas para una vista rápida
+SELECT * 
+FROM employee_master_data 
+LIMIT 10;
+
+
+
 /* 
 ================================================================================
 TÍTULO: DETECCIÓN DE REGISTROS DUPLICADOS POR NÚMERO DE EMPLEADO
@@ -85,3 +100,48 @@ WHERE
 	-- CRITERIOS DE ERROR:
 	department = '' OR          -- Filtra si el departamento está vacío (texto sin contenido)
 	monthly_income <= 0;        -- Filtra si el salario es cero o negativo (valor ilógico)
+
+
+
+/* 
+================================================================================
+TÍTULO: CONTEO TOTAL DE COLABORADORES EN LA TABLA MAESTRA
+================================================================================
+		
+OBJETIVO: 
+Obtener la cantidad exacta de registros almacenados en la tabla principal.
+	
+DESCRIPCIÓN DEL OBJETIVO: 
+Esta consulta se utiliza para validar el volumen de datos actual en la tabla 
+"employee_master_data". Es útil para confirmar que la carga de información 
+fue exitosa o para conocer el tamaño total de la plantilla activa e histórica.
+*/
+	
+-- Bloque de consulta de métricas generales
+SELECT
+	COUNT(*) -- Cuenta todas las filas individuales sin importar el contenido
+FROM
+	employee_master_data;-- Tabla principal que contiene el censo de empleado
+
+
+
+/* 
+================================================================================
+TÍTULO: DISTRIBUCIÓN DE PLANTILLA POR DEPARTAMENTO
+================================================================================
+	
+OBJETIVO: 
+Contabilizar cuántos empleados pertenecen a cada área de la organización.
+	
+DESCRIPCIÓN DEL OBJETIVO: 
+Esta consulta genera un resumen cuantitativo que permite visualizar el tamaño 
+relativo de cada departamento. Es fundamental para entender la estructura de 
+la empresa y detectar qué áreas concentran la mayor cantidad de capital humano.
+*/
+	
+-- Bloque de selección y agrupación
+SELECT
+	department, -- Identifica el nombre del área o departamento
+	COUNT(*)    -- Cuenta el total de empleados asociados a esa área
+FROM employee_master_data-- Tabla principal de donde se extrae la información
+GROUP BY department;-- Agrupa los resultados para que el conteo no sea global, sino por cada área
