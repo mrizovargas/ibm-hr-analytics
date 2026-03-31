@@ -1,0 +1,11 @@
+"employee_number","department_name","job_role_name","education_field_name","monthly_income","performance_rating"
+23,Sales,Manager,Life Sciences,15427,3
+1,Sales,Sales Executive,Life Sciences,5993,3
+2,Research & Development,Research Scientist,Life Sciences,5130,4
+4,Research & Development,Laboratory Technician,Other,2090,3
+5,Research & Development,Research Scientist,Life Sciences,2909,3
+7,Research & Development,Laboratory Technician,Medical,3468,3
+8,Research & Development,Laboratory Technician,Life Sciences,3068,3
+10,Research & Development,Laboratory Technician,Medical,2670,4
+11,Research & Development,Laboratory Technician,Life Sciences,2693,4
+12,Research & Development,Manufacturing Director,Life Sciences,9526,4
