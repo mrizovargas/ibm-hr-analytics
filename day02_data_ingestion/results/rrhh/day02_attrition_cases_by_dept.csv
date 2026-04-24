@@ -1,0 +1,238 @@
+"employee_number","department","attrition"
+1,Sales,Yes
+4,Research & Development,Yes
+19,Research & Development,Yes
+27,Sales,Yes
+31,Research & Development,Yes
+33,Research & Development,Yes
+42,Sales,Yes
+45,Research & Development,Yes
+47,Sales,Yes
+55,Research & Development,Yes
+58,Research & Development,Yes
+64,Research & Development,Yes
+65,Research & Development,Yes
+90,Research & Development,Yes
+118,Sales,Yes
+133,Human Resources,Yes
+137,Research & Development,Yes
+142,Sales,Yes
+147,Research & Development,Yes
+161,Research & Development,Yes
+163,Sales,Yes
+165,Research & Development,Yes
+167,Sales,Yes
+175,Sales,Yes
+179,Research & Development,Yes
+190,Research & Development,Yes
+235,Sales,Yes
+243,Research & Development,Yes
+248,Sales,Yes
+261,Research & Development,Yes
+282,Research & Development,Yes
+283,Sales,Yes
+291,Sales,Yes
+297,Research & Development,Yes
+299,Sales,Yes
+300,Research & Development,Yes
+315,Research & Development,Yes
+325,Research & Development,Yes
+328,Research & Development,Yes
+331,Research & Development,Yes
+342,Research & Development,Yes
+355,Research & Development,Yes
+364,Research & Development,Yes
+376,Research & Development,Yes
+392,Research & Development,Yes
+394,Research & Development,Yes
+401,Sales,Yes
+405,Research & Development,Yes
+433,Research & Development,Yes
+440,Research & Development,Yes
+445,Sales,Yes
+454,Research & Development,Yes
+478,Sales,Yes
+485,Sales,Yes
+488,Sales,Yes
+492,Sales,Yes
+494,Sales,Yes
+502,Sales,Yes
+510,Research & Development,Yes
+514,Research & Development,Yes
+538,Research & Development,Yes
+554,Sales,Yes
+555,Sales,Yes
+565,Research & Development,Yes
+566,Human Resources,Yes
+582,Research & Development,Yes
+584,Research & Development,Yes
+587,Research & Development,Yes
+590,Human Resources,Yes
+593,Research & Development,Yes
+608,Human Resources,Yes
+614,Sales,Yes
+622,Research & Development,Yes
+631,Sales,Yes
+647,Research & Development,Yes
+648,Sales,Yes
+650,Sales,Yes
+667,Sales,Yes
+684,Sales,Yes
+701,Research & Development,Yes
+702,Research & Development,Yes
+720,Sales,Yes
+723,Sales,Yes
+741,Research & Development,Yes
+752,Research & Development,Yes
+780,Research & Development,Yes
+785,Sales,Yes
+787,Research & Development,Yes
+796,Sales,Yes
+811,Research & Development,Yes
+816,Research & Development,Yes
+819,Sales,Yes
+825,Research & Development,Yes
+828,Research & Development,Yes
+840,Sales,Yes
+842,Sales,Yes
+848,Research & Development,Yes
+881,Research & Development,Yes
+896,Sales,Yes
+911,Research & Development,Yes
+918,Research & Development,Yes
+922,Sales,Yes
+923,Research & Development,Yes
+926,Research & Development,Yes
+927,Research & Development,Yes
+932,Research & Development,Yes
+952,Sales,Yes
+959,Sales,Yes
+960,Research & Development,Yes
+967,Sales,Yes
+970,Sales,Yes
+977,Research & Development,Yes
+986,Sales,Yes
+991,Research & Development,Yes
+994,Research & Development,Yes
+1004,Research & Development,Yes
+1010,Research & Development,Yes
+1016,Research & Development,Yes
+1017,Research & Development,Yes
+1033,Research & Development,Yes
+1037,Sales,Yes
+1038,Sales,Yes
+1042,Research & Development,Yes
+1052,Research & Development,Yes
+1053,Research & Development,Yes
+1077,Sales,Yes
+1079,Research & Development,Yes
+1081,Research & Development,Yes
+1082,Research & Development,Yes
+1098,Human Resources,Yes
+1100,Sales,Yes
+1101,Research & Development,Yes
+1106,Research & Development,Yes
+1107,Research & Development,Yes
+1108,Research & Development,Yes
+1111,Research & Development,Yes
+1113,Sales,Yes
+1127,Research & Development,Yes
+1156,Research & Development,Yes
+1157,Sales,Yes
+1160,Research & Development,Yes
+1165,Sales,Yes
+1167,Sales,Yes
+1175,Research & Development,Yes
+1188,Sales,Yes
+1200,Research & Development,Yes
+1203,Research & Development,Yes
+1210,Research & Development,Yes
+1219,Research & Development,Yes
+1248,Research & Development,Yes
+1273,Sales,Yes
+1277,Sales,Yes
+1279,Research & Development,Yes
+1295,Research & Development,Yes
+1299,Research & Development,Yes
+1309,Research & Development,Yes
+1310,Research & Development,Yes
+1318,Sales,Yes
+1319,Sales,Yes
+1331,Sales,Yes
+1333,Research & Development,Yes
+1360,Research & Development,Yes
+1372,Sales,Yes
+1379,Sales,Yes
+1380,Sales,Yes
+1389,Research & Development,Yes
+1405,Research & Development,Yes
+1420,Research & Development,Yes
+1421,Research & Development,Yes
+1427,Sales,Yes
+1433,Research & Development,Yes
+1439,Sales,Yes
+1457,Sales,Yes
+1458,Research & Development,Yes
+1459,Research & Development,Yes
+1464,Research & Development,Yes
+1467,Human Resources,Yes
+1486,Sales,Yes
+1487,Sales,Yes
+1489,Sales,Yes
+1494,Research & Development,Yes
+1504,Research & Development,Yes
+1522,Research & Development,Yes
+1534,Research & Development,Yes
+1537,Research & Development,Yes
+1562,Sales,Yes
+1569,Research & Development,Yes
+1572,Research & Development,Yes
+1573,Research & Development,Yes
+1604,Research & Development,Yes
+1624,Sales,Yes
+1639,Sales,Yes
+1645,Sales,Yes
+1649,Research & Development,Yes
+1667,Sales,Yes
+1684,Research & Development,Yes
+1691,Sales,Yes
+1692,Research & Development,Yes
+1702,Sales,Yes
+1714,Human Resources,Yes
+1716,Sales,Yes
+1733,Sales,Yes
+1734,Sales,Yes
+1747,Human Resources,Yes
+1752,Sales,Yes
+1758,Sales,Yes
+1761,Sales,Yes
+1767,Research & Development,Yes
+1780,Sales,Yes
+1783,Research & Development,Yes
+1792,Research & Development,Yes
+1797,Sales,Yes
+1807,Research & Development,Yes
+1809,Research & Development,Yes
+1818,Human Resources,Yes
+1821,Research & Development,Yes
+1842,Human Resources,Yes
+1844,Human Resources,Yes
+1862,Sales,Yes
+1868,Research & Development,Yes
+1869,Sales,Yes
+1876,Sales,Yes
+1878,Research & Development,Yes
+1905,Research & Development,Yes
+1907,Research & Development,Yes
+1928,Sales,Yes
+1933,Sales,Yes
+1939,Research & Development,Yes
+1944,Human Resources,Yes
+1960,Research & Development,Yes
+1967,Sales,Yes
+1968,Sales,Yes
+2023,Sales,Yes
+2027,Research & Development,Yes
+2032,Research & Development,Yes
+2044,Sales,Yes
+2055,Sales,Yes

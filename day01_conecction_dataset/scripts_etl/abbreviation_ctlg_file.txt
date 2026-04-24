@@ -1,0 +1,23 @@
+============================================
+SQL / Python / CSV / Image (ej. png, jpeg)
+============================================
+
+db - database		ok
+tbl - table		ok
+col - column		*ok
+mstr - master		ok
+fnl - final		ok
+dt - data		*ok
+ds - dataset		*ok
+dplct - duplicate	*ok
+empl - employee		*ok
+cnt - count		ok
+dept - department	ok
+smpl - sample		*ok
+ctlg - catalog		*ok
+errs - errors		ok
+conn - connection	*ok
+updt - update		*ok
+
+
+* Use carefully (only if the name is too large)
