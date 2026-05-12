@@ -1,25 +1,31 @@
 /*******************************************************************************
-Título: Creación de Tabla Maestra de Empleados
-
-Objetivo: Establecer la estructura base para almacenar la información demográfica, 
-organizacional y de compensación de los colaboradores.
-
-Descripción: Este script crea la tabla 'employee_master_data' si no existe, incluyendo 
-campos clave para análisis de retención, movilidad, estructura de puestos y 
-compensaciones (sueldos y opciones).
+  Título: Creación de Tabla Maestra de Empleados (Datos Sucios)
+  
+  Objetivo: 
+  Crear una tabla denominada 'employee_master_dirty_data' para almacenar 
+  información cruda (sin limpiar) del personal.
+  
+  Descripción:
+  Esta tabla sirve como repositorio inicial para importar datos de recursos humanos.
+  Se define 'employee_number' como la clave primaria (única) y se incluyen
+  datos demográficos, laborales y de desempeño con los tipos de datos adecuados.
+  Se utiliza 'IF NOT EXISTS' para evitar errores si la tabla ya fue creada previamente.
 ********************************************************************************/
 
 -- Creamos la tabla solo si no existe para evitar errores de duplicidad
-CREATE TABLE IF NOT EXISTS employee_master_data(
+CREATE TABLE IF NOT EXISTS employee_master_dirty_data (
     -- =========================================================================
     -- 1. DATOS DEMOGRÁFICOS Y PERSONALES
     -- Información básica para conocer el perfil del colaborador.
     -- =========================================================================
-    age INT NOT NULL,                -- Edad actual (campo obligatorio).
+    employee_id VARCHAR(10) NOT NULL,          -- ID único alfanumérico
+    age INT NOT NULL,                          -- Edad (campo obligatorio)
+    country VARCHAR(20),                       -- País
+    city VARCHAR(20),                          -- Ciudad
     gender VARCHAR(50),              -- Género con el que se identifica.
     marital_status VARCHAR(20),      -- Estado civil (Soltero, Casado, Divorciado).
     over_18 VARCHAR(5),              -- Confirmación legal de mayoría de edad (Y/N).
-
+    
     -- =========================================================================
     -- 2. INDICADORES DE RETENCIÓN Y MOVILIDAD
     -- Datos para medir el riesgo de que el talento se vaya de la empresa.
@@ -27,17 +33,18 @@ CREATE TABLE IF NOT EXISTS employee_master_data(
     attrition VARCHAR(10),           -- Indica si el empleado dejó la empresa (Yes/No).
     business_travel VARCHAR(50),     -- Qué tanto viaja por motivos de trabajo.
     distance_from_home INT,          -- Distancia de su casa a la oficina en km.
-
+    
     -- =========================================================================
     -- 3. ESTRUCTURA ORGANIZACIONAL Y PUESTO
     -- Define dónde encaja el empleado dentro de la jerarquía de la compañía.
     -- =========================================================================
     department VARCHAR(50),          -- Área funcional (Ventas, IT, RRHH, etc.).
+    hire_date DATE,                  -- Fecha de ingreso
     job_role VARCHAR(50),            -- Nombre específico de su cargo.
     job_level INT,                   -- Nivel de responsabilidad (del 1 al 5).
     employee_number INT PRIMARY KEY, -- Identificador único (DNI/ID) que no se repite.
     employee_count INT,              -- Auxiliar para conteos estadísticos (siempre es 1).
-
+    
     -- =========================================================================
     -- 4. COMPENSACIÓN Y BENEFICIOS
     -- Todo lo relacionado con pagos y retribución económica.
@@ -84,11 +91,5 @@ CREATE TABLE IF NOT EXISTS employee_master_data(
     -- Detalles finales sobre su jornada de trabajo.
     -- =========================================================================
     over_time VARCHAR(10),           -- Indica si suele trabajar horas extra.
-    standard_hours INT,              -- Horas que debe cumplir por contrato.
-    
-    -- =========================================================================
-    -- 9. AUDITORÍA TÉCNICA
-    -- Registro automático de cuándo se creó este dato.
-    -- =========================================================================
-    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP -- Fecha y hora de registro en el sistema.
+    standard_hours INT               -- Horas que debe cumplir por contrato.
 );

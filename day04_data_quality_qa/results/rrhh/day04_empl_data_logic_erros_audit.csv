@@ -1,0 +1,51 @@
+"employee_id","employee_number","categoria_error"
+EMP0000048,48,Error: Antigüedad > Experiencia
+EMP0000151,151,Error: Antigüedad > Experiencia
+EMP0000417,417,Error: Antigüedad > Experiencia
+EMP0001118,1118,Error: Antigüedad > Experiencia
+EMP0001384,1384,Error: Antigüedad > Experiencia
+EMP0001438,1438,Error: Antigüedad > Experiencia
+EMP0001490,1490,Error: Antigüedad > Experiencia
+EMP0001655,1655,Error: Antigüedad > Experiencia
+EMP0001679,1679,Error: Antigüedad > Experiencia
+EMP0001700,1700,Error: Antigüedad > Experiencia
+EMP0001973,1973,Error: Antigüedad > Experiencia
+EMP0002266,2266,Error: Antigüedad > Experiencia
+EMP0002492,2492,Error: Antigüedad > Experiencia
+EMP0002643,2643,Error: Antigüedad > Experiencia
+EMP0002701,2701,Error: Antigüedad > Experiencia
+EMP0002798,2798,Error: Antigüedad > Experiencia
+EMP0002964,2964,Error: Antigüedad > Experiencia
+EMP0000048,48,Error: Contratación Menor de Edad
+EMP0000151,151,Error: Contratación Menor de Edad
+EMP0001118,1118,Error: Contratación Menor de Edad
+EMP0001384,1384,Error: Contratación Menor de Edad
+EMP0001438,1438,Error: Contratación Menor de Edad
+EMP0001490,1490,Error: Contratación Menor de Edad
+EMP0001655,1655,Error: Contratación Menor de Edad
+EMP0001660,1660,Error: Contratación Menor de Edad
+EMP0001679,1679,Error: Contratación Menor de Edad
+EMP0001700,1700,Error: Contratación Menor de Edad
+EMP0001973,1973,Error: Contratación Menor de Edad
+EMP0002266,2266,Error: Contratación Menor de Edad
+EMP0002492,2492,Error: Contratación Menor de Edad
+EMP0002643,2643,Error: Contratación Menor de Edad
+EMP0002701,2701,Error: Contratación Menor de Edad
+EMP0002798,2798,Error: Contratación Menor de Edad
+EMP0002964,2964,Error: Contratación Menor de Edad
+EMP0000003,3,Error: Ascenso Imposible
+EMP0000417,417,Error: Ascenso Imposible
+EMP0000455,455,Error: Ascenso Imposible
+EMP0000551,551,Error: Ascenso Imposible
+EMP0000916,916,Error: Ascenso Imposible
+EMP0001328,1328,Error: Ascenso Imposible
+EMP0001409,1409,Error: Ascenso Imposible
+EMP0001419,1419,Error: Ascenso Imposible
+EMP0001436,1436,Error: Ascenso Imposible
+EMP0001792,1792,Error: Ascenso Imposible
+EMP0001805,1805,Error: Ascenso Imposible
+EMP0001955,1955,Error: Ascenso Imposible
+EMP0002191,2191,Error: Ascenso Imposible
+EMP0002288,2288,Error: Ascenso Imposible
+EMP0002324,2324,Error: Ascenso Imposible
+EMP0002448,2448,Error: Ascenso Imposible

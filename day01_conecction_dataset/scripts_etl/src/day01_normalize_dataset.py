@@ -25,7 +25,7 @@ from datetime import datetime
 # --- Configuración de rutas del proyecto ---
 # Localiza la carpeta raíz subiendo tres niveles y define las rutas de entrada (raw)
 # y salida (processed) para mantener los datos organizados.
-base_dir = Path(__file__).resolve().parents[2]
+base_dir = Path(__file__).resolve().parents[3]
 target_raw_dir = base_dir / '02_data' / 'raw' / 'rrhh'
 cleaned_target_dir = base_dir / '02_data' / 'processed' / 'rrhh'
 

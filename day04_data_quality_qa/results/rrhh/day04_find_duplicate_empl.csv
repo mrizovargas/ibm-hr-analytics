@@ -1,0 +1,248 @@
+"age","job_role","department","total_registros"
+41,Research Director,Research & Development,3
+18,Sales Representative,Sales,3
+55,Healthcare Representative,Research & Development,3
+60,Sales Executive,Sales,3
+40,Healthcare Representative,Research & Development,8
+43,Research Director,Research & Development,5
+22,Research Scientist,Research & Development,8
+42,Research Director,Research & Development,3
+33,Sales Representative,Sales,2
+37,Research Scientist,Research & Development,13
+48,Healthcare Representative,Research & Development,2
+27,Sales Executive,Sales,11
+58,Manager,Sales,2
+36,Research Scientist,Research & Development,7
+47,Manufacturing Director,Research & Development,3
+49,Research Scientist,Research & Development,2
+41,Manager,Sales,3
+43,Sales Executive,Sales,6
+27,Sales Representative,Sales,3
+45,Research Director,Research & Development,2
+50,Laboratory Technician,Research & Development,3
+33,Sales Executive,Sales,18
+27,Laboratory Technician,Research & Development,8
+24,Sales Representative,Sales,3
+27,Manufacturing Director,Research & Development,5
+46,Healthcare Representative,Research & Development,5
+34,Research Scientist,Research & Development,22
+39,Manufacturing Director,Research & Development,8
+29,Healthcare Representative,Research & Development,8
+53,Sales Executive,Sales,5
+44,Sales Executive,Sales,3
+42,Manufacturing Director,Research & Development,4
+46,Manager,Sales,7
+24,Laboratory Technician,Research & Development,10
+30,Healthcare Representative,Research & Development,2
+51,Manager,Sales,2
+42,Research Scientist,Research & Development,8
+26,Manufacturing Director,Research & Development,2
+24,Sales Executive,Sales,4
+47,Manager,Research & Development,2
+40,Manager,Research & Development,2
+28,Sales Executive,Sales,9
+35,Research Scientist,Research & Development,12
+36,Human Resources,Human Resources,3
+31,Human Resources,Human Resources,3
+45,Manager,Sales,2
+49,Laboratory Technician,Research & Development,5
+31,Sales Executive,Sales,18
+40,Research Scientist,Research & Development,10
+38,Research Director,Research & Development,4
+46,Manufacturing Director,Research & Development,5
+51,Laboratory Technician,Research & Development,2
+43,Laboratory Technician,Research & Development,5
+31,Manufacturing Director,Research & Development,11
+20,Sales Representative,Sales,5
+59,Sales Executive,Sales,3
+34,Manufacturing Director,Research & Development,6
+31,Research Director,Research & Development,3
+29,Sales Executive,Sales,13
+33,Manager,Research & Development,2
+31,Laboratory Technician,Research & Development,9
+47,Research Director,Research & Development,3
+38,Healthcare Representative,Research & Development,7
+37,Sales Executive,Sales,10
+31,Sales Representative,Sales,7
+37,Healthcare Representative,Research & Development,4
+52,Manager,Research & Development,3
+50,Sales Executive,Sales,6
+45,Research Scientist,Research & Development,7
+40,Research Director,Research & Development,4
+49,Manufacturing Director,Research & Development,2
+37,Research Director,Research & Development,4
+55,Manager,Sales,2
+53,Manager,Sales,2
+22,Laboratory Technician,Research & Development,6
+36,Sales Representative,Sales,3
+21,Laboratory Technician,Research & Development,2
+28,Human Resources,Human Resources,2
+56,Healthcare Representative,Research & Development,2
+19,Research Scientist,Research & Development,3
+49,Research Director,Research & Development,4
+26,Laboratory Technician,Research & Development,13
+48,Laboratory Technician,Research & Development,2
+23,Laboratory Technician,Research & Development,6
+24,Research Scientist,Research & Development,4
+41,Sales Executive,Sales,12
+43,Healthcare Representative,Research & Development,4
+26,Human Resources,Human Resources,3
+43,Manager,Sales,2
+47,Research Scientist,Research & Development,2
+35,Healthcare Representative,Research & Development,10
+44,Human Resources,Human Resources,4
+37,Manufacturing Director,Research & Development,10
+25,Laboratory Technician,Research & Development,5
+35,Manufacturing Director,Research & Development,10
+22,Manufacturing Director,Research & Development,2
+29,Research Scientist,Research & Development,19
+44,Manager,Research & Development,2
+45,Manager,Research & Development,3
+38,Sales Executive,Sales,14
+42,Human Resources,Human Resources,2
+33,Laboratory Technician,Research & Development,8
+28,Research Scientist,Research & Development,15
+29,Human Resources,Human Resources,3
+47,Sales Representative,Sales,2
+36,Laboratory Technician,Research & Development,17
+29,Research Director,Research & Development,2
+39,Healthcare Representative,Research & Development,6
+37,Human Resources,Human Resources,2
+32,Research Scientist,Research & Development,17
+48,Sales Executive,Sales,4
+33,Human Resources,Human Resources,2
+47,Sales Executive,Sales,8
+42,Sales Executive,Sales,7
+30,Sales Representative,Sales,4
+48,Manager,Research & Development,4
+40,Manufacturing Director,Research & Development,4
+45,Healthcare Representative,Research & Development,5
+50,Manager,Research & Development,4
+51,Sales Executive,Sales,3
+19,Sales Representative,Sales,3
+54,Research Director,Research & Development,4
+42,Healthcare Representative,Research & Development,5
+54,Sales Executive,Sales,2
+29,Manufacturing Director,Research & Development,4
+24,Manufacturing Director,Research & Development,2
+48,Research Director,Research & Development,2
+45,Sales Executive,Sales,9
+56,Sales Executive,Sales,2
+58,Research Scientist,Research & Development,3
+49,Manager,Research & Development,2
+34,Sales Executive,Sales,21
+35,Laboratory Technician,Research & Development,19
+50,Research Director,Research & Development,9
+41,Research Scientist,Research & Development,7
+34,Research Director,Research & Development,2
+54,Manager,Research & Development,2
+41,Manufacturing Director,Research & Development,3
+46,Human Resources,Human Resources,2
+38,Research Scientist,Research & Development,11
+39,Research Scientist,Research & Development,3
+31,Research Scientist,Research & Development,12
+58,Research Director,Research & Development,3
+49,Healthcare Representative,Research & Development,5
+57,Healthcare Representative,Research & Development,2
+44,Laboratory Technician,Research & Development,6
+44,Research Director,Research & Development,2
+38,Manufacturing Director,Research & Development,8
+52,Manager,Sales,3
+55,Research Director,Research & Development,3
+46,Research Director,Research & Development,4
+40,Sales Executive,Sales,15
+32,Sales Representative,Sales,3
+21,Sales Representative,Sales,6
+43,Manufacturing Director,Research & Development,2
+28,Laboratory Technician,Research & Development,14
+58,Healthcare Representative,Research & Development,3
+51,Manufacturing Director,Research & Development,4
+28,Sales Representative,Sales,3
+55,Research Scientist,Research & Development,2
+37,Sales Representative,Sales,2
+45,Manufacturing Director,Research & Development,4
+35,Sales Representative,Sales,4
+50,Sales Representative,Sales,2
+50,Healthcare Representative,Research & Development,2
+24,Human Resources,Human Resources,2
+32,Laboratory Technician,Research & Development,15
+45,Laboratory Technician,Research & Development,6
+38,Laboratory Technician,Research & Development,7
+34,Human Resources,Human Resources,4
+50,Manager,Sales,2
+44,Healthcare Representative,Research & Development,6
+43,Research Scientist,Research & Development,6
+20,Laboratory Technician,Research & Development,3
+34,Laboratory Technician,Research & Development,9
+18,Research Scientist,Research & Development,2
+33,Research Director,Research & Development,3
+52,Laboratory Technician,Research & Development,3
+53,Manufacturing Director,Research & Development,3
+29,Laboratory Technician,Research & Development,13
+41,Healthcare Representative,Research & Development,2
+37,Laboratory Technician,Research & Development,5
+52,Research Scientist,Research & Development,3
+30,Manufacturing Director,Research & Development,6
+27,Research Scientist,Research & Development,18
+25,Research Scientist,Research & Development,3
+59,Manufacturing Director,Research & Development,2
+42,Manager,Research & Development,6
+33,Healthcare Representative,Research & Development,7
+34,Sales Representative,Sales,5
+19,Laboratory Technician,Research & Development,2
+32,Manufacturing Director,Research & Development,4
+51,Research Director,Research & Development,2
+35,Human Resources,Human Resources,2
+36,Manufacturing Director,Research & Development,11
+54,Manufacturing Director,Research & Development,4
+55,Manager,Research & Development,6
+39,Human Resources,Human Resources,2
+32,Sales Executive,Sales,19
+29,Sales Representative,Sales,6
+53,Manager,Research & Development,2
+38,Sales Representative,Sales,3
+56,Laboratory Technician,Research & Development,2
+44,Research Scientist,Research & Development,8
+23,Sales Representative,Sales,3
+39,Sales Executive,Sales,9
+46,Sales Executive,Sales,9
+56,Research Scientist,Research & Development,4
+56,Manufacturing Director,Research & Development,2
+35,Sales Executive,Sales,20
+54,Research Scientist,Research & Development,3
+49,Sales Executive,Sales,4
+25,Sales Executive,Sales,10
+33,Research Scientist,Research & Development,14
+38,Human Resources,Human Resources,4
+26,Research Scientist,Research & Development,10
+28,Manufacturing Director,Research & Development,3
+39,Manager,Research & Development,5
+39,Laboratory Technician,Research & Development,7
+40,Manager,Sales,2
+42,Laboratory Technician,Research & Development,9
+30,Sales Executive,Sales,16
+40,Laboratory Technician,Research & Development,11
+45,Human Resources,Human Resources,2
+51,Research Scientist,Research & Development,2
+55,Sales Executive,Sales,3
+36,Healthcare Representative,Research & Development,8
+30,Human Resources,Human Resources,3
+51,Healthcare Representative,Research & Development,2
+23,Research Scientist,Research & Development,5
+53,Research Director,Research & Development,4
+26,Sales Executive,Sales,9
+20,Research Scientist,Research & Development,3
+28,Healthcare Representative,Research & Development,2
+36,Sales Executive,Sales,19
+21,Research Scientist,Research & Development,5
+48,Research Scientist,Research & Development,2
+25,Sales Representative,Sales,4
+31,Healthcare Representative,Research & Development,5
+30,Laboratory Technician,Research & Development,13
+30,Research Scientist,Research & Development,14
+34,Healthcare Representative,Research & Development,7
+52,Manufacturing Director,Research & Development,3
+41,Manager,Human Resources,2
+41,Laboratory Technician,Research & Development,5
+18,Laboratory Technician,Research & Development,3
+25,Manufacturing Director,Research & Development,2
