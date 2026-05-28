@@ -1,0 +1,9 @@
+"employee_id","employee_number","age","department","job_role","monthly_income"
+EMP0000015,15,28,Research & Development,Laboratory Technician,3399
+EMP0001111,1111,35,Research & Development,Laboratory Technician,3432
+EMP0000733,733,30,Research & Development,Laboratory Technician,3597
+EMP0000690,690,20,Research & Development,Laboratory Technician,4257
+EMP0000637,637,35,Research & Development,Research Scientist,4290
+EMP0000998,998,27,Research & Development,Research Scientist,4455
+EMP0000721,721,30,Research & Development,Research Scientist,4554
+EMP0000127,127,58,Research & Development,Healthcare Representative,4851
