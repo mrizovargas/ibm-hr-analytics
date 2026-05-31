@@ -1,0 +1,27 @@
+department,job_role,total_employees,total_payroll,average_salary
+IT,IT Manager,129,13529128.0,104876.96
+Operations,Operations Manager,101,9354961.0,92623.38
+Sales,Sales Executive,326,8628972.0,26469.24
+Operations,Logistics,108,9093600.0,84200.0
+Research & Development,Research Scientist,292,7712265.0,26411.87
+Human Resources,Human Resources,52,1300596.0,25011.46
+Operations,Operations Director,110,9993129.0,90846.63
+Research & Development,Laboratory Technician,259,6808692.0,26288.39
+Research & Development,Healthcare Representative,131,3692931.0,28190.31
+Finance,CFO,77,7990278.0,103769.84
+IT,DevOps Engineer,127,13208773.0,104006.09
+Research & Development,Manager,54,1446357.0,26784.39
+Operations,Operations Analyst,100,10118595.0,101185.95
+Research & Development,Research Director,80,2118468.0,26480.85
+Human Resources,Manager,11,261855.0,23805.0
+Finance,Accountant,67,6463575.0,96471.27
+Sales,Sales Representative,83,2222286.0,26774.53
+IT,System Admin,132,12896914.0,97703.89
+Research & Development,Manufacturing Director,145,3808959.0,26268.68
+Finance,Finance Manager,78,7940067.0,101795.73
+IT,Software Developer,131,12279883.0,93739.56
+Finance,Tax Specialist,64,6219538.0,97180.28
+Operations,Supply Chain,92,8015944.0,87129.83
+Sales,Manager,37,927201.0,25059.49
+Finance,Financial Analyst,66,6088616.0,92251.76
+IT,Data Engineer,148,15168740.0,102491.49
