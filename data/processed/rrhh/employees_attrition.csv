@@ -1,0 +1,144 @@
+employee_number,department_name,job_role_name,monthly_income,job_satisfaction,attrition
+20,Research & Development,Manufacturing Director,9980,1,No
+38,Sales,Manager,18947,1,No
+52,Sales,Sales Executive,5376,1,No
+68,Sales,Sales Executive,5454,1,No
+70,Research & Development,Healthcare Representative,9884,1,No
+74,Sales,Sales Executive,9069,1,No
+81,Sales,Sales Executive,7637,1,No
+86,Research & Development,Research Scientist,9724,1,No
+101,Research & Development,Research Director,13245,1,No
+124,Research & Development,Healthcare Representative,10673,1,No
+145,Research & Development,Healthcare Representative,7484,1,No
+153,Research & Development,Manager,11631,1,No
+170,Research & Development,Manufacturing Director,6567,1,No
+199,Research & Development,Manager,17181,1,No
+240,Sales,Sales Executive,5006,1,No
+244,Sales,Sales Executive,10453,1,No
+282,Research & Development,Healthcare Representative,6673,1,Yes
+288,Research & Development,Healthcare Representative,9396,1,No
+299,Sales,Sales Executive,6696,1,Yes
+303,Sales,Sales Executive,5940,1,No
+339,Research & Development,Manufacturing Director,5957,1,No
+347,Research & Development,Research Scientist,6545,1,No
+374,Research & Development,Manager,19045,1,No
+382,Sales,Sales Executive,5605,1,No
+396,Research & Development,Research Director,18665,1,No
+412,Research & Development,Healthcare Representative,5661,1,No
+424,Human Resources,Human Resources,6410,1,No
+425,Research & Development,Laboratory Technician,5210,1,No
+429,Research & Development,Manager,17068,1,No
+451,Research & Development,Healthcare Representative,9985,1,No
+474,Research & Development,Research Scientist,5974,1,No
+522,Research & Development,Research Director,19406,1,No
+532,Sales,Sales Executive,13212,1,No
+534,Sales,Sales Executive,8392,1,No
+549,Research & Development,Manager,19566,1,No
+567,Sales,Sales Executive,8412,1,No
+573,Sales,Sales Executive,10266,1,No
+590,Human Resources,Human Resources,9950,1,Yes
+605,Research & Development,Manufacturing Director,7406,1,No
+615,Sales,Sales Executive,10932,1,No
+625,Sales,Manager,16595,1,No
+630,Research & Development,Research Scientist,5577,1,No
+664,Research & Development,Manager,15402,1,No
+682,Sales,Sales Executive,8381,1,No
+725,Research & Development,Manufacturing Director,7412,1,No
+729,Sales,Sales Executive,10475,1,No
+732,Sales,Sales Executive,5405,1,No
+733,Research & Development,Manufacturing Director,8793,1,No
+742,Research & Development,Research Director,11713,1,No
+764,Research & Development,Healthcare Representative,6811,1,No
+771,Research & Development,Healthcare Representative,5093,1,No
+775,Research & Development,Manufacturing Director,5121,1,No
+776,Sales,Manager,16856,1,No
+787,Research & Development,Manager,19859,1,Yes
+789,Sales,Sales Executive,7587,1,No
+796,Sales,Sales Executive,5326,1,Yes
+799,Research & Development,Manufacturing Director,5485,1,No
+803,Research & Development,Manufacturing Director,5980,1,No
+808,Sales,Sales Executive,6500,1,No
+819,Sales,Sales Executive,5324,1,Yes
+837,Research & Development,Healthcare Representative,6288,1,No
+843,Research & Development,Research Director,17159,1,No
+864,Sales,Sales Executive,10761,1,No
+905,Research & Development,Manager,17924,1,No
+950,Research & Development,Research Director,13582,1,No
+966,Research & Development,Manufacturing Director,6725,1,No
+1015,Research & Development,Research Director,11416,1,No
+1043,Research & Development,Manufacturing Director,10880,1,No
+1066,Sales,Sales Executive,8396,1,No
+1074,Research & Development,Manager,16756,1,No
+1082,Research & Development,Healthcare Representative,8722,1,Yes
+1084,Research & Development,Manufacturing Director,9957,1,No
+1098,Human Resources,Human Resources,10482,1,Yes
+1100,Sales,Sales Executive,9582,1,Yes
+1109,Research & Development,Manager,17665,1,No
+1126,Research & Development,Manufacturing Director,10820,1,No
+1157,Sales,Sales Executive,8224,1,Yes
+1165,Sales,Sales Executive,7336,1,Yes
+1167,Sales,Sales Executive,13758,1,Yes
+1171,Sales,Sales Executive,5155,1,No
+1184,Research & Development,Healthcare Representative,5343,1,No
+1191,Research & Development,Manager,19943,1,No
+1204,Sales,Manager,17048,1,No
+1215,Research & Development,Manager,17856,1,No
+1218,Sales,Sales Executive,8966,1,No
+1231,Human Resources,Human Resources,6272,1,No
+1237,Research & Development,Manufacturing Director,10252,1,No
+1242,Research & Development,Research Director,13191,1,No
+1251,Research & Development,Healthcare Representative,6833,1,No
+1252,Research & Development,Healthcare Representative,6812,1,No
+1288,Research & Development,Manager,19190,1,No
+1317,Research & Development,Research Director,16880,1,No
+1321,Research & Development,Manager,11916,1,No
+1355,Sales,Sales Executive,6893,1,No
+1356,Sales,Sales Executive,6125,1,No
+1360,Research & Development,Manufacturing Director,10008,1,Yes
+1408,Human Resources,Manager,16799,1,No
+1419,Human Resources,Human Resources,7988,1,No
+1423,Research & Development,Research Director,19701,1,No
+1436,Sales,Sales Executive,5647,1,No
+1460,Research & Development,Healthcare Representative,10851,1,No
+1466,Sales,Sales Executive,5486,1,No
+1469,Sales,Sales Executive,8463,1,No
+1485,Research & Development,Research Director,17007,1,No
+1523,Research & Development,Research Director,16328,1,No
+1544,Research & Development,Healthcare Representative,9715,1,No
+1548,Sales,Sales Executive,5473,1,No
+1560,Sales,Sales Executive,6392,1,No
+1562,Sales,Sales Executive,9714,1,Yes
+1594,Research & Development,Laboratory Technician,5562,1,No
+1602,Sales,Manager,17567,1,No
+1611,Research & Development,Laboratory Technician,5769,1,No
+1613,Sales,Sales Executive,5332,1,No
+1618,Research & Development,Manufacturing Director,5377,1,No
+1621,Research & Development,Research Scientist,5208,1,No
+1639,Sales,Sales Executive,10306,1,Yes
+1651,Research & Development,Healthcare Representative,8008,1,No
+1656,Research & Development,Research Director,13269,1,No
+1664,Research & Development,Healthcare Representative,6842,1,No
+1724,Research & Development,Manufacturing Director,6516,1,No
+1733,Sales,Sales Executive,6134,1,Yes
+1754,Sales,Sales Executive,7140,1,No
+1758,Sales,Sales Executive,8564,1,Yes
+1770,Research & Development,Research Director,19038,1,No
+1790,Research & Development,Healthcare Representative,8321,1,No
+1803,Research & Development,Healthcare Representative,5538,1,No
+1807,Research & Development,Laboratory Technician,5346,1,Yes
+1833,Sales,Sales Executive,9637,1,No
+1863,Sales,Sales Executive,13225,1,No
+1892,Research & Development,Manager,16823,1,No
+1903,Research & Development,Healthcare Representative,5033,1,No
+1911,Research & Development,Research Director,13348,1,No
+1935,Sales,Sales Executive,5380,1,No
+1936,Research & Development,Manufacturing Director,5151,1,No
+1945,Sales,Sales Executive,5561,1,No
+1954,Research & Development,Healthcare Representative,5373,1,No
+1956,Research & Development,Research Scientist,5003,1,No
+1968,Sales,Sales Executive,10448,1,Yes
+1975,Sales,Sales Executive,13341,1,No
+1998,Research & Development,Research Scientist,5410,1,No
+2055,Sales,Sales Executive,10854,1,Yes
+2057,Research & Development,Manufacturing Director,9936,1,No
+2062,Research & Development,Healthcare Representative,9991,1,No

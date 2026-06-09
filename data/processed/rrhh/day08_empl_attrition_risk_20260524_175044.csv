@@ -1,0 +1,812 @@
+employee_id,age,attrition,business_travel,country,city,daily_rate,department,distance_from_home,education,education_field,employee_count,employee_number,environment_satisfaction,gender,hire_date,hourly_rate,job_involvement,job_level,job_role,job_satisfaction,marital_status,monthly_income,monthly_rate,num_companies_worked,over_18,over_time,percent_salary_hike,performance_rating,relationship_satisfaction,standard_hours,stock_option_level,total_working_years,training_times_last_year,work_life_balance,years_at_company,years_in_current_role,years_since_last_promotion,years_with_curr_manager
+EMP0000002,49,No,Travel_Frequently,Netherlands,Eindhoven,302,Research & Development,8,1,Life Sciences,1,2,3,Male,05/11/2016,61,2,2,Research Scientist,2,Married,9207,8370,1,Y,No,23,4,4,80,1,10,3,3,10,7,1,7
+EMP0000005,27,No,Travel_Rarely,United Kingdom,Edinburgh,641,Research & Development,2,1,Medical,1,5,1,Male,09/03/2024,40,3,1,Laboratory Technician,2,Married,19503,17730,9,Y,No,12,3,4,80,1,6,3,3,2,2,2,2
+EMP0000007,59,No,Travel_Rarely,United Kingdom,Edinburgh,1436,Research & Development,3,3,Medical,1,7,3,Female,18/02/2025,81,4,1,Laboratory Technician,1,Married,43692,39720,4,Y,Yes,20,4,1,80,3,12,3,2,1,0,0,0
+EMP0000011,35,No,Travel_Rarely,United Kingdom,Edinburgh,877,Research & Development,16,3,Medical,1,11,1,Male,26/05/2021,84,4,1,Laboratory Technician,2,Married,26697,24270,0,Y,No,13,3,3,80,1,6,5,3,5,4,0,3
+EMP0000016,29,No,Travel_Rarely,United Kingdom,London,1506,Research & Development,21,4,Life Sciences,1,16,2,Female,10/05/2016,51,4,5,Manufacturing Director,1,Divorced,45837,41670,1,Y,No,11,3,3,80,1,10,1,3,10,9,8,8
+EMP0000017,32,No,Travel_Rarely,Germany,Berlin,362,Research & Development,5,2,Life Sciences,1,17,1,Male,27/08/2020,80,4,1,Research Scientist,2,Divorced,11022,10020,0,Y,Yes,12,3,4,80,2,7,5,2,6,2,0,5
+EMP0000022,36,Yes,Travel_Rarely,United Kingdom,Edinburgh,1321,Sales,9,4,Life Sciences,1,22,3,Male,04/10/2021,82,2,1,Sales Representative,1,Single,40194,36540,7,Y,No,23,4,2,80,0,10,4,3,5,3,0,3
+EMP0000023,34,No,Travel_Rarely,Germany,Hamburg,454,Research & Development,7,4,Life Sciences,1,23,1,Female,21/05/2014,53,3,5,Research Director,2,Single,13827,12570,0,Y,No,11,3,3,80,0,13,4,3,12,6,2,11
+EMP0000025,34,Yes,Travel_Rarely,Germany,Munich,758,Research & Development,6,1,Medical,1,25,2,Male,11/08/2022,83,3,1,Research Scientist,1,Single,23067,20970,2,Y,No,11,3,3,80,0,8,2,3,4,2,1,3
+EMP0000027,32,Yes,Travel_Frequently,United Kingdom,Edinburgh,1220,Research & Development,16,1,Life Sciences,1,27,2,Female,16/10/2016,72,1,1,Research Scientist,1,Single,37125,33750,1,Y,Yes,22,4,2,80,0,10,5,3,10,2,6,7
+EMP0000028,42,No,Travel_Rarely,France,Marseille,749,Sales,8,4,Marketing,1,28,3,Male,24/08/2017,48,3,2,Sales Executive,2,Married,22803,20730,0,Y,No,11,3,4,80,1,10,2,3,9,7,4,2
+EMP0000030,46,No,Travel_Rarely,United Kingdom,Edinburgh,764,Sales,2,4,Marketing,1,30,2,Female,22/10/2024,83,3,5,Manager,1,Single,23265,21150,3,Y,No,12,3,4,80,0,22,2,2,2,2,2,1
+EMP0000039,36,No,Travel_Rarely,Spain,Bilbao,924,Research & Development,5,4,Life Sciences,1,39,2,Female,12/12/2025,82,2,1,Research Scientist,1,Married,28116,25560,9,Y,Yes,14,3,4,80,1,6,3,4,1,1,0,0
+EMP0000040,33,No,Travel_Frequently,Germany,Berlin,1237,Sales,1,3,Life Sciences,1,40,3,Female,19/05/2021,42,4,2,Sales Executive,1,Married,37653,34230,2,Y,No,19,3,1,80,2,10,3,3,5,3,1,3
+EMP0000042,27,No,Travel_Rarely,France,Toulouse,1345,Research & Development,2,4,Life Sciences,1,42,4,Female,13/09/2025,33,3,1,Laboratory Technician,1,Divorced,40920,37200,1,Y,No,13,3,4,80,1,1,6,3,1,0,0,0
+EMP0000048,37,No,Travel_Rarely,France,Marseille,442,Research & Development,19,2,Life Sciences,1,48,2,Male,21/03/2025,73,3,1,Research Scientist,2,Married,13464,12240,4,Y,No,21,4,1,80,0,8,1,3,1,0,0,0
+EMP0000053,44,No,Travel_Rarely,Netherlands,Amsterdam,1614,Sales,1,5,Marketing,1,53,2,Female,14/04/2022,75,3,2,Sales Executive,1,Divorced,49104,44640,5,Y,Yes,21,4,3,80,1,9,2,2,4,3,1,3
+EMP0000054,35,No,Non-Travel,Italy,Rome,1190,Research & Development,11,2,Medical,1,54,3,Male,02/09/2022,79,2,3,Healthcare Representative,1,Married,36201,32910,2,Y,Yes,13,3,3,80,1,10,3,3,4,0,2,3
+EMP0000057,35,No,Travel_Frequently,United Kingdom,Manchester,925,Sales,18,5,Life Sciences,1,57,2,Male,04/09/2017,71,3,3,Sales Executive,1,Married,28149,25590,1,Y,No,22,4,4,80,1,9,3,2,9,8,1,8
+EMP0000058,35,No,Travel_Rarely,United Kingdom,Manchester,1238,Research & Development,23,4,Medical,1,58,3,Female,01/08/2024,30,3,1,Laboratory Technician,1,Married,37686,34260,3,Y,Yes,15,3,3,80,1,4,3,3,2,2,2,2
+EMP0000064,59,No,Travel_Rarely,Germany,Cologne,1556,Sales,25,3,Life Sciences,1,64,1,Female,14/04/2005,99,3,3,Sales Executive,1,Single,47355,43050,7,Y,No,11,3,4,80,0,28,3,2,21,16,7,9
+EMP0000067,36,No,Travel_Frequently,United Kingdom,Birmingham,1296,Research & Development,11,3,Life Sciences,1,67,2,Male,02/10/2020,95,2,5,Manufacturing Director,2,Single,39435,35850,1,Y,No,13,3,3,80,0,6,3,3,6,5,0,3
+EMP0000068,45,No,Travel_Rarely,Italy,Venice,1452,Research & Development,7,3,Life Sciences,1,68,2,Male,01/03/2025,59,3,3,Research Scientist,1,Divorced,44187,40170,2,Y,No,17,3,3,80,1,25,2,3,1,0,0,0
+EMP0000069,35,No,Travel_Frequently,United Kingdom,Edinburgh,720,Research & Development,1,3,Medical,1,69,2,Male,18/12/2023,79,3,1,Research Scientist,1,Married,21912,19920,4,Y,No,13,3,4,80,1,5,2,2,3,2,1,2
+EMP0000072,29,No,Travel_Rarely,United Kingdom,Birmingham,1440,Research & Development,2,3,Life Sciences,1,72,3,Male,15/04/2021,76,3,1,Research Scientist,2,Married,43824,39840,0,Y,No,23,4,4,80,1,6,3,3,5,4,0,4
+EMP0000073,31,No,Travel_Rarely,United Kingdom,Manchester,1173,Research & Development,1,4,Medical,1,73,3,Male,06/06/2025,87,3,1,Research Scientist,2,Single,35706,32460,1,Y,No,17,3,2,80,0,1,4,3,1,1,1,0
+EMP0000074,32,No,Travel_Rarely,Italy,Milan,594,Research & Development,1,3,Life Sciences,1,74,2,Male,03/04/2016,66,3,2,Research Scientist,2,Married,18084,16440,1,Y,No,17,3,2,80,2,10,3,3,10,4,0,9
+EMP0000077,35,No,Travel_Rarely,Spain,Barcelona,841,Sales,1,4,Marketing,1,77,3,Male,08/04/2011,32,2,2,Sales Executive,1,Single,25608,23280,0,Y,No,14,3,2,80,0,16,2,3,15,13,2,8
+EMP0000078,45,No,Travel_Rarely,United Kingdom,Manchester,209,Research & Development,6,4,Other,1,78,4,Male,26/06/2026,52,3,5,Research Director,1,Married,6369,5790,4,Y,Yes,14,3,2,80,0,17,3,4,0,0,0,0
+EMP0000080,46,No,Travel_Rarely,United Kingdom,London,1025,Human Resources,5,2,Medical,1,80,2,Male,25/06/2022,80,3,2,Human Resources,2,Divorced,31185,28350,8,Y,Yes,22,4,4,80,1,16,2,3,4,2,0,2
+EMP0000085,34,No,Travel_Rarely,Germany,Cologne,1250,Research & Development,1,2,Medical,1,85,1,Male,23/06/2021,94,3,5,Manufacturing Director,2,Married,38049,34590,1,Y,No,15,3,3,80,0,5,2,3,5,2,1,3
+EMP0000087,23,No,Travel_Rarely,Spain,Valencia,586,Sales,2,1,Technical Degree,1,87,3,Male,03/06/2026,62,3,1,Sales Representative,1,Divorced,17853,16230,3,Y,No,13,3,3,80,1,3,3,3,0,0,0,0
+EMP0000091,40,No,Travel_Frequently,United Kingdom,Manchester,574,Research & Development,1,4,Life Sciences,1,91,3,Male,14/06/2004,78,2,4,Healthcare Representative,2,Married,17490,15900,1,Y,No,22,4,4,80,1,22,3,2,22,3,11,11
+EMP0000093,30,No,Travel_Rarely,Spain,Barcelona,1447,Sales,4,2,Medical,1,93,3,Female,24/06/2015,63,2,2,Sales Executive,2,Divorced,44022,40020,1,Y,Yes,12,3,2,80,3,11,4,2,11,8,2,7
+EMP0000094,46,No,Travel_Frequently,France,Lyon,692,Research & Development,1,3,Medical,1,94,3,Male,21/11/2016,40,2,3,Healthcare Representative,1,Married,21054,19140,2,Y,Yes,13,3,3,80,1,21,5,2,10,9,9,5
+EMP0000100,44,No,Non-Travel,United Kingdom,Edinburgh,530,Research & Development,23,3,Medical,1,100,2,Male,23/08/2023,67,3,2,Laboratory Technician,2,Married,16137,14670,4,Y,No,12,3,3,80,1,17,3,4,3,2,1,2
+EMP0000101,37,Yes,Travel_Rarely,United Kingdom,London,875,Human Resources,6,4,Human Resources,1,101,3,Male,28/10/2023,63,3,1,Human Resources,1,Divorced,26631,24210,4,Y,Yes,22,4,4,80,0,7,3,3,3,2,0,2
+EMP0000102,32,No,Travel_Rarely,France,Lyon,897,Research & Development,1,1,Life Sciences,1,102,4,Male,19/07/2025,71,3,1,Research Scientist,1,Single,27291,24810,1,Y,No,13,3,4,80,0,1,2,3,1,0,0,0
+EMP0000107,50,No,Travel_Frequently,Germany,Hamburg,1209,Research & Development,1,3,Life Sciences,1,107,1,Female,05/08/2018,73,3,5,Research Director,2,Married,36795,33450,3,Y,Yes,19,3,1,80,0,28,1,2,8,3,0,7
+EMP0000111,51,No,Travel_Frequently,Germany,Berlin,1579,Research & Development,1,4,Medical,1,111,1,Female,28/10/2013,30,2,3,Healthcare Representative,1,Single,48048,43680,3,Y,No,20,4,3,80,0,23,1,2,13,12,12,8
+EMP0000115,34,No,Travel_Rarely,France,Marseille,1118,Research & Development,6,4,Life Sciences,1,115,3,Female,02/07/2025,45,2,2,Research Scientist,2,Divorced,34023,30930,6,Y,No,15,3,3,80,1,12,3,3,1,0,0,0
+EMP0000117,34,No,Travel_Rarely,Italy,Turin,1468,Research & Development,5,3,Medical,1,117,3,Female,12/05/2015,45,2,3,Manager,1,Single,44682,40620,2,Y,No,12,3,4,80,0,14,6,3,11,10,5,8
+EMP0000122,33,No,Non-Travel,Italy,Naples,813,Sales,22,2,Marketing,1,122,3,Male,24/10/2019,95,3,2,Sales Executive,2,Married,24750,22500,0,Y,No,13,3,1,80,1,8,2,4,7,7,0,7
+EMP0000123,56,Yes,Travel_Rarely,Germany,Berlin,478,Research & Development,14,4,Life Sciences,1,123,2,Female,12/06/2021,72,3,1,Research Scientist,2,Married,14553,13230,9,Y,Yes,18,3,1,80,3,7,2,3,5,4,4,3
+EMP0000126,26,No,Travel_Rarely,Germany,Munich,912,Research & Development,6,3,Other,1,126,3,Female,22/11/2021,46,2,1,Research Scientist,2,Married,27753,25230,1,Y,No,19,3,3,80,0,5,3,2,5,4,4,3
+EMP0000130,49,No,Travel_Rarely,France,Marseille,509,Research & Development,20,4,Medical,1,130,3,Female,09/06/2011,96,3,5,Manufacturing Director,1,Married,15510,14100,1,Y,No,14,3,3,80,0,16,2,2,15,11,5,11
+EMP0000136,36,No,Travel_Rarely,Germany,Hamburg,234,Research & Development,6,2,Medical,1,136,2,Male,10/04/2023,84,3,5,Manufacturing Director,2,Divorced,7128,6480,6,Y,No,20,4,4,80,2,7,0,3,3,2,0,1
+EMP0000141,32,Yes,Travel_Rarely,Netherlands,Eindhoven,1120,Research & Development,9,3,Medical,1,141,1,Female,08/03/2021,41,3,1,Laboratory Technician,1,Single,34089,30990,7,Y,No,22,4,1,80,0,10,2,4,5,4,0,4
+EMP0000146,30,No,Travel_Rarely,United Kingdom,Manchester,218,Research & Development,5,3,Technical Degree,1,146,4,Female,08/04/2023,84,3,1,Research Scientist,1,Divorced,6633,6030,5,Y,No,14,3,4,80,1,8,3,3,3,2,2,2
+EMP0000148,41,No,Travel_Frequently,France,Marseille,929,Research & Development,10,3,Life Sciences,1,148,4,Male,03/07/2019,91,2,4,Manager,1,Divorced,28281,25710,4,Y,No,13,3,2,80,1,21,2,2,7,6,7,7
+EMP0000149,41,No,Travel_Rarely,United Kingdom,Manchester,1012,Research & Development,9,4,Life Sciences,1,149,3,Male,11/05/2021,94,3,1,Laboratory Technician,1,Married,30789,27990,2,Y,No,21,4,4,80,1,7,2,3,5,0,1,4
+EMP0000150,19,No,Travel_Rarely,Germany,Berlin,1281,Research & Development,3,1,Medical,1,150,2,Female,17/11/2025,79,3,1,Laboratory Technician,2,Single,38973,35430,1,Y,No,14,3,4,80,0,1,3,3,1,0,0,0
+EMP0000151,40,No,Travel_Frequently,Netherlands,Amsterdam,1513,Research & Development,26,3,Medical,1,151,2,Female,02/07/2006,54,3,2,Research Scientist,2,Divorced,46035,41850,1,Y,No,11,3,1,80,1,20,2,3,20,7,2,13
+EMP0000152,35,No,Travel_Rarely,United Kingdom,Manchester,718,Sales,1,5,Marketing,1,152,3,Male,14/09/2016,94,3,3,Sales Executive,2,Married,21846,19860,1,Y,No,13,3,1,80,2,10,3,3,10,8,0,6
+EMP0000154,45,No,Travel_Rarely,France,Nice,210,Research & Development,9,3,Life Sciences,1,154,2,Male,13/09/2009,60,3,2,Laboratory Technician,2,Divorced,6402,5820,8,Y,No,18,3,3,80,1,20,2,1,17,9,0,15
+EMP0000158,58,No,Travel_Rarely,Spain,Bilbao,1242,Research & Development,9,3,Medical,1,158,2,Female,18/02/2025,75,2,1,Research Scientist,2,Married,37785,34350,4,Y,Yes,20,4,2,80,1,9,3,2,1,0,0,0
+EMP0000162,27,No,Non-Travel,France,Paris,749,Research & Development,9,3,Medical,1,162,4,Male,03/08/2024,57,3,1,Research Scientist,2,Divorced,22803,20730,6,Y,No,18,3,4,80,1,6,1,1,2,2,2,2
+EMP0000166,50,No,Travel_Rarely,Italy,Rome,1575,Research & Development,11,3,Life Sciences,1,166,3,Female,16/12/2021,53,3,5,Manager,2,Single,47916,43560,3,Y,No,15,3,2,80,0,21,5,3,5,4,4,4
+EMP0000171,27,No,Travel_Rarely,Spain,Valencia,1255,Research & Development,17,3,Technical Degree,1,171,3,Male,03/06/2021,51,3,1,Research Scientist,2,Married,38181,34710,0,Y,Yes,16,3,4,80,1,6,3,2,5,2,1,1
+EMP0000172,19,Yes,Travel_Frequently,United Kingdom,London,653,Sales,1,1,Technical Degree,1,172,3,Female,05/09/2026,100,1,1,Sales Representative,1,Single,19866,18060,0,Y,No,21,4,1,80,0,1,5,4,0,0,0,0
+EMP0000173,36,No,Travel_Frequently,France,Lyon,1605,Research & Development,3,2,Medical,1,173,4,Male,01/07/2018,30,3,1,Laboratory Technician,2,Single,48840,44400,4,Y,No,12,3,3,80,0,13,3,2,8,7,7,2
+EMP0000174,30,No,Non-Travel,United Kingdom,Birmingham,120,Research & Development,9,3,Medical,1,174,3,Male,16/11/2014,66,3,2,Laboratory Technician,1,Divorced,3663,3330,1,Y,No,11,3,3,80,2,12,4,3,12,9,6,10
+EMP0000175,45,No,Travel_Rarely,France,Toulouse,1375,Sales,4,2,Life Sciences,1,175,3,Female,03/07/2021,30,3,2,Sales Executive,1,Divorced,41844,38040,4,Y,Yes,11,3,1,80,1,9,3,4,5,4,0,3
+EMP0000176,56,No,Travel_Rarely,United Kingdom,London,773,Research & Development,8,3,Life Sciences,1,176,3,Female,14/09/2024,67,3,1,Research Scientist,1,Divorced,23529,21390,4,Y,Yes,18,3,3,80,1,19,3,3,2,2,2,2
+EMP0000179,46,No,Travel_Rarely,Netherlands,Utrecht,570,Sales,1,2,Marketing,1,179,2,Female,13/02/2002,92,3,3,Sales Executive,1,Divorced,17358,15780,1,Y,No,25,4,3,80,3,24,2,3,24,13,15,7
+EMP0000182,34,No,Travel_Rarely,United Kingdom,Leeds,682,Research & Development,27,2,Medical,1,182,4,Female,02/03/2023,95,3,1,Research Scientist,2,Single,20757,18870,2,Y,No,15,3,4,80,0,9,3,3,3,2,1,2
+EMP0000183,41,Yes,Travel_Rarely,Netherlands,Amsterdam,1471,Sales,20,2,Marketing,1,183,2,Female,17/01/2022,70,3,1,Sales Representative,2,Single,44748,40680,1,Y,Yes,22,4,4,80,0,4,5,2,4,3,0,2
+EMP0000185,53,No,Travel_Rarely,Germany,Cologne,1175,Research & Development,13,2,Medical,1,185,4,Female,02/11/2022,57,4,5,Manufacturing Director,1,Divorced,35772,32520,1,Y,No,11,3,3,80,2,5,3,3,4,2,1,3
+EMP0000186,33,No,Travel_Rarely,France,Marseille,1009,Research & Development,14,3,Medical,1,186,4,Female,21/08/2018,72,3,1,Research Scientist,2,Married,30723,27930,1,Y,No,13,3,4,80,1,8,5,3,8,7,1,6
+EMP0000188,55,No,Travel_Rarely,France,Lyon,750,Research & Development,14,4,Medical,1,188,3,Male,19/01/2002,61,4,5,Research Director,2,Single,22836,20760,8,Y,No,11,3,4,80,0,36,3,3,24,15,2,15
+EMP0000190,51,No,Travel_Rarely,United Kingdom,London,339,Research & Development,3,3,Medical,1,190,4,Female,08/11/2019,98,3,4,Healthcare Representative,2,Single,10329,9390,3,Y,No,18,3,3,80,0,21,6,3,7,7,1,0
+EMP0000192,27,No,Travel_Rarely,Italy,Rome,969,Research & Development,9,3,Medical,1,192,4,Female,25/06/2019,99,3,1,Research Scientist,2,Single,29502,26820,1,Y,No,16,3,4,80,0,7,2,2,7,7,0,3
+EMP0000196,37,No,Travel_Rarely,Germany,Munich,314,Research & Development,21,3,Life Sciences,1,196,2,Male,22/09/2018,65,4,1,Research Scientist,1,Married,9570,8700,1,Y,Yes,12,3,1,80,1,8,3,2,8,7,1,7
+EMP0000197,35,No,Travel_Frequently,Spain,Barcelona,149,Research & Development,2,3,Medical,1,197,2,Female,25/01/2020,37,3,2,Laboratory Technician,2,Single,4554,4140,5,Y,No,11,3,4,80,0,10,5,3,6,2,1,2
+EMP0000201,27,No,Travel_Frequently,France,Paris,512,Research & Development,1,1,Technical Degree,1,201,3,Male,14/04/2024,60,2,5,Manufacturing Director,1,Married,15576,14160,5,Y,No,19,3,3,80,1,6,1,3,2,2,2,0
+EMP0000205,38,Yes,Travel_Rarely,France,Nice,1280,Research & Development,29,1,Medical,1,205,2,Male,28/01/2025,70,3,2,Healthcare Representative,1,Married,38940,35400,7,Y,Yes,19,3,2,80,0,17,2,3,1,0,0,0
+EMP0000207,22,No,Travel_Rarely,United Kingdom,London,1232,Research & Development,5,3,Life Sciences,1,207,4,Male,16/11/2022,60,4,1,Research Scientist,2,Divorced,37488,34080,1,Y,Yes,16,3,1,80,1,4,2,2,4,2,2,2
+EMP0000210,46,No,Travel_Rarely,United Kingdom,Birmingham,698,Research & Development,1,4,Medical,1,210,4,Male,28/10/2022,97,3,3,Healthcare Representative,1,Divorced,21252,19320,7,Y,No,16,3,3,80,1,17,3,3,4,2,0,3
+EMP0000214,51,No,Travel_Rarely,United Kingdom,Leeds,1593,Research & Development,8,4,Life Sciences,1,214,2,Male,25/07/2016,81,2,5,Research Director,2,Married,48477,44070,5,Y,No,16,3,4,80,2,16,5,1,10,9,4,7
+EMP0000215,30,Yes,Travel_Rarely,Spain,Valencia,1090,Research & Development,3,3,Technical Degree,1,215,4,Female,17/10/2021,88,3,1,Research Scientist,1,Single,33165,30150,5,Y,Yes,11,3,3,80,0,8,5,3,5,2,0,4
+EMP0000217,30,Yes,Travel_Frequently,Germany,Cologne,362,Sales,26,4,Marketing,1,217,3,Female,04/05/2020,52,2,2,Sales Executive,1,Single,11022,10020,5,Y,No,15,3,3,80,0,9,5,2,6,3,0,1
+EMP0000220,54,No,Travel_Rarely,Italy,Venice,1244,Sales,3,3,Marketing,1,220,4,Female,02/09/2020,52,3,2,Sales Executive,1,Married,37851,34410,2,Y,No,14,3,4,80,1,16,4,3,6,2,0,5
+EMP0000221,36,No,Travel_Rarely,France,Marseille,1514,Research & Development,5,2,Life Sciences,1,221,4,Male,25/05/2013,62,3,2,Laboratory Technician,2,Single,46068,41880,8,Y,No,16,3,4,80,0,16,3,4,13,11,3,7
+EMP0000222,33,No,Travel_Rarely,France,Nice,159,Research & Development,4,4,Medical,1,222,3,Female,21/08/2023,47,2,1,Research Scientist,2,Married,4851,4410,6,Y,No,21,4,4,80,0,7,3,3,3,2,1,1
+EMP0000237,33,Yes,Travel_Rarely,Germany,Berlin,504,Research & Development,2,2,Life Sciences,1,237,1,Female,24/12/2017,39,3,1,Laboratory Technician,1,Married,15345,13950,7,Y,No,20,4,1,80,0,13,3,4,9,7,1,7
+EMP0000239,32,No,Travel_Rarely,France,Toulouse,1519,Sales,4,2,Life Sciences,1,239,3,Female,17/11/2022,56,3,1,Sales Representative,2,Married,46233,42030,2,Y,No,11,3,1,80,1,6,5,3,4,3,1,2
+EMP0000243,41,No,Travel_Rarely,Netherlands,Eindhoven,1530,Research & Development,19,2,Life Sciences,1,243,3,Male,13/11/2025,36,3,2,Research Scientist,1,Divorced,46563,42330,2,Y,No,16,3,1,80,2,17,2,2,1,0,0,0
+EMP0000248,34,No,Travel_Rarely,Netherlands,The Hague,509,Research & Development,2,4,Life Sciences,1,248,4,Male,18/03/2015,84,2,5,Manufacturing Director,1,Married,15510,14100,6,Y,No,13,3,2,80,1,13,3,3,11,9,5,9
+EMP0000249,37,No,Travel_Rarely,Netherlands,Eindhoven,1103,Research & Development,1,2,Medical,1,249,3,Female,05/07/2023,83,2,1,Research Scientist,1,Married,33561,30510,2,Y,No,14,3,1,80,1,17,2,2,3,1,0,2
+EMP0000254,42,No,Travel_Rarely,Germany,Hamburg,993,Research & Development,17,2,Life Sciences,1,254,4,Female,06/02/2023,82,4,2,Research Scientist,1,Single,30228,27480,3,Y,Yes,13,3,3,80,0,10,1,3,3,2,0,2
+EMP0000257,42,No,Travel_Rarely,Netherlands,The Hague,291,Research & Development,2,3,Medical,1,257,4,Female,28/10/2017,56,2,1,Laboratory Technician,1,Divorced,8877,8070,0,Y,Yes,11,3,3,80,1,10,4,3,9,6,7,8
+EMP0000260,31,Yes,Travel_Frequently,United Kingdom,Birmingham,333,Research & Development,29,2,Medical,1,260,3,Male,04/12/2021,71,2,1,Laboratory Technician,2,Single,10131,9210,0,Y,No,11,3,2,80,0,6,2,4,5,4,1,4
+EMP0000261,32,No,Travel_Frequently,France,Toulouse,1422,Research & Development,7,3,Life Sciences,1,261,2,Male,27/10/2021,100,4,1,Laboratory Technician,2,Married,43263,39330,1,Y,No,20,4,3,80,0,5,3,1,5,1,0,3
+EMP0000263,32,No,Travel_Rarely,United Kingdom,London,138,Research & Development,2,1,Technical Degree,1,263,4,Male,02/11/2020,84,2,2,Laboratory Technician,1,Single,4224,3840,4,Y,No,13,3,4,80,0,9,5,3,6,2,0,4
+EMP0000264,46,No,Travel_Rarely,France,Paris,529,Sales,2,3,Technical Degree,1,264,3,Female,02/01/2019,75,1,4,Manager,2,Married,16104,14640,3,Y,Yes,12,3,2,80,1,28,2,2,7,7,7,7
+EMP0000266,29,No,Travel_Rarely,Spain,Bilbao,1312,Sales,2,3,Medical,1,266,1,Male,02/07/2026,78,2,2,Sales Executive,2,Married,39930,36300,2,Y,No,19,3,2,80,2,10,2,3,0,0,0,0
+EMP0000268,25,No,Non-Travel,Spain,Valencia,732,Research & Development,5,2,Life Sciences,1,268,2,Male,19/03/2020,85,4,2,Healthcare Representative,1,Divorced,22275,20250,1,Y,No,12,3,4,80,2,6,2,3,6,3,1,5
+EMP0000271,55,No,Travel_Rarely,Italy,Naples,490,Research & Development,1,3,Medical,1,271,4,Male,24/01/1990,81,3,5,Manager,1,Single,14916,13560,0,Y,Yes,14,3,3,80,0,37,2,3,36,10,4,13
+EMP0000272,47,Yes,Non-Travel,Italy,Turin,722,Research & Development,29,4,Life Sciences,1,272,1,Male,24/07/2016,88,3,3,Manager,2,Married,21978,19980,1,Y,Yes,12,3,4,80,1,10,2,2,10,7,9,9
+EMP0000277,35,No,Travel_Rarely,Spain,Barcelona,1426,Research & Development,22,3,Life Sciences,1,277,2,Female,05/08/2019,71,4,3,Manager,2,Divorced,43395,39450,7,Y,No,18,3,2,80,1,10,6,2,7,7,6,2
+EMP0000278,38,No,Travel_Rarely,France,Nice,349,Sales,7,2,Medical,1,278,1,Female,25/01/2018,44,4,2,Sales Executive,1,Divorced,10626,9660,1,Y,Yes,24,4,3,80,1,8,3,3,8,0,7,7
+EMP0000279,26,No,Travel_Frequently,Spain,Seville,1604,Research & Development,1,3,Life Sciences,1,279,3,Female,07/03/2020,84,3,5,Manufacturing Director,2,Divorced,48807,44370,1,Y,No,20,4,1,80,1,6,6,1,6,5,1,4
+EMP0000280,50,No,Travel_Rarely,Spain,Madrid,864,Research & Development,4,1,Life Sciences,1,280,1,Male,14/06/2016,96,3,5,Research Director,2,Divorced,26301,23910,3,Y,No,14,3,1,80,2,28,4,2,10,4,1,6
+EMP0000285,26,No,Travel_Frequently,France,Paris,538,Research & Development,11,2,Medical,1,285,1,Male,27/01/2021,60,3,2,Healthcare Representative,1,Married,16368,14880,1,Y,Yes,13,3,3,80,1,5,3,3,5,3,3,3
+EMP0000289,26,Yes,Travel_Rarely,Germany,Hamburg,1571,Research & Development,16,4,Medical,1,289,1,Male,26/10/2023,45,3,1,Laboratory Technician,2,Divorced,47817,43470,2,Y,Yes,13,3,4,80,1,5,2,3,3,2,0,2
+EMP0000291,49,No,Travel_Frequently,United Kingdom,Birmingham,689,Research & Development,10,4,Life Sciences,1,291,3,Female,09/01/2023,35,3,5,Research Director,1,Single,20988,19080,9,Y,Yes,11,3,4,80,0,22,4,3,3,2,1,2
+EMP0000292,36,No,Travel_Rarely,United Kingdom,London,548,Research & Development,3,3,Technical Degree,1,292,3,Male,08/07/2018,30,3,2,Research Scientist,2,Single,16698,15180,4,Y,No,12,3,4,80,0,10,2,3,8,0,7,7
+EMP0000293,31,No,Travel_Frequently,Italy,Milan,481,Sales,5,3,Marketing,1,293,4,Female,21/06/2024,84,3,1,Sales Representative,2,Divorced,14652,13320,1,Y,No,11,3,3,80,1,2,5,2,2,2,2,2
+EMP0000296,42,No,Travel_Frequently,France,Nice,602,Sales,26,3,Marketing,1,296,3,Female,07/10/2006,77,3,4,Sales Executive,2,Married,18315,16650,5,Y,No,14,3,4,80,1,23,2,4,20,4,4,8
+EMP0000298,35,No,Travel_Rarely,United Kingdom,Manchester,1336,Sales,16,3,Marketing,1,298,3,Male,04/05/2015,96,3,3,Sales Executive,2,Married,40656,36960,0,Y,No,15,3,3,80,2,12,3,2,11,9,6,9
+EMP0000300,51,No,Travel_Rarely,United Kingdom,London,1412,Research & Development,2,3,Medical,1,300,4,Male,17/05/2022,84,1,5,Manufacturing Director,2,Divorced,42966,39060,5,Y,No,18,3,4,80,1,13,3,3,4,1,1,2
+EMP0000301,41,No,Travel_Rarely,United Kingdom,Birmingham,362,Sales,2,4,Life Sciences,1,301,4,Male,01/01/2004,88,3,4,Manager,2,Single,11022,10020,1,Y,No,19,3,2,80,0,22,2,3,22,10,0,4
+EMP0000303,28,No,Travel_Rarely,France,Marseille,1601,Research & Development,16,2,Medical,1,303,2,Male,13/09/2018,68,4,2,Healthcare Representative,1,Single,48708,44280,0,Y,No,19,3,3,80,0,9,2,3,8,3,0,7
+EMP0000306,36,No,Non-Travel,Poland,Poznan,1198,Research & Development,24,4,Life Sciences,1,306,2,Female,17/02/2017,47,3,2,Laboratory Technician,2,Married,36465,33150,7,Y,No,15,3,3,80,1,11,3,3,9,8,0,8
+EMP0000308,38,No,Travel_Rarely,Germany,Munich,921,Research & Development,25,2,Life Sciences,1,308,1,Female,28/04/2016,81,2,5,Research Director,2,Married,28017,25470,3,Y,No,17,3,3,80,1,19,2,3,10,8,0,1
+EMP0000311,31,No,Travel_Rarely,Germany,Berlin,114,Human Resources,2,3,Human Resources,1,311,1,Male,25/01/2024,62,2,2,Human Resources,1,Married,3498,3180,3,Y,No,12,3,4,80,0,9,1,3,2,2,1,0
+EMP0000312,45,No,Travel_Frequently,United Kingdom,Edinburgh,1354,Research & Development,7,3,Life Sciences,1,312,1,Male,28/04/2002,97,3,3,Laboratory Technician,1,Divorced,41217,37470,1,Y,No,18,3,1,80,1,24,2,3,24,9,9,11
+EMP0000314,33,No,Travel_Frequently,Netherlands,Utrecht,599,Research & Development,5,4,Life Sciences,1,314,4,Female,25/05/2016,74,3,3,Manager,2,Married,18249,16590,6,Y,No,11,3,2,80,2,12,2,3,10,6,8,8
+EMP0000315,39,No,Travel_Rarely,Italy,Turin,126,Research & Development,10,1,Medical,1,315,3,Male,04/11/2005,99,3,4,Manager,1,Married,3861,3510,1,Y,Yes,14,3,4,80,0,21,3,3,21,9,11,10
+EMP0000318,52,Yes,Travel_Rarely,United Kingdom,London,784,Research & Development,8,4,Medical,1,318,3,Male,14/01/2018,85,2,2,Research Scientist,2,Married,23859,21690,2,Y,No,15,3,1,80,0,11,3,2,8,2,7,7
+EMP0000319,27,No,Travel_Rarely,United Kingdom,Leeds,1323,Research & Development,5,3,Life Sciences,1,319,3,Female,10/02/2022,85,3,1,Research Scientist,2,Single,40260,36600,1,Y,Yes,12,3,2,80,0,4,2,2,4,3,1,2
+EMP0000320,32,No,Travel_Rarely,Germany,Hamburg,637,Sales,8,2,Technical Degree,1,320,3,Female,09/09/2013,65,2,2,Sales Executive,2,Married,19404,17640,1,Y,Yes,11,3,4,80,0,13,2,3,13,12,11,9
+EMP0000332,27,No,Non-Travel,Spain,Barcelona,227,Sales,1,1,Marketing,1,332,3,Male,26/10/2021,73,3,2,Sales Executive,2,Married,6930,6300,0,Y,Yes,13,3,4,80,1,6,0,3,5,4,1,4
+EMP0000334,43,No,Travel_Rarely,United Kingdom,Edinburgh,1085,Research & Development,7,3,Life Sciences,1,334,3,Female,10/02/2025,43,3,3,Healthcare Representative,1,Married,33033,30030,8,Y,No,16,3,1,80,1,10,1,2,1,0,0,0
+EMP0000337,29,Yes,Travel_Rarely,Italy,Naples,344,Research & Development,8,4,Other,1,337,2,Male,01/02/2019,77,1,1,Laboratory Technician,1,Married,10494,9540,1,Y,Yes,11,3,4,80,0,7,4,2,7,7,0,7
+EMP0000340,27,No,Travel_Rarely,United Kingdom,Edinburgh,1225,Sales,8,4,Marketing,1,340,2,Female,23/07/2018,56,3,2,Sales Executive,2,Married,37290,33900,1,Y,No,18,3,1,80,1,8,3,3,8,7,0,7
+EMP0000344,29,No,Travel_Rarely,Germany,Frankfurt,156,Sales,10,1,Marketing,1,344,4,Female,09/06/2019,39,2,2,Sales Executive,2,Divorced,4752,4320,1,Y,Yes,14,3,1,80,2,7,2,3,7,7,1,7
+EMP0000345,35,No,Travel_Rarely,Germany,Hamburg,1405,Research & Development,5,4,Technical Degree,1,345,3,Male,09/09/2010,62,3,5,Manufacturing Director,2,Single,42768,38880,0,Y,No,13,3,4,80,0,17,5,3,16,6,0,13
+EMP0000347,41,No,Travel_Rarely,France,Lyon,523,Research & Development,6,3,Medical,1,347,4,Male,06/07/2021,95,2,5,Manufacturing Director,2,Single,15939,14490,6,Y,Yes,15,3,4,80,0,8,3,3,5,4,1,2
+EMP0000352,32,No,Travel_Rarely,Italy,Milan,1152,Research & Development,2,3,Medical,1,352,3,Female,22/09/2018,75,3,1,Laboratory Technician,2,Married,35046,31860,1,Y,No,13,3,3,80,1,8,4,3,8,0,0,7
+EMP0000354,37,No,Travel_Rarely,United Kingdom,Manchester,1430,Research & Development,6,3,Medical,1,354,3,Male,17/11/2019,51,4,2,Research Scientist,1,Divorced,43527,39570,4,Y,Yes,13,3,1,80,2,13,2,3,7,7,6,7
+EMP0000358,21,Yes,Travel_Frequently,France,Nice,820,Sales,1,1,Technical Degree,1,358,1,Female,25/12/2023,99,2,1,Sales Representative,2,Single,24948,22680,1,Y,Yes,11,3,3,80,0,3,3,3,3,2,1,2
+EMP0000365,37,No,Travel_Rarely,Netherlands,Rotterdam,999,Research & Development,10,3,Medical,1,365,3,Female,15/01/2021,98,3,1,Laboratory Technician,1,Married,30393,27630,6,Y,No,20,4,2,80,1,17,3,3,5,4,0,3
+EMP0000367,41,Yes,Travel_Frequently,Netherlands,The Hague,155,Sales,4,3,Marketing,1,367,1,Male,15/03/2018,56,3,2,Sales Executive,2,Single,4719,4290,1,Y,No,18,3,3,80,0,8,5,3,8,7,7,7
+EMP0000370,31,No,Travel_Rarely,United Kingdom,Edinburgh,442,Research & Development,9,4,Life Sciences,1,370,3,Male,18/11/2024,42,2,1,Research Scientist,2,Single,13464,12240,0,Y,Yes,16,3,4,80,0,3,5,3,2,2,2,2
+EMP0000371,21,Yes,Travel_Rarely,United Kingdom,Birmingham,169,Sales,12,3,Life Sciences,1,371,3,Female,19/04/2025,90,4,1,Sales Representative,2,Single,5148,4680,1,Y,No,15,3,4,80,0,1,0,3,1,0,0,0
+EMP0000373,35,No,Travel_Rarely,United Kingdom,London,819,Research & Development,9,4,Life Sciences,1,373,3,Male,18/05/2025,97,2,2,Healthcare Representative,2,Single,24915,22650,9,Y,No,19,3,3,80,0,10,5,3,1,1,0,0
+EMP0000374,27,No,Travel_Rarely,Spain,Barcelona,1593,Research & Development,1,2,Medical,1,374,4,Male,17/07/2021,82,3,1,Laboratory Technician,2,Divorced,48477,44070,1,Y,No,11,3,2,80,1,5,2,3,5,2,0,4
+EMP0000382,30,No,Travel_Rarely,Spain,Bilbao,219,Sales,2,1,Technical Degree,1,382,3,Male,02/12/2025,72,3,1,Sales Representative,2,Married,6666,6060,1,Y,No,18,3,1,80,1,1,3,3,1,0,0,0
+EMP0000383,26,Yes,Travel_Frequently,France,Marseille,623,Research & Development,3,1,Technical Degree,1,383,3,Male,04/11/2020,73,3,1,Research Scientist,1,Single,18975,17250,0,Y,No,22,4,3,80,0,7,2,3,6,4,0,4
+EMP0000384,22,No,Travel_Rarely,Italy,Turin,274,Research & Development,11,3,Medical,1,384,1,Female,07/05/2024,43,3,1,Research Scientist,2,Married,8349,7590,1,Y,No,13,3,4,80,1,2,1,3,2,1,1,2
+EMP0000387,37,No,Travel_Rarely,Germany,Cologne,1200,Research & Development,14,3,Life Sciences,1,387,4,Female,21/04/2008,95,3,1,Laboratory Technician,1,Divorced,36531,33210,1,Y,No,12,3,3,80,1,18,2,2,18,7,12,17
+EMP0000388,40,No,Travel_Rarely,United Kingdom,Leeds,823,Sales,2,2,Marketing,1,388,4,Female,11/04/2021,46,3,2,Sales Executive,2,Divorced,25047,22770,7,Y,No,12,3,3,80,2,8,5,3,5,4,1,3
+EMP0000389,42,No,Travel_Rarely,Spain,Seville,218,Research & Development,1,4,Life Sciences,1,389,2,Female,10/12/2021,95,3,1,Laboratory Technician,1,Divorced,6633,6030,3,Y,No,16,3,2,80,1,8,5,3,5,2,1,2
+EMP0000390,37,No,Travel_Rarely,Italy,Venice,1415,Research & Development,10,4,Life Sciences,1,390,3,Male,02/05/2025,49,3,5,Manufacturing Director,2,Single,43065,39150,2,Y,Yes,12,3,4,80,0,18,2,2,1,0,0,1
+EMP0000391,43,No,Travel_Rarely,Poland,Warsaw,1065,Research & Development,12,3,Life Sciences,1,391,1,Male,22/05/2001,59,2,5,Research Director,2,Divorced,32406,29460,1,Y,No,11,3,3,80,1,25,3,3,25,10,3,9
+EMP0000393,54,No,Travel_Rarely,Germany,Munich,890,Research & Development,5,2,Medical,1,393,1,Male,02/05/2022,86,3,5,Research Director,1,Married,27093,24630,4,Y,No,11,3,3,80,1,24,4,2,4,2,1,2
+EMP0000395,31,No,Travel_Rarely,Germany,Munich,520,Research & Development,7,2,Medical,1,395,2,Female,08/11/2013,31,3,5,Manufacturing Director,1,Married,15840,14400,1,Y,No,12,3,2,80,1,13,5,1,13,10,3,12
+EMP0000400,31,No,Travel_Rarely,Spain,Valencia,356,Research & Development,1,2,Life Sciences,1,400,4,Male,09/09/2022,98,2,1,Laboratory Technician,1,Married,10857,9870,1,Y,No,12,3,3,80,1,4,3,3,4,2,3,2
+EMP0000402,56,No,Travel_Frequently,Netherlands,Utrecht,982,Sales,6,3,Life Sciences,1,402,3,Female,28/09/2019,86,4,4,Sales Executive,1,Married,29898,27180,9,Y,No,11,3,4,80,3,36,0,2,7,7,7,7
+EMP0000404,41,No,Travel_Rarely,Italy,Naples,699,Sales,1,3,Marketing,1,404,2,Male,22/03/2016,49,4,3,Sales Executive,1,Married,21285,19350,1,Y,No,16,3,3,80,1,10,2,3,10,7,0,7
+EMP0000405,28,No,Travel_Rarely,Germany,Munich,1410,Research & Development,17,2,Medical,1,405,3,Male,28/08/2016,79,3,2,Laboratory Technician,1,Divorced,42900,39000,1,Y,No,12,3,4,80,1,10,2,3,10,0,1,8
+EMP0000406,25,Yes,Travel_Rarely,Italy,Turin,746,Research & Development,3,3,Medical,1,406,1,Male,15/08/2024,91,3,1,Laboratory Technician,1,Married,22704,20640,5,Y,No,13,3,3,80,1,6,5,3,2,2,0,2
+EMP0000412,60,No,Travel_Rarely,Netherlands,Amsterdam,457,Research & Development,7,3,Life Sciences,1,412,1,Female,27/10/1997,41,3,5,Manager,1,Married,13926,12660,5,Y,No,11,3,4,80,0,33,5,1,29,8,11,10
+EMP0000415,24,Yes,Travel_Rarely,France,Marseille,1570,Sales,1,1,Technical Degree,1,415,1,Female,08/08/2021,62,3,1,Sales Representative,2,Single,47784,43440,1,Y,Yes,16,3,2,80,0,6,4,3,5,3,1,4
+EMP0000422,29,Yes,Travel_Rarely,Spain,Seville,442,Research & Development,25,5,Technical Degree,1,422,3,Female,18/08/2024,71,2,1,Research Scientist,2,Married,13464,12240,5,Y,No,16,3,2,80,0,6,2,4,2,2,1,1
+EMP0000424,30,No,Non-Travel,France,Marseille,1516,Sales,22,4,Other,1,424,3,Female,15/03/2017,69,3,3,Sales Executive,1,Married,46134,41940,0,Y,No,11,3,3,80,0,10,3,3,9,8,7,8
+EMP0000428,60,No,Travel_Frequently,Italy,Rome,1626,Sales,28,3,Marketing,1,428,3,Female,25/07/2008,80,2,3,Sales Executive,1,Married,49467,44970,4,Y,No,19,3,4,80,0,22,5,4,18,13,13,11
+EMP0000435,31,No,Travel_Rarely,United Kingdom,London,1382,Research & Development,9,1,Life Sciences,1,435,3,Male,14/12/2013,33,3,5,Manufacturing Director,2,Divorced,42042,38220,1,Y,No,25,4,4,80,1,13,6,4,13,8,0,8
+EMP0000438,30,No,Travel_Rarely,Italy,Rome,448,Sales,7,1,Marketing,1,438,4,Male,12/10/2023,57,3,1,Sales Representative,2,Single,13629,12390,0,Y,No,14,3,1,80,0,4,3,3,3,2,1,2
+EMP0000441,34,Yes,Travel_Frequently,United Kingdom,Manchester,1071,Human Resources,23,3,Human Resources,1,441,2,Female,09/12/2023,43,3,3,Human Resources,1,Divorced,32604,29640,9,Y,Yes,15,3,3,80,3,11,2,3,3,2,0,2
+EMP0000446,55,No,Travel_Rarely,Netherlands,Eindhoven,1211,Sales,18,5,Life Sciences,1,446,1,Female,06/07/2016,83,3,4,Manager,2,Single,36861,33510,3,Y,No,23,4,4,80,0,37,2,3,10,9,7,7
+EMP0000452,42,No,Travel_Rarely,France,Nice,346,Research & Development,24,3,Medical,1,452,4,Male,11/08/2016,56,3,5,Manufacturing Director,1,Married,10527,9570,1,Y,Yes,21,4,4,80,1,10,5,2,10,9,5,8
+EMP0000453,45,No,Travel_Rarely,Germany,Munich,608,Sales,2,3,Other,1,453,4,Male,08/07/2018,61,3,2,Sales Executive,2,Married,18513,16830,0,Y,No,19,3,2,80,1,9,3,4,8,7,3,7
+EMP0000458,18,Yes,Travel_Frequently,Germany,Berlin,1416,Sales,5,3,Marketing,1,458,2,Male,16/04/2026,69,3,1,Sales Representative,2,Single,43098,39180,1,Y,Yes,14,3,4,80,0,0,3,3,0,0,0,0
+EMP0000459,40,No,Non-Travel,United Kingdom,Edinburgh,1186,Sales,28,3,Other,1,459,3,Male,06/06/2025,58,1,3,Sales Executive,1,Divorced,36102,32820,3,Y,No,15,3,3,80,1,20,2,3,1,0,0,1
+EMP0000467,41,No,Travel_Rarely,Germany,Cologne,1384,Sales,2,5,Life Sciences,1,467,2,Female,07/08/2008,91,3,4,Manager,1,Married,42108,38280,7,Y,No,16,3,2,80,1,22,2,3,18,16,11,8
+EMP0000468,37,No,Non-Travel,Italy,Milan,154,Sales,9,4,Medical,1,468,1,Male,04/03/2017,69,3,3,Sales Executive,2,Divorced,4686,4260,1,Y,No,13,3,4,80,1,9,6,3,9,5,7,7
+EMP0000469,52,No,Travel_Rarely,United Kingdom,Manchester,1037,Research & Development,6,2,Technical Degree,1,469,4,Male,08/06/2016,78,3,2,Research Scientist,1,Divorced,31548,28680,3,Y,Yes,12,3,2,80,2,18,3,3,10,9,6,9
+EMP0000473,37,No,Travel_Rarely,United Kingdom,Birmingham,483,Research & Development,1,4,Life Sciences,1,473,2,Female,08/07/2020,65,3,5,Manufacturing Director,2,Married,14718,13380,6,Y,No,12,3,2,80,1,8,2,2,6,5,4,3
+EMP0000476,26,No,Travel_Rarely,Poland,Krakow,762,Sales,28,2,Marketing,1,476,1,Male,05/10/2021,66,3,2,Sales Executive,2,Married,23199,21090,1,Y,No,20,4,4,80,2,6,5,4,5,3,1,4
+EMP0000477,24,No,Travel_Rarely,United Kingdom,Manchester,892,Research & Development,17,2,Other,1,477,4,Male,21/01/2025,94,2,1,Laboratory Technician,2,Married,27159,24690,1,Y,No,21,4,4,80,1,1,2,3,1,0,0,0
+EMP0000478,50,No,Travel_Frequently,France,Toulouse,1351,Human Resources,3,3,Medical,1,478,1,Male,07/03/1994,99,3,5,Manager,2,Married,41118,37380,1,Y,No,11,3,3,80,1,32,2,3,32,5,10,7
+EMP0000481,30,Yes,Travel_Frequently,France,Paris,485,Sales,12,4,Life Sciences,1,481,2,Male,18/09/2025,74,2,1,Sales Representative,1,Married,14784,13440,1,Y,No,18,3,3,80,1,1,2,4,1,0,0,0
+EMP0000483,31,Yes,Travel_Rarely,Germany,Hamburg,1480,Sales,13,4,Medical,1,483,2,Male,22/07/2023,46,3,2,Sales Executive,1,Divorced,45045,40950,2,Y,No,17,3,3,80,0,9,2,1,3,1,1,2
+EMP0000488,20,No,Travel_Rarely,Germany,Cologne,1040,Research & Development,1,3,Life Sciences,1,488,4,Female,02/04/2025,83,2,1,Research Scientist,2,Single,31647,28770,1,Y,No,13,3,4,80,0,1,0,4,1,0,0,0
+EMP0000491,38,No,Travel_Rarely,Germany,Munich,392,Research & Development,1,1,Life Sciences,1,491,3,Female,07/09/2026,43,3,1,Research Scientist,1,Single,11946,10860,3,Y,No,17,3,4,80,0,8,3,2,0,0,0,0
+EMP0000493,48,No,Travel_Rarely,Germany,Frankfurt,1340,Research & Development,1,4,Life Sciences,1,493,4,Female,11/03/2023,40,2,4,Manager,1,Married,40788,37080,7,Y,No,11,3,1,80,1,21,3,1,3,2,0,2
+EMP0000496,27,Yes,Travel_Rarely,Germany,Munich,1540,Sales,2,1,Marketing,1,496,3,Male,19/08/2022,85,3,1,Sales Representative,1,Divorced,46860,42600,0,Y,No,11,3,2,80,1,5,3,3,4,3,0,2
+EMP0000503,53,No,Travel_Rarely,Germany,Hamburg,258,Sales,1,1,Medical,1,503,4,Female,06/06/2012,34,3,2,Sales Executive,1,Single,7854,7140,7,Y,No,20,4,4,80,0,18,2,4,14,7,8,10
+EMP0000505,45,Yes,Travel_Frequently,Spain,Madrid,331,Sales,26,4,Life Sciences,1,505,1,Female,24/03/2025,100,3,2,Sales Executive,1,Married,10098,9180,2,Y,No,14,3,4,80,2,5,4,3,1,1,0,0
+EMP0000511,54,No,Travel_Rarely,France,Paris,430,Human Resources,19,4,Medical,1,511,3,Male,07/03/2017,88,3,3,Human Resources,2,Married,13101,11910,2,Y,No,15,3,3,80,1,16,1,4,9,7,7,1
+EMP0000512,36,No,Travel_Rarely,Germany,Hamburg,990,Research & Development,9,2,Medical,1,512,2,Male,01/03/2023,48,2,5,Manufacturing Director,2,Divorced,30129,27390,2,Y,Yes,11,3,3,80,1,13,2,3,3,2,0,2
+EMP0000515,33,Yes,Travel_Frequently,United Kingdom,London,1167,Research & Development,3,3,Life Sciences,1,515,1,Male,11/06/2016,70,3,1,Research Scientist,1,Single,35508,32280,1,Y,Yes,11,3,1,80,0,10,3,3,10,8,9,7
+EMP0000517,23,No,Travel_Rarely,Germany,Frankfurt,960,Research & Development,4,3,Medical,1,517,1,Male,11/02/2023,58,4,1,Research Scientist,1,Married,29205,26550,2,Y,No,16,3,1,80,1,5,3,4,3,2,0,2
+EMP0000518,25,No,Travel_Rarely,Italy,Turin,878,Sales,8,3,Life Sciences,1,518,4,Male,05/07/2023,57,4,2,Sales Executive,2,Married,26730,24300,0,Y,No,22,4,3,80,1,4,4,3,3,2,1,2
+EMP0000521,48,No,Travel_Rarely,France,Paris,886,Sales,2,1,Marketing,1,521,2,Male,08/02/2024,56,4,2,Sales Executive,2,Married,26961,24510,3,Y,No,12,3,4,80,0,12,3,3,2,2,2,2
+EMP0000525,34,No,Travel_Rarely,Italy,Venice,1564,Research & Development,9,3,Medical,1,525,4,Female,20/04/2018,46,2,3,Healthcare Representative,2,Single,47586,43260,1,Y,No,14,3,2,80,0,9,3,4,8,7,7,7
+EMP0000531,27,No,Travel_Rarely,Italy,Turin,659,Research & Development,1,2,Life Sciences,1,531,3,Female,19/05/2017,68,3,5,Manufacturing Director,1,Married,20064,18240,1,Y,No,11,3,4,80,0,9,3,3,9,7,0,7
+EMP0000533,47,No,Travel_Rarely,Poland,Krakow,762,Sales,14,4,Marketing,1,533,4,Male,16/11/2019,42,3,2,Sales Executive,1,Single,23199,21090,2,Y,No,12,3,4,80,0,20,2,3,7,7,1,7
+EMP0000534,40,No,Travel_Frequently,France,Lyon,629,Sales,5,4,Life Sciences,1,534,4,Male,25/05/2008,48,2,3,Sales Executive,1,Married,19140,17400,5,Y,Yes,21,4,3,80,1,20,2,3,18,13,1,12
+EMP0000537,60,No,Travel_Rarely,Italy,Rome,1278,Sales,16,4,Marketing,1,537,1,Male,28/01/2024,84,3,2,Sales Executive,1,Single,38907,35370,8,Y,No,14,3,4,80,0,10,1,3,2,2,2,2
+EMP0000538,27,No,Travel_Frequently,United Kingdom,Manchester,318,Research & Development,10,2,Life Sciences,1,538,4,Male,27/12/2017,32,3,5,Manufacturing Director,1,Divorced,9702,8820,1,Y,No,21,4,3,80,2,9,4,2,9,7,1,7
+EMP0000540,50,No,Travel_Rarely,United Kingdom,Birmingham,342,Sales,8,4,Marketing,1,540,4,Male,19/06/2024,54,3,1,Sales Representative,2,Married,10428,9480,7,Y,No,15,3,4,80,1,4,2,3,2,2,2,2
+EMP0000541,28,Yes,Travel_Rarely,Netherlands,Amsterdam,709,Research & Development,1,2,Life Sciences,1,541,1,Female,21/01/2019,67,1,1,Research Scientist,2,Single,21582,19620,7,Y,Yes,13,3,4,80,0,10,4,3,7,7,3,7
+EMP0000542,36,No,Non-Travel,France,Marseille,463,Research & Development,8,3,Life Sciences,1,542,1,Female,28/03/2018,63,4,5,Research Director,1,Married,14091,12810,9,Y,No,14,3,1,80,1,10,2,3,8,7,0,5
+EMP0000551,23,No,Travel_Rarely,France,Paris,705,Research & Development,9,1,Medical,1,551,2,Male,08/11/2022,37,3,1,Laboratory Technician,1,Married,21450,19500,1,Y,No,14,3,4,80,1,5,2,4,4,3,0,2
+EMP0000552,39,No,Travel_Rarely,Italy,Turin,152,Human Resources,3,3,Human Resources,1,552,3,Female,18/05/2018,44,4,2,Human Resources,2,Married,4653,4230,9,Y,No,15,3,3,80,1,12,3,1,8,3,3,6
+EMP0000555,27,No,Travel_Rarely,Italy,Milan,1057,Research & Development,7,3,Medical,1,555,4,Female,16/10/2019,55,2,2,Healthcare Representative,1,Single,32175,29250,8,Y,No,19,3,1,80,0,9,2,1,7,6,0,7
+EMP0000556,29,No,Travel_Rarely,Germany,Munich,1182,Sales,10,3,Marketing,1,556,4,Male,25/09/2024,83,3,1,Sales Representative,2,Divorced,35970,32700,1,Y,No,14,3,4,80,2,2,2,3,2,2,2,2
+EMP0000558,35,No,Non-Travel,United Kingdom,London,1328,Research & Development,2,4,Life Sciences,1,558,4,Female,04/04/2025,61,3,2,Healthcare Representative,1,Divorced,40425,36750,2,Y,No,11,3,1,80,1,16,2,4,1,0,0,0
+EMP0000561,34,No,Travel_Rarely,Spain,Valencia,181,Research & Development,8,5,Life Sciences,1,561,2,Female,25/10/2026,32,3,5,Manufacturing Director,1,Divorced,5511,5010,3,Y,No,14,3,3,80,1,7,3,3,0,0,0,0
+EMP0000562,52,No,Travel_Rarely,United Kingdom,Manchester,673,Sales,3,4,Marketing,1,562,3,Male,19/02/1992,31,2,4,Manager,1,Married,20493,18630,1,Y,No,11,3,1,80,0,34,3,4,34,6,1,16
+EMP0000569,55,Yes,Travel_Rarely,Netherlands,The Hague,786,Research & Development,2,3,Medical,1,569,4,Male,21/04/2021,78,3,5,Manager,1,Married,23925,21750,5,Y,Yes,13,3,4,80,1,24,2,3,5,2,1,4
+EMP0000570,36,No,Non-Travel,Germany,Hamburg,1555,Sales,8,4,Life Sciences,1,570,1,Male,06/08/2016,76,2,3,Sales Executive,1,Single,47322,43020,1,Y,No,15,3,2,80,0,10,1,3,10,7,0,9
+EMP0000574,26,Yes,Travel_Rarely,France,Nice,1243,Sales,8,3,Technical Degree,1,574,4,Male,15/07/2022,38,2,2,Sales Executive,1,Single,37818,34380,6,Y,No,17,3,3,80,0,6,2,2,4,3,1,2
+EMP0000576,54,No,Travel_Rarely,Netherlands,Rotterdam,407,Research & Development,19,4,Medical,1,576,4,Female,01/03/2021,95,3,5,Manufacturing Director,1,Divorced,12408,11280,9,Y,Yes,11,3,2,80,2,9,4,3,5,3,1,4
+EMP0000578,37,No,Travel_Rarely,Netherlands,Utrecht,619,Research & Development,10,1,Life Sciences,1,578,4,Female,18/02/2021,82,3,1,Research Scientist,1,Divorced,18843,17130,0,Y,Yes,13,3,2,80,2,6,3,2,5,3,4,3
+EMP0000579,38,No,Travel_Frequently,France,Marseille,260,Research & Development,2,4,Life Sciences,1,579,1,Female,27/02/2011,75,4,5,Manufacturing Director,1,Single,7920,7200,6,Y,Yes,12,3,4,80,0,17,2,3,15,7,4,12
+EMP0000580,34,No,Travel_Rarely,Germany,Frankfurt,131,Research & Development,2,4,Medical,1,580,3,Female,15/11/2020,86,2,1,Research Scientist,1,Single,3993,3630,1,Y,No,11,3,3,80,0,6,3,3,6,5,1,3
+EMP0000583,40,No,Travel_Frequently,France,Marseille,858,Research & Development,2,2,Medical,1,583,3,Female,14/11/2018,38,4,2,Healthcare Representative,2,Married,26103,23730,1,Y,No,24,4,4,80,1,8,2,3,8,7,3,7
+EMP0000584,34,No,Travel_Rarely,Germany,Hamburg,1205,Sales,8,2,Life Sciences,1,584,3,Female,27/11/2023,93,3,2,Sales Executive,1,Married,36663,33330,5,Y,No,17,3,2,80,1,6,1,3,3,2,1,2
+EMP0000586,23,Yes,Travel_Rarely,United Kingdom,Leeds,1348,Research & Development,6,3,Life Sciences,1,586,3,Male,02/05/2026,63,4,1,Laboratory Technician,1,Married,41019,37290,1,Y,Yes,21,4,3,80,2,1,2,3,0,0,0,0
+EMP0000587,24,No,Non-Travel,United Kingdom,London,1184,Research & Development,9,3,Life Sciences,1,587,3,Male,08/09/2025,60,2,1,Laboratory Technician,2,Divorced,36036,32760,1,Y,No,11,3,3,80,3,1,4,3,1,0,0,0
+EMP0000590,29,Yes,Travel_Rarely,United Kingdom,London,873,Research & Development,1,2,Life Sciences,1,590,2,Female,24/05/2025,36,2,1,Laboratory Technician,1,Married,26565,24150,1,Y,Yes,11,3,4,80,1,1,1,3,1,0,0,0
+EMP0000592,33,Yes,Travel_Rarely,France,Marseille,128,Sales,16,3,Marketing,1,592,1,Female,03/09/2023,69,3,2,Sales Executive,1,Single,3894,3540,5,Y,No,15,3,3,80,0,6,3,3,3,2,0,2
+EMP0000594,36,No,Travel_Rarely,Germany,Frankfurt,733,Research & Development,1,3,Other,1,594,3,Female,17/10/2017,35,3,5,Manufacturing Director,2,Married,22308,20280,0,Y,No,15,3,1,80,1,10,2,3,9,7,0,5
+EMP0000596,58,Yes,Travel_Rarely,France,Marseille,310,Research & Development,2,4,Life Sciences,1,596,4,Male,10/04/1995,31,3,5,Research Director,2,Single,9438,8580,7,Y,Yes,12,3,4,80,0,40,2,3,31,15,13,8
+EMP0000600,36,No,Travel_Rarely,United Kingdom,Birmingham,1129,Human Resources,13,3,Human Resources,1,600,3,Male,08/03/2021,36,3,1,Human Resources,2,Married,34353,31230,4,Y,No,13,3,2,80,1,8,2,3,5,2,0,4
+EMP0000605,42,No,Travel_Rarely,United Kingdom,London,1012,Research & Development,29,3,Life Sciences,1,605,2,Male,21/06/2017,98,3,5,Manufacturing Director,2,Married,30789,27990,1,Y,No,13,3,4,80,1,10,3,2,9,8,7,8
+EMP0000606,38,No,Travel_Frequently,Germany,Frankfurt,510,Research & Development,12,3,Life Sciences,1,606,1,Male,08/07/2022,45,2,2,Healthcare Representative,1,Divorced,15543,14130,2,Y,No,15,3,3,80,1,13,3,2,4,3,1,2
+EMP0000610,43,No,Travel_Rarely,Spain,Seville,638,Research & Development,14,2,Life Sciences,1,610,2,Male,04/01/2022,94,3,5,Research Director,1,Married,19437,17670,6,Y,No,24,4,3,80,1,22,3,3,4,1,1,0
+EMP0000613,28,No,Travel_Rarely,France,Marseille,824,Sales,2,4,Marketing,1,613,2,Female,07/12/2018,81,3,2,Sales Executive,2,Married,25080,22800,1,Y,Yes,20,4,1,80,0,8,2,3,8,7,7,5
+EMP0000618,44,No,Travel_Rarely,Germany,Cologne,678,Research & Development,4,3,Medical,1,618,4,Male,25/05/2021,50,3,2,Healthcare Representative,2,Single,20625,18750,9,Y,No,12,3,4,80,0,10,2,2,5,2,2,3
+EMP0000619,25,No,Travel_Rarely,Italy,Naples,195,Research & Development,2,1,Medical,1,619,1,Male,12/07/2022,65,4,1,Research Scientist,1,Single,5940,5400,7,Y,No,13,3,3,80,0,6,3,2,4,3,0,1
+EMP0000620,33,No,Travel_Rarely,Spain,Valencia,635,Sales,1,3,Medical,1,620,1,Male,18/11/2017,48,4,2,Sales Executive,1,Divorced,19338,17580,1,Y,No,22,4,1,80,1,9,5,3,9,8,0,8
+EMP0000621,35,No,Travel_Rarely,United Kingdom,Leeds,1456,Research & Development,27,1,Medical,1,621,3,Female,10/12/2020,53,2,1,Research Scientist,1,Single,44319,40290,1,Y,No,11,3,4,80,0,6,3,2,6,5,1,1
+EMP0000626,45,No,Travel_Rarely,Germany,Berlin,1008,Sales,9,3,Marketing,1,626,4,Male,14/12/2021,74,3,3,Sales Executive,1,Divorced,30690,27900,4,Y,Yes,12,3,3,80,1,18,2,3,5,4,0,2
+EMP0000634,36,No,Travel_Rarely,France,Marseille,1386,Human Resources,8,3,Life Sciences,1,634,1,Male,18/02/2021,77,2,1,Human Resources,1,Married,42174,38340,0,Y,No,21,4,3,80,0,6,3,3,5,4,0,3
+EMP0000635,25,No,Travel_Rarely,United Kingdom,Manchester,152,Sales,3,1,Other,1,635,3,Male,01/10/2021,98,3,2,Sales Executive,1,Married,4653,4230,1,Y,Yes,18,3,4,80,0,5,3,3,5,3,0,3
+EMP0000637,35,Yes,Travel_Frequently,France,Nice,141,Research & Development,25,4,Life Sciences,1,637,4,Female,05/07/2016,96,3,1,Research Scientist,2,Divorced,4290,3900,1,Y,Yes,19,3,1,80,1,10,3,2,10,2,7,8
+EMP0000639,25,No,Travel_Rarely,Germany,Munich,632,Sales,4,1,Marketing,1,639,3,Male,04/08/2021,87,2,2,Sales Executive,1,Married,19239,17490,1,Y,No,12,3,1,80,0,5,1,4,5,2,0,3
+EMP0000640,49,No,Travel_Rarely,Germany,Frankfurt,1538,Research & Development,1,3,Technical Degree,1,640,3,Female,18/05/2022,36,3,1,Research Scientist,1,Married,46794,42540,2,Y,No,16,3,2,80,1,7,2,3,4,2,0,2
+EMP0000642,32,No,Travel_Frequently,Germany,Munich,411,Sales,5,2,Life Sciences,1,642,2,Male,10/03/2016,48,3,2,Sales Executive,2,Married,12507,11370,1,Y,No,14,3,4,80,1,10,3,3,10,8,5,3
+EMP0000643,38,No,Travel_Rarely,United Kingdom,Leeds,428,Sales,9,3,Marketing,1,643,2,Male,24/03/2024,98,2,1,Sales Representative,2,Married,13035,11850,0,Y,No,19,3,4,80,1,3,3,3,2,2,1,2
+EMP0000648,35,No,Travel_Rarely,Spain,Bilbao,728,Research & Development,25,3,Technical Degree,1,648,4,Male,01/12/2013,78,2,5,Manufacturing Director,2,Married,22176,20160,3,Y,No,16,3,1,80,0,16,2,3,13,10,4,8
+EMP0000653,37,No,Non-Travel,France,Paris,1358,Sales,19,2,Medical,1,653,1,Male,15/04/2016,32,3,3,Sales Executive,2,Single,41316,37560,1,Y,Yes,13,3,4,80,0,10,2,3,10,0,0,9
+EMP0000654,50,No,Non-Travel,Spain,Madrid,955,Research & Development,2,4,Life Sciences,1,654,1,Male,05/04/1995,98,3,4,Manager,1,Divorced,29073,26430,1,Y,No,11,3,4,80,1,31,3,3,31,6,14,7
+EMP0000656,33,No,Travel_Rarely,United Kingdom,London,1166,Human Resources,3,2,Human Resources,1,656,4,Male,23/03/2022,57,3,1,Human Resources,2,Divorced,35475,32250,3,Y,Yes,11,3,3,80,1,7,4,4,4,3,0,3
+EMP0000659,44,No,Travel_Rarely,France,Nice,717,Research & Development,9,2,Life Sciences,1,659,2,Male,15/01/2018,61,3,1,Research Scientist,1,Married,21813,19830,1,Y,Yes,13,3,4,80,0,8,0,3,8,7,7,1
+EMP0000662,43,No,Travel_Rarely,Poland,Krakow,192,Research & Development,8,3,Life Sciences,1,662,1,Female,17/08/2025,55,3,5,Manufacturing Director,2,Divorced,5841,5310,4,Y,No,21,4,3,80,1,4,2,4,1,0,0,0
+EMP0000670,39,Yes,Travel_Rarely,Germany,Berlin,1217,Research & Development,6,3,Medical,1,670,4,Male,25/10/2024,70,3,1,Laboratory Technician,1,Married,37026,33660,7,Y,Yes,21,4,4,80,0,8,2,1,2,2,2,2
+EMP0000672,34,No,Travel_Rarely,Italy,Naples,592,Research & Development,10,3,Life Sciences,1,672,2,Male,05/02/2025,83,3,1,Laboratory Technician,2,Divorced,18018,16380,1,Y,No,14,3,2,80,2,1,3,3,1,0,1,0
+EMP0000674,33,No,Travel_Rarely,France,Nice,1299,Research & Development,1,4,Other,1,674,3,Male,05/05/2023,100,2,1,Research Scientist,1,Single,39534,35940,3,Y,Yes,11,3,2,80,0,6,1,3,3,2,0,2
+EMP0000675,58,No,Travel_Rarely,Germany,Frankfurt,1379,Research & Development,5,3,Technical Degree,1,675,3,Female,18/06/2020,37,2,3,Healthcare Representative,2,Divorced,41976,38160,2,Y,Yes,13,3,4,80,1,24,3,3,6,0,0,4
+EMP0000678,49,No,Travel_Rarely,Germany,Hamburg,571,Research & Development,8,2,Other,1,678,1,Female,17/03/2000,51,3,3,Laboratory Technician,2,Married,17391,15810,4,Y,No,11,3,3,80,1,29,3,2,26,9,1,7
+EMP0000682,38,No,Travel_Rarely,Germany,Berlin,1446,Research & Development,1,3,Technical Degree,1,682,4,Female,03/08/2011,80,3,5,Research Director,1,Married,43989,39990,1,Y,No,13,3,2,80,1,15,3,3,15,12,5,11
+EMP0000683,32,No,Non-Travel,United Kingdom,Manchester,1284,Research & Development,1,3,Life Sciences,1,683,3,Female,13/01/2023,70,2,1,Laboratory Technician,2,Married,39072,35520,6,Y,No,20,4,3,80,0,5,3,3,3,0,0,2
+EMP0000684,25,Yes,Travel_Rarely,France,Lyon,940,Sales,19,2,Marketing,1,684,3,Male,01/06/2025,36,2,1,Sales Representative,2,Married,28611,26010,1,Y,Yes,18,3,3,80,3,1,2,3,1,0,0,0
+EMP0000685,40,No,Travel_Rarely,Netherlands,Rotterdam,713,Sales,10,4,Marketing,1,685,1,Male,24/04/2025,67,2,3,Sales Executive,2,Divorced,21714,19740,2,Y,No,12,3,2,80,1,11,2,2,1,0,0,0
+EMP0000686,26,No,Travel_Frequently,France,Toulouse,1391,Sales,1,3,Medical,1,686,3,Male,28/09/2019,52,2,2,Sales Executive,1,Single,42339,38490,1,Y,No,12,3,2,80,0,7,2,3,7,7,0,7
+EMP0000687,41,No,Travel_Rarely,France,Toulouse,285,Research & Development,6,3,Medical,1,687,4,Male,05/12/2008,59,3,1,Laboratory Technician,1,Single,8679,7890,2,Y,Yes,13,3,3,80,0,20,3,3,18,13,2,17
+EMP0000689,19,Yes,Travel_Rarely,Spain,Madrid,454,Sales,21,3,Other,1,689,4,Male,11/03/2025,37,2,1,Sales Representative,2,Single,13827,12570,1,Y,Yes,13,3,2,80,0,1,3,4,1,0,0,0
+EMP0000690,20,Yes,Travel_Rarely,United Kingdom,Edinburgh,139,Research & Development,4,3,Technical Degree,1,690,1,Male,20/09/2025,84,3,1,Laboratory Technician,1,Single,4257,3870,1,Y,No,19,3,2,80,0,1,2,3,1,0,0,0
+EMP0000692,40,No,Travel_Frequently,Germany,Frankfurt,1593,Research & Development,9,4,Medical,1,692,4,Male,27/09/2025,35,3,1,Research Scientist,2,Divorced,48477,44070,8,Y,Yes,14,3,4,80,1,3,2,3,1,1,0,0
+EMP0000693,32,No,Travel_Rarely,France,Nice,540,Research & Development,3,4,Medical,1,693,3,Female,18/03/2018,93,3,5,Manufacturing Director,1,Married,16434,14940,1,Y,No,12,3,3,80,1,8,2,4,8,7,6,3
+EMP0000697,45,No,Non-Travel,Germany,Hamburg,873,Research & Development,4,2,Life Sciences,1,697,3,Male,25/08/2017,57,3,2,Laboratory Technician,2,Married,26565,24150,1,Y,No,12,3,2,80,0,9,5,2,9,7,0,8
+EMP0000707,40,Yes,Non-Travel,Germany,Frankfurt,1604,Sales,24,3,Life Sciences,1,707,2,Female,20/07/2025,100,4,4,Sales Executive,2,Single,48807,44370,4,Y,Yes,16,3,4,80,0,22,2,2,1,0,0,0
+EMP0000710,31,Yes,Non-Travel,Spain,Bilbao,363,Research & Development,9,2,Medical,1,710,3,Male,13/08/2023,46,2,1,Research Scientist,1,Single,11055,10050,0,Y,Yes,22,4,1,80,0,4,0,3,3,2,1,2
+EMP0000712,29,Yes,Travel_Rarely,France,Paris,982,Research & Development,10,3,Life Sciences,1,712,4,Female,26/03/2026,92,2,1,Research Scientist,1,Single,29898,27180,6,Y,Yes,20,4,3,80,0,3,5,3,0,0,0,0
+EMP0000716,33,No,Travel_Frequently,Netherlands,Rotterdam,897,Research & Development,1,4,Other,1,716,3,Female,20/03/2020,84,4,2,Healthcare Representative,2,Married,27291,24810,1,Y,Yes,13,3,1,80,1,6,2,3,6,5,1,2
+EMP0000718,27,No,Travel_Rarely,Netherlands,Amsterdam,1230,Research & Development,16,4,Technical Degree,1,718,3,Female,10/01/2024,37,3,1,Laboratory Technician,2,Married,37422,34020,9,Y,No,14,3,2,80,1,4,2,3,2,2,2,2
+EMP0000719,45,No,Non-Travel,United Kingdom,Edinburgh,269,Research & Development,23,2,Life Sciences,1,719,4,Male,09/12/2017,42,3,2,Laboratory Technician,1,Married,8184,7440,1,Y,Yes,15,3,3,80,1,9,2,3,9,8,0,8
+EMP0000726,35,Yes,Travel_Rarely,Italy,Milan,674,Research & Development,14,4,Other,1,726,3,Male,01/04/2022,39,2,1,Laboratory Technician,2,Divorced,20526,18660,1,Y,Yes,24,4,4,80,1,5,2,1,4,2,0,2
+EMP0000727,31,No,Travel_Frequently,United Kingdom,Birmingham,925,Research & Development,1,1,Life Sciences,1,727,3,Female,22/06/2022,96,3,5,Manufacturing Director,1,Married,28149,25590,1,Y,No,12,3,3,80,1,4,1,3,4,3,0,3
+EMP0000731,30,No,Travel_Rarely,United Kingdom,London,165,Research & Development,8,2,Life Sciences,1,731,2,Female,04/05/2018,73,4,5,Research Director,1,Married,5049,4590,0,Y,Yes,12,3,3,80,3,9,4,2,8,7,1,7
+EMP0000732,20,Yes,Travel_Rarely,Italy,Venice,1190,Research & Development,11,3,Medical,1,732,4,Female,06/10/2025,98,2,1,Research Scientist,1,Single,36201,32910,1,Y,Yes,15,3,1,80,0,1,2,3,1,0,0,0
+EMP0000733,30,Yes,Travel_Frequently,France,Paris,118,Research & Development,5,3,Medical,1,733,2,Female,15/12/2023,60,3,1,Laboratory Technician,2,Single,3597,3270,0,Y,No,17,3,1,80,0,4,3,3,3,2,1,2
+EMP0000735,22,No,Travel_Rarely,Germany,Munich,235,Research & Development,8,1,Life Sciences,1,735,2,Male,14/01/2022,94,1,1,Laboratory Technician,1,Married,7161,6510,1,Y,No,15,3,1,80,1,4,3,2,4,3,1,1
+EMP0000745,37,Yes,Travel_Rarely,United Kingdom,Manchester,1237,Research & Development,11,2,Medical,1,745,1,Female,12/09/2025,61,1,2,Healthcare Representative,2,Married,37653,34230,5,Y,No,15,3,1,80,0,15,2,1,1,0,0,0
+EMP0000746,55,No,Travel_Frequently,Italy,Rome,146,Research & Development,18,4,Medical,1,746,3,Male,22/04/2018,62,3,2,Healthcare Representative,2,Married,4455,4050,3,Y,Yes,14,3,4,80,2,17,3,3,8,7,6,7
+EMP0000749,26,Yes,Non-Travel,Netherlands,Utrecht,287,Sales,29,2,Medical,1,749,2,Male,17/01/2024,79,1,2,Sales Executive,1,Single,8745,7950,8,Y,No,18,3,4,80,0,7,6,3,2,2,2,2
+EMP0000753,36,Yes,Travel_Rarely,France,Toulouse,960,Research & Development,16,4,Life Sciences,1,753,3,Female,08/07/2009,43,4,1,Laboratory Technician,1,Single,29205,26550,1,Y,No,16,3,3,80,0,18,1,3,17,13,15,14
+EMP0000754,39,No,Travel_Frequently,Germany,Hamburg,1025,Research & Development,22,3,Medical,1,754,4,Female,04/07/2005,82,3,5,Manufacturing Director,1,Single,31185,28350,1,Y,Yes,13,3,3,80,0,21,2,3,21,6,2,8
+EMP0000760,45,No,Travel_Rarely,Spain,Madrid,854,Human Resources,24,4,Medical,1,760,2,Male,20/12/2020,36,3,1,Human Resources,2,Single,26004,23640,1,Y,No,16,3,1,80,0,6,3,3,6,3,0,4
+EMP0000761,53,No,Travel_Frequently,United Kingdom,London,134,Sales,2,3,Marketing,1,761,3,Female,04/09/2011,38,2,3,Sales Executive,2,Married,4092,3720,2,Y,No,12,3,1,80,1,30,2,3,15,7,6,12
+EMP0000763,26,Yes,Travel_Frequently,United Kingdom,London,371,Research & Development,2,3,Life Sciences,1,763,1,Male,24/05/2023,57,3,1,Research Scientist,1,Married,11286,10260,6,Y,Yes,14,3,2,80,1,6,2,3,3,2,1,2
+EMP0000765,28,No,Travel_Rarely,United Kingdom,London,1241,Sales,10,1,Medical,1,765,4,Male,08/01/2025,74,3,1,Sales Representative,2,Married,37752,34320,1,Y,No,22,4,2,80,0,1,5,3,1,0,0,0
+EMP0000768,37,No,Travel_Rarely,Italy,Milan,134,Research & Development,3,3,Other,1,768,4,Female,24/11/2022,35,3,2,Healthcare Representative,2,Single,4092,3720,3,Y,No,15,3,1,80,0,8,3,2,4,3,0,1
+EMP0000769,40,No,Travel_Rarely,Germany,Frankfurt,325,Sales,26,3,Marketing,1,769,3,Male,25/10/2019,74,3,2,Sales Executive,1,Married,9900,9000,1,Y,No,14,3,2,80,1,8,3,2,7,7,7,5
+EMP0000775,55,No,Non-Travel,Spain,Seville,481,Research & Development,2,1,Medical,1,775,3,Male,14/03/2017,40,2,4,Manager,1,Single,14652,13320,7,Y,No,15,3,2,80,0,31,3,4,9,7,6,2
+EMP0000778,21,Yes,Travel_Rarely,Spain,Bilbao,1447,Research & Development,10,3,Life Sciences,1,778,3,Female,19/01/2025,36,2,1,Laboratory Technician,1,Single,44022,40020,1,Y,No,13,3,1,80,0,1,6,2,1,0,1,0
+EMP0000779,46,No,Travel_Rarely,Spain,Seville,1088,Research & Development,8,4,Life Sciences,1,779,4,Female,09/01/2010,74,2,2,Research Scientist,1,Divorced,33099,30090,8,Y,Yes,23,4,1,80,3,19,2,3,16,13,1,7
+EMP0000781,28,Yes,Non-Travel,Spain,Valencia,1481,Research & Development,24,2,Technical Degree,1,781,2,Male,21/10/2016,72,2,3,Healthcare Representative,1,Single,45078,40980,1,Y,No,12,3,1,80,0,10,2,2,10,7,1,9
+EMP0000782,26,No,Travel_Rarely,France,Marseille,208,Research & Development,1,2,Medical,1,782,1,Male,21/09/2021,59,2,1,Laboratory Technician,1,Married,6336,5760,1,Y,No,16,3,1,80,2,6,2,3,5,3,1,3
+EMP0000783,30,No,Travel_Rarely,Germany,Cologne,1275,Research & Development,20,3,Other,1,783,3,Male,12/02/2020,85,3,5,Manufacturing Director,1,Married,38808,35280,0,Y,No,15,3,3,80,1,7,1,2,6,2,0,2
+EMP0000788,55,No,Travel_Frequently,Germany,Berlin,1183,Research & Development,2,1,Life Sciences,1,788,4,Male,03/09/2023,65,3,5,Manufacturing Director,2,Married,36003,32730,3,Y,No,18,3,2,80,1,23,4,3,3,2,1,2
+EMP0000790,44,Yes,Travel_Rarely,Netherlands,Rotterdam,1492,Human Resources,1,2,Medical,1,790,2,Male,11/10/2006,91,2,3,Human Resources,1,Married,45408,41280,9,Y,No,14,3,4,80,1,24,1,3,20,6,3,6
+EMP0000792,35,Yes,Travel_Rarely,France,Lyon,1306,Sales,4,3,Technical Degree,1,792,4,Male,06/02/2018,86,3,3,Sales Executive,1,Single,39732,36120,0,Y,Yes,22,4,1,80,0,9,2,3,8,7,4,7
+EMP0000799,33,Yes,Travel_Rarely,Spain,Madrid,1103,Research & Development,25,3,Medical,1,799,1,Male,01/01/2024,55,2,1,Research Scientist,2,Single,33561,30510,4,Y,Yes,20,4,2,80,0,5,0,3,2,2,2,2
+EMP0000800,42,No,Travel_Rarely,Netherlands,Utrecht,508,Research & Development,2,2,Medical,1,800,4,Male,10/08/2004,35,3,4,Manager,1,Married,15477,14070,0,Y,No,17,3,4,80,1,23,3,3,22,6,13,7
+EMP0000801,28,Yes,Travel_Frequently,Spain,Barcelona,1094,Research & Development,1,3,Medical,1,801,1,Male,25/11/2025,45,2,1,Laboratory Technician,2,Divorced,33297,30270,1,Y,No,15,3,1,80,2,1,2,3,1,0,0,0
+EMP0000803,33,No,Travel_Frequently,France,Paris,1052,Sales,7,3,Life Sciences,1,803,4,Female,24/08/2023,30,3,2,Sales Executive,2,Married,32010,29100,0,Y,No,17,3,3,80,1,4,3,3,3,2,0,2
+EMP0000807,52,No,Travel_Rarely,Netherlands,Eindhoven,1078,Research & Development,7,4,Life Sciences,1,807,2,Male,14/03/2018,87,3,3,Healthcare Representative,2,Single,32802,29820,7,Y,No,19,3,4,80,0,18,4,3,8,6,4,0
+EMP0000810,28,No,Travel_Rarely,United Kingdom,Birmingham,1030,Research & Development,3,3,Medical,1,810,4,Female,21/11/2017,93,3,5,Manufacturing Director,2,Divorced,31350,28500,0,Y,No,17,3,2,80,3,10,3,2,9,7,1,7
+EMP0000812,38,No,Travel_Rarely,Italy,Venice,141,Sales,2,2,Marketing,1,812,4,Male,25/04/2025,32,3,3,Sales Executive,2,Single,4290,3900,7,Y,No,16,3,3,80,0,10,2,3,1,0,0,0
+EMP0000813,43,No,Travel_Frequently,United Kingdom,Leeds,1173,Research & Development,27,3,Life Sciences,1,813,3,Female,10/11/2018,83,3,5,Manufacturing Director,1,Married,35706,32460,8,Y,No,11,3,3,80,1,18,1,3,8,7,0,1
+EMP0000816,21,No,Travel_Rarely,France,Toulouse,1067,Research & Development,1,1,Technical Degree,1,816,4,Female,10/09/2024,70,2,1,Research Scientist,2,Single,32472,29520,1,Y,Yes,11,3,3,80,0,2,6,4,2,2,2,2
+EMP0000817,39,No,Non-Travel,France,Nice,476,Research & Development,9,3,Life Sciences,1,817,3,Male,17/07/2021,70,3,2,Laboratory Technician,2,Single,14487,13170,9,Y,No,15,3,3,80,0,9,2,2,5,4,0,3
+EMP0000820,28,No,Travel_Rarely,Germany,Munich,1574,Research & Development,2,1,Life Sciences,1,820,1,Male,10/01/2021,67,2,1,Research Scientist,2,Married,47883,43530,0,Y,No,17,3,1,80,0,6,2,1,5,3,0,4
+EMP0000822,49,No,Travel_Rarely,United Kingdom,London,188,Sales,8,4,Technical Degree,1,822,4,Male,04/12/2017,56,2,4,Sales Executive,2,Married,5742,5220,6,Y,No,17,3,2,80,1,22,3,3,9,8,2,3
+EMP0000824,29,No,Travel_Frequently,Germany,Frankfurt,531,Research & Development,10,3,Life Sciences,1,824,4,Female,06/02/2019,61,3,1,Research Scientist,2,Divorced,16170,14700,0,Y,No,14,3,4,80,2,8,2,2,7,5,1,1
+EMP0000830,33,Yes,Travel_Rarely,Germany,Hamburg,654,Sales,9,4,Marketing,1,830,1,Female,11/01/2021,77,3,2,Sales Executive,1,Single,19899,18090,0,Y,Yes,17,3,1,80,0,6,3,3,5,2,0,3
+EMP0000837,29,Yes,Travel_Rarely,Netherlands,Utrecht,442,Sales,23,1,Life Sciences,1,837,4,Female,26/08/2015,45,2,3,Sales Executive,1,Married,13464,12240,1,Y,No,13,3,1,80,1,11,3,1,11,8,3,10
+EMP0000839,42,Yes,Travel_Frequently,France,Lyon,521,Sales,12,3,Life Sciences,1,839,3,Male,17/06/2005,44,3,4,Sales Executive,1,Single,15873,14430,0,Y,Yes,12,3,2,80,0,22,2,2,21,9,13,14
+EMP0000840,42,No,Travel_Rarely,France,Paris,701,Sales,4,4,Marketing,1,840,2,Male,11/11/2020,45,3,2,Sales Executive,1,Single,21351,19410,7,Y,No,13,3,4,80,0,9,3,4,6,4,1,5
+EMP0000842,24,No,Travel_Rarely,France,Toulouse,517,Research & Development,24,3,Medical,1,842,4,Male,22/05/2022,49,3,1,Laboratory Technician,2,Single,15741,14310,8,Y,No,22,4,4,80,0,6,2,3,4,3,1,2
+EMP0000847,35,No,Travel_Rarely,United Kingdom,Manchester,888,Research & Development,2,3,Life Sciences,1,847,3,Male,05/02/2019,44,2,5,Manufacturing Director,2,Divorced,27027,24570,2,Y,No,18,3,2,80,1,15,2,4,7,7,6,4
+EMP0000848,34,No,Travel_Frequently,Poland,Lodz,725,Research & Development,1,3,Medical,1,848,4,Male,13/11/2013,97,2,2,Healthcare Representative,1,Single,22077,20070,0,Y,No,20,4,3,80,0,14,3,3,13,9,4,9
+EMP0000851,32,No,Non-Travel,United Kingdom,Birmingham,935,Sales,2,1,Life Sciences,1,851,3,Female,04/12/2025,76,3,1,Sales Representative,1,Divorced,28446,25860,1,Y,No,12,3,3,80,3,1,3,3,1,0,0,0
+EMP0000852,56,No,Travel_Rarely,Spain,Barcelona,778,Research & Development,4,4,Technical Degree,1,852,4,Female,17/05/2021,92,3,5,Manager,1,Divorced,23694,21540,4,Y,No,13,3,4,80,1,28,2,3,5,2,4,2
+EMP0000854,19,No,Travel_Rarely,Italy,Naples,699,Research & Development,9,2,Life Sciences,1,854,3,Male,13/05/2025,54,3,1,Research Scientist,1,Single,21285,19350,1,Y,No,25,4,3,80,0,1,4,3,1,1,0,0
+EMP0000862,46,No,Travel_Rarely,Germany,Frankfurt,1520,Sales,2,3,Marketing,1,862,3,Female,03/02/2000,69,3,4,Manager,1,Married,46266,42060,8,Y,No,23,4,1,80,0,28,2,3,26,15,15,9
+EMP0000865,41,Yes,Non-Travel,Germany,Berlin,982,Research & Development,5,2,Life Sciences,1,865,1,Male,08/01/2025,95,2,1,Research Scientist,1,Divorced,29898,27180,6,Y,No,17,3,1,80,1,5,2,1,1,0,0,0
+EMP0000866,30,No,Travel_Rarely,France,Paris,1441,Sales,29,4,Life Sciences,1,866,3,Male,19/03/2022,61,3,2,Sales Executive,1,Divorced,43857,39870,8,Y,No,19,3,3,80,3,8,3,3,4,3,0,3
+EMP0000867,40,No,Travel_Frequently,United Kingdom,Birmingham,1284,Sales,2,4,Medical,1,867,2,Male,15/12/2026,62,3,2,Sales Executive,2,Married,39072,35520,5,Y,No,12,3,4,80,3,5,2,3,0,0,0,0
+EMP0000868,50,No,Travel_Frequently,United Kingdom,Manchester,1541,Research & Development,2,3,Medical,1,868,4,Female,03/04/2024,30,3,4,Manager,1,Married,46893,42630,2,Y,No,22,4,3,80,1,32,3,3,2,2,2,2
+EMP0000869,28,No,Travel_Rarely,Italy,Turin,1278,Research & Development,19,4,Medical,1,869,4,Male,19/04/2020,78,2,1,Laboratory Technician,1,Married,38907,35370,1,Y,No,12,3,3,80,3,6,2,3,6,5,3,3
+EMP0000870,46,No,Travel_Rarely,Netherlands,Utrecht,1572,Research & Development,15,2,Life Sciences,1,870,4,Male,17/12/2022,52,3,5,Research Director,2,Married,47850,43500,5,Y,No,11,3,1,80,1,25,2,3,4,2,0,3
+EMP0000871,35,No,Travel_Rarely,Germany,Munich,1476,Sales,17,4,Life Sciences,1,871,3,Male,02/05/2019,94,3,2,Sales Executive,1,Married,44913,40830,3,Y,Yes,15,3,4,80,3,15,2,3,7,7,1,7
+EMP0000872,24,Yes,Travel_Rarely,Germany,Hamburg,1067,Research & Development,17,2,Life Sciences,1,872,4,Female,17/06/2025,97,3,1,Laboratory Technician,2,Married,32472,29520,1,Y,No,13,3,1,80,1,1,3,1,1,0,0,0
+EMP0000879,42,No,Non-Travel,United Kingdom,London,194,Human Resources,2,5,Medical,1,879,4,Male,07/12/2022,79,4,2,Human Resources,1,Married,5907,5370,7,Y,No,16,3,1,80,1,10,3,4,4,3,0,3
+EMP0000881,32,No,Travel_Frequently,United Kingdom,Leeds,125,Research & Development,13,3,Other,1,881,3,Female,21/09/2024,77,2,1,Laboratory Technician,2,Married,3828,3480,1,Y,No,20,4,3,80,1,2,2,3,2,2,2,2
+EMP0000883,36,No,Travel_Rarely,United Kingdom,London,393,Research & Development,1,3,Technical Degree,1,883,3,Female,10/02/2019,77,1,5,Manufacturing Director,1,Divorced,11979,10890,2,Y,Yes,21,4,3,80,1,17,2,3,7,7,7,7
+EMP0000885,40,No,Travel_Rarely,Spain,Barcelona,116,Sales,10,3,Technical Degree,1,885,2,Female,02/12/2021,84,2,2,Sales Executive,2,Divorced,3531,3210,7,Y,No,12,3,2,80,1,7,2,4,5,1,1,3
+EMP0000887,30,No,Travel_Rarely,France,Paris,1589,Research & Development,1,3,Medical,1,887,4,Male,27/03/2015,63,3,1,Research Scientist,2,Married,48345,43950,0,Y,Yes,21,4,1,80,1,12,2,3,11,9,5,7
+EMP0000888,42,No,Travel_Frequently,United Kingdom,Manchester,496,Research & Development,26,5,Medical,1,888,1,Female,11/05/2025,60,3,5,Research Director,1,Married,15114,13740,3,Y,Yes,17,3,3,80,0,20,6,3,1,0,0,0
+EMP0000890,27,No,Travel_Rarely,United Kingdom,Leeds,1196,Research & Development,14,3,Life Sciences,1,890,1,Male,20/10/2017,42,3,1,Research Scientist,1,Married,36399,33090,1,Y,Yes,14,3,4,80,2,9,3,2,9,7,6,8
+EMP0000893,19,Yes,Non-Travel,Italy,Venice,546,Research & Development,10,3,Medical,1,893,1,Female,27/04/2025,96,2,1,Research Scientist,2,Single,16632,15120,1,Y,Yes,25,4,2,80,0,1,2,4,1,1,0,0
+EMP0000896,31,No,Travel_Rarely,United Kingdom,Birmingham,1444,Research & Development,11,2,Medical,1,896,3,Male,09/03/2020,80,3,2,Healthcare Representative,1,Married,43956,39960,1,Y,Yes,12,3,4,80,0,6,2,2,6,5,0,1
+EMP0000897,31,No,Travel_Rarely,Germany,Berlin,1152,Research & Development,24,3,Medical,1,897,3,Female,16/08/2016,96,2,2,Healthcare Representative,1,Single,35046,31860,1,Y,No,19,3,2,80,0,10,2,3,10,9,1,8
+EMP0000901,36,No,Travel_Frequently,United Kingdom,Birmingham,508,Research & Development,3,3,Technical Degree,1,901,3,Male,28/02/2015,46,3,1,Research Scientist,2,Married,15477,14070,1,Y,No,12,3,3,80,0,12,2,2,11,10,0,7
+EMP0000902,48,No,Travel_Rarely,United Kingdom,Manchester,1051,Research & Development,2,2,Technical Degree,1,902,4,Male,02/02/2025,76,4,1,Laboratory Technician,2,Single,31977,29070,5,Y,No,11,3,3,80,0,7,4,2,1,0,0,0
+EMP0000908,44,No,Travel_Rarely,Germany,Hamburg,1192,Sales,5,3,Marketing,1,908,2,Male,22/03/2004,88,3,5,Manager,2,Married,36267,32970,7,Y,No,11,3,3,80,1,26,5,3,22,9,3,10
+EMP0000914,45,Yes,Travel_Rarely,Germany,Cologne,1571,Sales,2,3,Marketing,1,914,1,Female,05/11/2002,94,1,5,Manager,2,Single,47817,43470,2,Y,Yes,16,3,1,80,0,26,2,3,24,10,1,11
+EMP0000915,55,No,Non-Travel,France,Lyon,192,Research & Development,8,1,Medical,1,915,4,Male,18/03/1993,37,2,4,Healthcare Representative,2,Divorced,5841,5310,1,Y,Yes,15,3,4,80,1,34,3,3,33,9,15,0
+EMP0000917,46,No,Travel_Rarely,Germany,Frankfurt,182,Sales,4,2,Marketing,1,917,4,Female,11/09/2015,33,2,5,Manager,2,Married,5544,5040,2,Y,No,14,3,3,80,1,26,2,3,11,4,0,8
+EMP0000918,34,No,Travel_Rarely,Netherlands,Utrecht,142,Sales,2,3,Marketing,1,918,3,Female,20/11/2023,86,3,2,Sales Executive,1,Single,4323,3930,0,Y,Yes,12,3,4,80,0,4,3,3,3,2,0,2
+EMP0000919,51,No,Travel_Frequently,Spain,Madrid,257,Sales,9,3,Life Sciences,1,919,4,Male,13/02/1997,83,3,5,Manager,2,Divorced,7821,7110,4,Y,Yes,24,4,1,80,1,31,5,2,29,10,11,10
+EMP0000921,34,No,Travel_Frequently,Italy,Venice,146,Research & Development,19,3,Medical,1,921,3,Female,08/02/2015,46,3,2,Laboratory Technician,2,Divorced,4455,4050,4,Y,No,13,3,3,80,2,15,2,4,11,8,5,10
+EMP0000923,44,No,Travel_Rarely,Italy,Naples,1300,Research & Development,4,2,Life Sciences,1,923,3,Male,14/12/2001,92,4,5,Manager,1,Divorced,39567,35970,1,Y,No,14,3,4,80,2,26,4,2,25,9,14,13
+EMP0000924,34,No,Travel_Frequently,Spain,Seville,702,Human Resources,11,3,Life Sciences,1,924,3,Male,22/04/2016,56,2,2,Human Resources,2,Married,21384,19440,4,Y,No,11,3,4,80,2,14,5,4,10,9,1,8
+EMP0000926,42,No,Travel_Rarely,United Kingdom,Leeds,654,Research & Development,7,4,Medical,1,926,2,Female,19/05/2025,78,4,2,Research Scientist,2,Married,19899,18090,6,Y,Yes,16,3,4,80,0,18,2,3,1,0,0,0
+EMP0000928,36,No,Travel_Rarely,France,Paris,465,Research & Development,2,4,Life Sciences,1,928,3,Female,06/07/2010,53,3,5,Manufacturing Director,2,Single,14157,12870,9,Y,Yes,11,3,4,80,0,18,2,3,16,14,5,12
+EMP0000934,28,No,Travel_Rarely,France,Marseille,694,Research & Development,1,3,Technical Degree,1,934,4,Male,05/10/2023,84,3,1,Research Scientist,1,Single,21120,19200,2,Y,No,11,3,2,80,0,5,2,2,3,2,1,2
+EMP0000935,25,No,Travel_Rarely,United Kingdom,Manchester,288,Research & Development,1,3,Medical,1,935,4,Female,19/02/2024,40,3,1,Research Scientist,2,Single,8778,7980,1,Y,No,18,3,4,80,0,2,3,2,2,2,2,1
+EMP0000937,45,No,Travel_Frequently,United Kingdom,Edinburgh,394,Research & Development,25,3,Medical,1,937,2,Female,25/02/2026,83,3,5,Manager,2,Single,12012,10920,3,Y,No,22,4,3,80,0,22,4,3,0,0,0,0
+EMP0000938,39,No,Travel_Rarely,Netherlands,Rotterdam,446,Research & Development,13,4,Medical,1,938,3,Female,11/01/2007,94,2,4,Manager,2,Divorced,13596,12360,6,Y,Yes,13,3,4,80,2,21,4,3,19,9,15,2
+EMP0000941,39,Yes,Travel_Rarely,Germany,Cologne,390,Research & Development,23,3,Medical,1,941,3,Male,21/05/2021,93,3,1,Research Scientist,1,Single,11880,10800,0,Y,No,13,3,1,80,0,6,2,3,5,2,0,3
+EMP0000944,46,No,Travel_Rarely,Italy,Naples,1075,Human Resources,1,2,Life Sciences,1,944,4,Female,26/10/2019,44,3,1,Human Resources,1,Single,32703,29730,6,Y,No,12,3,3,80,0,10,3,4,7,6,5,7
+EMP0000946,50,No,Travel_Rarely,United Kingdom,Birmingham,1434,Research & Development,28,3,Life Sciences,1,946,4,Female,02/12/2023,43,3,5,Research Director,1,Married,43626,39660,4,Y,Yes,11,3,2,80,0,25,2,3,3,2,1,2
+EMP0000947,40,Yes,Travel_Rarely,United Kingdom,Edinburgh,324,Sales,25,4,Marketing,1,947,4,Male,08/09/2021,57,2,3,Sales Executive,2,Single,9867,8970,2,Y,Yes,12,3,3,80,0,9,2,3,5,4,1,0
+EMP0000948,52,Yes,Travel_Rarely,Netherlands,Rotterdam,1117,Sales,5,3,Life Sciences,1,948,2,Male,07/09/2018,64,3,3,Sales Executive,2,Single,33990,30900,9,Y,Yes,19,3,3,80,0,10,2,2,8,7,7,7
+EMP0000949,30,No,Travel_Rarely,Italy,Naples,687,Research & Development,17,4,Medical,1,949,2,Female,09/04/2017,95,3,3,Manager,1,Married,20922,19020,1,Y,Yes,23,4,4,80,2,9,2,3,9,1,0,8
+EMP0000952,41,No,Non-Travel,France,Nice,277,Sales,10,2,Medical,1,952,3,Male,28/03/2007,40,1,2,Sales Executive,2,Single,8448,7680,1,Y,No,13,3,1,80,0,19,4,3,19,2,11,9
+EMP0000953,31,Yes,Travel_Frequently,United Kingdom,Edinburgh,1149,Sales,1,3,Life Sciences,1,953,4,Female,15/02/2023,54,3,1,Sales Representative,2,Single,34980,31800,1,Y,Yes,11,3,1,80,0,3,2,4,3,2,2,2
+EMP0000954,44,Yes,Travel_Rarely,Netherlands,The Hague,1014,Research & Development,3,3,Life Sciences,1,954,1,Male,28/02/2023,89,3,1,Laboratory Technician,1,Married,30855,28050,4,Y,No,12,3,3,80,0,10,4,4,3,2,1,2
+EMP0000957,56,No,Travel_Rarely,France,Paris,223,Human Resources,8,4,Life Sciences,1,957,4,Male,25/10/2019,99,3,5,Manager,2,Single,6798,6180,6,Y,No,14,3,1,80,0,36,4,3,7,3,7,7
+EMP0000961,41,No,Travel_Frequently,United Kingdom,Leeds,1104,Sales,1,3,Marketing,1,961,3,Female,23/11/2017,66,3,2,Sales Executive,1,Divorced,33594,30540,0,Y,No,17,3,4,80,1,10,2,3,9,3,1,7
+EMP0000963,51,No,Travel_Rarely,United Kingdom,Edinburgh,835,Human Resources,5,3,Life Sciences,1,963,3,Male,15/03/1993,84,3,4,Manager,2,Divorced,25410,23100,1,Y,Yes,11,3,2,80,1,33,2,3,33,9,0,10
+EMP0000964,38,No,Travel_Rarely,Germany,Berlin,1094,Sales,2,2,Life Sciences,1,964,2,Female,17/08/2019,31,3,2,Sales Executive,1,Divorced,33297,30270,3,Y,No,15,3,4,80,1,11,3,3,7,7,1,7
+EMP0000965,34,No,Travel_Rarely,Germany,Munich,550,Sales,15,2,Medical,1,965,3,Female,26/05/2016,66,3,2,Sales Executive,1,Single,16731,15210,1,Y,No,12,3,4,80,0,10,6,4,10,8,9,6
+EMP0000967,58,Yes,Travel_Rarely,Spain,Bilbao,651,Research & Development,7,4,Medical,1,967,3,Female,06/07/2016,53,2,5,Manufacturing Director,1,Married,19833,18030,7,Y,Yes,14,3,4,80,0,31,0,2,10,9,5,9
+EMP0000968,40,No,Travel_Rarely,Germany,Cologne,356,Research & Development,1,4,Life Sciences,1,968,2,Male,20/01/2022,88,3,1,Laboratory Technician,2,Married,10857,9870,3,Y,No,22,4,3,80,1,7,3,3,4,2,0,3
+EMP0000969,36,No,Travel_Frequently,France,Nice,658,Sales,7,3,Marketing,1,969,1,Female,14/04/2011,83,4,2,Sales Executive,1,Married,20031,18210,2,Y,No,16,3,4,80,1,17,2,2,15,7,6,13
+EMP0000972,51,No,Travel_Rarely,Netherlands,Rotterdam,1524,Research & Development,11,2,Technical Degree,1,972,4,Female,19/10/2021,82,2,5,Manufacturing Director,2,Single,46365,42150,3,Y,No,16,3,2,80,0,29,1,2,5,2,0,3
+EMP0000977,56,No,Travel_Rarely,France,Paris,1485,Research & Development,23,3,Life Sciences,1,977,4,Male,28/10/2007,68,3,5,Manufacturing Director,2,Married,45177,41070,4,Y,Yes,12,3,1,80,1,33,0,3,19,16,15,9
+EMP0000985,28,No,Travel_Rarely,Spain,Madrid,798,Sales,26,3,Life Sciences,1,985,3,Male,16/10/2021,48,2,2,Sales Executive,1,Married,24288,22080,1,Y,No,11,3,3,80,1,5,0,3,5,3,0,4
+EMP0000988,51,No,Travel_Frequently,Germany,Berlin,586,Sales,2,3,Marketing,1,988,2,Male,03/03/2022,52,3,3,Sales Executive,2,Married,17853,16230,2,Y,No,11,3,2,80,0,14,5,3,4,2,3,2
+EMP0000992,32,No,Travel_Rarely,Spain,Madrid,541,Sales,2,1,Marketing,1,992,3,Male,08/04/2023,36,3,2,Sales Executive,2,Married,16467,14970,0,Y,Yes,13,3,1,80,3,4,3,2,3,2,1,2
+EMP0001000,42,No,Travel_Rarely,Germany,Hamburg,1244,Human Resources,10,3,Human Resources,1,1000,3,Female,06/06/2006,31,3,4,Manager,1,Married,37851,34410,0,Y,No,14,3,3,80,1,21,5,3,20,7,0,9
+EMP0001001,52,No,Travel_Rarely,United Kingdom,Edinburgh,279,Research & Development,8,4,Other,1,1001,3,Female,19/07/2021,54,3,1,Laboratory Technician,1,Married,8514,7740,9,Y,No,13,3,3,80,0,12,2,1,5,4,0,4
+EMP0001005,26,No,Travel_Rarely,Italy,Naples,707,Research & Development,7,3,Other,1,1005,3,Male,09/06/2019,100,4,1,Laboratory Technician,1,Single,21516,19560,0,Y,No,12,3,4,80,0,8,2,3,7,7,0,7
+EMP0001006,29,No,Travel_Rarely,France,Lyon,360,Human Resources,17,3,Other,1,1006,2,Male,10/03/2016,51,2,3,Human Resources,1,Single,10956,9960,1,Y,No,13,3,1,80,0,10,3,2,10,9,0,9
+EMP0001007,49,Yes,Travel_Frequently,Spain,Madrid,1600,Research & Development,28,2,Life Sciences,1,1007,1,Male,28/02/2022,97,2,2,Laboratory Technician,1,Single,48675,44250,3,Y,No,20,4,1,80,0,20,2,3,4,3,1,3
+EMP0001010,58,No,Travel_Rarely,France,Marseille,1144,Research & Development,1,3,Medical,1,1010,4,Female,17/01/2017,76,3,5,Research Director,1,Married,34815,31650,3,Y,Yes,21,4,3,80,1,32,3,3,9,8,1,5
+EMP0001012,36,No,Travel_Rarely,Poland,Wroclaw,1273,Sales,3,4,Marketing,1,1012,1,Female,01/01/2021,99,3,2,Sales Executive,2,Single,38742,35220,3,Y,Yes,16,3,4,80,0,15,3,3,5,4,0,1
+EMP0001014,30,No,Travel_Rarely,United Kingdom,Edinburgh,927,Sales,7,4,Marketing,1,1014,4,Female,15/02/2023,73,3,2,Sales Executive,1,Divorced,28215,25650,7,Y,No,14,3,2,80,2,8,3,3,3,2,0,2
+EMP0001015,31,No,Travel_Rarely,Spain,Bilbao,197,Research & Development,8,5,Life Sciences,1,1015,1,Female,26/09/2023,93,3,5,Research Director,2,Single,6006,5460,3,Y,No,11,3,3,80,0,9,3,4,3,2,1,0
+EMP0001016,34,No,Travel_Frequently,Netherlands,The Hague,607,Research & Development,1,4,Other,1,1016,4,Male,08/06/2022,91,3,1,Research Scientist,1,Divorced,18480,16800,5,Y,No,14,3,3,80,2,10,2,3,4,3,1,3
+EMP0001017,31,Yes,Travel_Rarely,United Kingdom,London,219,Research & Development,8,3,Life Sciences,1,1017,1,Female,19/05/2025,34,2,1,Research Scientist,2,Single,6666,6060,1,Y,No,12,3,3,80,0,1,3,4,1,0,0,0
+EMP0001018,27,No,Travel_Rarely,France,Toulouse,1493,Research & Development,11,1,Life Sciences,1,1018,2,Male,16/12/2021,91,3,1,Laboratory Technician,1,Married,45441,41310,0,Y,No,14,3,2,80,0,6,3,4,5,0,1,4
+EMP0001020,36,No,Travel_Rarely,United Kingdom,Manchester,356,Sales,16,4,Marketing,1,1020,3,Female,10/03/2023,98,2,2,Sales Executive,1,Married,10857,9870,4,Y,No,13,3,1,80,2,11,3,2,3,2,0,2
+EMP0001022,25,Yes,Travel_Rarely,Germany,Berlin,415,Sales,9,2,Life Sciences,1,1022,1,Male,16/03/2023,68,2,1,Sales Representative,1,Married,12639,11490,3,Y,No,12,3,1,80,0,6,2,3,3,2,2,2
+EMP0001024,56,No,Travel_Rarely,Poland,Lodz,1361,Research & Development,1,2,Life Sciences,1,1024,1,Female,07/06/2023,90,3,1,Research Scientist,1,Married,41415,37650,2,Y,No,22,4,4,80,1,5,3,4,3,2,1,0
+EMP0001028,34,No,Travel_Rarely,Italy,Rome,435,Research & Development,1,3,Life Sciences,1,1028,4,Female,12/12/2021,86,2,1,Laboratory Technician,2,Married,13233,12030,5,Y,No,17,3,1,80,1,7,2,2,5,4,0,2
+EMP0001033,39,Yes,Non-Travel,United Kingdom,Manchester,642,Research & Development,2,3,Life Sciences,1,1033,1,Female,18/12/2025,54,2,1,Laboratory Technician,1,Single,19536,17760,2,Y,Yes,23,4,2,80,0,11,2,4,1,0,0,0
+EMP0001034,31,Yes,Travel_Frequently,United Kingdom,Birmingham,1567,Research & Development,1,5,Life Sciences,1,1034,3,Female,10/01/2016,100,4,5,Manufacturing Director,2,Single,47685,43350,1,Y,No,11,3,1,80,0,10,2,3,10,8,4,7
+EMP0001035,45,No,Travel_Rarely,United Kingdom,London,1126,Research & Development,20,3,Medical,1,1035,2,Male,09/04/2019,95,1,3,Healthcare Representative,1,Divorced,34254,31140,2,Y,Yes,18,3,2,80,1,24,2,3,7,7,0,7
+EMP0001036,31,No,Travel_Rarely,Spain,Bilbao,1516,Human Resources,8,2,Medical,1,1036,4,Female,26/05/2023,96,4,1,Human Resources,2,Single,46134,41940,9,Y,No,18,3,4,80,0,8,3,3,3,2,0,2
+EMP0001039,48,No,Travel_Rarely,United Kingdom,Edinburgh,1324,Sales,7,3,Marketing,1,1039,3,Male,23/06/2024,96,3,2,Sales Executive,1,Divorced,40293,36630,4,Y,No,11,3,1,80,3,15,3,3,2,2,2,2
+EMP0001041,40,No,Non-Travel,France,Nice,236,Research & Development,8,1,Medical,1,1041,4,Male,07/05/2017,55,2,5,Research Director,2,Divorced,7194,6540,2,Y,No,11,3,3,80,1,16,5,3,9,8,4,8
+EMP0001042,28,No,Travel_Rarely,Spain,Barcelona,939,Sales,5,3,Medical,1,1042,4,Male,22/12/2021,84,3,2,Sales Executive,1,Single,28578,25980,0,Y,No,18,3,4,80,0,6,4,3,5,4,1,3
+EMP0001044,53,No,Travel_Rarely,France,Lyon,484,Research & Development,2,3,Medical,1,1044,4,Male,13/03/2017,39,4,5,Research Director,2,Single,14751,13410,4,Y,No,12,3,2,80,0,35,2,2,9,8,8,8
+EMP0001047,44,No,Travel_Rarely,United Kingdom,Manchester,1591,Research & Development,20,3,Life Sciences,1,1047,4,Male,20/08/2021,49,3,1,Research Scientist,2,Single,48411,44010,1,Y,No,13,3,3,80,0,6,3,2,5,2,1,3
+EMP0001048,33,No,Travel_Frequently,United Kingdom,Birmingham,466,Sales,7,3,Medical,1,1048,4,Male,11/08/2022,54,3,2,Sales Executive,1,Married,14190,12900,0,Y,No,14,3,1,80,2,5,2,3,4,3,0,3
+EMP0001049,34,No,Travel_Rarely,Italy,Milan,1438,Sales,3,3,Other,1,1049,4,Male,07/03/2013,81,1,2,Sales Executive,1,Single,43758,39780,3,Y,No,18,3,4,80,0,15,2,3,13,9,3,12
+EMP0001055,49,No,Travel_Rarely,Poland,Poznan,1616,Research & Development,7,4,Life Sciences,1,1055,3,Male,10/10/2018,35,3,3,Healthcare Representative,2,Divorced,49170,44700,3,Y,No,14,3,2,80,2,29,3,3,8,7,0,7
+EMP0001056,34,No,Travel_Frequently,Germany,Hamburg,899,Research & Development,15,3,Medical,1,1056,2,Male,27/08/2012,71,3,5,Research Director,1,Divorced,27357,24870,7,Y,No,14,3,4,80,2,16,3,2,14,8,6,9
+EMP0001058,29,Yes,Travel_Frequently,Germany,Munich,124,Sales,13,3,Technical Degree,1,1058,1,Female,10/06/2021,51,3,2,Sales Executive,2,Single,3795,3450,5,Y,No,11,3,1,80,0,7,4,1,5,3,0,0
+EMP0001059,34,Yes,Travel_Rarely,France,Toulouse,857,Sales,24,4,Medical,1,1059,1,Female,15/03/2011,40,2,2,Sales Executive,2,Single,26070,23700,0,Y,Yes,23,4,3,80,0,16,2,4,15,9,10,10
+EMP0001061,24,Yes,Travel_Frequently,Italy,Turin,413,Research & Development,9,3,Medical,1,1061,2,Male,26/08/2026,89,3,1,Laboratory Technician,1,Single,12573,11430,2,Y,Yes,11,3,3,80,0,4,2,2,0,0,0,0
+EMP0001062,24,No,Non-Travel,Poland,Warsaw,900,Sales,13,2,Life Sciences,1,1062,4,Female,11/04/2025,78,3,1,Sales Representative,2,Married,27390,24900,1,Y,No,13,3,3,80,1,1,2,3,1,0,0,0
+EMP0001067,33,No,Travel_Rarely,United Kingdom,London,1192,Research & Development,4,4,Medical,1,1067,1,Female,12/12/2021,82,2,1,Laboratory Technician,2,Married,36267,32970,8,Y,No,11,3,4,80,0,8,5,3,5,4,0,2
+EMP0001069,28,Yes,Travel_Frequently,Germany,Berlin,313,Research & Development,2,2,Medical,1,1069,3,Male,27/03/2026,38,2,1,Laboratory Technician,1,Single,9537,8670,7,Y,No,11,3,3,80,0,8,2,2,0,0,0,0
+EMP0001071,28,No,Travel_Frequently,Germany,Cologne,506,Sales,7,3,Life Sciences,1,1071,3,Male,18/11/2022,55,3,2,Sales Executive,1,Single,15411,14010,0,Y,No,14,3,4,80,0,5,5,3,4,2,1,3
+EMP0001072,49,No,Travel_Rarely,United Kingdom,Edinburgh,293,Research & Development,3,2,Medical,1,1072,3,Female,20/04/2023,43,2,2,Laboratory Technician,1,Married,8943,8130,4,Y,No,25,4,1,80,1,10,3,3,3,2,1,2
+EMP0001073,29,No,Travel_Frequently,United Kingdom,Edinburgh,444,Research & Development,2,1,Life Sciences,1,1073,4,Female,26/02/2023,97,3,1,Laboratory Technician,2,Married,13530,12300,0,Y,No,13,3,3,80,3,4,3,3,3,2,0,2
+EMP0001074,28,No,Travel_Rarely,United Kingdom,Manchester,1174,Research & Development,29,1,Life Sciences,1,1074,3,Male,16/05/2018,96,1,5,Manufacturing Director,2,Married,35739,32490,1,Y,No,14,3,2,80,2,8,2,2,8,6,1,7
+EMP0001078,29,Yes,Travel_Rarely,Spain,Valencia,242,Research & Development,1,4,Technical Degree,1,1078,1,Male,14/06/2017,100,2,1,Research Scientist,1,Single,7392,6720,6,Y,No,13,3,3,80,0,11,2,1,9,7,0,7
+EMP0001079,44,No,Travel_Rarely,United Kingdom,Edinburgh,147,Research & Development,28,3,Life Sciences,1,1079,4,Male,14/06/2006,32,3,5,Research Director,1,Married,4488,4080,3,Y,No,13,3,3,80,1,24,1,4,20,6,14,17
+EMP0001080,39,No,Travel_Rarely,Netherlands,Utrecht,1181,Research & Development,6,3,Life Sciences,1,1080,2,Female,22/09/2024,32,3,5,Manufacturing Director,2,Single,35937,32670,4,Y,No,18,3,4,80,0,9,3,3,2,0,2,2
+EMP0001081,46,No,Travel_Rarely,Spain,Valencia,247,Sales,3,3,Life Sciences,1,1081,3,Female,25/10/2013,51,3,4,Manager,2,Married,7524,6840,8,Y,No,12,3,4,80,1,23,2,4,13,12,5,1
+EMP0001082,35,No,Travel_Rarely,United Kingdom,Edinburgh,1116,Research & Development,16,3,Life Sciences,1,1082,4,Female,18/08/2015,91,2,3,Healthcare Representative,2,Single,33957,30870,1,Y,No,19,3,4,80,0,11,3,1,11,8,3,3
+EMP0001084,40,Yes,Travel_Rarely,Italy,Milan,733,Research & Development,9,4,Life Sciences,1,1084,4,Male,14/05/2021,86,3,1,Laboratory Technician,1,Single,22308,20280,3,Y,No,14,3,2,80,0,15,3,1,5,4,1,0
+EMP0001089,42,No,Travel_Rarely,Poland,Lodz,1312,Research & Development,2,3,Medical,1,1089,3,Male,01/06/2025,68,2,1,Laboratory Technician,2,Married,39930,36300,4,Y,No,14,3,2,80,1,4,3,3,1,0,0,0
+EMP0001091,29,No,Travel_Rarely,Netherlands,Eindhoven,478,Research & Development,8,1,Other,1,1091,3,Female,04/09/2019,39,1,2,Healthcare Representative,1,Married,14553,13230,3,Y,No,13,3,3,80,1,9,3,3,7,7,0,7
+EMP0001092,33,No,Travel_Rarely,France,Toulouse,623,Research & Development,25,3,Life Sciences,1,1092,4,Male,23/04/2021,44,2,5,Manufacturing Director,2,Single,18975,17250,1,Y,No,13,3,4,80,0,5,2,3,5,3,0,2
+EMP0001095,40,No,Travel_Rarely,United Kingdom,Birmingham,1455,Sales,9,2,Medical,1,1095,1,Male,09/10/2018,47,3,2,Sales Executive,1,Married,44286,40260,0,Y,No,12,3,4,80,0,9,5,4,8,4,7,1
+EMP0001098,24,No,Travel_Rarely,United Kingdom,London,379,Research & Development,21,2,Technical Degree,1,1098,3,Male,18/02/2025,57,2,1,Laboratory Technician,1,Divorced,11550,10500,0,Y,No,14,3,2,80,3,2,3,3,1,1,0,0
+EMP0001100,45,No,Travel_Rarely,Germany,Cologne,583,Research & Development,1,4,Technical Degree,1,1100,1,Male,08/10/2016,66,3,3,Healthcare Representative,2,Divorced,17754,16140,1,Y,No,12,3,1,80,3,10,4,3,10,8,7,7
+EMP0001102,32,No,Travel_Rarely,Netherlands,Amsterdam,893,Research & Development,5,2,Life Sciences,1,1102,4,Female,18/03/2019,67,2,2,Research Scientist,2,Married,27192,24720,3,Y,No,12,3,1,80,1,12,2,3,7,1,2,5
+EMP0001106,33,No,Travel_Rarely,United Kingdom,Manchester,1347,Sales,8,4,Life Sciences,1,1106,1,Male,25/09/2024,46,3,2,Sales Executive,1,Married,40986,37260,2,Y,No,13,3,4,80,1,8,6,1,2,2,2,2
+EMP0001107,30,Yes,Travel_Rarely,Germany,Hamburg,802,Sales,1,3,Life Sciences,1,1107,2,Male,08/01/2016,64,2,2,Sales Executive,1,Married,24420,22200,1,Y,No,11,3,4,80,1,10,4,3,10,8,6,7
+EMP0001109,35,No,Travel_Rarely,Spain,Valencia,1076,Research & Development,1,3,Medical,1,1109,4,Male,24/09/2023,68,2,1,Laboratory Technician,1,Single,32736,29760,1,Y,No,19,3,2,80,0,3,3,3,3,0,1,2
+EMP0001110,30,No,Travel_Rarely,United Kingdom,London,1397,Sales,29,4,Technical Degree,1,1110,3,Male,05/05/2022,33,3,3,Sales Executive,2,Married,42504,38640,3,Y,No,12,3,2,80,1,9,3,3,4,2,1,3
+EMP0001111,35,Yes,Travel_Rarely,Italy,Turin,112,Research & Development,2,3,Life Sciences,1,1111,1,Female,04/12/2025,69,3,1,Laboratory Technician,1,Divorced,3432,3120,1,Y,Yes,12,3,4,80,1,1,2,3,1,0,0,0
+EMP0001113,38,Yes,Travel_Rarely,United Kingdom,Leeds,979,Research & Development,2,3,Medical,1,1113,3,Male,14/07/2021,81,3,5,Manufacturing Director,2,Married,29799,27090,4,Y,No,11,3,1,80,2,7,2,3,5,2,1,4
+EMP0001114,32,No,Non-Travel,France,Lyon,1301,Research & Development,1,4,Technical Degree,1,1114,4,Male,20/03/2020,62,3,2,Research Scientist,1,Married,39600,36000,4,Y,No,14,3,2,80,1,9,3,2,6,5,1,2
+EMP0001115,48,No,Travel_Rarely,France,Lyon,1201,Research & Development,15,4,Other,1,1115,3,Female,12/04/2018,65,3,1,Research Scientist,1,Married,36564,33240,8,Y,No,12,3,4,80,1,10,3,2,8,2,7,6
+EMP0001120,38,No,Travel_Rarely,United Kingdom,London,1350,Sales,14,3,Life Sciences,1,1120,3,Male,07/09/2017,80,3,2,Sales Executive,2,Married,41085,37350,0,Y,No,11,3,4,80,1,10,3,3,9,8,7,7
+EMP0001121,38,No,Travel_Rarely,Italy,Milan,474,Sales,16,3,Life Sciences,1,1121,2,Female,14/06/2023,90,3,2,Sales Executive,2,Single,14421,13110,2,Y,No,12,3,2,80,0,8,5,4,3,2,1,2
+EMP0001123,29,No,Travel_Rarely,Italy,Naples,1486,Research & Development,3,1,Medical,1,1123,2,Male,02/07/2016,87,3,1,Laboratory Technician,1,Single,45210,41100,1,Y,Yes,18,3,4,80,0,10,3,3,10,9,1,5
+EMP0001129,36,No,Travel_Frequently,Germany,Frankfurt,1412,Research & Development,6,4,Life Sciences,1,1129,1,Male,01/07/2023,80,4,2,Laboratory Technician,1,Married,42966,39060,3,Y,Yes,13,3,4,80,1,9,3,3,3,2,0,2
+EMP0001133,40,No,Travel_Rarely,United Kingdom,Manchester,128,Sales,14,2,Life Sciences,1,1133,4,Female,19/06/2021,84,3,2,Sales Executive,1,Married,3894,3540,1,Y,No,15,3,3,80,1,5,2,3,5,4,1,2
+EMP0001134,43,No,Travel_Rarely,United Kingdom,Manchester,1073,Research & Development,27,3,Technical Degree,1,1134,4,Male,04/12/2020,87,4,1,Laboratory Technician,2,Divorced,32670,29700,5,Y,No,12,3,3,80,1,8,0,3,6,4,0,2
+EMP0001136,46,No,Travel_Rarely,United Kingdom,London,610,Sales,1,4,Life Sciences,1,1136,4,Male,08/03/2000,56,4,4,Manager,1,Single,18579,16890,1,Y,No,15,3,2,80,0,27,5,1,26,0,0,12
+EMP0001137,28,Yes,Travel_Rarely,Italy,Venice,356,Research & Development,24,3,Medical,1,1137,3,Male,07/06/2025,51,3,1,Laboratory Technician,2,Married,10857,9870,1,Y,Yes,17,3,3,80,3,1,3,3,1,1,0,0
+EMP0001142,30,No,Travel_Rarely,Germany,Berlin,261,Research & Development,7,3,Medical,1,1142,2,Male,03/09/2020,48,2,1,Research Scientist,2,Married,7953,7230,1,Y,No,12,3,2,80,1,6,3,2,6,4,1,1
+EMP0001143,45,No,Travel_Rarely,Spain,Barcelona,1101,Research & Development,5,5,Medical,1,1143,3,Female,21/10/2016,50,1,2,Laboratory Technician,1,Single,33495,30450,1,Y,Yes,14,3,1,80,0,10,3,3,10,7,1,4
+EMP0001144,45,No,Non-Travel,France,Lyon,364,Sales,26,3,Marketing,1,1144,1,Male,01/06/2016,52,2,2,Sales Executive,1,Married,11088,10080,1,Y,No,15,3,1,80,1,10,2,3,10,7,4,5
+EMP0001145,31,No,Travel_Frequently,Germany,Munich,775,Sales,2,4,Other,1,1145,4,Male,08/06/2021,54,3,2,Sales Executive,1,Single,23595,21450,7,Y,No,13,3,4,80,0,10,3,3,5,2,0,3
+EMP0001148,49,No,Travel_Rarely,France,Nice,783,Research & Development,25,4,Life Sciences,1,1148,3,Female,01/06/2017,84,3,1,Laboratory Technician,1,Married,23826,21660,1,Y,No,14,3,4,80,1,10,3,2,9,6,1,4
+EMP0001149,39,No,Travel_Rarely,Italy,Naples,1504,Research & Development,10,5,Medical,1,1149,2,Male,05/11/2019,76,3,5,Manufacturing Director,1,Married,45771,41610,2,Y,No,13,3,4,80,3,10,3,3,7,7,7,7
+EMP0001150,27,No,Travel_Rarely,Italy,Milan,1412,Research & Development,19,3,Other,1,1150,4,Male,21/02/2019,67,2,1,Laboratory Technician,1,Divorced,42966,39060,1,Y,No,11,3,1,80,2,7,3,3,7,7,0,7
+EMP0001151,35,No,Travel_Rarely,Spain,Barcelona,888,Research & Development,18,5,Life Sciences,1,1151,2,Male,25/01/2010,48,4,2,Research Scientist,1,Married,27027,24570,1,Y,No,11,3,4,80,0,16,2,3,16,15,1,10
+EMP0001152,28,No,Travel_Rarely,Italy,Rome,629,Research & Development,27,3,Medical,1,1152,2,Female,22/02/2021,39,1,5,Manufacturing Director,1,Divorced,19140,17400,0,Y,No,21,4,2,80,1,6,5,2,5,3,0,0
+EMP0001163,35,Yes,Travel_Rarely,Germany,Berlin,799,Sales,10,3,Medical,1,1163,4,Male,21/05/2013,55,2,3,Sales Executive,1,Married,24321,22110,9,Y,No,17,3,3,80,0,15,3,3,13,12,6,0
+EMP0001164,37,No,Travel_Rarely,Spain,Barcelona,1594,Research & Development,10,3,Medical,1,1164,2,Female,15/08/2018,71,3,1,Research Scientist,2,Married,48510,44100,1,Y,No,11,3,1,80,1,8,2,1,8,4,7,7
+EMP0001172,40,Yes,Travel_Rarely,Poland,Krakow,1441,Research & Development,7,3,Life Sciences,1,1172,1,Male,23/10/2022,73,3,1,Laboratory Technician,1,Single,43857,39870,3,Y,Yes,14,3,2,80,0,10,3,1,4,2,0,3
+EMP0001174,36,No,Travel_Rarely,Germany,Cologne,771,Research & Development,5,4,Life Sciences,1,1174,2,Female,22/04/2023,42,3,3,Healthcare Representative,1,Married,23463,21330,4,Y,No,12,3,3,80,2,9,6,3,3,2,0,2
+EMP0001176,39,No,Travel_Rarely,France,Paris,533,Research & Development,12,3,Medical,1,1176,4,Male,02/02/2021,66,3,5,Manufacturing Director,2,Married,16236,14760,4,Y,No,21,4,3,80,0,7,3,3,5,4,1,0
+EMP0001177,49,No,Travel_Rarely,Spain,Barcelona,326,Research & Development,22,4,Other,1,1177,1,Female,21/12/2022,72,3,5,Research Director,2,Married,9933,9030,3,Y,No,16,3,2,80,2,27,2,3,4,2,1,2
+EMP0001178,50,No,Travel_Rarely,United Kingdom,Birmingham,881,Research & Development,17,5,Life Sciences,1,1178,4,Female,27/04/2012,50,2,5,Research Director,1,Divorced,26829,24390,5,Y,No,15,3,3,80,3,19,3,3,14,11,1,11
+EMP0001180,34,No,Travel_Rarely,France,Nice,1225,Research & Development,3,3,Life Sciences,1,1180,4,Female,11/09/2015,66,3,2,Research Scientist,2,Divorced,37290,33900,1,Y,No,12,3,3,80,1,11,2,3,11,8,7,9
+EMP0001181,36,No,Travel_Rarely,Netherlands,Rotterdam,337,Research & Development,7,3,Life Sciences,1,1181,1,Male,16/12/2022,77,3,1,Laboratory Technician,2,Single,10263,9330,2,Y,No,11,3,3,80,0,15,4,3,4,3,1,3
+EMP0001184,36,No,Travel_Rarely,Netherlands,Eindhoven,1128,Research & Development,3,2,Life Sciences,1,1184,4,Male,01/11/2021,79,4,2,Healthcare Representative,1,Divorced,34320,31200,6,Y,No,20,4,1,80,1,13,3,3,5,4,0,4
+EMP0001189,29,No,Travel_Rarely,Germany,Cologne,1075,Sales,5,3,Medical,1,1189,1,Male,18/03/2016,43,2,2,Sales Executive,2,Divorced,32703,29730,1,Y,Yes,13,3,2,80,1,10,3,2,10,0,0,9
+EMP0001191,32,No,Travel_Rarely,United Kingdom,Birmingham,1059,Research & Development,2,3,Medical,1,1191,4,Male,12/04/2017,45,3,2,Research Scientist,2,Divorced,32241,29310,0,Y,No,13,3,3,80,2,10,4,2,9,5,1,6
+EMP0001193,49,No,Travel_Rarely,Germany,Cologne,503,Research & Development,16,3,Medical,1,1193,4,Female,15/05/2024,74,3,1,Laboratory Technician,1,Divorced,15312,13920,4,Y,Yes,16,3,2,80,1,17,2,2,2,2,2,2
+EMP0001194,38,No,Travel_Frequently,France,Toulouse,160,Research & Development,2,3,Medical,1,1194,4,Female,24/04/2022,42,2,1,Laboratory Technician,2,Single,4884,4440,1,Y,No,22,4,2,80,0,4,3,3,4,3,3,3
+EMP0001195,47,No,Travel_Rarely,United Kingdom,Leeds,1328,Sales,2,4,Life Sciences,1,1195,2,Female,23/02/2023,47,4,4,Manager,2,Divorced,40425,36750,6,Y,No,14,3,3,80,3,29,2,3,3,2,1,2
+EMP0001198,20,No,Travel_Rarely,Netherlands,Utrecht,788,Sales,9,1,Life Sciences,1,1198,4,Male,14/09/2024,54,3,1,Sales Representative,1,Single,23991,21810,1,Y,No,11,3,1,80,0,2,3,3,2,2,0,2
+EMP0001206,32,Yes,Travel_Rarely,Spain,Valencia,1365,Research & Development,2,4,Life Sciences,1,1206,4,Male,27/06/2025,95,3,1,Laboratory Technician,2,Single,41547,37770,1,Y,No,12,3,1,80,0,1,2,3,1,0,0,0
+EMP0001208,55,No,Travel_Rarely,Germany,Munich,1563,Research & Development,22,3,Technical Degree,1,1208,1,Male,22/05/2022,94,2,1,Research Scientist,2,Divorced,47553,43230,5,Y,No,12,3,4,80,1,8,1,3,4,2,1,2
+EMP0001211,33,No,Travel_Rarely,Germany,Berlin,289,Research & Development,21,3,Medical,1,1211,2,Male,22/08/2012,79,4,1,Laboratory Technician,2,Married,8811,8010,1,Y,No,18,3,4,80,3,14,6,3,14,11,2,13
+EMP0001226,45,No,Travel_Rarely,France,Nice,1090,Research & Development,28,2,Technical Degree,1,1226,4,Female,05/01/2005,48,2,5,Research Director,2,Single,33165,30150,1,Y,No,11,3,3,80,0,21,2,3,21,6,8,6
+EMP0001229,41,No,Non-Travel,Poland,Poznan,598,Human Resources,4,3,Human Resources,1,1229,3,Male,14/07/2023,60,1,2,Human Resources,2,Married,18216,16560,6,Y,No,19,3,2,80,1,10,4,3,3,2,1,2
+EMP0001230,40,No,Travel_Rarely,Germany,Berlin,400,Research & Development,8,2,Life Sciences,1,1230,2,Female,07/11/2025,92,3,5,Manufacturing Director,1,Married,12177,11070,2,Y,Yes,16,3,2,80,1,18,3,3,1,0,0,0
+EMP0001231,24,No,Travel_Rarely,Italy,Milan,548,Research & Development,29,1,Medical,1,1231,2,Male,24/04/2020,91,3,1,Laboratory Technician,1,Divorced,16698,15180,1,Y,No,13,3,2,80,3,6,2,4,6,2,1,2
+EMP0001232,46,No,Travel_Rarely,United Kingdom,London,777,Research & Development,13,4,Life Sciences,1,1232,3,Male,02/10/2016,34,3,2,Healthcare Representative,2,Single,23661,21510,6,Y,No,14,3,4,80,0,19,3,3,10,7,0,9
+EMP0001235,47,No,Non-Travel,France,Toulouse,589,Sales,2,4,Marketing,1,1235,3,Male,27/02/2025,87,3,2,Sales Executive,2,Married,17919,16290,7,Y,No,11,3,4,80,1,4,3,1,1,0,0,0
+EMP0001237,36,Yes,Travel_Rarely,Italy,Rome,1579,Sales,13,5,Marketing,1,1237,2,Male,14/05/2024,96,2,2,Sales Executive,1,Divorced,48048,43680,5,Y,Yes,13,3,2,80,3,16,3,3,2,2,2,2
+EMP0001238,32,Yes,Travel_Rarely,France,Toulouse,1045,Sales,1,2,Life Sciences,1,1238,1,Male,14/04/2026,34,1,2,Sales Executive,2,Single,31812,28920,6,Y,No,15,3,2,80,0,10,2,3,0,0,0,0
+EMP0001239,23,No,Travel_Rarely,Netherlands,Utrecht,173,Research & Development,4,1,Medical,1,1239,3,Female,14/03/2023,51,3,1,Laboratory Technician,2,Single,5280,4800,1,Y,No,13,3,3,80,0,3,3,1,3,2,1,2
+EMP0001243,40,No,Travel_Rarely,Spain,Barcelona,662,Sales,7,4,Medical,1,1243,2,Male,12/04/2005,88,3,5,Manager,2,Single,20163,18330,1,Y,No,14,3,2,80,0,21,3,2,21,8,12,8
+EMP0001245,30,No,Travel_Frequently,Spain,Seville,1423,Research & Development,2,4,Technical Degree,1,1245,4,Female,28/11/2017,78,2,1,Research Scientist,1,Single,43296,39360,0,Y,No,16,3,4,80,0,10,2,3,9,7,0,7
+EMP0001250,29,Yes,Travel_Rarely,France,Paris,464,Sales,9,3,Marketing,1,1250,2,Female,03/03/2024,52,1,1,Sales Representative,2,Single,14124,12840,1,Y,No,13,3,3,80,0,2,3,3,2,2,2,2
+EMP0001252,30,No,Travel_Rarely,France,Lyon,1062,Sales,15,2,Marketing,1,1252,3,Male,22/03/2019,94,2,3,Sales Executive,1,Divorced,32307,29370,2,Y,No,11,3,1,80,1,12,2,3,7,7,1,7
+EMP0001254,33,No,Non-Travel,United Kingdom,Leeds,1391,Sales,2,3,Marketing,1,1254,4,Female,08/12/2015,62,3,2,Sales Executive,2,Single,42339,38490,8,Y,No,15,3,4,80,0,13,2,2,11,7,1,7
+EMP0001256,33,Yes,Travel_Rarely,Germany,Hamburg,228,Sales,16,3,Life Sciences,1,1256,1,Female,15/01/2026,74,3,3,Sales Executive,1,Single,6963,6330,2,Y,Yes,20,4,3,80,0,11,2,2,0,0,0,0
+EMP0001257,38,No,Travel_Frequently,United Kingdom,Manchester,644,Research & Development,2,2,Medical,1,1257,3,Female,11/02/2020,75,2,1,Laboratory Technician,2,Married,19602,17820,4,Y,No,14,3,2,80,1,9,4,2,6,1,0,5
+EMP0001259,29,No,Travel_Rarely,United Kingdom,Birmingham,640,Research & Development,4,3,Technical Degree,1,1259,4,Female,26/01/2025,91,2,1,Research Scientist,1,Divorced,19470,17700,1,Y,No,13,3,3,80,1,1,2,3,1,0,0,0
+EMP0001261,32,No,Non-Travel,Germany,Munich,1033,Research & Development,5,4,Technical Degree,1,1261,2,Male,10/10/2019,65,3,1,Research Scientist,2,Single,31449,28590,2,Y,No,14,3,2,80,0,12,3,3,7,7,0,7
+EMP0001264,42,No,Travel_Rarely,Germany,Hamburg,927,Research & Development,12,3,Medical,1,1264,2,Male,11/07/2021,57,3,1,Laboratory Technician,2,Divorced,28215,25650,8,Y,No,22,4,2,80,3,7,6,2,5,3,0,4
+EMP0001265,55,No,Travel_Rarely,United Kingdom,Birmingham,518,Research & Development,2,3,Medical,1,1265,3,Male,23/05/2025,60,2,5,Research Director,1,Married,15774,14340,8,Y,No,12,3,2,80,3,34,2,3,1,0,0,0
+EMP0001266,33,No,Non-Travel,United Kingdom,Edinburgh,840,Research & Development,4,3,Technical Degree,1,1266,4,Male,22/03/2017,90,3,2,Research Scientist,2,Divorced,25575,23250,5,Y,No,15,3,4,80,2,11,2,2,9,8,1,7
+EMP0001267,41,No,Travel_Rarely,Germany,Berlin,594,Research & Development,9,4,Life Sciences,1,1267,3,Male,03/09/2021,94,3,1,Laboratory Technician,1,Divorced,18084,16440,1,Y,No,20,4,2,80,2,5,2,3,5,3,0,4
+EMP0001272,21,Yes,Travel_Rarely,Italy,Turin,365,Sales,7,1,Marketing,1,1272,2,Male,26/01/2025,31,3,1,Sales Representative,2,Single,11121,10110,1,Y,No,13,3,2,80,0,1,3,3,1,0,1,0
+EMP0001274,22,Yes,Travel_Rarely,United Kingdom,Birmingham,1403,Research & Development,8,1,Medical,1,1274,3,Female,02/02/2025,79,3,1,Laboratory Technician,1,Married,42702,38820,1,Y,Yes,17,3,3,80,0,1,6,3,1,0,0,0
+EMP0001277,37,No,Travel_Rarely,United Kingdom,Manchester,638,Sales,9,2,Marketing,1,1277,2,Male,22/12/2021,46,2,2,Sales Executive,2,Married,19437,17670,1,Y,No,14,3,1,80,2,5,2,3,5,2,0,3
+EMP0001279,36,No,Travel_Rarely,United Kingdom,Edinburgh,1500,Research & Development,10,3,Life Sciences,1,1279,4,Male,01/12/2014,90,3,3,Healthcare Representative,1,Married,45639,41490,7,Y,Yes,13,3,4,80,1,15,1,3,12,8,5,7
+EMP0001280,44,Yes,Travel_Frequently,France,Nice,465,Research & Development,1,2,Medical,1,1280,3,Male,19/02/2021,99,3,1,Research Scientist,2,Divorced,14157,12870,1,Y,Yes,12,3,3,80,3,6,2,2,5,3,2,3
+EMP0001281,37,No,Travel_Rarely,France,Paris,1344,Human Resources,8,2,Other,1,1281,3,Male,10/09/2016,89,3,2,Human Resources,2,Divorced,40887,37170,2,Y,No,13,3,3,80,0,19,4,2,10,0,4,7
+EMP0001283,33,No,Travel_Rarely,France,Nice,940,Research & Development,8,4,Life Sciences,1,1283,4,Male,07/02/2016,90,4,1,Research Scientist,1,Married,28611,26010,6,Y,No,19,3,2,80,1,14,1,3,10,8,7,6
+EMP0001286,46,No,Non-Travel,France,Marseille,921,Sales,26,2,Life Sciences,1,1286,2,Male,13/04/2024,98,2,2,Sales Executive,2,Single,28017,25470,8,Y,No,15,3,3,80,0,6,3,3,2,2,2,2
+EMP0001287,40,No,Travel_Rarely,United Kingdom,Manchester,668,Research & Development,2,2,Life Sciences,1,1287,3,Female,19/10/2022,99,3,1,Laboratory Technician,1,Married,20328,18480,4,Y,No,17,3,4,80,1,7,5,2,4,3,0,2
+EMP0001288,42,No,Travel_Rarely,Germany,Hamburg,1223,Research & Development,13,3,Medical,1,1288,2,Male,25/11/2026,95,4,2,Healthcare Representative,1,Married,37224,33840,5,Y,No,18,3,3,80,2,10,2,2,0,0,0,0
+EMP0001290,38,No,Non-Travel,United Kingdom,Edinburgh,1449,Human Resources,2,3,Human Resources,1,1290,1,Male,20/06/2015,100,3,1,Human Resources,2,Divorced,44088,40080,5,Y,No,13,3,4,80,3,13,3,3,11,10,3,8
+EMP0001291,34,Yes,Travel_Frequently,Germany,Munich,253,Research & Development,9,4,Life Sciences,1,1291,4,Male,26/05/2019,93,3,2,Laboratory Technician,1,Married,7722,7020,4,Y,No,17,3,3,80,1,11,3,2,7,1,0,7
+EMP0001292,37,Yes,Travel_Rarely,United Kingdom,London,401,Research & Development,10,4,Medical,1,1292,4,Male,04/09/2016,58,3,5,Manufacturing Director,1,Single,12210,11100,1,Y,No,15,3,2,80,0,10,4,1,10,3,0,8
+EMP0001295,41,No,Travel_Rarely,Italy,Turin,484,Research & Development,5,3,Life Sciences,1,1295,2,Male,17/06/2023,85,4,2,Healthcare Representative,2,Single,14751,13410,3,Y,No,12,3,1,80,0,11,3,1,3,2,1,2
+EMP0001298,26,Yes,Travel_Rarely,United Kingdom,Manchester,998,Human Resources,20,2,Medical,1,1298,4,Female,04/12/2021,69,3,1,Human Resources,2,Married,30360,27600,0,Y,Yes,11,3,3,80,0,6,3,3,5,1,1,4
+EMP0001299,46,Yes,Travel_Rarely,France,Marseille,283,Research & Development,21,2,Medical,1,1299,4,Female,28/01/2017,66,3,2,Healthcare Representative,2,Married,8613,7830,4,Y,No,22,4,4,80,1,13,2,4,9,7,3,7
+EMP0001302,58,No,Non-Travel,Netherlands,Rotterdam,379,Sales,2,3,Medical,1,1302,2,Male,13/12/2010,52,3,4,Manager,2,Divorced,11550,10500,4,Y,No,22,4,4,80,1,37,0,2,16,9,14,14
+EMP0001304,47,No,Travel_Rarely,France,Toulouse,1085,Research & Development,4,3,Life Sciences,1,1304,3,Female,15/07/2004,92,2,5,Manufacturing Director,2,Divorced,33033,30030,8,Y,Yes,12,3,3,80,1,28,4,3,22,11,14,10
+EMP0001305,40,No,Travel_Rarely,Spain,Madrid,813,Research & Development,12,3,Life Sciences,1,1305,2,Female,23/02/2019,47,3,2,Healthcare Representative,1,Divorced,24750,22500,2,Y,No,12,3,2,80,1,15,3,3,7,4,7,7
+EMP0001307,31,No,Travel_Frequently,Spain,Bilbao,1220,Sales,7,4,Marketing,1,1307,1,Female,16/12/2023,68,3,3,Sales Executive,1,Married,37125,33750,2,Y,No,14,3,4,80,2,9,3,3,3,2,2,2
+EMP0001308,28,No,Travel_Rarely,Italy,Turin,1320,Research & Development,1,3,Medical,1,1308,3,Female,02/08/2023,67,3,1,Research Scientist,1,Married,40161,36510,1,Y,No,25,4,3,80,1,3,3,3,3,2,1,2
+EMP0001313,31,Yes,Travel_Rarely,France,Toulouse,389,Human Resources,18,5,Human Resources,1,1313,4,Male,18/07/2025,89,4,1,Human Resources,1,Married,11847,10770,0,Y,No,17,3,3,80,0,2,4,3,1,0,0,0
+EMP0001314,29,Yes,Travel_Rarely,Italy,Rome,379,Human Resources,13,3,Human Resources,1,1314,1,Male,25/08/2024,56,2,1,Human Resources,1,Divorced,11550,10500,4,Y,Yes,15,3,4,80,3,4,3,3,2,2,2,0
+EMP0001316,36,No,Travel_Rarely,France,Nice,466,Research & Development,2,4,Other,1,1316,4,Female,03/02/2025,73,3,2,Research Scientist,2,Married,14190,12900,4,Y,Yes,22,4,4,80,1,15,2,3,1,0,0,0
+EMP0001327,32,Yes,Travel_Rarely,United Kingdom,Manchester,449,Sales,2,4,Marketing,1,1327,3,Male,19/02/2024,82,2,2,Sales Executive,2,Single,13662,12420,7,Y,Yes,12,3,3,80,0,7,3,2,2,2,2,2
+EMP0001328,46,No,Travel_Rarely,Spain,Barcelona,1430,Sales,3,3,Technical Degree,1,1328,1,Female,16/07/2007,45,4,4,Sales Executive,1,Divorced,43527,39570,2,Y,No,12,3,4,80,1,25,5,3,19,17,2,8
+EMP0001330,29,No,Travel_Rarely,France,Toulouse,381,Human Resources,6,1,Medical,1,1330,4,Male,16/08/2025,87,2,1,Human Resources,2,Married,11616,10560,1,Y,No,11,3,4,80,0,1,3,3,1,0,0,0
+EMP0001332,48,No,Travel_Rarely,Spain,Bilbao,1327,Research & Development,10,3,Life Sciences,1,1332,4,Male,05/05/2004,91,2,5,Research Director,2,Married,40392,36720,4,Y,No,12,3,4,80,0,29,3,3,22,10,12,9
+EMP0001334,46,Yes,Travel_Rarely,Poland,Poznan,1360,Sales,10,3,Life Sciences,1,1334,3,Female,27/12/2018,64,3,3,Sales Executive,2,Married,41382,37620,5,Y,No,21,4,3,80,3,14,2,3,8,7,0,7
+EMP0001335,27,No,Travel_Frequently,Poland,Warsaw,1226,Research & Development,15,3,Life Sciences,1,1335,4,Female,21/02/2019,77,2,1,Research Scientist,1,Married,37323,33930,0,Y,No,19,3,4,80,1,8,2,2,7,6,7,3
+EMP0001338,28,No,Travel_Rarely,Spain,Valencia,1271,Sales,3,3,Medical,1,1338,2,Female,17/06/2025,78,3,1,Sales Representative,2,Married,38676,35160,1,Y,No,19,3,4,80,1,1,3,3,1,0,0,0
+EMP0001340,22,Yes,Travel_Rarely,United Kingdom,Edinburgh,424,Research & Development,7,1,Life Sciences,1,1340,4,Male,28/10/2025,75,3,1,Research Scientist,2,Single,12903,11730,1,Y,Yes,23,4,1,80,0,1,2,3,1,0,0,0
+EMP0001344,29,No,Travel_Rarely,Spain,Barcelona,642,Research & Development,7,3,Life Sciences,1,1344,4,Male,15/03/2023,59,3,1,Laboratory Technician,1,Single,19536,17760,3,Y,No,14,3,2,80,0,11,2,3,3,2,1,2
+EMP0001345,37,No,Travel_Rarely,Spain,Barcelona,849,Research & Development,7,4,Medical,1,1345,4,Male,17/12/2021,78,3,2,Research Scientist,1,Married,25839,23490,5,Y,Yes,22,4,3,80,1,16,2,3,5,3,0,4
+EMP0001346,35,No,Travel_Rarely,Germany,Munich,237,Research & Development,16,2,Other,1,1346,4,Female,15/11/2023,44,2,5,Manufacturing Director,2,Married,7227,6570,0,Y,Yes,11,3,4,80,0,4,2,3,3,2,0,2
+EMP0001349,40,No,Travel_Rarely,Poland,Warsaw,1233,Research & Development,1,4,Life Sciences,1,1349,1,Male,17/06/2007,98,3,4,Manager,1,Divorced,37521,34110,2,Y,No,11,3,1,80,1,22,3,3,19,7,11,16
+EMP0001353,44,No,Travel_Rarely,Germany,Hamburg,184,Research & Development,1,4,Life Sciences,1,1353,2,Male,13/07/2024,78,4,2,Healthcare Representative,1,Married,5610,5100,2,Y,No,15,3,4,80,1,10,5,3,2,0,2,2
+EMP0001354,34,Yes,Non-Travel,Spain,Valencia,1049,Research & Development,16,4,Technical Degree,1,1354,4,Male,14/12/2021,85,1,1,Research Scientist,1,Married,31911,29010,1,Y,Yes,23,4,2,80,1,5,2,3,5,2,3,0
+EMP0001356,36,No,Travel_Rarely,Italy,Turin,363,Sales,17,2,Marketing,1,1356,3,Male,24/04/2022,33,2,2,Sales Executive,2,Married,11055,10050,2,Y,No,16,3,3,80,2,12,1,1,4,2,1,3
+EMP0001357,41,No,Travel_Rarely,Netherlands,Utrecht,365,Sales,8,3,Marketing,1,1357,3,Female,03/08/2021,54,3,2,Sales Executive,2,Married,11121,10110,5,Y,No,21,4,3,80,1,14,3,3,5,4,1,4
+EMP0001358,42,No,Travel_Rarely,Germany,Hamburg,1514,Research & Development,6,3,Medical,1,1358,3,Male,05/09/2013,83,3,5,Research Director,1,Married,46068,41880,9,Y,No,13,3,2,80,1,18,3,4,13,7,5,7
+EMP0001366,29,Yes,Travel_Frequently,United Kingdom,Leeds,809,Sales,24,3,Technical Degree,1,1366,3,Male,10/10/2025,45,4,1,Sales Representative,1,Single,24618,22380,1,Y,No,17,3,4,80,0,1,3,3,1,0,0,0
+EMP0001368,27,No,Travel_Rarely,Netherlands,Rotterdam,1468,Research & Development,2,4,Technical Degree,1,1368,2,Male,17/10/2021,41,3,1,Research Scientist,2,Married,44682,40620,1,Y,No,11,3,3,80,1,6,3,2,5,3,1,2
+EMP0001371,47,No,Non-Travel,Poland,Wroclaw,1268,Research & Development,14,4,Technical Degree,1,1371,3,Male,14/10/2018,64,3,2,Research Scientist,2,Married,38577,35070,8,Y,No,18,3,3,80,1,16,4,4,8,7,1,7
+EMP0001372,56,No,Travel_Rarely,United Kingdom,Manchester,1565,Sales,11,5,Marketing,1,1372,4,Female,26/08/2026,89,2,2,Sales Executive,1,Married,47619,43290,4,Y,No,16,3,3,80,1,6,3,3,0,0,0,0
+EMP0001373,39,No,Travel_Rarely,Italy,Rome,940,Research & Development,9,2,Medical,1,1373,1,Male,21/03/2016,87,3,5,Manufacturing Director,1,Married,28611,26010,1,Y,No,25,4,4,80,1,10,3,3,10,0,7,9
+EMP0001374,38,No,Travel_Frequently,France,Marseille,1512,Research & Development,8,3,Medical,1,1374,4,Female,07/05/2006,58,2,2,Research Scientist,2,Divorced,46002,41820,1,Y,Yes,16,3,3,80,1,20,3,3,20,11,0,7
+EMP0001380,27,Yes,Travel_Frequently,France,Lyon,1450,Human Resources,22,3,Human Resources,1,1380,1,Female,04/08/2025,58,2,1,Human Resources,2,Married,44121,40110,1,Y,No,12,3,1,80,0,1,2,3,1,0,0,0
+EMP0001381,35,No,Travel_Rarely,United Kingdom,Birmingham,739,Sales,18,4,Medical,1,1381,2,Male,02/07/2021,71,3,2,Sales Executive,1,Married,22506,20460,0,Y,No,16,3,4,80,1,6,2,1,5,3,0,4
+EMP0001383,31,No,Non-Travel,Netherlands,Utrecht,1058,Research & Development,3,2,Medical,1,1383,3,Male,21/07/2022,48,3,1,Research Scientist,1,Divorced,32208,29280,1,Y,Yes,13,3,4,80,1,4,3,4,4,2,2,3
+EMP0001384,36,No,Non-Travel,Germany,Frankfurt,1465,Research & Development,9,4,Life Sciences,1,1384,1,Male,20/03/2021,66,4,1,Laboratory Technician,2,Married,44583,40530,1,Y,No,22,4,2,80,0,5,3,3,5,4,0,2
+EMP0001387,26,No,Travel_Rarely,Spain,Bilbao,170,Research & Development,1,3,Medical,1,1387,3,Male,16/09/2019,95,3,1,Laboratory Technician,1,Single,5181,4710,0,Y,No,13,3,4,80,0,8,6,2,7,7,7,6
+EMP0001388,29,No,Travel_Rarely,United Kingdom,London,147,Research & Development,1,3,Life Sciences,1,1388,1,Male,18/02/2021,89,3,2,Healthcare Representative,1,Married,4488,4080,0,Y,No,12,3,1,80,1,6,5,2,5,3,0,2
+EMP0001390,31,No,Travel_Frequently,Germany,Frankfurt,1220,Research & Development,1,3,Life Sciences,1,1390,4,Male,17/02/2016,48,1,2,Research Scientist,1,Married,37125,33750,1,Y,No,21,4,2,80,0,10,6,3,10,8,8,7
+EMP0001392,38,No,Travel_Rarely,United Kingdom,London,1523,Sales,1,3,Life Sciences,1,1392,1,Male,05/08/2025,59,2,1,Sales Representative,1,Single,46332,42120,4,Y,No,14,3,1,80,0,20,3,2,1,0,0,0
+EMP0001397,53,Yes,Travel_Rarely,Germany,Cologne,1267,Sales,24,4,Life Sciences,1,1397,1,Male,04/12/2024,66,3,3,Sales Executive,1,Single,38544,35040,6,Y,Yes,13,3,2,80,0,15,2,2,2,2,2,2
+EMP0001401,38,No,Travel_Frequently,United Kingdom,Leeds,1566,Human Resources,1,4,Other,1,1401,4,Male,13/12/2020,88,3,1,Human Resources,2,Married,47652,43320,0,Y,Yes,11,3,2,80,1,7,2,3,6,2,1,2
+EMP0001402,55,No,Travel_Rarely,United Kingdom,Edinburgh,205,Human Resources,26,4,Human Resources,1,1402,3,Male,19/06/2016,71,4,5,Manager,2,Married,6237,5670,4,Y,Yes,18,3,1,80,1,35,0,3,10,9,1,4
+EMP0001404,39,No,Travel_Rarely,Spain,Madrid,129,Sales,15,4,Marketing,1,1404,2,Male,08/06/2006,77,3,4,Sales Executive,1,Single,3927,3570,0,Y,No,12,3,1,80,0,21,3,3,20,8,11,10
+EMP0001407,54,No,Travel_Rarely,Italy,Naples,170,Research & Development,10,3,Medical,1,1407,3,Female,03/05/2021,77,3,5,Manufacturing Director,1,Single,5181,4710,6,Y,Yes,19,3,4,80,0,9,3,3,5,2,1,4
+EMP0001411,40,No,Travel_Rarely,United Kingdom,Birmingham,481,Sales,2,2,Marketing,1,1411,2,Female,19/09/2015,92,3,2,Sales Executive,2,Married,14652,13320,3,Y,No,14,3,3,80,1,15,4,3,11,8,5,10
+EMP0001412,25,No,Travel_Rarely,United Kingdom,Edinburgh,335,Human Resources,2,3,Human Resources,1,1412,3,Female,04/10/2024,82,3,1,Human Resources,2,Married,10197,9270,4,Y,No,14,3,3,80,0,6,3,3,2,0,1,2
+EMP0001413,30,No,Travel_Rarely,Germany,Munich,988,Research & Development,1,2,Medical,1,1413,4,Male,14/12/2014,76,3,1,Laboratory Technician,2,Married,30063,27330,1,Y,No,13,3,3,80,0,12,6,2,12,8,1,7
+EMP0001417,38,No,Travel_Rarely,United Kingdom,Edinburgh,1433,Sales,1,4,Life Sciences,1,1417,4,Male,17/05/2011,86,3,2,Sales Executive,2,Married,43593,39630,0,Y,No,15,3,1,80,2,16,3,3,15,13,5,8
+EMP0001420,42,No,Travel_Rarely,Netherlands,Utrecht,604,Research & Development,18,4,Life Sciences,1,1420,4,Male,04/07/2022,35,3,2,Research Scientist,1,Divorced,18381,16710,6,Y,Yes,17,3,3,80,1,9,3,2,4,3,1,2
+EMP0001422,47,No,Non-Travel,France,Nice,1260,Research & Development,1,1,Medical,1,1422,3,Female,05/06/2013,98,3,5,Research Director,2,Married,38346,34860,0,Y,No,18,3,1,80,2,14,3,1,13,8,5,12
+EMP0001427,32,No,Travel_Rarely,United Kingdom,Birmingham,289,Research & Development,29,4,Life Sciences,1,1427,3,Female,13/12/2020,49,2,1,Laboratory Technician,2,Single,8811,8010,1,Y,No,13,3,3,80,0,6,3,3,6,2,4,1
+EMP0001429,32,No,Travel_Rarely,France,Toulouse,253,Sales,1,4,Medical,1,1429,2,Male,27/08/2024,68,2,1,Sales Representative,2,Married,7722,7020,0,Y,No,14,3,2,80,1,3,2,3,2,2,2,2
+EMP0001437,21,No,Travel_Rarely,Germany,Berlin,543,Sales,5,1,Medical,1,1437,3,Male,19/08/2024,58,3,1,Sales Representative,1,Single,16533,15030,1,Y,Yes,11,3,4,80,0,2,6,3,2,2,1,2
+EMP0001439,23,Yes,Travel_Frequently,United Kingdom,Birmingham,692,Sales,9,3,Marketing,1,1439,4,Male,04/07/2025,33,3,1,Sales Representative,1,Married,21054,19140,1,Y,No,19,3,1,80,1,1,3,2,1,0,1,0
+EMP0001441,36,No,Travel_Frequently,Netherlands,Amsterdam,746,Research & Development,4,2,Life Sciences,1,1441,4,Female,01/12/2022,97,3,5,Manufacturing Director,2,Divorced,22704,20640,7,Y,No,13,3,2,80,3,18,3,3,4,2,0,2
+EMP0001446,41,No,Travel_Rarely,United Kingdom,Leeds,631,Research & Development,28,4,Life Sciences,1,1446,1,Female,17/05/2006,60,2,5,Manufacturing Director,2,Married,19206,17460,0,Y,No,23,4,3,80,1,21,3,3,20,7,0,10
+EMP0001449,41,No,Travel_Rarely,Netherlands,Utrecht,1008,Sales,3,3,Life Sciences,1,1449,3,Male,15/03/2021,57,2,2,Sales Executive,2,Divorced,30690,27900,2,Y,No,11,3,3,80,1,14,5,3,5,4,0,4
+EMP0001450,32,No,Travel_Rarely,Spain,Madrid,573,Research & Development,2,3,Technical Degree,1,1450,4,Male,02/07/2022,78,3,1,Research Scientist,1,Single,17457,15870,1,Y,No,14,3,4,80,0,4,4,3,4,2,1,2
+EMP0001460,29,No,Travel_Rarely,France,Toulouse,1494,Research & Development,13,2,Other,1,1460,4,Male,04/08/2022,46,2,2,Laboratory Technician,2,Married,45474,41340,4,Y,Yes,13,3,1,80,1,10,2,3,4,3,0,3
+EMP0001461,29,No,Travel_Rarely,Germany,Frankfurt,507,Research & Development,28,4,Medical,1,1461,4,Female,18/11/2021,73,2,1,Research Scientist,1,Single,15444,14040,1,Y,No,14,3,2,80,0,5,3,1,5,4,0,4
+EMP0001462,50,Yes,Travel_Rarely,France,Toulouse,444,Sales,28,3,Marketing,1,1462,4,Male,09/01/2023,39,2,3,Sales Executive,1,Divorced,13530,12300,4,Y,Yes,13,3,2,80,1,20,3,3,3,2,2,0
+EMP0001464,31,No,Non-Travel,France,Marseille,352,Research & Development,5,3,Medical,1,1464,2,Male,10/09/2017,74,3,5,Manufacturing Director,1,Single,10725,9750,0,Y,No,19,3,2,80,0,10,2,3,9,4,1,7
+EMP0001467,39,No,Travel_Rarely,Poland,Wroclaw,664,Research & Development,6,1,Medical,1,1467,4,Male,02/04/2019,42,2,3,Healthcare Representative,1,Married,20229,18390,4,Y,No,15,3,1,80,1,9,5,3,7,7,1,7
+EMP0001468,27,No,Travel_Rarely,Germany,Hamburg,168,Research & Development,4,3,Life Sciences,1,1468,2,Male,24/01/2020,87,4,5,Manufacturing Director,2,Married,5115,4650,1,Y,Yes,20,4,2,80,1,6,0,3,6,2,0,3
+EMP0001469,49,No,Travel_Frequently,Italy,Venice,1109,Sales,2,3,Medical,1,1469,4,Male,01/01/2017,63,2,2,Sales Executive,2,Married,33759,30690,2,Y,No,14,3,4,80,0,17,3,2,9,6,0,8
+EMP0001471,23,No,Non-Travel,France,Marseille,1747,Operations,2,3,Operations Management,1,1471,1,Female,24/05/2025,71,2,5,Operations Director,2,Single,53168,48335,1,Y,No,12,4,2,80,1,5,1,4,1,0,0,1
+EMP0001472,27,No,Travel_Rarely,United Kingdom,London,1770,Operations,1,4,Logistics Management,1,1472,3,Female,17/10/2023,50,1,3,Logistics,2,Married,53853,48958,9,Y,Yes,13,4,4,80,3,9,1,4,3,0,0,0
+EMP0001473,26,No,Non-Travel,United Kingdom,Edinburgh,1570,Operations,7,3,Operations Management,1,1473,3,Female,15/07/2026,79,4,5,Operations Manager,1,Single,47782,43439,4,Y,No,25,3,2,80,1,8,3,1,0,0,0,0
+EMP0001485,25,Yes,Non-Travel,United Kingdom,Edinburgh,1445,Operations,14,1,Operations Management,1,1485,1,Male,19/06/2025,46,3,5,Operations Director,2,Married,43959,39963,7,Y,No,18,3,2,80,1,7,6,1,1,0,0,1
+EMP0001497,30,No,Travel_Frequently,France,Marseille,1810,IT,8,5,IT,1,1497,4,Female,20/10/2024,73,1,5,IT Manager,2,Divorced,55072,50066,8,Y,No,19,4,2,80,3,12,2,1,2,1,0,0
+EMP0001506,24,No,Travel_Rarely,Italy,Naples,1651,Finance,15,1,Finance,1,1506,3,Male,17/06/2025,82,4,5,CFO,1,Divorced,50234,45668,7,Y,No,13,3,3,80,3,6,5,4,1,0,0,0
+EMP0001508,28,No,Travel_Frequently,Germany,Cologne,1835,IT,18,4,IT,1,1508,2,Male,04/09/2025,52,2,5,IT Manager,1,Married,55832,50757,4,Y,Yes,23,3,4,80,3,10,2,3,1,0,0,0
+EMP0001510,28,No,Non-Travel,United Kingdom,Edinburgh,2042,IT,1,4,IT,1,1510,2,Female,21/07/2026,98,4,1,System Admin,2,Married,62126,56479,8,Y,Yes,13,4,2,80,1,10,4,2,0,0,0,0
+EMP0001514,24,No,Non-Travel,Spain,Barcelona,1313,Operations,22,5,Logistics Management,1,1514,2,Male,12/07/2026,90,1,1,Logistics,1,Single,39952,36320,5,Y,Yes,17,4,4,80,2,6,4,1,0,0,0,0
+EMP0001517,24,No,Non-Travel,United Kingdom,London,1677,Operations,28,2,Operations Management,1,1517,2,Female,16/12/2025,50,4,1,Operations Analyst,1,Single,51022,46384,3,Y,No,21,4,2,80,0,6,0,2,1,0,0,0
+EMP0001518,24,No,Travel_Frequently,Germany,Cologne,1913,Operations,5,4,Operations Management,1,1518,4,Male,20/12/2024,95,2,5,Operations Director,2,Divorced,58219,52927,9,Y,Yes,12,3,1,80,2,6,4,1,2,1,1,1
+EMP0001521,27,No,Travel_Frequently,United Kingdom,Manchester,1622,IT,28,4,IT,1,1521,2,Male,02/10/2025,42,4,1,Software Developer,1,Single,49370,44882,8,Y,No,15,4,1,80,0,9,4,1,1,1,1,0
+EMP0001522,23,No,Travel_Frequently,Spain,Barcelona,1472,Operations,4,2,Operations Management,1,1522,4,Male,23/09/2023,93,3,5,Operations Manager,2,Single,44804,40731,5,Y,Yes,17,4,4,80,3,5,6,1,3,3,0,1
+EMP0001526,21,No,Travel_Frequently,Germany,Munich,1626,Operations,14,2,Operations Management,1,1526,4,Female,27/01/2026,91,1,5,Operations Director,2,Single,49489,44990,2,Y,No,12,4,2,80,2,3,5,2,0,0,0,0
+EMP0001529,32,No,Travel_Rarely,Germany,Berlin,1913,Operations,22,1,Logistics Management,1,1529,4,Female,19/07/2023,68,1,3,Logistics,1,Single,58197,52907,0,Y,Yes,16,3,2,80,0,14,5,1,3,1,1,0
+EMP0001531,22,No,Non-Travel,United Kingdom,Birmingham,1944,IT,2,3,IT,1,1531,3,Male,06/04/2025,35,1,1,Software Developer,2,Single,59159,53781,3,Y,No,16,3,3,80,0,4,4,3,1,0,0,1
+EMP0001538,27,No,Non-Travel,Italy,Turin,1607,IT,8,4,IT,1,1538,4,Male,19/01/2025,94,1,1,Software Developer,2,Married,48903,44458,1,Y,No,15,4,3,80,2,9,1,2,1,1,1,1
+EMP0001542,30,No,Travel_Frequently,United Kingdom,Birmingham,1988,IT,4,3,IT,1,1542,2,Female,16/12/2023,73,1,3,System Admin,1,Married,60497,54998,0,Y,Yes,12,4,4,80,0,12,0,2,3,1,0,3
+EMP0001543,31,No,Travel_Frequently,United Kingdom,London,1815,IT,28,4,IT,1,1543,4,Female,06/08/2024,85,2,2,Software Developer,1,Married,55213,50194,1,Y,No,12,4,4,80,3,13,3,3,2,1,0,2
+EMP0001547,29,No,Non-Travel,France,Marseille,2014,Operations,9,1,Operations Management,1,1547,3,Male,23/12/2025,59,1,5,Operations Director,2,Divorced,61279,55709,5,Y,Yes,22,4,2,80,3,11,3,4,1,0,0,0
+EMP0001549,27,No,Travel_Rarely,United Kingdom,Birmingham,1901,IT,25,1,IT,1,1549,2,Female,11/08/2024,54,1,2,Software Developer,2,Married,57853,52594,0,Y,Yes,18,4,4,80,1,9,6,2,2,2,1,2
+EMP0001554,27,No,Travel_Rarely,Germany,Hamburg,1495,Operations,8,4,Operations Management,1,1554,1,Female,14/06/2023,65,1,5,Operations Manager,2,Single,45496,41360,3,Y,Yes,19,4,4,80,2,9,3,4,3,2,0,1
+EMP0001555,27,Yes,Non-Travel,Germany,Berlin,1791,IT,17,5,IT,1,1555,1,Male,24/03/2025,55,4,5,IT Manager,1,Single,54498,49544,3,Y,No,25,3,2,80,2,9,4,1,1,0,0,0
+EMP0001560,25,No,Non-Travel,Germany,Berlin,2034,IT,17,3,IT,1,1560,1,Female,04/01/2025,40,3,1,DevOps Engineer,1,Divorced,61902,56275,7,Y,No,19,3,2,80,0,7,4,2,1,0,0,1
+EMP0001564,28,No,Travel_Frequently,Poland,Wroclaw,1426,Operations,11,3,Operations Management,1,1564,2,Female,06/12/2024,85,4,5,Operations Manager,1,Married,43402,39457,6,Y,No,14,3,3,80,3,10,6,2,2,1,1,1
+EMP0001567,27,No,Travel_Frequently,United Kingdom,Birmingham,1662,IT,3,3,IT,1,1567,4,Female,06/07/2026,84,2,1,Data Engineer,2,Single,50578,45980,4,Y,No,11,4,2,80,2,9,2,4,0,0,0,0
+EMP0001570,28,Yes,Travel_Frequently,Germany,Frankfurt,1432,Operations,23,2,Operations Management,1,1570,3,Male,10/02/2024,71,3,5,Operations Director,1,Single,43583,39621,5,Y,Yes,19,3,1,80,2,10,6,3,2,0,0,0
+EMP0001578,30,No,Travel_Frequently,Germany,Frankfurt,1454,Operations,21,4,Logistics Management,1,1578,3,Female,26/05/2024,51,1,2,Logistics,2,Married,44250,40228,7,Y,Yes,15,3,4,80,3,12,2,4,2,0,0,1
+EMP0001585,31,No,Travel_Frequently,France,Paris,1668,Finance,5,3,Finance,1,1585,1,Female,24/10/2023,52,3,3,Tax Specialist,1,Married,50754,46140,9,Y,No,21,3,4,80,3,13,4,4,3,0,0,3
+EMP0001616,27,No,Travel_Rarely,France,Toulouse,1757,IT,23,2,IT,1,1616,2,Male,14/10/2023,83,4,3,DevOps Engineer,1,Married,53477,48616,4,Y,No,15,4,3,80,2,9,4,1,3,1,0,2
+EMP0001622,30,No,Travel_Frequently,Netherlands,The Hague,1937,Operations,22,1,Operations Management,1,1622,4,Male,08/12/2025,78,3,5,Operations Director,1,Divorced,58933,53576,2,Y,Yes,16,4,3,80,1,12,2,3,1,0,0,0
+EMP0001630,27,No,Travel_Rarely,France,Toulouse,1988,IT,14,5,IT,1,1630,3,Female,09/08/2024,43,2,2,Data Engineer,1,Married,60483,54985,9,Y,Yes,25,4,2,80,3,9,1,2,2,0,0,0
+EMP0001636,25,No,Travel_Rarely,Spain,Valencia,1767,Operations,25,4,Supply Chain Management,1,1636,3,Male,18/08/2023,42,1,3,Supply Chain,1,Divorced,53763,48876,3,Y,Yes,14,3,2,80,3,7,1,3,3,2,0,2
+EMP0001640,23,No,Non-Travel,Italy,Turin,1915,IT,4,1,IT,1,1640,1,Female,09/10/2025,73,2,1,Software Developer,1,Divorced,58281,52983,3,Y,Yes,25,4,3,80,1,5,6,1,1,0,0,0
+EMP0001646,25,No,Non-Travel,Spain,Seville,1903,IT,11,3,IT,1,1646,4,Male,15/07/2025,88,1,1,System Admin,1,Married,57916,52651,1,Y,No,11,4,3,80,0,7,6,1,1,0,0,1
+EMP0001647,27,No,Non-Travel,Germany,Frankfurt,1536,Operations,12,2,Operations Management,1,1647,2,Male,11/05/2025,72,1,5,Operations Manager,2,Married,46744,42495,9,Y,Yes,23,3,3,80,0,9,0,3,1,1,1,0
+EMP0001651,24,No,Travel_Frequently,Germany,Hamburg,1975,Operations,4,5,Logistics Management,1,1651,2,Female,18/09/2024,33,4,2,Logistics,2,Single,60101,54638,3,Y,Yes,18,3,4,80,3,6,6,3,2,1,0,1
+EMP0001653,27,No,Travel_Frequently,United Kingdom,Birmingham,1598,Finance,15,3,Finance,1,1653,2,Male,07/02/2023,94,3,5,CFO,1,Divorced,48621,44201,1,Y,No,17,4,1,80,3,9,5,4,3,2,2,2
+EMP0001661,26,No,Non-Travel,United Kingdom,Birmingham,1645,IT,10,4,IT,1,1661,4,Female,12/01/2026,96,3,1,Software Developer,2,Single,50042,45493,2,Y,Yes,16,4,4,80,2,8,6,1,0,0,0,0
+EMP0001666,27,No,Travel_Rarely,Germany,Munich,1686,IT,23,2,IT,1,1666,3,Female,20/04/2026,50,1,1,System Admin,1,Married,51306,46642,5,Y,No,17,4,1,80,0,9,5,3,0,0,0,0
+EMP0001671,26,No,Travel_Frequently,Spain,Barcelona,1567,Finance,22,3,Finance,1,1671,4,Male,17/02/2025,73,3,1,Accountant,1,Divorced,47681,43347,9,Y,No,25,4,2,80,3,8,4,4,1,1,1,0
+EMP0001672,28,No,Travel_Rarely,Germany,Munich,1649,Operations,1,2,Logistics Management,1,1672,2,Female,20/04/2026,69,4,1,Logistics,2,Divorced,50169,45609,8,Y,Yes,18,4,4,80,3,10,4,3,0,0,0,0
+EMP0001677,24,No,Travel_Rarely,Spain,Madrid,1925,IT,17,1,IT,1,1677,2,Female,09/12/2026,38,2,1,DevOps Engineer,1,Married,58586,53260,8,Y,No,24,3,3,80,2,6,0,4,0,0,0,0
+EMP0001688,25,No,Travel_Rarely,France,Toulouse,1877,Operations,2,5,Operations Management,1,1688,3,Male,02/07/2025,40,3,5,Operations Director,2,Single,57113,51921,6,Y,No,24,3,4,80,0,7,6,3,1,1,0,1
+EMP0001689,27,No,Travel_Rarely,France,Paris,1669,Operations,1,2,Logistics Management,1,1689,4,Male,14/04/2026,100,2,1,Logistics,2,Married,50782,46166,8,Y,Yes,14,3,4,80,3,9,3,2,0,0,0,0
+EMP0001697,28,No,Non-Travel,United Kingdom,Manchester,1800,Finance,11,3,Finance,1,1697,4,Male,11/05/2023,62,1,5,CFO,1,Divorced,54775,49796,1,Y,No,15,4,4,80,3,10,2,3,3,2,2,3
+EMP0001703,30,No,Non-Travel,Germany,Frankfurt,1909,IT,22,5,IT,1,1703,4,Female,22/12/2024,46,2,2,DevOps Engineer,1,Single,58091,52810,8,Y,Yes,23,3,1,80,2,12,4,2,2,1,1,1
+EMP0001714,27,No,Travel_Frequently,France,Marseille,1824,IT,1,3,IT,1,1714,2,Female,15/11/2023,67,4,3,Software Developer,1,Married,55514,50468,8,Y,No,16,4,4,80,3,9,4,3,3,3,1,0
+EMP0001721,24,No,Travel_Frequently,Spain,Barcelona,1971,IT,5,5,IT,1,1721,2,Female,09/05/2024,62,1,2,System Admin,1,Married,59958,54508,1,Y,No,18,4,1,80,3,6,6,1,2,0,0,1
+EMP0001722,27,No,Travel_Rarely,Germany,Munich,1961,IT,10,2,IT,1,1722,2,Male,02/08/2023,99,4,3,Software Developer,1,Divorced,59672,54248,1,Y,No,18,3,2,80,0,9,1,4,3,2,1,3
+EMP0001730,26,Yes,Travel_Rarely,Italy,Turin,1850,Finance,21,3,Finance,1,1730,1,Male,26/06/2025,30,2,1,Accountant,2,Married,56294,51177,5,Y,Yes,21,3,3,80,2,8,3,1,1,1,0,1
+EMP0001734,25,No,Travel_Frequently,Netherlands,The Hague,1527,Finance,16,5,Finance,1,1734,4,Female,11/04/2026,32,2,5,Finance Manager,1,Divorced,46461,42238,8,Y,Yes,22,3,2,80,3,7,0,1,0,0,0,0
+EMP0001738,24,No,Travel_Frequently,Spain,Valencia,1984,Operations,21,4,Operations Management,1,1738,3,Female,23/09/2024,40,2,5,Operations Manager,2,Single,60362,54875,7,Y,Yes,13,4,2,80,0,6,4,2,2,0,0,0
+EMP0001739,25,No,Travel_Frequently,Spain,Seville,2009,IT,29,1,IT,1,1739,3,Male,06/05/2026,48,1,1,Software Developer,1,Divorced,61132,55575,2,Y,Yes,21,4,4,80,0,7,0,1,0,0,0,0
+EMP0001743,28,No,Non-Travel,Germany,Berlin,1817,IT,12,4,IT,1,1743,1,Male,18/11/2026,42,3,1,Software Developer,1,Single,55288,50262,0,Y,Yes,18,3,3,80,3,10,4,2,0,0,0,0
+EMP0001747,28,No,Travel_Frequently,United Kingdom,London,1527,Finance,23,4,Finance,1,1747,1,Male,21/01/2025,93,4,5,CFO,1,Divorced,46470,42246,1,Y,Yes,11,3,1,80,0,10,5,4,1,1,0,1
+EMP0001748,22,No,Travel_Frequently,United Kingdom,Leeds,1711,IT,25,5,IT,1,1748,2,Female,21/02/2024,96,4,2,DevOps Engineer,2,Single,52064,47331,6,Y,No,12,4,2,80,0,4,6,2,2,2,2,1
+EMP0001765,26,No,Travel_Frequently,United Kingdom,Birmingham,1867,IT,15,1,IT,1,1765,3,Male,20/02/2025,59,4,1,Data Engineer,2,Single,56805,51641,7,Y,No,22,3,4,80,3,8,5,3,1,1,0,0
+EMP0001778,29,No,Travel_Frequently,Netherlands,The Hague,1823,Operations,10,3,Supply Chain Management,1,1778,3,Male,06/02/2024,51,3,2,Supply Chain,2,Divorced,55460,50419,1,Y,No,15,4,3,80,2,11,1,2,2,2,0,1
+EMP0001785,27,No,Non-Travel,Italy,Turin,1516,Operations,15,5,Operations Management,1,1785,3,Female,01/11/2025,94,4,5,Operations Manager,1,Divorced,46139,41945,7,Y,No,19,4,2,80,2,9,5,1,1,0,0,1
+EMP0001793,25,No,Non-Travel,United Kingdom,Leeds,1951,IT,19,4,IT,1,1793,3,Male,14/09/2023,39,2,3,Data Engineer,2,Divorced,59372,53975,8,Y,No,25,3,3,80,2,7,5,4,3,1,0,0
+EMP0001799,26,No,Non-Travel,United Kingdom,London,1406,Operations,6,3,Operations Management,1,1799,1,Female,18/04/2024,74,2,5,Operations Director,1,Single,42785,38896,7,Y,No,19,3,3,80,2,8,6,2,2,2,2,1
+EMP0001806,27,No,Travel_Frequently,Germany,Munich,1414,Operations,28,1,Supply Chain Management,1,1806,1,Male,23/08/2023,63,4,3,Supply Chain,1,Married,43021,39110,0,Y,Yes,11,3,3,80,0,9,6,3,3,1,1,2
+EMP0001811,29,No,Travel_Frequently,Netherlands,The Hague,1842,Finance,11,1,Finance,1,1811,3,Female,09/12/2024,74,1,5,Finance Manager,1,Married,56060,50964,2,Y,No,23,3,3,80,2,11,2,1,2,0,0,1
+EMP0001813,24,No,Travel_Rarely,Spain,Seville,1863,IT,21,4,IT,1,1813,2,Male,14/01/2025,78,2,1,System Admin,1,Single,56683,51530,3,Y,No,23,4,1,80,0,6,4,1,1,1,0,1
+EMP0001814,26,No,Non-Travel,France,Lyon,1849,Operations,23,5,Supply Chain Management,1,1814,4,Female,25/12/2023,48,4,3,Supply Chain,1,Single,56252,51139,3,Y,No,25,3,2,80,1,8,0,3,3,1,0,3
+EMP0001817,23,No,Travel_Frequently,Spain,Valencia,1757,IT,3,5,IT,1,1817,3,Female,13/09/2026,66,3,1,Data Engineer,2,Divorced,53465,48605,9,Y,No,14,4,1,80,2,5,6,4,0,0,0,0
+EMP0001829,27,No,Non-Travel,Spain,Bilbao,1421,Operations,22,1,Operations Management,1,1829,1,Female,02/01/2026,87,3,5,Operations Manager,2,Divorced,43255,39323,0,Y,No,18,3,4,80,1,9,0,4,0,0,0,0
+EMP0001835,24,No,Travel_Frequently,United Kingdom,Birmingham,1437,Operations,26,3,Operations Management,1,1835,1,Male,15/07/2023,65,1,5,Operations Manager,1,Divorced,43743,39767,2,Y,No,16,3,3,80,1,6,1,2,3,0,0,2
+EMP0001845,27,No,Non-Travel,Spain,Seville,1861,IT,8,1,IT,1,1845,1,Female,21/07/2024,57,4,5,IT Manager,2,Single,56629,51481,7,Y,Yes,22,4,4,80,0,9,6,4,2,0,0,0
+EMP0001869,24,Yes,Travel_Frequently,France,Toulouse,1412,Operations,8,3,Operations Management,1,1869,1,Female,19/08/2026,38,2,5,Operations Manager,1,Divorced,42979,39072,3,Y,No,17,3,3,80,1,6,5,2,0,0,0,0
+EMP0001872,25,No,Travel_Rarely,Germany,Berlin,1835,Finance,24,5,Finance,1,1872,2,Male,19/05/2026,36,3,5,Finance Manager,2,Divorced,55848,50771,0,Y,No,17,3,4,80,1,7,2,1,0,0,0,0
+EMP0001873,26,No,Non-Travel,United Kingdom,London,2017,IT,29,5,IT,1,1873,2,Female,13/12/2026,48,1,5,IT Manager,2,Single,61386,55806,5,Y,Yes,19,3,4,80,2,8,3,1,0,0,0,0
+EMP0001915,30,No,Non-Travel,United Kingdom,London,1785,Finance,1,3,Finance,1,1915,2,Female,06/10/2023,76,4,5,Finance Manager,1,Divorced,54319,49381,5,Y,Yes,24,3,3,80,0,12,0,1,3,3,1,1
+EMP0001933,30,No,Travel_Rarely,Germany,Frankfurt,1649,Operations,24,3,Operations Management,1,1933,2,Female,19/09/2024,100,3,2,Operations Analyst,2,Divorced,50169,45609,0,Y,No,18,4,2,80,3,12,2,4,2,1,0,0
+EMP0001934,28,No,Non-Travel,Italy,Turin,1753,IT,10,2,IT,1,1934,2,Female,21/02/2024,41,3,2,Software Developer,1,Divorced,53331,48483,4,Y,Yes,16,3,3,80,3,10,2,3,2,0,0,2
+EMP0001938,31,No,Travel_Frequently,Spain,Seville,1944,Operations,3,4,Operations Management,1,1938,3,Male,11/12/2025,82,3,5,Operations Manager,1,Single,59160,53782,4,Y,Yes,22,4,1,80,3,13,2,3,1,1,0,1
+EMP0001941,23,No,Travel_Frequently,France,Lyon,1993,IT,7,5,IT,1,1941,3,Female,27/01/2023,97,2,3,DevOps Engineer,1,Married,60645,55132,7,Y,No,14,3,4,80,2,5,4,2,3,0,0,0
+EMP0001959,29,No,Non-Travel,Netherlands,The Hague,1872,IT,28,4,IT,1,1959,3,Male,12/01/2024,69,4,2,Software Developer,2,Married,56967,51789,8,Y,Yes,24,4,3,80,2,11,4,1,2,0,0,1
+EMP0001964,24,No,Travel_Rarely,France,Nice,1745,Operations,14,2,Logistics Management,1,1964,2,Male,01/06/2025,93,1,1,Logistics,2,Single,53088,48262,9,Y,Yes,25,3,3,80,0,6,3,4,1,1,0,0
+EMP0001975,27,No,Travel_Frequently,France,Lyon,2036,IT,6,3,IT,1,1975,3,Female,18/06/2025,48,4,1,System Admin,2,Single,61952,56320,7,Y,No,17,4,2,80,0,9,4,4,1,0,0,1
+EMP0001979,23,No,Travel_Frequently,France,Toulouse,1975,Finance,13,2,Finance,1,1979,4,Female,24/11/2025,68,3,1,Accountant,2,Married,60107,54643,9,Y,No,12,4,4,80,3,5,0,3,1,1,0,0
+EMP0001985,25,Yes,Non-Travel,United Kingdom,Birmingham,1712,Finance,17,4,Finance,1,1985,4,Female,17/11/2026,78,2,1,Financial Analyst,2,Single,52090,47355,7,Y,Yes,15,4,2,80,1,7,1,4,0,0,0,0
+EMP0001989,28,No,Travel_Rarely,France,Nice,1644,IT,18,1,IT,1,1989,1,Male,18/09/2025,83,4,1,Data Engineer,2,Single,50015,45469,1,Y,Yes,21,3,4,80,0,10,1,2,1,0,0,0
+EMP0001992,25,No,Travel_Frequently,Spain,Seville,1592,Finance,30,2,Finance,1,1992,1,Male,17/06/2025,52,3,5,CFO,2,Married,48450,44046,6,Y,No,22,4,3,80,3,7,1,2,1,0,0,0
+EMP0001997,28,No,Travel_Rarely,Germany,Hamburg,1824,IT,28,1,IT,1,1997,2,Male,22/02/2026,70,4,1,DevOps Engineer,2,Single,55514,50468,5,Y,No,17,3,3,80,0,10,5,2,0,0,0,0
+EMP0002000,23,No,Travel_Rarely,United Kingdom,Leeds,1761,IT,11,5,IT,1,2000,3,Female,28/02/2026,60,2,1,DevOps Engineer,1,Married,53599,48727,3,Y,No,22,3,4,80,1,5,0,4,0,0,0,0
+EMP0002011,28,No,Non-Travel,United Kingdom,Leeds,1620,Operations,26,1,Operations Management,1,2011,2,Female,05/06/2023,71,2,5,Operations Director,1,Married,49295,44814,7,Y,No,22,4,2,80,1,10,4,4,3,0,0,3
+EMP0002025,23,No,Non-Travel,Germany,Hamburg,1705,Finance,28,1,Finance,1,2025,1,Female,13/05/2024,97,4,5,CFO,1,Single,51868,47153,8,Y,No,17,3,3,80,3,5,0,1,2,2,2,2
+EMP0002039,29,No,Travel_Frequently,United Kingdom,Manchester,1813,IT,9,4,IT,1,2039,3,Female,18/04/2023,54,3,3,Data Engineer,1,Married,55180,50164,0,Y,Yes,21,3,3,80,2,11,4,1,3,0,0,0
+EMP0002051,22,No,Travel_Rarely,Netherlands,The Hague,1391,Operations,18,1,Logistics Management,1,2051,4,Female,24/01/2026,45,4,1,Logistics,2,Divorced,42330,38482,7,Y,Yes,11,3,1,80,2,4,5,4,0,0,0,0
+EMP0002058,23,No,Travel_Frequently,France,Nice,1491,Finance,19,5,Finance,1,2058,1,Male,14/11/2026,64,4,5,CFO,2,Divorced,45370,41246,9,Y,No,17,4,4,80,1,5,4,2,0,0,0,0
+EMP0002061,25,No,Non-Travel,France,Paris,1560,Operations,2,3,Operations Management,1,2061,4,Male,11/09/2025,79,1,1,Operations Analyst,1,Divorced,47481,43165,7,Y,No,20,4,3,80,2,7,6,2,1,1,0,0
+EMP0002068,23,No,Non-Travel,Spain,Madrid,1873,IT,6,1,IT,1,2068,1,Female,26/04/2026,44,3,1,Software Developer,1,Divorced,56988,51808,7,Y,Yes,23,3,2,80,2,5,1,4,0,0,0,0
+EMP0002070,29,No,Travel_Rarely,Spain,Madrid,1747,Operations,23,1,Operations Management,1,2070,2,Female,01/06/2024,65,1,5,Operations Director,1,Married,53155,48323,7,Y,No,16,3,3,80,0,11,3,1,2,0,0,2
+EMP0002071,22,No,Travel_Rarely,United Kingdom,Leeds,1524,Operations,27,3,Logistics Management,1,2071,4,Female,07/06/2025,80,4,1,Logistics,1,Single,46369,42154,4,Y,Yes,17,4,2,80,1,4,6,4,1,1,1,0
+EMP0002083,26,No,Travel_Rarely,Spain,Madrid,1547,Operations,15,4,Supply Chain Management,1,2083,4,Female,16/08/2025,66,3,1,Supply Chain,1,Divorced,47063,42785,9,Y,No,12,4,1,80,2,8,2,3,1,1,0,1
+EMP0002094,27,No,Travel_Rarely,Italy,Rome,1501,Finance,15,2,Finance,1,2094,2,Female,27/04/2026,36,4,1,Accountant,2,Divorced,45672,41520,6,Y,Yes,20,4,2,80,2,9,2,1,0,0,0,0
+EMP0002095,23,No,Travel_Frequently,Germany,Munich,1754,IT,21,1,IT,1,2095,1,Male,01/05/2025,95,3,5,IT Manager,2,Married,53375,48523,5,Y,No,23,4,2,80,2,5,1,4,1,1,1,1
+EMP0002098,23,Yes,Travel_Rarely,Spain,Bilbao,1899,Finance,18,3,Finance,1,2098,4,Male,03/03/2023,52,3,3,Financial Analyst,2,Married,57791,52538,5,Y,Yes,22,4,3,80,3,5,5,4,3,1,1,2
+EMP0002110,29,No,Travel_Frequently,Germany,Munich,1429,Operations,30,5,Logistics Management,1,2110,2,Male,19/11/2023,54,1,3,Logistics,2,Divorced,43489,39536,4,Y,No,20,3,1,80,3,11,0,4,3,1,0,1
+EMP0002117,23,No,Non-Travel,Germany,Berlin,1895,Operations,18,3,Supply Chain Management,1,2117,2,Female,02/05/2026,91,1,1,Supply Chain,1,Single,57670,52428,3,Y,No,17,3,1,80,2,5,4,4,0,0,0,0
+EMP0002125,23,No,Travel_Rarely,Germany,Munich,1888,IT,28,4,IT,1,2125,4,Female,28/03/2026,92,2,1,Data Engineer,2,Single,57434,52213,5,Y,Yes,22,4,1,80,2,5,5,1,0,0,0,0
+EMP0002130,31,No,Travel_Rarely,United Kingdom,Birmingham,1937,IT,12,3,IT,1,2130,3,Male,24/04/2026,97,4,1,Software Developer,1,Single,58944,53586,3,Y,Yes,24,4,2,80,1,13,2,1,0,0,0,0
+EMP0002134,23,No,Travel_Rarely,France,Toulouse,1567,Operations,8,2,Logistics Management,1,2134,3,Female,14/11/2026,85,1,1,Logistics,2,Single,47689,43354,7,Y,Yes,17,3,1,80,2,5,2,4,0,0,0,0
+EMP0002142,26,Yes,Travel_Rarely,Poland,Wroclaw,2010,Finance,15,4,Finance,1,2142,1,Female,07/12/2025,69,2,1,Accountant,2,Single,61164,55604,9,Y,No,20,3,1,80,2,8,6,2,1,1,1,1
+EMP0002145,24,No,Travel_Frequently,Spain,Valencia,1918,IT,1,5,IT,1,2145,2,Male,21/04/2026,62,3,5,IT Manager,1,Married,58374,53068,7,Y,Yes,15,4,3,80,0,6,0,4,0,0,0,0
+EMP0002149,27,No,Travel_Frequently,France,Lyon,1632,Finance,30,2,Finance,1,2149,1,Male,09/04/2025,43,3,1,Financial Analyst,1,Single,49658,45144,6,Y,Yes,24,4,1,80,2,9,4,4,1,0,0,1
+EMP0002174,27,No,Non-Travel,Italy,Naples,1683,Operations,7,5,Operations Management,1,2174,1,Male,19/09/2024,80,3,5,Operations Manager,2,Married,51198,46544,2,Y,No,19,4,1,80,3,9,1,3,2,1,1,1
+EMP0002177,24,No,Travel_Rarely,United Kingdom,Edinburgh,2009,Finance,12,2,Finance,1,2177,3,Female,04/10/2025,58,2,1,Financial Analyst,1,Single,61116,55560,5,Y,Yes,16,4,3,80,2,6,5,3,1,0,0,0
+EMP0002179,29,No,Travel_Rarely,Spain,Barcelona,1700,Operations,2,4,Operations Management,1,2179,3,Male,10/02/2024,33,4,5,Operations Director,1,Married,51735,47032,1,Y,Yes,19,3,3,80,0,11,1,3,2,0,0,0
+EMP0002182,28,No,Travel_Rarely,Germany,Frankfurt,1516,Operations,29,1,Logistics Management,1,2182,4,Male,23/01/2025,32,3,1,Logistics,2,Married,46121,41929,3,Y,Yes,19,3,2,80,3,10,4,1,1,1,0,0
+EMP0002184,25,No,Travel_Frequently,Spain,Barcelona,1954,Operations,4,5,Operations Management,1,2184,1,Female,20/08/2024,43,1,2,Operations Analyst,2,Divorced,59456,54051,3,Y,No,23,4,3,80,2,7,3,2,2,1,1,2
+EMP0002189,23,No,Travel_Frequently,United Kingdom,Leeds,1878,IT,30,4,IT,1,2189,4,Male,18/06/2026,35,3,5,IT Manager,2,Single,57158,51962,4,Y,Yes,19,4,1,80,1,5,3,3,0,0,0,0
+EMP0002190,26,No,Travel_Frequently,Spain,Seville,1961,Finance,5,2,Finance,1,2190,3,Male,02/04/2025,40,1,5,CFO,1,Divorced,59661,54238,6,Y,No,24,4,2,80,0,8,5,2,1,0,0,1
+EMP0002198,26,No,Travel_Frequently,Poland,Lodz,1561,Operations,27,5,Operations Management,1,2198,2,Male,21/08/2025,68,1,5,Operations Manager,1,Single,47513,43194,5,Y,Yes,22,4,4,80,0,8,3,3,1,0,0,1
+EMP0002212,23,No,Non-Travel,United Kingdom,Leeds,1940,Operations,3,1,Logistics Management,1,2212,2,Female,15/04/2025,58,1,1,Logistics,1,Single,59030,53664,7,Y,No,18,4,4,80,2,5,0,1,1,0,0,0
+EMP0002215,23,No,Non-Travel,France,Marseille,1794,Finance,1,2,Finance,1,2215,2,Female,19/06/2025,77,3,5,Finance Manager,1,Married,54589,49627,8,Y,No,23,4,2,80,3,5,2,2,1,0,0,0
+EMP0002217,29,No,Travel_Rarely,Germany,Berlin,2000,IT,5,2,IT,1,2217,1,Female,24/01/2024,95,2,2,DevOps Engineer,1,Single,60868,55335,9,Y,Yes,21,4,2,80,2,11,6,4,2,0,0,1
+EMP0002220,28,No,Travel_Frequently,Germany,Berlin,1595,Finance,7,2,Finance,1,2220,2,Male,27/06/2025,72,3,1,Accountant,2,Single,48532,44120,4,Y,Yes,13,3,3,80,3,10,2,3,1,0,0,0
+EMP0002224,22,No,Non-Travel,United Kingdom,London,1990,IT,5,2,IT,1,2224,3,Female,06/12/2026,63,2,1,DevOps Engineer,2,Divorced,60542,55039,3,Y,No,18,4,3,80,2,4,5,3,0,0,0,0
+EMP0002230,24,No,Travel_Frequently,France,Toulouse,1766,Finance,4,3,Finance,1,2230,3,Male,09/07/2023,43,1,5,Finance Manager,1,Married,53749,48863,0,Y,No,16,4,2,80,0,6,6,2,3,1,1,1
+EMP0002233,33,No,Non-Travel,Italy,Naples,1918,Operations,3,4,Operations Management,1,2233,1,Male,09/04/2025,84,3,5,Operations Manager,1,Single,58367,53061,1,Y,No,14,3,1,80,2,15,1,1,1,1,1,0
+EMP0002257,30,No,Non-Travel,United Kingdom,Manchester,2017,IT,7,1,IT,1,2257,1,Female,17/02/2024,96,3,2,Software Developer,1,Married,61376,55797,9,Y,No,20,4,2,80,2,12,3,2,2,2,0,0
+EMP0002266,25,No,Travel_Frequently,Germany,Hamburg,1416,Operations,28,2,Logistics Management,1,2266,4,Male,14/07/2025,51,4,1,Logistics,2,Divorced,43085,39169,4,Y,Yes,23,4,4,80,1,7,1,4,1,1,1,0
+EMP0002269,27,No,Travel_Rarely,Germany,Munich,1720,Operations,24,3,Operations Management,1,2269,2,Female,26/03/2023,34,4,3,Operations Analyst,2,Married,52330,47573,1,Y,Yes,14,3,2,80,0,9,6,3,3,3,2,0
+EMP0002293,30,No,Travel_Rarely,France,Toulouse,1773,IT,13,1,IT,1,2293,1,Male,12/01/2025,38,1,1,Software Developer,1,Single,53960,49055,3,Y,Yes,11,4,2,80,2,12,2,3,1,1,1,0
+EMP0002295,27,No,Travel_Frequently,France,Paris,1657,IT,17,1,IT,1,2295,3,Male,02/04/2026,76,4,1,Software Developer,1,Divorced,50427,45843,3,Y,Yes,12,4,2,80,2,9,2,2,0,0,0,0
+EMP0002299,23,No,Non-Travel,United Kingdom,Edinburgh,1878,IT,18,2,IT,1,2299,3,Male,15/06/2025,41,1,1,DevOps Engineer,1,Divorced,57146,51951,0,Y,No,13,3,4,80,3,5,5,1,1,0,0,1
+EMP0002300,23,No,Travel_Rarely,Germany,Munich,1366,Operations,7,1,Supply Chain Management,1,2300,1,Male,03/08/2023,71,3,3,Supply Chain,2,Divorced,41566,37788,1,Y,No,24,3,3,80,3,5,4,4,3,1,1,0
+EMP0002304,22,No,Non-Travel,United Kingdom,Manchester,1541,Finance,12,5,Finance,1,2304,3,Male,21/01/2024,86,1,5,Finance Manager,1,Divorced,46894,42631,2,Y,Yes,14,3,1,80,2,4,1,3,2,0,0,1
+EMP0002310,26,Yes,Travel_Rarely,France,Paris,1961,Operations,10,5,Operations Management,1,2310,1,Male,20/07/2025,78,1,1,Operations Analyst,2,Divorced,59675,54250,5,Y,No,16,3,1,80,2,8,3,1,1,1,1,1
+EMP0002319,22,No,Non-Travel,United Kingdom,London,1729,IT,9,2,IT,1,2319,2,Female,20/05/2026,67,1,1,Software Developer,1,Single,52620,47837,0,Y,Yes,13,4,4,80,3,4,2,3,0,0,0,0
+EMP0002322,25,No,Non-Travel,Germany,Munich,1500,Finance,25,5,Finance,1,2322,4,Female,05/02/2026,64,3,1,Accountant,1,Single,45653,41503,7,Y,No,16,4,1,80,1,7,6,3,0,0,0,0
+EMP0002336,28,No,Non-Travel,France,Nice,1650,Operations,20,5,Operations Management,1,2336,3,Male,06/08/2024,47,3,5,Operations Director,1,Married,50210,45646,0,Y,No,20,4,3,80,3,10,4,4,2,2,1,2
+EMP0002340,29,No,Travel_Frequently,Germany,Munich,1961,Operations,3,2,Supply Chain Management,1,2340,4,Female,16/12/2025,72,4,1,Supply Chain,1,Divorced,59675,54250,8,Y,Yes,17,3,2,80,0,11,5,2,1,0,0,0
+EMP0002361,25,No,Non-Travel,Germany,Frankfurt,1803,Finance,16,4,Finance,1,2361,4,Male,04/07/2026,99,2,1,Accountant,2,Married,54863,49876,5,Y,No,23,4,4,80,1,7,5,1,0,0,0,0
+EMP0002368,24,No,Travel_Frequently,Italy,Turin,1661,Operations,21,5,Operations Management,1,2368,3,Male,19/01/2025,53,4,5,Operations Director,1,Single,50541,45947,3,Y,No,16,3,4,80,1,6,1,1,1,1,0,1
+EMP0002371,26,No,Non-Travel,Netherlands,Utrecht,1718,Finance,6,3,Finance,1,2371,1,Male,07/07/2023,72,3,3,Accountant,2,Married,52286,47533,1,Y,Yes,22,4,3,80,0,8,1,3,3,2,1,1
+EMP0002380,26,No,Non-Travel,Germany,Cologne,1411,Operations,15,1,Supply Chain Management,1,2380,4,Male,16/12/2026,85,4,1,Supply Chain,1,Divorced,42935,39032,5,Y,Yes,14,3,1,80,1,8,3,4,0,0,0,0
+EMP0002384,27,No,Non-Travel,Germany,Cologne,1949,IT,4,2,IT,1,2384,1,Male,14/08/2024,99,3,2,Software Developer,2,Single,59305,53914,2,Y,Yes,19,4,4,80,2,9,5,2,2,2,0,0
+EMP0002388,32,No,Travel_Frequently,United Kingdom,London,1832,Operations,18,3,Supply Chain Management,1,2388,3,Male,15/08/2024,75,2,2,Supply Chain,1,Single,55731,50665,7,Y,Yes,24,4,4,80,1,14,4,3,2,2,0,1
+EMP0002397,27,No,Non-Travel,France,Paris,1834,IT,10,5,IT,1,2397,1,Female,07/01/2026,77,3,1,Software Developer,1,Single,55815,50741,9,Y,No,20,3,1,80,2,9,3,1,0,0,0,0
+EMP0002405,23,No,Travel_Rarely,France,Lyon,1388,Operations,5,5,Logistics Management,1,2405,2,Male,25/04/2026,58,3,1,Logistics,2,Single,42226,38388,6,Y,No,24,4,3,80,2,5,0,2,0,0,0,0
+EMP0002409,25,No,Travel_Rarely,Germany,Hamburg,1881,IT,24,3,IT,1,2409,2,Male,04/02/2025,63,2,5,IT Manager,1,Married,57233,52030,0,Y,Yes,22,4,1,80,2,7,5,4,1,1,1,1
+EMP0002415,24,No,Travel_Rarely,Germany,Berlin,1731,Operations,20,2,Operations Management,1,2415,1,Female,27/03/2026,70,3,1,Operations Analyst,1,Divorced,52675,47887,8,Y,No,20,3,2,80,2,6,4,3,0,0,0,0
+EMP0002422,27,No,Non-Travel,Netherlands,Eindhoven,1914,IT,14,2,IT,1,2422,4,Male,25/08/2024,90,1,2,System Admin,1,Divorced,58243,52949,2,Y,No,22,3,1,80,0,9,2,1,2,0,0,1
+EMP0002425,25,No,Travel_Frequently,United Kingdom,Birmingham,1802,IT,7,3,IT,1,2425,2,Male,03/04/2024,81,3,5,IT Manager,1,Divorced,54840,49855,6,Y,Yes,17,3,2,80,2,7,6,1,2,2,1,2
+EMP0002433,27,No,Travel_Rarely,Germany,Berlin,1421,Operations,6,4,Logistics Management,1,2433,2,Female,07/08/2024,31,2,2,Logistics,2,Single,43248,39317,7,Y,Yes,18,3,1,80,3,9,0,2,2,0,0,0
+EMP0002434,26,No,Travel_Rarely,France,Toulouse,1400,Operations,19,3,Operations Management,1,2434,2,Male,27/09/2026,49,4,5,Operations Director,2,Single,42589,38718,0,Y,No,11,3,4,80,0,8,3,1,0,0,0,0
+EMP0002436,29,No,Travel_Rarely,Spain,Valencia,1555,Operations,14,5,Operations Management,1,2436,1,Male,02/03/2026,96,3,1,Operations Analyst,1,Divorced,47327,43025,7,Y,No,23,4,4,80,2,11,6,4,0,0,0,0
+EMP0002438,24,No,Travel_Rarely,United Kingdom,London,1574,Operations,14,4,Logistics Management,1,2438,4,Male,16/10/2025,95,3,1,Logistics,2,Married,47895,43541,0,Y,No,25,4,4,80,0,6,1,3,1,0,0,1
+EMP0002442,27,No,Travel_Frequently,France,Marseille,1495,Operations,4,5,Operations Management,1,2442,4,Male,17/06/2025,55,2,5,Operations Manager,2,Single,45501,41365,7,Y,Yes,19,4,4,80,0,9,1,3,1,0,0,1
+EMP0002446,32,No,Travel_Rarely,Spain,Barcelona,1841,IT,19,3,IT,1,2446,2,Male,19/05/2026,81,2,1,Data Engineer,2,Single,56018,50926,9,Y,No,15,3,1,80,0,14,6,4,0,0,0,0
+EMP0002453,31,No,Non-Travel,Germany,Hamburg,1765,IT,16,4,IT,1,2453,1,Female,11/10/2023,41,2,5,IT Manager,1,Divorced,53699,48818,0,Y,Yes,18,3,2,80,2,13,5,4,3,0,0,3
+EMP0002468,23,No,Travel_Frequently,Netherlands,Eindhoven,1607,Operations,30,3,Operations Management,1,2468,3,Male,08/09/2026,63,1,5,Operations Director,2,Married,48888,44444,6,Y,No,20,4,4,80,0,5,6,4,0,0,0,0
+EMP0002470,24,No,Travel_Rarely,France,Toulouse,1732,Operations,9,2,Operations Management,1,2470,2,Female,25/04/2026,45,2,5,Operations Manager,2,Married,52710,47919,0,Y,No,11,3,3,80,0,6,4,4,0,0,0,0
+EMP0002472,28,No,Non-Travel,Germany,Munich,1979,IT,14,4,IT,1,2472,3,Female,01/05/2026,37,4,1,Software Developer,2,Married,60222,54748,4,Y,Yes,19,4,1,80,3,10,3,3,0,0,0,0
+EMP0002485,30,Yes,Travel_Frequently,Spain,Bilbao,1727,IT,6,1,IT,1,2485,4,Female,13/08/2023,74,1,3,System Admin,2,Single,52549,47772,4,Y,No,14,3,4,80,1,12,4,2,3,0,0,0
+EMP0002489,28,No,Non-Travel,Germany,Munich,1792,IT,2,1,IT,1,2489,4,Female,10/02/2024,47,4,2,Software Developer,2,Divorced,54521,49565,2,Y,Yes,21,3,4,80,3,10,5,4,2,2,1,0
+EMP0002492,26,No,Travel_Frequently,Germany,Hamburg,1552,Operations,10,3,Operations Management,1,2492,1,Male,27/12/2023,36,1,3,Operations Analyst,2,Single,47223,42930,9,Y,No,23,3,2,80,3,8,2,1,3,3,3,2
+EMP0002502,29,No,Non-Travel,Italy,Naples,1903,Finance,14,1,Finance,1,2502,4,Female,27/05/2023,71,2,3,Financial Analyst,1,Married,57919,52654,5,Y,No,14,4,2,80,1,11,4,1,3,1,1,0
+EMP0002517,29,No,Non-Travel,Germany,Munich,1920,Operations,15,3,Operations Management,1,2517,2,Female,27/01/2023,31,4,5,Operations Manager,1,Divorced,58407,53098,0,Y,Yes,17,4,3,80,0,11,5,1,3,3,0,3
+EMP0002524,25,No,Travel_Frequently,United Kingdom,Manchester,1954,Operations,26,4,Operations Management,1,2524,4,Female,07/11/2026,67,4,5,Operations Director,2,Married,59470,54064,2,Y,No,16,3,1,80,2,7,0,4,0,0,0,0
+EMP0002527,26,No,Travel_Frequently,United Kingdom,Edinburgh,1721,Operations,26,4,Logistics Management,1,2527,3,Male,13/01/2024,86,3,2,Logistics,2,Single,52380,47619,3,Y,No,24,4,2,80,3,8,1,3,2,1,0,1
+EMP0002535,26,No,Travel_Rarely,Germany,Hamburg,1895,Operations,24,2,Logistics Management,1,2535,4,Female,03/08/2024,76,1,2,Logistics,1,Single,57673,52430,6,Y,No,13,3,3,80,3,8,4,4,2,1,0,1
+EMP0002541,27,No,Travel_Frequently,Spain,Barcelona,1456,Operations,22,5,Logistics Management,1,2541,4,Male,28/02/2024,42,1,2,Logistics,1,Single,44309,40281,3,Y,No,19,3,4,80,2,9,6,1,2,0,0,1
+EMP0002548,27,No,Non-Travel,United Kingdom,Edinburgh,1816,Operations,28,2,Operations Management,1,2548,3,Female,20/06/2024,79,4,5,Operations Director,1,Single,55267,50243,9,Y,Yes,13,4,2,80,0,9,3,3,2,2,2,0
+EMP0002575,27,No,Travel_Frequently,United Kingdom,Manchester,1998,IT,6,4,IT,1,2575,4,Female,15/05/2026,69,3,1,DevOps Engineer,1,Divorced,60794,55268,3,Y,No,25,3,1,80,1,9,0,3,0,0,0,0
+EMP0002579,30,No,Travel_Rarely,United Kingdom,London,1858,IT,16,2,IT,1,2579,3,Female,09/03/2024,84,1,2,System Admin,1,Single,56537,51398,7,Y,Yes,18,3,1,80,3,12,4,2,2,1,0,0
+EMP0002587,26,No,Travel_Frequently,France,Lyon,1943,Finance,15,4,Finance,1,2587,2,Female,25/02/2023,31,3,3,Tax Specialist,2,Single,59130,53755,8,Y,Yes,11,4,3,80,0,8,4,1,3,2,0,3
+EMP0002608,27,No,Travel_Rarely,Spain,Barcelona,1949,IT,27,4,IT,1,2608,4,Female,15/09/2024,69,1,2,System Admin,1,Married,59292,53902,8,Y,No,18,3,4,80,1,9,4,3,2,0,0,1
+EMP0002609,28,No,Non-Travel,United Kingdom,Leeds,1748,IT,15,4,IT,1,2609,2,Male,02/10/2025,39,3,1,Software Developer,2,Divorced,53201,48365,5,Y,No,24,3,3,80,2,10,1,3,1,1,1,1
+EMP0002638,26,No,Travel_Frequently,Germany,Munich,1861,Finance,19,1,Finance,1,2638,3,Male,16/03/2024,38,1,2,Tax Specialist,2,Divorced,56634,51486,1,Y,No,15,3,1,80,1,8,6,3,2,0,0,2
+EMP0002639,29,No,Non-Travel,Spain,Madrid,1943,IT,16,1,IT,1,2639,2,Male,09/12/2024,79,3,2,DevOps Engineer,2,Married,59117,53743,3,Y,Yes,11,3,2,80,1,11,6,1,2,2,2,1
+EMP0002645,25,No,Non-Travel,Spain,Seville,1971,IT,11,2,IT,1,2645,2,Male,16/02/2026,95,4,1,Data Engineer,2,Married,59983,54530,3,Y,No,13,3,2,80,2,7,2,2,0,0,0,0
+EMP0002646,25,No,Travel_Rarely,France,Nice,1896,Operations,19,5,Logistics Management,1,2646,2,Male,19/05/2025,87,1,1,Logistics,2,Divorced,57697,52452,4,Y,No,16,3,3,80,1,7,6,4,1,1,0,1
+EMP0002661,21,No,Non-Travel,Poland,Wroclaw,1656,Operations,26,4,Operations Management,1,2661,3,Female,07/08/2026,58,2,5,Operations Director,1,Married,50386,45806,9,Y,Yes,12,3,4,80,1,3,5,1,0,0,0,0
+EMP0002669,24,No,Travel_Frequently,Germany,Berlin,1947,IT,5,5,IT,1,2669,3,Male,23/03/2025,61,2,1,Data Engineer,2,Single,59232,53848,2,Y,Yes,13,3,2,80,3,6,2,4,1,1,0,1
+EMP0002672,23,No,Travel_Frequently,France,Toulouse,1648,Finance,17,2,Finance,1,2672,4,Female,20/06/2026,78,4,1,Accountant,1,Divorced,50158,45599,3,Y,Yes,23,3,2,80,0,5,0,2,0,0,0,0
+EMP0002675,24,No,Travel_Frequently,Germany,Cologne,1738,Finance,29,3,Finance,1,2675,3,Male,15/04/2024,59,4,2,Accountant,2,Married,52877,48070,9,Y,Yes,19,4,3,80,2,6,4,1,2,2,1,1
+EMP0002678,22,No,Travel_Rarely,United Kingdom,Edinburgh,1827,IT,15,2,IT,1,2678,3,Male,07/05/2025,56,4,1,Software Developer,1,Single,55583,50530,7,Y,No,14,4,1,80,1,4,5,2,1,0,0,1
+EMP0002684,24,No,Travel_Rarely,Spain,Madrid,1910,Operations,24,4,Operations Management,1,2684,1,Female,04/07/2024,63,3,5,Operations Manager,1,Divorced,58124,52840,8,Y,Yes,15,3,4,80,3,6,6,1,2,1,0,0
+EMP0002686,26,No,Non-Travel,France,Toulouse,1399,Operations,27,4,Supply Chain Management,1,2686,1,Female,23/04/2025,75,1,1,Supply Chain,2,Single,42560,38691,8,Y,No,22,4,2,80,0,8,0,4,1,1,0,0
+EMP0002690,29,No,Travel_Frequently,United Kingdom,Edinburgh,1628,IT,24,5,IT,1,2690,2,Female,14/12/2024,76,3,2,System Admin,2,Single,49552,45048,0,Y,Yes,21,3,2,80,2,11,3,2,2,1,1,1
+EMP0002692,25,No,Travel_Frequently,Germany,Berlin,1845,Operations,8,4,Operations Management,1,2692,1,Female,24/04/2026,97,3,5,Operations Manager,2,Divorced,56155,51050,8,Y,No,14,4,4,80,0,7,5,1,0,0,0,0
+EMP0002700,30,No,Travel_Frequently,Netherlands,Amsterdam,1843,Operations,13,5,Logistics Management,1,2700,2,Male,22/07/2025,56,1,1,Logistics,2,Divorced,56065,50969,9,Y,No,22,4,3,80,2,12,1,3,1,0,0,1
+EMP0002701,25,No,Travel_Rarely,Netherlands,Rotterdam,1735,Finance,6,1,Finance,1,2701,4,Male,24/10/2025,63,4,1,Tax Specialist,1,Married,52800,48000,3,Y,Yes,13,4,4,80,1,7,2,1,1,0,0,1
+EMP0002716,26,No,Travel_Rarely,France,Lyon,1698,Operations,1,3,Operations Management,1,2716,2,Male,14/02/2024,61,2,2,Operations Analyst,1,Divorced,51669,46972,1,Y,No,12,4,4,80,1,8,3,4,2,1,1,1
+EMP0002724,27,No,Non-Travel,Germany,Frankfurt,1824,Operations,9,5,Operations Management,1,2724,4,Male,27/09/2023,88,4,5,Operations Director,1,Divorced,55514,50468,4,Y,Yes,25,3,1,80,1,9,3,2,3,2,0,2
+EMP0002734,29,No,Travel_Rarely,Germany,Berlin,1840,Finance,25,2,Finance,1,2734,4,Female,07/06/2023,79,3,3,Tax Specialist,2,Single,55994,50904,4,Y,Yes,18,4,3,80,1,11,1,4,3,1,1,0
+EMP0002737,26,No,Non-Travel,Italy,Milan,1942,IT,16,3,IT,1,2737,3,Female,12/01/2024,53,4,2,DevOps Engineer,2,Single,59082,53711,0,Y,No,11,4,2,80,3,8,1,2,2,1,1,0
+EMP0002745,23,No,Travel_Rarely,Italy,Turin,1851,IT,5,5,IT,1,2745,3,Male,12/05/2026,68,4,1,Software Developer,1,Divorced,56315,51196,0,Y,No,20,4,2,80,1,5,6,1,0,0,0,0
+EMP0002747,22,No,Travel_Rarely,France,Paris,1693,Operations,29,2,Operations Management,1,2747,1,Male,10/07/2025,82,3,5,Operations Director,2,Divorced,51524,46840,5,Y,No,24,4,1,80,2,4,2,3,1,1,0,0
+EMP0002749,23,No,Travel_Rarely,Spain,Barcelona,1952,Operations,9,5,Logistics Management,1,2749,4,Male,28/10/2026,97,4,1,Logistics,2,Single,59400,54000,1,Y,Yes,12,3,4,80,0,5,5,3,0,0,0,0
+EMP0002750,27,No,Non-Travel,France,Paris,1946,Finance,4,1,Finance,1,2750,4,Female,09/02/2024,59,1,2,Financial Analyst,1,Single,59211,53829,4,Y,No,21,3,3,80,3,9,6,4,2,2,0,0
+EMP0002757,25,Yes,Travel_Frequently,Netherlands,The Hague,1623,IT,10,2,IT,1,2757,1,Male,27/09/2023,71,2,3,Data Engineer,1,Married,49395,44905,9,Y,No,15,3,2,80,0,7,1,1,3,0,0,2
+EMP0002768,24,No,Travel_Frequently,France,Toulouse,1682,Operations,6,4,Operations Management,1,2768,1,Female,26/07/2024,53,2,5,Operations Director,2,Divorced,51180,46528,8,Y,No,14,3,1,80,1,6,6,1,2,1,0,2
+EMP0002770,21,No,Travel_Rarely,Italy,Naples,1623,Operations,23,5,Supply Chain Management,1,2770,3,Male,06/01/2026,97,3,1,Supply Chain,1,Married,49401,44910,1,Y,Yes,15,3,2,80,1,3,3,3,0,0,0,0
+EMP0002786,29,No,Travel_Rarely,Germany,Cologne,1610,Finance,22,1,Finance,1,2786,1,Male,19/09/2025,52,4,5,Finance Manager,1,Married,48988,44535,8,Y,Yes,24,4,2,80,2,11,4,4,1,1,0,0
+EMP0002798,26,No,Travel_Rarely,United Kingdom,Manchester,1993,Operations,12,5,Operations Management,1,2798,1,Female,09/09/2024,48,1,2,Operations Analyst,1,Divorced,60632,55120,6,Y,No,15,4,4,80,3,8,2,2,2,2,2,2
+EMP0002799,26,No,Travel_Rarely,Germany,Frankfurt,1785,IT,10,4,IT,1,2799,3,Male,28/02/2025,51,4,1,Software Developer,1,Divorced,54319,49381,0,Y,No,15,4,1,80,0,8,3,2,1,0,0,1
+EMP0002806,31,No,Travel_Frequently,Netherlands,The Hague,1616,Operations,9,4,Operations Management,1,2806,4,Female,05/02/2023,60,3,5,Operations Manager,2,Divorced,49163,44694,7,Y,Yes,25,3,3,80,1,13,5,4,3,1,1,0
+EMP0002818,23,No,Non-Travel,United Kingdom,Manchester,1601,Operations,9,1,Operations Management,1,2818,2,Female,20/01/2026,66,4,5,Operations Director,2,Married,48732,44302,8,Y,No,24,4,2,80,1,5,3,3,0,0,0,0
+EMP0002831,26,No,Non-Travel,France,Lyon,2005,Finance,18,4,Finance,1,2831,3,Female,20/01/2025,85,4,5,Finance Manager,2,Single,60996,55451,2,Y,Yes,20,4,1,80,0,8,1,2,1,0,0,0
+EMP0002843,27,No,Travel_Rarely,France,Toulouse,1622,Operations,22,1,Operations Management,1,2843,3,Female,11/06/2024,99,4,5,Operations Manager,2,Divorced,49361,44874,9,Y,Yes,12,3,2,80,0,9,1,4,2,2,1,0
+EMP0002845,28,No,Travel_Rarely,Germany,Berlin,1986,Finance,11,4,Finance,1,2845,4,Female,02/03/2023,69,2,3,Tax Specialist,1,Single,60417,54925,7,Y,No,15,3,4,80,2,10,5,2,3,1,1,3
+EMP0002852,26,No,Travel_Rarely,France,Paris,1866,IT,26,5,IT,1,2852,2,Female,22/03/2025,39,3,1,DevOps Engineer,2,Divorced,56782,51620,4,Y,Yes,23,3,4,80,3,8,6,1,1,1,1,1
+EMP0002854,28,No,Non-Travel,Spain,Madrid,1999,IT,16,5,IT,1,2854,2,Male,15/07/2024,64,3,5,IT Manager,1,Married,60814,55286,8,Y,No,16,4,1,80,1,10,0,2,2,2,0,2
+EMP0002860,24,No,Non-Travel,Germany,Frankfurt,1752,Finance,14,3,Finance,1,2860,1,Female,19/01/2025,34,1,5,Finance Manager,2,Single,53318,48471,7,Y,No,16,3,2,80,1,6,2,4,1,1,1,1
+EMP0002863,28,No,Travel_Frequently,France,Nice,1942,Operations,18,1,Supply Chain Management,1,2863,4,Female,19/02/2023,33,4,3,Supply Chain,1,Single,59079,53709,0,Y,Yes,22,4,4,80,3,10,5,3,3,0,0,0
+EMP0002866,32,No,Non-Travel,France,Toulouse,1856,IT,4,5,IT,1,2866,2,Male,15/03/2023,44,1,3,System Admin,2,Married,56464,51331,9,Y,No,18,3,1,80,0,14,5,1,3,0,0,1
+EMP0002868,25,No,Non-Travel,United Kingdom,Manchester,1555,Finance,10,1,Finance,1,2868,1,Male,08/12/2023,41,2,3,Accountant,2,Single,47323,43021,9,Y,No,19,3,4,80,1,7,1,1,3,1,0,3
+EMP0002869,23,No,Travel_Rarely,United Kingdom,London,1547,Operations,26,3,Operations Management,1,2869,1,Male,16/03/2026,65,3,5,Operations Director,2,Single,47088,42808,5,Y,Yes,19,4,1,80,2,5,5,1,0,0,0,0
+EMP0002873,25,No,Travel_Rarely,Germany,Berlin,1676,IT,16,3,IT,1,2873,1,Male,28/09/2023,97,2,3,System Admin,1,Divorced,51004,46368,4,Y,Yes,20,4,3,80,3,7,0,1,3,2,2,3
+EMP0002874,31,No,Travel_Rarely,Netherlands,Amsterdam,1816,Operations,29,4,Supply Chain Management,1,2874,2,Male,09/12/2023,95,4,3,Supply Chain,1,Divorced,55260,50237,5,Y,No,12,3,2,80,1,13,6,1,3,0,0,0
+EMP0002877,26,No,Travel_Rarely,Germany,Cologne,1635,IT,15,3,IT,1,2877,2,Female,11/07/2026,99,3,1,Data Engineer,1,Married,49755,45232,0,Y,No,22,4,2,80,1,8,2,3,0,0,0,0
+EMP0002878,26,No,Travel_Rarely,France,Toulouse,1408,Operations,29,2,Operations Management,1,2878,3,Female,09/02/2026,57,3,5,Operations Manager,1,Divorced,42836,38942,1,Y,Yes,24,3,2,80,1,8,5,1,0,0,0,0
+EMP0002889,25,No,Travel_Rarely,Spain,Barcelona,1790,IT,23,5,IT,1,2889,1,Female,02/05/2025,67,3,1,Data Engineer,2,Divorced,54457,49507,4,Y,Yes,20,3,4,80,1,7,4,1,1,0,0,1
+EMP0002890,28,No,Travel_Rarely,United Kingdom,Leeds,1923,Operations,17,1,Operations Management,1,2890,3,Male,08/01/2024,69,1,5,Operations Director,2,Divorced,58503,53185,3,Y,Yes,12,4,2,80,3,10,0,3,2,0,0,0
+EMP0002891,24,No,Travel_Rarely,United Kingdom,Birmingham,1702,Operations,23,3,Operations Management,1,2891,1,Male,18/03/2024,46,2,5,Operations Manager,2,Divorced,51780,47073,0,Y,Yes,19,4,1,80,0,6,0,4,2,2,0,0
+EMP0002893,23,No,Travel_Frequently,France,Toulouse,1717,IT,28,3,IT,1,2893,4,Male,23/04/2026,48,3,1,Software Developer,2,Single,52255,47505,7,Y,No,19,4,3,80,3,5,3,1,0,0,0,0
+EMP0002899,27,No,Non-Travel,United Kingdom,Manchester,1844,IT,10,2,IT,1,2899,2,Male,26/02/2026,92,1,1,DevOps Engineer,1,Single,56116,51015,2,Y,Yes,16,4,2,80,2,9,1,1,0,0,0,0
+EMP0002915,26,No,Non-Travel,Germany,Munich,1577,Finance,24,5,Finance,1,2915,4,Male,27/02/2025,63,2,1,Accountant,1,Single,47982,43620,5,Y,No,20,3,4,80,3,8,5,2,1,1,0,0
+EMP0002921,26,No,Travel_Rarely,Germany,Berlin,1886,Operations,15,3,Operations Management,1,2921,3,Female,24/03/2023,64,1,5,Operations Manager,2,Divorced,57396,52179,8,Y,Yes,14,4,4,80,1,8,1,3,3,0,0,1
+EMP0002923,25,No,Non-Travel,Italy,Turin,1740,IT,10,1,IT,1,2923,1,Male,12/10/2025,82,4,1,DevOps Engineer,1,Married,52959,48145,3,Y,Yes,11,3,2,80,2,7,3,4,1,0,0,1
+EMP0002930,27,No,Travel_Frequently,France,Nice,2003,IT,13,1,IT,1,2930,1,Female,16/07/2024,51,2,2,System Admin,2,Single,60946,55406,1,Y,No,24,4,4,80,1,9,3,1,2,0,0,1
+EMP0002938,21,No,Travel_Frequently,Netherlands,Amsterdam,1390,Operations,6,1,Operations Management,1,2938,2,Female,06/02/2026,72,4,5,Operations Manager,1,Single,42291,38447,0,Y,Yes,16,3,2,80,1,3,0,2,0,0,0,0
+EMP0002940,29,No,Travel_Rarely,United Kingdom,Manchester,1676,Finance,8,1,Finance,1,2940,2,Male,24/08/2026,55,1,1,Accountant,2,Divorced,51000,46364,3,Y,Yes,17,3,2,80,1,11,1,4,0,0,0,0
+EMP0002941,25,No,Non-Travel,United Kingdom,Birmingham,1366,Operations,6,5,Logistics Management,1,2941,4,Male,07/01/2026,53,3,1,Logistics,1,Married,41563,37785,2,Y,Yes,22,4,3,80,3,7,5,1,0,0,0,0
+EMP0002947,26,No,Travel_Frequently,Germany,Cologne,1738,Finance,7,2,Finance,1,2947,4,Male,04/02/2025,50,4,1,Tax Specialist,1,Single,52881,48074,2,Y,Yes,21,4,3,80,1,8,5,4,1,1,0,0
+EMP0002953,27,No,Non-Travel,Germany,Berlin,1980,Finance,27,4,Finance,1,2953,2,Male,20/03/2025,100,4,1,Financial Analyst,2,Single,60232,54757,9,Y,Yes,12,4,3,80,3,9,3,1,1,1,1,0
+EMP0002955,23,No,Travel_Frequently,United Kingdom,London,1945,Finance,18,5,Finance,1,2955,2,Male,10/09/2023,91,4,5,CFO,1,Single,59193,53812,2,Y,Yes,11,4,3,80,2,5,4,1,3,2,1,0
+EMP0002956,23,No,Non-Travel,France,Nice,1892,Finance,16,2,Finance,1,2956,1,Female,26/04/2026,84,3,5,Finance Manager,2,Married,57558,52326,2,Y,Yes,22,4,4,80,0,5,1,3,0,0,0,0
+EMP0002963,28,No,Travel_Frequently,Germany,Munich,1783,Finance,21,2,Finance,1,2963,4,Female,04/08/2023,82,1,3,Tax Specialist,1,Single,54267,49334,6,Y,Yes,19,3,1,80,1,10,5,4,3,2,2,2
+EMP0002965,27,No,Travel_Rarely,France,Toulouse,1855,Operations,2,3,Supply Chain Management,1,2965,4,Male,06/03/2024,81,4,2,Supply Chain,1,Single,56457,51325,0,Y,Yes,23,4,4,80,1,9,1,1,2,1,1,0
+EMP0002967,29,Yes,Travel_Frequently,United Kingdom,London,1474,Operations,21,3,Operations Management,1,2967,4,Female,01/02/2023,72,1,5,Operations Manager,2,Divorced,44842,40766,2,Y,No,15,3,3,80,0,11,3,3,3,3,2,1
+EMP0002972,29,No,Non-Travel,Poland,Krakow,1983,Operations,1,1,Logistics Management,1,2972,3,Female,18/01/2024,31,2,2,Logistics,2,Single,60343,54858,2,Y,Yes,18,4,1,80,1,11,3,2,2,2,2,2
+EMP0002973,22,No,Travel_Frequently,France,Toulouse,1849,Operations,5,4,Logistics Management,1,2973,1,Male,27/01/2025,100,2,1,Logistics,1,Divorced,56248,51135,3,Y,No,15,4,4,80,0,4,6,2,1,0,0,0
+EMP0002974,25,No,Travel_Frequently,France,Paris,1746,Operations,24,5,Operations Management,1,2974,2,Male,24/03/2026,94,2,5,Operations Director,1,Single,53119,48290,0,Y,Yes,20,3,1,80,1,7,5,3,0,0,0,0
+EMP0002979,25,No,Non-Travel,Germany,Hamburg,1436,Operations,11,5,Operations Management,1,2979,1,Male,20/10/2024,82,4,5,Operations Director,1,Married,43692,39720,9,Y,No,21,4,3,80,0,7,2,1,2,0,0,0
+EMP0002982,29,No,Travel_Rarely,Germany,Cologne,1430,Operations,13,2,Operations Management,1,2982,4,Male,11/12/2024,47,4,5,Operations Director,2,Single,43524,39568,8,Y,Yes,16,3,4,80,3,11,6,1,2,0,0,1
