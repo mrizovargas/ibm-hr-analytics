@@ -1,0 +1,27 @@
+"department","job_role","total_headcount","total_bajas","raw_attrition_rate"
+Sales,Sales Representative,83,33,39.00
+Human Resources,Human Resources,52,12,23.00
+Research & Development,Laboratory Technician,259,62,23.00
+Sales,Sales Executive,326,57,17.00
+Research & Development,Research Scientist,292,47,16.00
+Research & Development,Manufacturing Director,145,10,6.00
+Research & Development,Healthcare Representative,131,9,6.00
+Finance,Financial Analyst,66,4,6.00
+Sales,Manager,37,2,5.00
+Research & Development,Manager,54,3,5.00
+Finance,Accountant,67,3,4.00
+Operations,Logistics,108,4,3.00
+IT,System Admin,132,4,3.00
+Finance,Tax Specialist,64,2,3.00
+Operations,Operations Manager,101,4,3.00
+Operations,Operations Director,110,3,2.00
+Finance,Finance Manager,78,2,2.00
+Operations,Operations Analyst,100,2,2.00
+Research & Development,Research Director,80,2,2.00
+IT,DevOps Engineer,127,2,1.00
+IT,Data Engineer,148,2,1.00
+Finance,CFO,77,1,1.00
+Operations,Supply Chain,92,0,0.00
+Human Resources,Manager,11,0,0.00
+IT,Software Developer,131,1,0.00
+IT,IT Manager,129,1,0.00

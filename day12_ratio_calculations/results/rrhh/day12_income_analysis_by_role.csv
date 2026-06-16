@@ -1,0 +1,27 @@
+"departamento","rol_trabajo","ingreso_total","total_empleados","ingreso_promedio_protegido"
+Finance,CFO,7990278.00,77,103769.84
+Finance,Finance Manager,7940067.00,78,101795.73
+Finance,Tax Specialist,6219538.00,64,97180.28
+Finance,Accountant,6463575.00,67,96471.27
+Finance,Financial Analyst,6088616.00,66,92251.76
+Human Resources,Human Resources,1300596.00,52,25011.46
+Human Resources,Manager,261855.00,11,23805.00
+IT,IT Manager,13529128.00,129,104876.96
+IT,DevOps Engineer,13208773.00,127,104006.09
+IT,Data Engineer,15168740.00,148,102491.49
+IT,System Admin,12896914.00,132,97703.89
+IT,Software Developer,12279883.00,131,93739.56
+Operations,Operations Analyst,10118595.00,100,101185.95
+Operations,Operations Manager,9354961.00,101,92623.38
+Operations,Operations Director,9993129.00,110,90846.63
+Operations,Supply Chain,8015944.00,92,87129.83
+Operations,Logistics,9093600.00,108,84200.00
+Research & Development,Healthcare Representative,3692931.00,131,28190.31
+Research & Development,Manager,1446357.00,54,26784.39
+Research & Development,Research Director,2118468.00,80,26480.85
+Research & Development,Research Scientist,7712265.00,292,26411.87
+Research & Development,Laboratory Technician,6808692.00,259,26288.39
+Research & Development,Manufacturing Director,3808959.00,145,26268.68
+Sales,Sales Representative,2222286.00,83,26774.53
+Sales,Sales Executive,8628972.00,326,26469.24
+Sales,Manager,927201.00,37,25059.49
