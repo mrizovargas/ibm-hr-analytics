@@ -1,0 +1,1346 @@
+"employee_number","department","job_role","monthly_income","dept_average"
+1483,Finance,Financial Analyst,337527.00,98585.44
+1987,Finance,CFO,292229.00,98585.44
+2683,IT,Data Engineer,285544.00,100574.87
+1494,IT,Software Developer,282645.00,100574.87
+2774,Finance,Tax Specialist,277344.00,98585.44
+2559,IT,Software Developer,275733.00,100574.87
+2840,IT,Software Developer,275545.00,100574.87
+1683,Finance,CFO,271463.00,98585.44
+1876,IT,IT Manager,266603.00,100574.87
+1909,Finance,CFO,266393.00,98585.44
+2976,Operations,Operations Analyst,265589.00,91147.22
+2558,IT,Data Engineer,265464.00,100574.87
+2689,Operations,Logistics,264642.00,91147.22
+1515,Operations,Operations Manager,264517.00,91147.22
+2298,IT,System Admin,263634.00,100574.87
+2469,Finance,Accountant,262362.00,98585.44
+2900,IT,IT Manager,260740.00,100574.87
+1713,IT,IT Manager,260102.00,100574.87
+2202,Operations,Operations Analyst,259898.00,91147.22
+2660,Operations,Supply Chain,259624.00,91147.22
+2704,IT,IT Manager,259428.00,100574.87
+2135,Operations,Operations Manager,258552.00,91147.22
+2993,Finance,Tax Specialist,257128.00,98585.44
+2232,Finance,Finance Manager,255125.00,98585.44
+1812,IT,IT Manager,255033.00,100574.87
+2596,IT,Data Engineer,253986.00,100574.87
+2057,Operations,Operations Analyst,253212.00,91147.22
+1797,Finance,CFO,252798.00,98585.44
+1493,Finance,Tax Specialist,252703.00,98585.44
+2244,IT,Data Engineer,251625.00,100574.87
+2896,IT,IT Manager,251588.00,100574.87
+2481,Finance,Finance Manager,250438.00,98585.44
+1610,IT,Data Engineer,240149.00,100574.87
+2329,Operations,Operations Director,238718.00,91147.22
+1919,Operations,Operations Director,238465.00,91147.22
+1603,IT,IT Manager,237091.00,100574.87
+1956,Operations,Operations Manager,236709.00,91147.22
+2014,IT,DevOps Engineer,234689.00,100574.87
+2115,Operations,Operations Director,233372.00,91147.22
+2009,IT,System Admin,232262.00,100574.87
+1568,IT,DevOps Engineer,231826.00,100574.87
+2104,Finance,Finance Manager,231330.00,98585.44
+1780,IT,Software Developer,229477.00,100574.87
+1699,Operations,Operations Director,225897.00,91147.22
+2262,Operations,Supply Chain,220466.00,91147.22
+1475,Operations,Operations Director,219477.00,91147.22
+1856,Operations,Operations Analyst,217745.00,91147.22
+2066,Operations,Operations Analyst,211620.00,91147.22
+2544,Operations,Supply Chain,211590.00,91147.22
+2946,Finance,Tax Specialist,209634.00,98585.44
+1998,Operations,Supply Chain,202462.00,91147.22
+1615,Operations,Operations Manager,196276.00,91147.22
+2688,IT,Data Engineer,195801.00,100574.87
+1474,Finance,CFO,193877.00,98585.44
+1540,Finance,CFO,193604.00,98585.44
+2640,IT,Data Engineer,191895.00,100574.87
+2664,IT,Data Engineer,191829.00,100574.87
+2619,Operations,Logistics,190606.00,91147.22
+1788,Operations,Operations Analyst,190030.00,91147.22
+2381,IT,IT Manager,188258.00,100574.87
+1594,IT,DevOps Engineer,187726.00,100574.87
+2301,IT,DevOps Engineer,187679.00,100574.87
+1611,Finance,Finance Manager,185546.00,98585.44
+2450,Finance,Financial Analyst,184553.00,98585.44
+2775,IT,Data Engineer,183850.00,100574.87
+2665,Finance,CFO,183291.00,98585.44
+2681,IT,IT Manager,182719.00,100574.87
+1621,IT,Data Engineer,182677.00,100574.87
+2593,IT,Software Developer,182582.00,100574.87
+2016,IT,Data Engineer,182142.00,100574.87
+2795,IT,Software Developer,181915.00,100574.87
+1903,Operations,Logistics,181704.00,91147.22
+2081,Finance,Finance Manager,181430.00,98585.44
+1696,IT,Data Engineer,180541.00,100574.87
+2414,IT,Data Engineer,180006.00,100574.87
+1685,Finance,CFO,179645.00,98585.44
+1781,IT,Software Developer,179306.00,100574.87
+2007,Finance,CFO,179122.00,98585.44
+2127,IT,Software Developer,178889.00,100574.87
+1712,Finance,Financial Analyst,178770.00,98585.44
+1861,Operations,Operations Director,178211.00,91147.22
+2213,Finance,CFO,178052.00,98585.44
+2451,IT,Software Developer,177834.00,100574.87
+1631,IT,DevOps Engineer,177802.00,100574.87
+2377,IT,System Admin,177615.00,100574.87
+2726,IT,DevOps Engineer,177589.00,100574.87
+1681,IT,DevOps Engineer,175930.00,100574.87
+1818,Finance,CFO,175898.00,98585.44
+2132,IT,IT Manager,175219.00,100574.87
+1652,IT,DevOps Engineer,174990.00,100574.87
+1902,IT,Data Engineer,174830.00,100574.87
+1575,IT,Software Developer,174830.00,100574.87
+2685,IT,System Admin,174589.00,100574.87
+2910,Finance,Tax Specialist,174574.00,98585.44
+2570,IT,DevOps Engineer,174504.00,100574.87
+2933,IT,IT Manager,174267.00,100574.87
+2778,Finance,Accountant,174192.00,98585.44
+1489,Finance,Finance Manager,173797.00,98585.44
+1966,IT,Software Developer,173662.00,100574.87
+2529,Finance,Accountant,172857.00,98585.44
+1853,IT,Software Developer,172691.00,100574.87
+2313,IT,DevOps Engineer,172597.00,100574.87
+1573,Operations,Operations Analyst,172394.00,91147.22
+2762,Operations,Operations Manager,172212.00,91147.22
+2807,Operations,Operations Analyst,171736.00,91147.22
+2459,Finance,CFO,171600.00,98585.44
+2258,Finance,Finance Manager,170816.00,98585.44
+2636,Finance,CFO,170495.00,98585.44
+1773,IT,System Admin,170281.00,100574.87
+2687,IT,DevOps Engineer,170259.00,100574.87
+2005,IT,DevOps Engineer,170194.00,100574.87
+2237,IT,Software Developer,170047.00,100574.87
+2306,Finance,Finance Manager,169921.00,98585.44
+2848,IT,Data Engineer,169826.00,100574.87
+2486,IT,System Admin,169774.00,100574.87
+2443,IT,Software Developer,169622.00,100574.87
+2460,IT,System Admin,169605.00,100574.87
+2227,IT,System Admin,169156.00,100574.87
+2075,Operations,Operations Analyst,169116.00,91147.22
+2948,Operations,Logistics,168601.00,91147.22
+2341,Operations,Operations Manager,168338.00,91147.22
+2537,IT,IT Manager,168324.00,100574.87
+1715,IT,System Admin,167959.00,100574.87
+1545,IT,Data Engineer,167725.00,100574.87
+2457,Finance,Finance Manager,167547.00,98585.44
+2936,Operations,Logistics,167372.00,91147.22
+2832,IT,DevOps Engineer,167242.00,100574.87
+2954,IT,DevOps Engineer,167091.00,100574.87
+2491,IT,Data Engineer,167080.00,100574.87
+2554,IT,System Admin,167002.00,100574.87
+2957,IT,IT Manager,166871.00,100574.87
+1746,Operations,Operations Analyst,166688.00,91147.22
+1678,IT,IT Manager,166316.00,100574.87
+1559,Operations,Operations Director,166145.00,91147.22
+1617,Operations,Operations Manager,166065.00,91147.22
+1907,Operations,Operations Manager,166014.00,91147.22
+2282,Finance,Accountant,165984.00,98585.44
+2652,Operations,Logistics,165795.00,91147.22
+2369,IT,System Admin,165740.00,100574.87
+2666,Finance,Finance Manager,165731.00,98585.44
+2398,IT,DevOps Engineer,165718.00,100574.87
+2580,Finance,Accountant,165600.00,98585.44
+2844,Finance,Accountant,165486.00,98585.44
+2494,IT,IT Manager,165303.00,100574.87
+2317,IT,Software Developer,165248.00,100574.87
+2114,IT,IT Manager,164928.00,100574.87
+2730,Operations,Logistics,164903.00,91147.22
+2791,IT,Data Engineer,164887.00,100574.87
+1676,Finance,Accountant,164813.00,98585.44
+1702,Operations,Operations Analyst,164721.00,91147.22
+2603,Operations,Operations Analyst,164238.00,91147.22
+2276,Operations,Operations Analyst,163978.00,91147.22
+2552,IT,DevOps Engineer,163320.00,100574.87
+1687,Operations,Operations Analyst,163254.00,91147.22
+2256,Finance,Tax Specialist,163241.00,98585.44
+1686,Operations,Operations Analyst,163161.00,91147.22
+2851,IT,DevOps Engineer,163033.00,100574.87
+2964,IT,DevOps Engineer,163031.00,100574.87
+1834,Operations,Operations Analyst,163023.00,91147.22
+2321,Operations,Operations Analyst,162374.00,91147.22
+2141,Operations,Supply Chain,162132.00,91147.22
+2024,Operations,Operations Director,162104.00,91147.22
+2892,Finance,Finance Manager,162091.00,98585.44
+2085,Operations,Operations Manager,161911.00,91147.22
+2785,Finance,Accountant,161823.00,98585.44
+2557,Operations,Logistics,161638.00,91147.22
+2711,Finance,CFO,161591.00,98585.44
+1918,IT,Data Engineer,161311.00,100574.87
+1484,Operations,Logistics,161295.00,91147.22
+1937,IT,Software Developer,160899.00,100574.87
+2466,Operations,Operations Manager,160844.00,91147.22
+1887,Operations,Operations Director,160239.00,91147.22
+1908,IT,DevOps Engineer,159838.00,100574.87
+2677,Operations,Operations Analyst,159482.00,91147.22
+1532,IT,System Admin,158996.00,100574.87
+2738,Operations,Operations Analyst,158788.00,91147.22
+2153,Finance,Accountant,158510.00,98585.44
+1553,Operations,Operations Manager,158181.00,91147.22
+2719,IT,System Admin,158136.00,100574.87
+1742,Finance,Financial Analyst,157759.00,98585.44
+2897,Finance,Accountant,157384.00,98585.44
+2626,IT,Software Developer,157363.00,100574.87
+1735,Finance,Financial Analyst,157294.00,98585.44
+2813,IT,Data Engineer,157038.00,100574.87
+2823,IT,System Admin,156876.00,100574.87
+2887,IT,System Admin,156767.00,100574.87
+2793,Operations,Operations Manager,156435.00,91147.22
+1884,Finance,Tax Specialist,156361.00,98585.44
+2720,Finance,CFO,156344.00,98585.44
+1498,Finance,Tax Specialist,156273.00,98585.44
+2816,IT,System Admin,156170.00,100574.87
+2097,IT,Data Engineer,155540.00,100574.87
+2062,IT,IT Manager,155421.00,100574.87
+2383,Finance,Financial Analyst,155370.00,98585.44
+2458,IT,DevOps Engineer,155050.00,100574.87
+1970,IT,Software Developer,154851.00,100574.87
+2827,Finance,Financial Analyst,154782.00,98585.44
+2510,Finance,Finance Manager,154752.00,98585.44
+2408,Operations,Supply Chain,154746.00,91147.22
+1760,IT,DevOps Engineer,154574.00,100574.87
+2959,Operations,Operations Analyst,154477.00,91147.22
+2511,Finance,Financial Analyst,154347.00,98585.44
+2092,Finance,Accountant,154279.00,98585.44
+1665,Operations,Logistics,154196.00,91147.22
+2980,IT,IT Manager,154071.00,100574.87
+1558,Operations,Operations Director,153954.00,91147.22
+2766,IT,Data Engineer,153924.00,100574.87
+2406,IT,Data Engineer,153486.00,100574.87
+2287,Operations,Operations Director,153297.00,91147.22
+2992,IT,Data Engineer,153217.00,100574.87
+2880,Operations,Supply Chain,153040.00,91147.22
+2382,IT,DevOps Engineer,152904.00,100574.87
+2883,IT,Software Developer,152706.00,100574.87
+1583,Operations,Supply Chain,152682.00,91147.22
+2151,Finance,CFO,152429.00,98585.44
+2375,Operations,Logistics,152058.00,91147.22
+1657,IT,IT Manager,151819.00,100574.87
+2744,IT,DevOps Engineer,151085.00,100574.87
+1726,IT,System Admin,150780.00,100574.87
+1487,Operations,Operations Manager,150701.00,91147.22
+2059,IT,System Admin,150669.00,100574.87
+2649,IT,Data Engineer,150624.00,100574.87
+1792,IT,DevOps Engineer,150516.00,100574.87
+1862,IT,DevOps Engineer,150423.00,100574.87
+2753,Operations,Logistics,150350.00,91147.22
+2833,Finance,CFO,149888.00,98585.44
+2113,IT,System Admin,149855.00,100574.87
+2150,Finance,Accountant,149411.00,98585.44
+2613,IT,Software Developer,149331.00,100574.87
+2986,Finance,CFO,149227.00,98585.44
+2017,IT,DevOps Engineer,148999.00,100574.87
+1994,IT,Software Developer,148324.00,100574.87
+2335,Operations,Operations Analyst,148233.00,91147.22
+2395,IT,DevOps Engineer,148113.00,100574.87
+2323,IT,Data Engineer,148100.00,100574.87
+2273,IT,System Admin,147682.00,100574.87
+1857,IT,DevOps Engineer,147634.00,100574.87
+2303,Finance,Financial Analyst,147584.00,98585.44
+2206,Operations,Operations Director,147418.00,91147.22
+2682,Operations,Logistics,147415.00,91147.22
+1927,Finance,Accountant,147208.00,98585.44
+2044,Operations,Operations Director,147108.00,91147.22
+2484,Operations,Operations Analyst,146720.00,91147.22
+1632,Operations,Operations Director,146231.00,91147.22
+1478,IT,IT Manager,146175.00,100574.87
+2219,Finance,Tax Specialist,146097.00,98585.44
+2159,Finance,Finance Manager,146033.00,98585.44
+2049,Operations,Operations Manager,145998.00,91147.22
+2581,IT,DevOps Engineer,145961.00,100574.87
+1771,IT,System Admin,145671.00,100574.87
+2835,IT,IT Manager,145647.00,100574.87
+2332,Operations,Operations Manager,145380.00,91147.22
+2885,Operations,Operations Director,145317.00,91147.22
+2875,IT,IT Manager,145160.00,100574.87
+2635,IT,Data Engineer,145137.00,100574.87
+2826,Operations,Supply Chain,144823.00,91147.22
+2376,Operations,Operations Manager,144724.00,91147.22
+1815,Operations,Operations Manager,144234.00,91147.22
+2216,IT,IT Manager,144021.00,100574.87
+1984,IT,Software Developer,143915.00,100574.87
+2549,Operations,Logistics,143817.00,91147.22
+1795,IT,IT Manager,143727.00,100574.87
+2584,IT,System Admin,143595.00,100574.87
+1777,IT,System Admin,143160.00,100574.87
+2243,Finance,CFO,142848.00,98585.44
+1913,Finance,CFO,142675.00,98585.44
+2822,Finance,Finance Manager,142484.00,98585.44
+1828,IT,IT Manager,142408.00,100574.87
+1674,Finance,Accountant,142245.00,98585.44
+1590,IT,System Admin,141879.00,100574.87
+2805,IT,Software Developer,141869.00,100574.87
+2006,Operations,Operations Manager,141851.00,91147.22
+2482,Operations,Supply Chain,141773.00,91147.22
+1768,Operations,Operations Director,141706.00,91147.22
+1619,Operations,Operations Analyst,141215.00,91147.22
+2901,IT,DevOps Engineer,141149.00,100574.87
+1754,Finance,Tax Specialist,141042.00,98585.44
+2352,Operations,Operations Analyst,140990.00,91147.22
+2847,IT,Software Developer,140752.00,100574.87
+2796,IT,Data Engineer,140477.00,100574.87
+1986,Operations,Operations Director,140045.00,91147.22
+2042,IT,System Admin,139940.00,100574.87
+2942,Finance,Financial Analyst,139854.00,98585.44
+1648,Operations,Operations Director,139835.00,91147.22
+1641,IT,DevOps Engineer,139213.00,100574.87
+2914,IT,System Admin,138903.00,100574.87
+2449,Operations,Supply Chain,138609.00,91147.22
+2702,Operations,Operations Manager,138377.00,91147.22
+2038,Operations,Operations Analyst,138207.00,91147.22
+1770,Finance,Finance Manager,137920.00,98585.44
+2597,Operations,Operations Analyst,137759.00,91147.22
+2591,Operations,Operations Manager,137236.00,91147.22
+2444,Operations,Operations Analyst,137156.00,91147.22
+2916,Operations,Supply Chain,137006.00,91147.22
+1983,Finance,Finance Manager,136825.00,98585.44
+2297,Operations,Operations Manager,136794.00,91147.22
+2862,IT,IT Manager,136310.00,100574.87
+2674,Finance,Accountant,136096.00,98585.44
+2428,Operations,Operations Director,135125.00,91147.22
+2918,Operations,Operations Director,133700.00,91147.22
+1823,Operations,Operations Manager,133601.00,91147.22
+2176,Operations,Operations Director,133415.00,91147.22
+2825,Operations,Supply Chain,133274.00,91147.22
+2564,Operations,Supply Chain,132883.00,91147.22
+2309,IT,System Admin,132739.00,100574.87
+2255,IT,DevOps Engineer,132709.00,100574.87
+2743,IT,DevOps Engineer,132338.00,100574.87
+1599,Operations,Operations Manager,131742.00,91147.22
+2076,Operations,Operations Analyst,131523.00,91147.22
+1951,Operations,Logistics,130721.00,91147.22
+1520,Operations,Operations Manager,130620.00,91147.22
+1504,IT,System Admin,130386.00,100574.87
+2441,Operations,Operations Manager,130241.00,91147.22
+2483,IT,Data Engineer,130035.00,100574.87
+1645,IT,Data Engineer,129673.00,100574.87
+2971,Operations,Operations Director,129309.00,91147.22
+1844,Operations,Operations Director,129277.00,91147.22
+2004,Operations,Logistics,129079.00,91147.22
+1883,Operations,Supply Chain,128767.00,91147.22
+2143,Finance,CFO,128727.00,98585.44
+1605,IT,Data Engineer,128421.00,100574.87
+1977,Operations,Logistics,128405.00,91147.22
+1784,IT,DevOps Engineer,128288.00,100574.87
+2628,Operations,Operations Manager,127735.00,91147.22
+2995,Operations,Logistics,127319.00,91147.22
+1935,Operations,Operations Director,127296.00,91147.22
+2403,Operations,Supply Chain,127211.00,91147.22
+2003,Operations,Operations Analyst,127154.00,91147.22
+1606,Operations,Operations Analyst,126190.00,91147.22
+2284,IT,System Admin,126022.00,100574.87
+2465,Operations,Operations Analyst,125380.00,91147.22
+1769,Operations,Logistics,124858.00,91147.22
+1591,Operations,Supply Chain,124857.00,91147.22
+2253,Operations,Operations Analyst,124537.00,91147.22
+1557,Operations,Operations Analyst,124522.00,91147.22
+2129,Operations,Supply Chain,123780.00,91147.22
+1658,Operations,Operations Manager,123427.00,91147.22
+1563,Operations,Operations Director,122655.00,91147.22
+1962,Operations,Operations Director,122155.00,91147.22
+2566,IT,System Admin,119463.00,100574.87
+1758,IT,Data Engineer,119210.00,100574.87
+2876,Operations,Logistics,119013.00,91147.22
+1798,IT,System Admin,118866.00,100574.87
+1513,IT,System Admin,118852.00,100574.87
+1752,Finance,Financial Analyst,117758.00,98585.44
+2370,IT,Data Engineer,117096.00,100574.87
+2653,Finance,Finance Manager,117031.00,98585.44
+2657,IT,Software Developer,116990.00,100574.87
+1833,IT,Data Engineer,116868.00,100574.87
+2197,IT,DevOps Engineer,116752.00,100574.87
+1896,IT,Software Developer,116613.00,100574.87
+1875,IT,Data Engineer,116262.00,100574.87
+2634,IT,IT Manager,116050.00,100574.87
+2288,Finance,Financial Analyst,116039.00,98585.44
+2252,IT,System Admin,115781.00,100574.87
+2161,IT,Data Engineer,115591.00,100574.87
+1527,IT,IT Manager,115311.00,100574.87
+2325,IT,Software Developer,115229.00,100574.87
+2811,IT,Data Engineer,115189.00,100574.87
+1952,IT,System Admin,114811.00,100574.87
+2464,Operations,Operations Director,114788.00,91147.22
+1639,IT,Data Engineer,114706.00,100574.87
+2315,IT,Data Engineer,114554.00,100574.87
+1602,IT,Data Engineer,114494.00,100574.87
+2031,Finance,Tax Specialist,114119.00,98585.44
+2888,Finance,CFO,114086.00,98585.44
+1656,IT,DevOps Engineer,114029.00,100574.87
+2477,IT,IT Manager,113934.00,100574.87
+2305,IT,Software Developer,113745.00,100574.87
+1717,IT,DevOps Engineer,113622.00,100574.87
+2412,Finance,CFO,113496.00,98585.44
+2385,IT,DevOps Engineer,113427.00,100574.87
+2629,IT,DevOps Engineer,112916.00,100574.87
+1991,IT,IT Manager,112897.00,100574.87
+2185,IT,Software Developer,112692.00,100574.87
+2931,IT,Software Developer,112476.00,100574.87
+2264,IT,DevOps Engineer,112451.00,100574.87
+2200,IT,IT Manager,112433.00,100574.87
+2699,IT,Software Developer,112224.00,100574.87
+1978,IT,Data Engineer,112170.00,100574.87
+1772,Finance,Financial Analyst,111860.00,98585.44
+2203,IT,IT Manager,111420.00,100574.87
+2752,Finance,Tax Specialist,111295.00,98585.44
+2186,IT,IT Manager,111173.00,100574.87
+1597,Finance,Finance Manager,111117.00,98585.44
+1762,IT,IT Manager,111067.00,100574.87
+2717,IT,DevOps Engineer,111018.00,100574.87
+2349,IT,System Admin,110908.00,100574.87
+2218,IT,System Admin,110734.00,100574.87
+2047,Finance,Accountant,110696.00,98585.44
+2367,IT,DevOps Engineer,110559.00,100574.87
+2988,Finance,Tax Specialist,110546.00,98585.44
+1880,IT,Software Developer,110293.00,100574.87
+2480,IT,DevOps Engineer,110272.00,100574.87
+2648,Finance,Finance Manager,110106.00,98585.44
+2331,IT,System Admin,110088.00,100574.87
+2521,Finance,Finance Manager,110072.00,98585.44
+1936,Finance,Finance Manager,109917.00,98585.44
+1741,Finance,Finance Manager,109898.00,98585.44
+2968,IT,Data Engineer,109871.00,100574.87
+2927,Operations,Operations Analyst,109794.00,91147.22
+2667,IT,System Admin,109780.00,100574.87
+1490,Finance,Accountant,109767.00,98585.44
+1496,IT,Data Engineer,109640.00,100574.87
+2041,IT,IT Manager,109439.00,100574.87
+2289,IT,Data Engineer,109393.00,100574.87
+2902,IT,Data Engineer,109279.00,100574.87
+1566,IT,Data Engineer,109255.00,100574.87
+2462,IT,Data Engineer,109132.00,100574.87
+1551,IT,IT Manager,109070.00,100574.87
+2239,Finance,Tax Specialist,109016.00,98585.44
+1786,IT,DevOps Engineer,108896.00,100574.87
+2623,IT,Software Developer,108790.00,100574.87
+1707,IT,System Admin,108609.00,100574.87
+1638,Finance,CFO,108589.00,98585.44
+1850,IT,System Admin,108491.00,100574.87
+2454,IT,Data Engineer,108328.00,100574.87
+2147,IT,DevOps Engineer,108309.00,100574.87
+2246,IT,IT Manager,108144.00,100574.87
+2392,IT,System Admin,107827.00,100574.87
+2790,Finance,Tax Specialist,107809.00,98585.44
+2171,IT,Software Developer,107565.00,100574.87
+2647,IT,System Admin,107539.00,100574.87
+2228,IT,IT Manager,107530.00,100574.87
+2620,Finance,Finance Manager,107383.00,98585.44
+2437,IT,System Admin,107341.00,100574.87
+2644,IT,Data Engineer,107332.00,100574.87
+1509,IT,IT Manager,107324.00,100574.87
+2357,IT,Data Engineer,107149.00,100574.87
+1820,Finance,Financial Analyst,107147.00,98585.44
+1650,Finance,Accountant,107045.00,98585.44
+2211,IT,Software Developer,106999.00,100574.87
+2624,IT,DevOps Engineer,106918.00,100574.87
+2286,Finance,Finance Manager,106845.00,98585.44
+2048,Finance,Financial Analyst,106811.00,98585.44
+2019,Finance,Tax Specialist,106704.00,98585.44
+1897,Finance,Accountant,106649.00,98585.44
+1953,Finance,Accountant,106552.00,98585.44
+2064,IT,IT Manager,106542.00,100574.87
+2254,Finance,Tax Specialist,106516.00,98585.44
+1776,IT,IT Manager,106462.00,100574.87
+1670,IT,DevOps Engineer,106327.00,100574.87
+2935,IT,IT Manager,106234.00,100574.87
+1993,IT,IT Manager,106181.00,100574.87
+2595,IT,Data Engineer,106179.00,100574.87
+2166,IT,IT Manager,106115.00,100574.87
+2111,IT,IT Manager,106088.00,100574.87
+1523,IT,IT Manager,106058.00,100574.87
+2124,IT,Data Engineer,106038.00,100574.87
+2642,IT,IT Manager,106000.00,100574.87
+2694,IT,Data Engineer,105982.00,100574.87
+2426,IT,Data Engineer,105946.00,100574.87
+1660,IT,DevOps Engineer,105916.00,100574.87
+2567,IT,System Admin,105914.00,100574.87
+2106,IT,DevOps Engineer,105895.00,100574.87
+2810,IT,System Admin,105867.00,100574.87
+2706,IT,System Admin,105846.00,100574.87
+2722,IT,IT Manager,105781.00,100574.87
+1587,IT,Data Engineer,105669.00,100574.87
+2250,Finance,Tax Specialist,105494.00,98585.44
+1783,Finance,Financial Analyst,105431.00,98585.44
+2573,IT,Data Engineer,105424.00,100574.87
+2861,IT,System Admin,105277.00,100574.87
+2474,IT,Data Engineer,105241.00,100574.87
+1499,IT,DevOps Engineer,105142.00,100574.87
+2784,Operations,Operations Director,105041.00,91147.22
+2736,Operations,Supply Chain,105011.00,91147.22
+2871,IT,Data Engineer,104971.00,100574.87
+1965,Finance,Finance Manager,104969.00,98585.44
+1958,IT,DevOps Engineer,104692.00,100574.87
+2067,Finance,Financial Analyst,104663.00,98585.44
+1901,IT,Software Developer,104651.00,100574.87
+2670,Finance,CFO,104638.00,98585.44
+2251,Finance,Financial Analyst,104604.00,98585.44
+1955,Finance,Financial Analyst,104599.00,98585.44
+1942,Operations,Operations Manager,104512.00,91147.22
+2032,IT,DevOps Engineer,104505.00,100574.87
+1789,Finance,Tax Specialist,104451.00,98585.44
+2347,Finance,Tax Specialist,104392.00,98585.44
+1503,Finance,Accountant,104387.00,98585.44
+2326,IT,System Admin,104250.00,100574.87
+2136,Finance,Finance Manager,104234.00,98585.44
+2622,IT,Data Engineer,104230.00,100574.87
+2929,IT,IT Manager,104124.00,100574.87
+2707,Finance,Finance Manager,104028.00,98585.44
+1874,IT,Software Developer,103844.00,100574.87
+1481,Operations,Supply Chain,103815.00,91147.22
+2296,IT,Software Developer,103774.00,100574.87
+1643,IT,DevOps Engineer,103280.00,100574.87
+2069,Finance,Financial Analyst,103251.00,98585.44
+1782,Finance,Tax Specialist,103141.00,98585.44
+2838,IT,Data Engineer,103087.00,100574.87
+1920,IT,IT Manager,103039.00,100574.87
+2732,Operations,Supply Chain,103027.00,91147.22
+2245,Operations,Supply Chain,102967.00,91147.22
+2359,Finance,Financial Analyst,102933.00,98585.44
+1767,Operations,Operations Analyst,102715.00,91147.22
+1669,Finance,Tax Specialist,102689.00,98585.44
+2842,IT,IT Manager,102623.00,100574.87
+1947,IT,System Admin,102613.00,100574.87
+1871,Finance,CFO,102568.00,98585.44
+2508,Finance,Tax Specialist,102564.00,98585.44
+2122,Operations,Logistics,102492.00,91147.22
+1950,IT,DevOps Engineer,102377.00,100574.87
+2571,Finance,Tax Specialist,102371.00,98585.44
+1787,IT,DevOps Engineer,102296.00,100574.87
+2021,IT,IT Manager,102242.00,100574.87
+2077,IT,Data Engineer,102069.00,100574.87
+2012,Finance,Finance Manager,102067.00,98585.44
+2330,IT,System Admin,102031.00,100574.87
+1926,Finance,Finance Manager,102001.00,98585.44
+2324,Operations,Operations Director,101906.00,91147.22
+1932,Finance,Accountant,101893.00,98585.44
+2562,IT,Software Developer,101845.00,100574.87
+2855,Finance,Financial Analyst,101765.00,98585.44
+1963,IT,DevOps Engineer,101682.00,100574.87
+2723,Finance,Finance Manager,101604.00,98585.44
+1535,IT,IT Manager,101404.00,100574.87
+2035,Operations,Operations Analyst,101398.00,91147.22
+1852,IT,Software Developer,101379.00,100574.87
+2333,Operations,Operations Director,101357.00,91147.22
+1805,IT,IT Manager,101345.00,100574.87
+2424,IT,System Admin,101330.00,100574.87
+2173,IT,Data Engineer,101321.00,100574.87
+2882,IT,Data Engineer,101310.00,100574.87
+1537,Finance,Finance Manager,101283.00,98585.44
+1649,IT,DevOps Engineer,101259.00,100574.87
+2718,IT,DevOps Engineer,101250.00,100574.87
+2767,IT,System Admin,101247.00,100574.87
+2378,IT,DevOps Engineer,101195.00,100574.87
+2334,IT,DevOps Engineer,101050.00,100574.87
+1634,IT,System Admin,100973.00,100574.87
+1827,Operations,Logistics,100960.00,91147.22
+2065,Finance,CFO,100854.00,98585.44
+1840,IT,DevOps Engineer,100741.00,100574.87
+2697,IT,Data Engineer,100720.00,100574.87
+1692,IT,Data Engineer,100709.00,100574.87
+2140,Finance,Financial Analyst,100662.00,98585.44
+2008,Finance,Finance Manager,100623.00,98585.44
+1928,IT,DevOps Engineer,100587.00,100574.87
+2274,Finance,Financial Analyst,100556.00,98585.44
+2802,Operations,Logistics,100410.00,91147.22
+2733,Finance,Accountant,100408.00,98585.44
+2714,Finance,CFO,100335.00,98585.44
+2390,Finance,Accountant,100184.00,98585.44
+1530,Operations,Operations Director,100153.00,91147.22
+2837,Finance,Financial Analyst,100073.00,98585.44
+2063,Operations,Supply Chain,99916.00,91147.22
+2079,Finance,CFO,99915.00,98585.44
+1744,Operations,Operations Manager,99885.00,91147.22
+1664,Finance,Finance Manager,99761.00,98585.44
+2187,Finance,Finance Manager,99447.00,98585.44
+1541,Operations,Supply Chain,99176.00,91147.22
+2958,Finance,Finance Manager,99174.00,98585.44
+2904,Operations,Operations Manager,99115.00,91147.22
+1943,Finance,Finance Manager,99056.00,98585.44
+2792,Operations,Logistics,98971.00,91147.22
+2241,Operations,Operations Manager,98965.00,91147.22
+2199,Finance,Accountant,98902.00,98585.44
+2815,Finance,CFO,98874.00,98585.44
+1854,Finance,Finance Manager,98780.00,98585.44
+1945,Finance,Finance Manager,98709.00,98585.44
+2364,Operations,Logistics,98705.00,91147.22
+2172,Finance,Tax Specialist,98632.00,98585.44
+2884,Operations,Supply Chain,98484.00,91147.22
+2515,Operations,Operations Director,98450.00,91147.22
+2547,Operations,Logistics,98348.00,91147.22
+2073,Operations,Operations Director,98285.00,91147.22
+2783,Operations,Logistics,98050.00,91147.22
+1790,Operations,Operations Analyst,97942.00,91147.22
+1572,Operations,Operations Director,97821.00,91147.22
+2053,Operations,Operations Manager,97786.00,91147.22
+1609,Operations,Logistics,97567.00,91147.22
+2423,Operations,Operations Manager,97542.00,91147.22
+1680,Operations,Logistics,97462.00,91147.22
+2471,Operations,Operations Director,97280.00,91147.22
+2387,Operations,Operations Analyst,97221.00,91147.22
+2419,Operations,Supply Chain,96666.00,91147.22
+1860,Operations,Operations Manager,96247.00,91147.22
+1576,Operations,Operations Director,96097.00,91147.22
+2516,Operations,Operations Analyst,95998.00,91147.22
+1556,Operations,Operations Manager,95936.00,91147.22
+2928,Operations,Operations Director,95934.00,91147.22
+2983,Operations,Supply Chain,95771.00,91147.22
+2610,Operations,Supply Chain,95609.00,91147.22
+2531,Operations,Logistics,95577.00,91147.22
+2545,Operations,Logistics,95145.00,91147.22
+1562,Operations,Logistics,95097.00,91147.22
+2824,Operations,Operations Director,95089.00,91147.22
+2794,Operations,Operations Analyst,95087.00,91147.22
+2865,Operations,Operations Manager,94968.00,91147.22
+1620,Operations,Operations Analyst,94799.00,91147.22
+1766,Operations,Logistics,94772.00,91147.22
+2429,Operations,Logistics,94640.00,91147.22
+2413,Operations,Logistics,94616.00,91147.22
+2788,Operations,Operations Manager,94111.00,91147.22
+2221,Operations,Operations Analyst,93949.00,91147.22
+2864,Operations,Supply Chain,93880.00,91147.22
+2001,Operations,Operations Manager,93777.00,91147.22
+2781,Operations,Operations Director,93630.00,91147.22
+1533,Operations,Operations Director,93476.00,91147.22
+2018,Operations,Operations Director,93383.00,91147.22
+2060,Operations,Operations Director,93255.00,91147.22
+2167,Operations,Operations Manager,93182.00,91147.22
+1751,Operations,Supply Chain,92952.00,91147.22
+1691,Operations,Operations Director,92910.00,91147.22
+1663,Operations,Supply Chain,92869.00,91147.22
+2605,Operations,Supply Chain,92764.00,91147.22
+2627,Operations,Operations Analyst,92725.00,91147.22
+1725,Operations,Logistics,92681.00,91147.22
+2160,Operations,Operations Analyst,92604.00,91147.22
+1550,Operations,Operations Manager,91953.00,91147.22
+2919,Operations,Operations Manager,91650.00,91147.22
+1579,Operations,Operations Analyst,91329.00,91147.22
+428,Sales,Sales Executive,49467.00,26409.10
+987,Sales,Sales Executive,49434.00,26409.10
+1057,Sales,Sales Representative,49368.00,26409.10
+156,Research & Development,Manufacturing Director,49368.00,26626.09
+472,Research & Development,Healthcare Representative,49335.00,26626.09
+1045,Research & Development,Healthcare Representative,49335.00,26626.09
+1203,Research & Development,Laboratory Technician,49335.00,26626.09
+786,Research & Development,Healthcare Representative,49236.00,26626.09
+1055,Research & Development,Healthcare Representative,49170.00,26626.09
+409,Research & Development,R&D Manager,49170.00,26626.09
+1423,Research & Development,Laboratory Technician,49170.00,26626.09
+417,Research & Development,Laboratory Technician,49170.00,26626.09
+53,Sales,Sales Executive,49104.00,26409.10
+843,Research & Development,Laboratory Technician,49005.00,26626.09
+993,Research & Development,Healthcare Representative,49005.00,26626.09
+413,Research & Development,Manufacturing Director,49005.00,26626.09
+330,Research & Development,Research Director,48906.00,26626.09
+173,Research & Development,Laboratory Technician,48840.00,26626.09
+1343,Sales,Sales Executive,48840.00,26409.10
+279,Research & Development,Manufacturing Director,48807.00,26626.09
+707,Sales,Sales Executive,48807.00,26409.10
+303,Research & Development,Healthcare Representative,48708.00,26626.09
+945,Research & Development,Laboratory Technician,48708.00,26626.09
+1026,Sales,Sales Executive,48708.00,26409.10
+1007,Research & Development,Laboratory Technician,48675.00,26626.09
+1370,Sales,Sales Executive,48675.00,26409.10
+442,Research & Development,Laboratory Technician,48642.00,26626.09
+470,Sales,Sales Executive,48642.00,26409.10
+397,Research & Development,Healthcare Representative,48609.00,26626.09
+1164,Research & Development,Research Scientist,48510.00,26626.09
+692,Research & Development,Research Scientist,48477.00,26626.09
+214,Research & Development,Research Director,48477.00,26626.09
+679,Research & Development,Research Scientist,48477.00,26626.09
+374,Research & Development,Laboratory Technician,48477.00,26626.09
+1047,Research & Development,Research Scientist,48411.00,26626.09
+118,Sales,Sales Executive,48411.00,26409.10
+887,Research & Development,Research Scientist,48345.00,26626.09
+767,Research & Development,Research Director,48312.00,26626.09
+267,Research & Development,Healthcare Representative,48279.00,26626.09
+1002,Research & Development,Laboratory Technician,48246.00,26626.09
+1125,Sales,Sales Executive,48246.00,26409.10
+32,Research & Development,Healthcare Representative,48147.00,26626.09
+855,Research & Development,Research Scientist,48081.00,26626.09
+1237,Sales,Sales Executive,48048.00,26409.10
+111,Research & Development,Healthcare Representative,48048.00,26626.09
+666,Sales,Sales Representative,47982.00,26409.10
+166,Research & Development,R&D Manager,47916.00,26626.09
+820,Research & Development,Research Scientist,47883.00,26626.09
+870,Research & Development,Research Director,47850.00,26626.09
+165,Research & Development,Research Scientist,47850.00,26626.09
+289,Research & Development,Laboratory Technician,47817.00,26626.09
+914,Sales,Sales Manager,47817.00,26409.10
+415,Sales,Sales Representative,47784.00,26409.10
+1038,Research & Development,Manufacturing Director,47784.00,26626.09
+751,Sales,Sales Executive,47784.00,26409.10
+1034,Research & Development,Manufacturing Director,47685.00,26626.09
+1401,Human Resources,Human Resources,47652.00,24800.81
+1372,Sales,Sales Executive,47619.00,26409.10
+55,Sales,Sales Executive,47619.00,26409.10
+525,Research & Development,Healthcare Representative,47586.00,26626.09
+729,Research & Development,Manufacturing Director,47553.00,26626.09
+1208,Research & Development,Research Scientist,47553.00,26626.09
+1088,Sales,Sales Representative,47520.00,26409.10
+990,Research & Development,Research Scientist,47487.00,26626.09
+153,Sales,Sales Representative,47388.00,26409.10
+64,Sales,Sales Executive,47355.00,26409.10
+52,Research & Development,Laboratory Technician,47322.00,26626.09
+570,Sales,Sales Executive,47322.00,26409.10
+1312,Research & Development,Research Scientist,47223.00,26626.09
+241,Research & Development,Laboratory Technician,47223.00,26626.09
+920,Research & Development,Manufacturing Director,47157.00,26626.09
+664,Research & Development,Research Scientist,47091.00,26626.09
+147,Research & Development,Laboratory Technician,47091.00,26626.09
+665,Research & Development,Healthcare Representative,47025.00,26626.09
+1070,Research & Development,Research Scientist,46959.00,26626.09
+1317,Sales,Sales Executive,46926.00,26409.10
+868,Research & Development,R&D Manager,46893.00,26626.09
+496,Sales,Sales Representative,46860.00,26409.10
+106,Human Resources,Recruitment Manager,46860.00,24800.81
+640,Research & Development,Research Scientist,46794.00,26626.09
+258,Research & Development,Research Director,46728.00,26626.09
+228,Sales,Sales Executive,46629.00,26409.10
+1023,Research & Development,Laboratory Technician,46629.00,26626.09
+243,Research & Development,Research Scientist,46563.00,26626.09
+522,Sales,Sales Executive,46530.00,26409.10
+972,Research & Development,Manufacturing Director,46365.00,26626.09
+1391,Research & Development,Laboratory Technician,46332.00,26626.09
+698,Sales,Sales Representative,46332.00,26409.10
+1392,Sales,Sales Representative,46332.00,26409.10
+270,Research & Development,Laboratory Technician,46299.00,26626.09
+1101,Sales,Sales Representative,46266.00,26409.10
+862,Sales,Sales Manager,46266.00,26409.10
+853,Research & Development,Laboratory Technician,46233.00,26626.09
+239,Sales,Sales Representative,46233.00,26409.10
+86,Research & Development,Manufacturing Director,46200.00,26626.09
+835,Sales,Sales Executive,46200.00,26409.10
+420,Research & Development,Laboratory Technician,46200.00,26626.09
+424,Sales,Sales Executive,46134.00,26409.10
+418,Sales,Sales Manager,46134.00,26409.10
+1036,Human Resources,Human Resources,46134.00,24800.81
+504,Research & Development,Research Scientist,46101.00,26626.09
+1358,Research & Development,Research Director,46068.00,26626.09
+221,Research & Development,Laboratory Technician,46068.00,26626.09
+547,Sales,Sales Representative,46068.00,26409.10
+1425,Research & Development,Research Scientist,46035.00,26626.09
+151,Research & Development,Research Scientist,46035.00,26626.09
+1204,Research & Development,Healthcare Representative,46035.00,26626.09
+1374,Research & Development,Research Scientist,46002.00,26626.09
+4,Research & Development,Research Scientist,45936.00,26626.09
+723,Research & Development,Research Scientist,45903.00,26626.09
+16,Research & Development,Manufacturing Director,45837.00,26626.09
+1149,Research & Development,Manufacturing Director,45771.00,26626.09
+269,Research & Development,Healthcare Representative,45705.00,26626.09
+844,Research & Development,Laboratory Technician,45672.00,26626.09
+655,Human Resources,Human Resources,45639.00,24800.81
+1279,Research & Development,Healthcare Representative,45639.00,26626.09
+1434,Sales,Sales Executive,45606.00,26409.10
+394,Sales,Sales Executive,45573.00,26409.10
+180,Research & Development,Laboratory Technician,45540.00,26626.09
+708,Research & Development,Manufacturing Director,45507.00,26626.09
+1460,Research & Development,Laboratory Technician,45474.00,26626.09
+321,Sales,Sales Executive,45441.00,26409.10
+1018,Research & Development,Laboratory Technician,45441.00,26626.09
+790,Human Resources,Human Resources,45408.00,24800.81
+702,Sales,Sales Manager,45408.00,26409.10
+1268,Sales,Sales Executive,45375.00,26409.10
+1395,Research & Development,Manufacturing Director,45309.00,26626.09
+3,Research & Development,Laboratory Technician,45309.00,26626.09
+850,Sales,Sales Executive,45276.00,26409.10
+286,Research & Development,Research Scientist,45276.00,26626.09
+994,Sales,Sales Executive,45276.00,26409.10
+381,Sales,Sales Executive,45243.00,26409.10
+1233,Research & Development,Manufacturing Director,45210.00,26626.09
+1123,Research & Development,Laboratory Technician,45210.00,26626.09
+977,Research & Development,Manufacturing Director,45177.00,26626.09
+414,Research & Development,Healthcare Representative,45144.00,26626.09
+444,Research & Development,Laboratory Technician,45144.00,26626.09
+781,Research & Development,Healthcare Representative,45078.00,26626.09
+483,Sales,Sales Executive,45045.00,26409.10
+379,Sales,Sales Executive,44946.00,26409.10
+514,Research & Development,Research Scientist,44946.00,26626.09
+871,Sales,Sales Executive,44913.00,26409.10
+46,Research & Development,Research Director,44880.00,26626.09
+1050,Sales,Sales Executive,44814.00,26409.10
+8,Research & Development,Laboratory Technician,44814.00,26626.09
+43,Research & Development,Laboratory Technician,44781.00,26626.09
+886,Sales,Sales Executive,44748.00,26409.10
+183,Sales,Sales Representative,44748.00,26409.10
+737,Research & Development,Healthcare Representative,44715.00,26626.09
+135,Human Resources,Human Resources,44715.00,24800.81
+1368,Research & Development,Research Scientist,44682.00,26626.09
+117,Research & Development,R&D Manager,44682.00,26626.09
+97,Sales,Sales Executive,44649.00,26409.10
+1118,Research & Development,Research Scientist,44583.00,26626.09
+1200,Research & Development,Healthcare Representative,44583.00,26626.09
+1384,Research & Development,Laboratory Technician,44583.00,26626.09
+1135,Research & Development,Laboratory Technician,44517.00,26626.09
+419,Research & Development,Research Scientist,44517.00,26626.09
+14,Research & Development,Laboratory Technician,44418.00,26626.09
+194,Research & Development,Research Scientist,44352.00,26626.09
+621,Research & Development,Research Scientist,44319.00,26626.09
+497,Sales,Sales Representative,44319.00,26409.10
+1095,Sales,Sales Executive,44286.00,26409.10
+168,Sales,Sales Executive,44187.00,26409.10
+68,Research & Development,Research Scientist,44187.00,26626.09
+1380,Human Resources,Human Resources,44121.00,24800.81
+1290,Human Resources,Human Resources,44088.00,24800.81
+778,Research & Development,Laboratory Technician,44022.00,26626.09
+93,Sales,Sales Executive,44022.00,26409.10
+682,Research & Development,Research Director,43989.00,26626.09
+764,Sales,Sales Representative,43989.00,26409.10
+357,Research & Development,Healthcare Representative,43956.00,26626.09
+896,Research & Development,Healthcare Representative,43956.00,26626.09
+798,Research & Development,Laboratory Technician,43890.00,26626.09
+904,Research & Development,Healthcare Representative,43857.00,26626.09
+1161,Research & Development,Manufacturing Director,43857.00,26626.09
+1172,Research & Development,Laboratory Technician,43857.00,26626.09
+138,Sales,Sales Executive,43857.00,26409.10
+866,Sales,Sales Executive,43857.00,26409.10
+72,Research & Development,Research Scientist,43824.00,26626.09
+246,Research & Development,Research Director,43791.00,26626.09
+262,Sales,Sales Executive,43791.00,26409.10
+1049,Sales,Sales Executive,43758.00,26409.10
+588,Research & Development,Laboratory Technician,43725.00,26626.09
+7,Research & Development,Laboratory Technician,43692.00,26626.09
+231,Research & Development,Laboratory Technician,43659.00,26626.09
+780,Research & Development,Research Scientist,43659.00,26626.09
+1456,Research & Development,Research Scientist,43626.00,26626.09
+946,Research & Development,Research Director,43626.00,26626.09
+1417,Sales,Sales Executive,43593.00,26409.10
+907,Research & Development,Research Scientist,43560.00,26626.09
+1202,Research & Development,Laboratory Technician,43560.00,26626.09
+1328,Sales,Sales Executive,43527.00,26409.10
+354,Research & Development,Research Scientist,43527.00,26626.09
+1320,Sales,Sales Executive,43494.00,26409.10
+617,Sales,Sales Manager,43494.00,26409.10
+882,Research & Development,Research Scientist,43428.00,26626.09
+142,Research & Development,Research Scientist,43428.00,26626.09
+277,Research & Development,R&D Manager,43395.00,26626.09
+498,Research & Development,R&D Manager,43395.00,26626.09
+1255,Sales,Sales Executive,43329.00,26409.10
+1416,Research & Development,Laboratory Technician,43329.00,26626.09
+1141,Research & Development,Research Director,43329.00,26626.09
+1245,Research & Development,Research Scientist,43296.00,26626.09
+121,Research & Development,Research Scientist,43296.00,26626.09
+261,Research & Development,Laboratory Technician,43263.00,26626.09
+380,Research & Development,R&D Manager,43263.00,26626.09
+348,Sales,Sales Representative,43197.00,26409.10
+346,Research & Development,Research Scientist,43197.00,26626.09
+815,Research & Development,Research Director,43164.00,26626.09
+458,Sales,Sales Representative,43098.00,26409.10
+390,Research & Development,Manufacturing Director,43065.00,26626.09
+433,Research & Development,Research Scientist,42999.00,26626.09
+1399,Research & Development,Healthcare Representative,42999.00,26626.09
+1150,Research & Development,Laboratory Technician,42966.00,26626.09
+1129,Research & Development,Laboratory Technician,42966.00,26626.09
+300,Research & Development,Manufacturing Director,42966.00,26626.09
+405,Research & Development,Laboratory Technician,42900.00,26626.09
+244,Research & Development,Research Scientist,42900.00,26626.09
+10,Research & Development,Healthcare Representative,42867.00,26626.09
+1318,Research & Development,Laboratory Technician,42801.00,26626.09
+1363,Research & Development,Healthcare Representative,42801.00,26626.09
+345,Research & Development,Manufacturing Director,42768.00,26626.09
+510,Research & Development,Healthcare Representative,42768.00,26626.09
+1274,Research & Development,Laboratory Technician,42702.00,26626.09
+1186,Research & Development,Research Director,42603.00,26626.09
+971,Sales,Sales Representative,42603.00,26409.10
+1110,Sales,Sales Executive,42504.00,26409.10
+480,Research & Development,Laboratory Technician,42471.00,26626.09
+1254,Sales,Sales Executive,42339.00,26409.10
+686,Sales,Sales Executive,42339.00,26409.10
+1029,Research & Development,Research Scientist,42339.00,26626.09
+372,Research & Development,Research Scientist,42339.00,26626.09
+26,Research & Development,R&D Manager,42306.00,26626.09
+109,Research & Development,Research Scientist,42240.00,26626.09
+634,Human Resources,Human Resources,42174.00,24800.81
+1212,Sales,Sales Executive,42174.00,26409.10
+787,Research & Development,Laboratory Technician,42141.00,26626.09
+436,Research & Development,R&D Manager,42141.00,26626.09
+1236,Sales,Sales Executive,42141.00,26409.10
+467,Sales,Sales Manager,42108.00,26409.10
+1403,Research & Development,Laboratory Technician,42108.00,26626.09
+439,Research & Development,Healthcare Representative,42108.00,26626.09
+325,Research & Development,Research Scientist,42075.00,26626.09
+435,Research & Development,Manufacturing Director,42042.00,26626.09
+36,Research & Development,Research Scientist,42009.00,26626.09
+675,Research & Development,Healthcare Representative,41976.00,26626.09
+633,Research & Development,Research Scientist,41943.00,26626.09
+641,Research & Development,Laboratory Technician,41877.00,26626.09
+175,Sales,Sales Executive,41844.00,26409.10
+1341,Sales,Sales Executive,41778.00,26409.10
+644,Research & Development,Laboratory Technician,41745.00,26626.09
+805,Research & Development,R&D Manager,41646.00,26626.09
+376,Research & Development,Healthcare Representative,41613.00,26626.09
+199,Research & Development,Manufacturing Director,41613.00,26626.09
+1206,Research & Development,Laboratory Technician,41547.00,26626.09
+597,Research & Development,Research Scientist,41514.00,26626.09
+861,Research & Development,Research Scientist,41448.00,26626.09
+161,Research & Development,Research Scientist,41448.00,26626.09
+1024,Research & Development,Research Scientist,41415.00,26626.09
+1334,Sales,Sales Executive,41382.00,26409.10
+1285,Research & Development,Research Director,41349.00,26626.09
+653,Sales,Sales Executive,41316.00,26409.10
+595,Research & Development,Research Scientist,41316.00,26626.09
+1367,Sales,Sales Executive,41283.00,26409.10
+312,Research & Development,Laboratory Technician,41217.00,26626.09
+255,Sales,Sales Executive,41151.00,26409.10
+1064,Sales,Sales Executive,41118.00,26409.10
+478,Human Resources,Recruitment Manager,41118.00,24800.81
+1120,Sales,Sales Executive,41085.00,26409.10
+474,Research & Development,Research Director,41085.00,26626.09
+586,Research & Development,Laboratory Technician,41019.00,26626.09
+1106,Sales,Sales Executive,40986.00,26409.10
+213,Sales,Sales Executive,40986.00,26409.10
+42,Research & Development,Laboratory Technician,40920.00,26626.09
+773,Research & Development,Research Scientist,40920.00,26626.09
+140,Human Resources,Human Resources,40920.00,24800.81
+1386,Sales,Sales Executive,40887.00,26409.10
+1281,Human Resources,Human Resources,40887.00,24800.81
+1222,Research & Development,Healthcare Representative,40854.00,26626.09
+493,Research & Development,R&D Manager,40788.00,26626.09
+1139,Research & Development,Healthcare Representative,40722.00,26626.09
+756,Sales,Sales Manager,40722.00,26409.10
+343,Research & Development,Manufacturing Director,40656.00,26626.09
+298,Sales,Sales Executive,40656.00,26409.10
+649,Sales,Sales Representative,40623.00,26409.10
+631,Research & Development,Manufacturing Director,40590.00,26626.09
+50,Research & Development,Laboratory Technician,40557.00,26626.09
+1066,Research & Development,Healthcare Representative,40557.00,26626.09
+709,Sales,Sales Executive,40557.00,26409.10
+523,Research & Development,Research Scientist,40425.00,26626.09
+558,Research & Development,Healthcare Representative,40425.00,26626.09
+71,Sales,Sales Executive,40425.00,26409.10
+1195,Sales,Sales Manager,40425.00,26409.10
+1393,Sales,Sales Executive,40392.00,26409.10
+1332,Research & Development,Research Director,40392.00,26626.09
+65,Research & Development,Healthcare Representative,40359.00,26626.09
+859,Research & Development,R&D Manager,40359.00,26626.09
+645,Research & Development,Research Scientist,40326.00,26626.09
+1039,Sales,Sales Executive,40293.00,26409.10
+319,Research & Development,Research Scientist,40260.00,26626.09
+19,Sales,Sales Manager,40227.00,26409.10
+797,Research & Development,Laboratory Technician,40227.00,26626.09
+699,Sales,Sales Executive,40227.00,26409.10
+22,Sales,Sales Representative,40194.00,26409.10
+401,Research & Development,R&D Manager,40194.00,26626.09
+1308,Research & Development,Research Scientist,40161.00,26626.09
+96,Research & Development,Research Director,40161.00,26626.09
+500,Sales,Sales Executive,40128.00,26409.10
+1311,Research & Development,Research Director,40128.00,26626.09
+82,Research & Development,Research Scientist,40062.00,26626.09
+1348,Human Resources,Human Resources,40029.00,24800.81
+889,Sales,Sales Executive,39996.00,26409.10
+49,Sales,Sales Executive,39963.00,26409.10
+266,Sales,Sales Executive,39930.00,26409.10
+1089,Research & Development,Laboratory Technician,39930.00,26626.09
+524,Research & Development,Laboratory Technician,39831.00,26626.09
+1377,Research & Development,Research Scientist,39798.00,26626.09
+1197,Sales,Sales Executive,39798.00,26409.10
+725,Research & Development,Manufacturing Director,39798.00,26626.09
+792,Sales,Sales Executive,39732.00,26409.10
+979,Research & Development,Healthcare Representative,39666.00,26626.09
+989,Research & Development,Research Scientist,39600.00,26626.09
+1114,Research & Development,Research Scientist,39600.00,26626.09
+250,Research & Development,Manufacturing Director,39567.00,26626.09
+1457,Research & Development,Healthcare Representative,39567.00,26626.09
+923,Research & Development,R&D Manager,39567.00,26626.09
+674,Research & Development,Research Scientist,39534.00,26626.09
+67,Research & Development,Manufacturing Director,39435.00,26626.09
+195,Research & Development,R&D Manager,39435.00,26626.09
+1300,Research & Development,Healthcare Representative,39402.00,26626.09
+1458,Research & Development,Research Scientist,39402.00,26626.09
+1063,Research & Development,Manufacturing Director,39369.00,26626.09
+341,Research & Development,Manufacturing Director,39336.00,26626.09
+1188,Research & Development,Research Scientist,39237.00,26626.09
+116,Sales,Sales Executive,39237.00,26409.10
+680,Sales,Sales Executive,39204.00,26409.10
+766,Research & Development,Research Scientist,39138.00,26626.09
+867,Sales,Sales Executive,39072.00,26409.10
+683,Research & Development,Laboratory Technician,39072.00,26626.09
+608,Sales,Sales Executive,39072.00,26409.10
+821,Sales,Sales Executive,39006.00,26409.10
+1284,Research & Development,Research Scientist,38973.00,26626.09
+150,Research & Development,Laboratory Technician,38973.00,26626.09
+205,Research & Development,Healthcare Representative,38940.00,26626.09
+1289,Research & Development,Manufacturing Director,38940.00,26626.09
+1415,Research & Development,Healthcare Representative,38940.00,26626.09
+1217,Sales,Sales Executive,38907.00,26409.10
+869,Research & Development,Laboratory Technician,38907.00,26626.09
+537,Sales,Sales Executive,38907.00,26409.10
+377,Sales,Sales Executive,38874.00,26409.10
+783,Research & Development,Manufacturing Director,38808.00,26626.09
+508,Sales,Sales Executive,38808.00,26409.10
+1155,Human Resources,Recruitment Manager,38808.00,24800.81
+1012,Sales,Sales Executive,38742.00,26409.10
+1338,Sales,Sales Representative,38676.00,26409.10
+362,Research & Development,Laboratory Technician,38643.00,26626.09
+1371,Research & Development,Research Scientist,38577.00,26626.09
+157,Research & Development,Manufacturing Director,38577.00,26626.09
+630,Human Resources,Human Resources,38577.00,24800.81
+1397,Sales,Sales Executive,38544.00,26409.10
+1465,Sales,Sales Representative,38511.00,26409.10
+903,Research & Development,Research Scientist,38511.00,26626.09
+1422,Research & Development,Research Director,38346.00,26626.09
+1355,Research & Development,Laboratory Technician,38346.00,26626.09
+328,Sales,Sales Executive,38346.00,26409.10
+273,Research & Development,Research Scientist,38214.00,26626.09
+171,Research & Development,Research Scientist,38181.00,26626.09
+1209,Research & Development,Laboratory Technician,38181.00,26626.09
+1103,Sales,Sales Representative,38181.00,26409.10
+324,Research & Development,Research Scientist,38181.00,26626.09
+1418,Sales,Sales Representative,38082.00,26409.10
+85,Research & Development,Manufacturing Director,38049.00,26626.09
+1273,Research & Development,Laboratory Technician,38049.00,26626.09
+209,Research & Development,Healthcare Representative,37983.00,26626.09
+137,Research & Development,Manufacturing Director,37950.00,26626.09
+220,Sales,Sales Executive,37851.00,26409.10
+1000,Human Resources,Recruitment Manager,37851.00,24800.81
+873,Sales,Sales Executive,37818.00,26409.10
+1451,Human Resources,Human Resources,37818.00,24800.81
+574,Sales,Sales Executive,37818.00,26409.10
+1389,Research & Development,Healthcare Representative,37818.00,26626.09
+158,Research & Development,Research Scientist,37785.00,26626.09
+366,Research & Development,Manufacturing Director,37752.00,26626.09
+765,Sales,Sales Representative,37752.00,26409.10
+58,Research & Development,Laboratory Technician,37686.00,26626.09
+1099,Research & Development,Healthcare Representative,37686.00,26626.09
+1326,Research & Development,Laboratory Technician,37686.00,26626.09
+40,Sales,Sales Executive,37653.00,26409.10
+745,Research & Development,Healthcare Representative,37653.00,26626.09
+1179,Sales,Sales Representative,37653.00,26409.10
+942,Research & Development,Laboratory Technician,37554.00,26626.09
+1349,Research & Development,R&D Manager,37521.00,26626.09
+677,Research & Development,Healthcare Representative,37521.00,26626.09
+207,Research & Development,Research Scientist,37488.00,26626.09
+1011,Research & Development,Research Director,37488.00,26626.09
+718,Research & Development,Laboratory Technician,37422.00,26626.09
+305,Research & Development,Healthcare Representative,37356.00,26626.09
+1335,Research & Development,Research Scientist,37323.00,26626.09
+1180,Research & Development,Research Scientist,37290.00,26626.09
+340,Sales,Sales Executive,37290.00,26409.10
+1288,Research & Development,Healthcare Representative,37224.00,26626.09
+114,Research & Development,Laboratory Technician,37191.00,26626.09
+715,Research & Development,Research Director,37158.00,26626.09
+1390,Research & Development,Research Scientist,37125.00,26626.09
+27,Research & Development,Research Scientist,37125.00,26626.09
+434,Sales,Sales Executive,37125.00,26409.10
+1307,Sales,Sales Executive,37125.00,26409.10
+973,Research & Development,Laboratory Technician,37092.00,26626.09
+336,Sales,Sales Executive,37092.00,26409.10
+18,Research & Development,Laboratory Technician,37059.00,26626.09
+670,Research & Development,Laboratory Technician,37026.00,26626.09
+1454,Sales,Sales Executive,36960.00,26409.10
+290,Research & Development,Research Scientist,36861.00,26626.09
+446,Sales,Sales Manager,36861.00,26409.10
+892,Research & Development,Research Scientist,36861.00,26626.09
+427,Research & Development,Laboratory Technician,36828.00,26626.09
+107,Research & Development,Research Director,36795.00,26626.09
+60,Research & Development,Manufacturing Director,36795.00,26626.09
+513,Research & Development,Research Scientist,36795.00,26626.09
+494,Human Resources,Human Resources,36696.00,24800.81
+1192,Sales,Sales Executive,36696.00,26409.10
+991,Sales,Sales Executive,36663.00,26409.10
+584,Sales,Sales Executive,36663.00,26409.10
+757,Research & Development,Laboratory Technician,36597.00,26626.09
+1115,Research & Development,Research Scientist,36564.00,26626.09
+809,Research & Development,Research Scientist,36531.00,26626.09
+387,Research & Development,Laboratory Technician,36531.00,26626.09
+1040,Human Resources,Human Resources,36531.00,24800.81
+306,Research & Development,Laboratory Technician,36465.00,26626.09
+890,Research & Development,Research Scientist,36399.00,26626.09
+1382,Research & Development,Research Scientist,36399.00,26626.09
+1,Sales,Sales Executive,36366.00,26409.10
+1067,Research & Development,Laboratory Technician,36267.00,26626.09
+426,Research & Development,R&D Manager,36267.00,26626.09
+908,Sales,Sales Manager,36267.00,26409.10
+900,Research & Development,R&D Manager,36234.00,26626.09
+858,Research & Development,Research Scientist,36201.00,26626.09
+54,Research & Development,Healthcare Representative,36201.00,26626.09
+732,Research & Development,Research Scientist,36201.00,26626.09
+1362,Research & Development,Laboratory Technician,36168.00,26626.09
+459,Sales,Sales Executive,36102.00,26409.10
+1224,Sales,Sales Executive,36069.00,26409.10
+95,Sales,Sales Executive,36069.00,26409.10
+587,Research & Development,Laboratory Technician,36036.00,26626.09
+1443,Research & Development,Research Scientist,36036.00,26626.09
+1297,Research & Development,Manufacturing Director,36036.00,26626.09
+317,Research & Development,Healthcare Representative,36003.00,26626.09
+788,Research & Development,Manufacturing Director,36003.00,26626.09
+556,Sales,Sales Representative,35970.00,26409.10
+940,Research & Development,Laboratory Technician,35937.00,26626.09
+1080,Research & Development,Manufacturing Director,35937.00,26626.09
+759,Sales,Sales Manager,35937.00,26409.10
+658,Research & Development,Laboratory Technician,35838.00,26626.09
+668,Research & Development,Laboratory Technician,35805.00,26626.09
+200,Research & Development,Manufacturing Director,35772.00,26626.09
+185,Research & Development,Manufacturing Director,35772.00,26626.09
+1074,Research & Development,Manufacturing Director,35739.00,26626.09
+772,Sales,Sales Executive,35706.00,26409.10
+403,Sales,Sales Executive,35706.00,26409.10
+73,Research & Development,Research Scientist,35706.00,26626.09
+1220,Research & Development,Laboratory Technician,35706.00,26626.09
+813,Research & Development,Manufacturing Director,35706.00,26626.09
+1258,Sales,Sales Executive,35607.00,26409.10
+1359,Sales,Sales Executive,35607.00,26409.10
+515,Research & Development,Research Scientist,35508.00,26626.09
+656,Human Resources,Human Resources,35475.00,24800.81
+281,Research & Development,Research Director,35310.00,26626.09
+189,Research & Development,Manufacturing Director,35277.00,26626.09
+695,Research & Development,Healthcare Representative,35277.00,26626.09
+734,Research & Development,Manufacturing Director,35178.00,26626.09
+47,Sales,Sales Executive,35145.00,26409.10
+1378,Research & Development,Research Director,35112.00,26626.09
+399,Research & Development,Research Scientist,35079.00,26626.09
+352,Research & Development,Laboratory Technician,35046.00,26626.09
+897,Research & Development,Healthcare Representative,35046.00,26626.09
+953,Sales,Sales Representative,34980.00,26409.10
+1130,Research & Development,R&D Manager,34947.00,26626.09
+1010,Research & Development,Research Director,34815.00,26626.09
+740,Research & Development,Manufacturing Director,34815.00,26626.09
+1249,Research & Development,Research Scientist,34782.00,26626.09
+700,Research & Development,R&D Manager,34749.00,26626.09
+219,Sales,Sales Executive,34716.00,26409.10
+1077,Research & Development,R&D Manager,34650.00,26626.09
+806,Sales,Sales Executive,34650.00,26409.10
+368,Research & Development,Healthcare Representative,34518.00,26626.09
+211,Sales,Sales Executive,34485.00,26409.10
+600,Human Resources,Human Resources,34353.00,24800.81
+1184,Research & Development,Healthcare Representative,34320.00,26626.09
+105,Research & Development,Healthcare Representative,34320.00,26626.09
+1035,Research & Development,Healthcare Representative,34254.00,26626.09
+755,Sales,Sales Representative,34254.00,26409.10
+1436,Research & Development,Research Scientist,34221.00,26626.09
+748,Sales,Sales Executive,34155.00,26409.10
+236,Sales,Sales Manager,34122.00,26409.10
+466,Research & Development,Healthcare Representative,34122.00,26626.09
+141,Research & Development,Laboratory Technician,34089.00,26626.09
+115,Research & Development,Research Scientist,34023.00,26626.09
+948,Sales,Sales Executive,33990.00,26409.10
+1082,Research & Development,Healthcare Representative,33957.00,26626.09
+1469,Sales,Sales Executive,33759.00,26409.10
+532,Research & Development,Research Director,33594.00,26626.09
+323,Research & Development,Research Scientist,33594.00,26626.09
+961,Sales,Sales Executive,33594.00,26409.10
+799,Research & Development,Research Scientist,33561.00,26626.09
+509,Research & Development,Research Scientist,33561.00,26626.09
+249,Research & Development,Research Scientist,33561.00,26626.09
+1143,Research & Development,Laboratory Technician,33495.00,26626.09
+624,Research & Development,Research Scientist,33396.00,26626.09
+894,Research & Development,Research Scientist,33330.00,26626.09
+964,Sales,Sales Executive,33297.00,26409.10
+430,Research & Development,Research Director,33297.00,26626.09
+801,Research & Development,Laboratory Technician,33297.00,26626.09
+215,Research & Development,Research Scientist,33165.00,26626.09
+6,Research & Development,Laboratory Technician,33165.00,26626.09
+1226,Research & Development,Research Director,33165.00,26626.09
+779,Research & Development,Research Scientist,33099.00,26626.09
+1248,Sales,Sales Executive,33099.00,26409.10
+823,Research & Development,Manufacturing Director,33099.00,26626.09
+202,Research & Development,Manufacturing Director,33066.00,26626.09
+492,Research & Development,Laboratory Technician,33033.00,26626.09
+1304,Research & Development,Manufacturing Director,33033.00,26626.09
+334,Research & Development,Healthcare Representative,33033.00,26626.09
+978,Research & Development,Research Scientist,32967.00,26626.09
+275,Research & Development,Research Scientist,32868.00,26626.09
+1126,Research & Development,Healthcare Representative,32835.00,26626.09
+669,Research & Development,Research Scientist,32835.00,26626.09
+807,Research & Development,Healthcare Representative,32802.00,26626.09
+44,Sales,Sales Executive,32802.00,26409.10
+1109,Research & Development,Laboratory Technician,32736.00,26626.09
+218,Research & Development,Research Scientist,32736.00,26626.09
+506,Research & Development,Laboratory Technician,32703.00,26626.09
+1189,Sales,Sales Executive,32703.00,26409.10
+944,Human Resources,Human Resources,32703.00,24800.81
+1053,Research & Development,Research Scientist,32670.00,26626.09
+1134,Research & Development,Laboratory Technician,32670.00,26626.09
+63,Research & Development,Research Director,32637.00,26626.09
+187,Research & Development,R&D Manager,32637.00,26626.09
+441,Human Resources,Human Resources,32604.00,24800.81
+421,Research & Development,Research Director,32538.00,26626.09
+632,Research & Development,Laboratory Technician,32538.00,26626.09
+816,Research & Development,Research Scientist,32472.00,26626.09
+872,Research & Development,Laboratory Technician,32472.00,26626.09
+429,Research & Development,Manufacturing Director,32439.00,26626.09
+841,Research & Development,Laboratory Technician,32406.00,26626.09
+391,Research & Development,Research Director,32406.00,26626.09
+1043,Research & Development,Laboratory Technician,32373.00,26626.09
+1252,Sales,Sales Executive,32307.00,26409.10
+225,Research & Development,Manufacturing Director,32307.00,26626.09
+1191,Research & Development,Research Scientist,32241.00,26626.09
+856,Research & Development,Manufacturing Director,32241.00,26626.09
+1414,Research & Development,Laboratory Technician,32241.00,26626.09
+1128,Research & Development,Research Scientist,32241.00,26626.09
+1383,Research & Development,Research Scientist,32208.00,26626.09
+242,Sales,Sales Executive,32208.00,26409.10
+555,Research & Development,Healthcare Representative,32175.00,26626.09
+714,Research & Development,Laboratory Technician,32142.00,26626.09
+1009,Research & Development,Research Director,32043.00,26626.09
+1085,Sales,Sales Executive,32043.00,26409.10
+550,Research & Development,Healthcare Representative,32010.00,26626.09
+803,Sales,Sales Executive,32010.00,26409.10
+535,Research & Development,Research Director,32010.00,26626.09
+902,Research & Development,Laboratory Technician,31977.00,26626.09
+931,Research & Development,Laboratory Technician,31944.00,26626.09
+155,Sales,Sales Executive,31911.00,26409.10
+1354,Research & Development,Research Scientist,31911.00,26626.09
+891,Research & Development,Manufacturing Director,31878.00,26626.09
+1238,Sales,Sales Executive,31812.00,26409.10
+802,Sales,Sales Executive,31647.00,26409.10
+139,Sales,Sales Executive,31647.00,26409.10
+488,Research & Development,Research Scientist,31647.00,26626.09
+131,Research & Development,Research Scientist,31581.00,26626.09
+469,Research & Development,Research Scientist,31548.00,26626.09
+720,Sales,Sales Executive,31515.00,26409.10
+1394,Sales,Sales Executive,31482.00,26409.10
+565,Sales,Sales Representative,31482.00,26409.10
+1261,Research & Development,Research Scientist,31449.00,26626.09
+810,Research & Development,Manufacturing Director,31350.00,26626.09
+612,Research & Development,Manufacturing Director,31350.00,26626.09
+1093,Research & Development,Research Scientist,31350.00,26626.09
+294,Sales,Sales Executive,31350.00,26409.10
+1004,Research & Development,Laboratory Technician,31317.00,26626.09
+603,Research & Development,Manufacturing Director,31218.00,26626.09
+1339,Sales,Sales Representative,31185.00,26409.10
+754,Research & Development,Manufacturing Director,31185.00,26626.09
+80,Human Resources,Human Resources,31185.00,24800.81
+229,Sales,Sales Executive,31152.00,26409.10
+959,Research & Development,Healthcare Representative,31119.00,26626.09
+1276,Research & Development,R&D Manager,31086.00,26626.09
+860,Research & Development,Research Scientist,31086.00,26626.09
+722,Research & Development,Manufacturing Director,30987.00,26626.09
+688,Research & Development,Laboratory Technician,30954.00,26626.09
+1385,Sales,Sales Executive,30921.00,26409.10
+954,Research & Development,Laboratory Technician,30855.00,26626.09
+356,Sales,Sales Executive,30789.00,26409.10
+605,Research & Development,Manufacturing Director,30789.00,26626.09
+149,Research & Development,Laboratory Technician,30789.00,26626.09
+548,Research & Development,Research Scientist,30789.00,26626.09
+598,Research & Development,Manufacturing Director,30756.00,26626.09
+186,Research & Development,Research Scientist,30723.00,26626.09
+1449,Sales,Sales Executive,30690.00,26409.10
+996,Research & Development,Research Scientist,30690.00,26626.09
+626,Sales,Sales Executive,30690.00,26409.10
+528,Sales,Sales Executive,30657.00,26409.10
+622,Sales,Sales Executive,30624.00,26409.10
+333,Research & Development,Research Scientist,30624.00,26626.09
+198,Research & Development,Manufacturing Director,30558.00,26626.09
+31,Research & Development,Laboratory Technician,30492.00,26626.09
+119,Research & Development,Laboratory Technician,30426.00,26626.09
+456,Research & Development,Research Director,30426.00,26626.09
+770,Research & Development,Research Scientist,30393.00,26626.09
+365,Research & Development,Laboratory Technician,30393.00,26626.09
+582,Research & Development,Laboratory Technician,30393.00,26626.09
+1215,Research & Development,Healthcare Representative,30393.00,26626.09
+899,Research & Development,Research Director,30360.00,26626.09
+287,Research & Development,Laboratory Technician,30360.00,26626.09
+1298,Human Resources,Human Resources,30360.00,24800.81
+1219,Sales,Sales Executive,30294.00,26409.10
+874,Research & Development,Laboratory Technician,30261.00,26626.09
+254,Research & Development,Research Scientist,30228.00,26626.09
+512,Research & Development,Manufacturing Director,30129.00,26626.09
+1413,Research & Development,Laboratory Technician,30063.00,26626.09
+307,Sales,Sales Executive,29898.00,26409.10
+402,Sales,Sales Executive,29898.00,26409.10
+712,Research & Development,Research Scientist,29898.00,26626.09
+865,Research & Development,Research Scientist,29898.00,26626.09
+204,Research & Development,Laboratory Technician,29865.00,26626.09
+706,Sales,Sales Executive,29799.00,26409.10
+1113,Research & Development,Manufacturing Director,29799.00,26626.09
+846,Research & Development,Research Scientist,29766.00,26626.09
+1097,Human Resources,Recruitment Manager,29634.00,24800.81
+1246,Human Resources,Human Resources,29601.00,24800.81
+216,Sales,Sales Manager,29568.00,26409.10
+230,Research & Development,Research Scientist,29568.00,26626.09
+1046,Research & Development,Research Scientist,29568.00,26626.09
+363,Sales,Sales Representative,29535.00,26409.10
+794,Research & Development,Laboratory Technician,29535.00,26626.09
+34,Sales,Sales Representative,29535.00,26409.10
+1183,Research & Development,Manufacturing Director,29502.00,26626.09
+192,Research & Development,Research Scientist,29502.00,26626.09
+398,Sales,Sales Executive,29403.00,26409.10
+599,Research & Development,Research Scientist,29370.00,26626.09
+628,Research & Development,Manufacturing Director,29370.00,26626.09
+38,Sales,Sales Representative,29370.00,26409.10
+295,Research & Development,Research Scientist,29337.00,26626.09
+1108,Human Resources,Human Resources,29304.00,24800.81
+615,Research & Development,Research Scientist,29271.00,26626.09
+753,Research & Development,Laboratory Technician,29205.00,26626.09
+517,Research & Development,Research Scientist,29205.00,26626.09
+1157,Research & Development,Manufacturing Director,29172.00,26626.09
+1466,Research & Development,Laboratory Technician,29172.00,26626.09
+1122,Sales,Sales Executive,29172.00,26409.10
+564,Sales,Sales Executive,29139.00,26409.10
+966,Research & Development,Laboratory Technician,29106.00,26626.09
+705,Sales,Sales Executive,29106.00,26409.10
+654,Research & Development,R&D Manager,29073.00,26626.09
+1187,Sales,Sales Executive,29040.00,26409.10
+932,Research & Development,Manufacturing Director,29007.00,26626.09
+1453,Sales,Sales Executive,28974.00,26409.10
+203,Research & Development,Research Scientist,28974.00,26626.09
+832,Research & Development,Laboratory Technician,28842.00,26626.09
+103,Research & Development,Laboratory Technician,28743.00,26626.09
+37,Sales,Sales Representative,28677.00,26409.10
+647,Sales,Sales Executive,28644.00,26409.10
+1283,Research & Development,Research Scientist,28611.00,26626.09
+1373,Research & Development,Manufacturing Director,28611.00,26626.09
+684,Sales,Sales Representative,28611.00,26409.10
+1042,Sales,Sales Executive,28578.00,26409.10
+851,Sales,Sales Representative,28446.00,26409.10
+601,Research & Development,Manufacturing Director,28347.00,26626.09
+789,Research & Development,Research Scientist,28281.00,26626.09
+148,Research & Development,R&D Manager,28281.00,26626.09
+1014,Sales,Sales Executive,28215.00,26409.10
+970,Research & Development,Manufacturing Director,28215.00,26626.09
+1264,Research & Development,Laboratory Technician,28215.00,26626.09
+234,Sales,Sales Manager,28182.00,26409.10
+57,Sales,Sales Executive,28149.00,26409.10
+727,Research & Development,Manufacturing Director,28149.00,26626.09
+875,Research & Development,Laboratory Technician,28149.00,26626.09
+39,Research & Development,Research Scientist,28116.00,26626.09
+81,Research & Development,Laboratory Technician,28116.00,26626.09
+845,Sales,Sales Executive,28116.00,26409.10
+1286,Sales,Sales Executive,28017.00,26409.10
+308,Research & Development,Research Director,28017.00,26626.09
+939,Research & Development,Research Scientist,27984.00,26626.09
+359,Sales,Sales Executive,27885.00,26409.10
+126,Research & Development,Research Scientist,27753.00,26626.09
+717,Research & Development,Research Director,27720.00,26626.09
+66,Research & Development,R&D Manager,27588.00,26626.09
+1337,Research & Development,Research Scientist,27588.00,26626.09
+1336,Research & Development,Research Scientist,27555.00,26626.09
+1262,Research & Development,Healthcare Representative,27489.00,26626.09
+259,Research & Development,Research Scientist,27489.00,26626.09
+247,Research & Development,Research Scientist,27456.00,26626.09
+553,Research & Development,Healthcare Representative,27456.00,26626.09
+1062,Sales,Sales Representative,27390.00,26409.10
+1056,Research & Development,Research Director,27357.00,26626.09
+577,Sales,Sales Executive,27357.00,26409.10
+614,Human Resources,Human Resources,27357.00,24800.81
+212,Research & Development,Manufacturing Director,27357.00,26626.09
+451,Sales,Sales Executive,27324.00,26409.10
+102,Research & Development,Research Scientist,27291.00,26626.09
+793,Research & Development,Research Scientist,27291.00,26626.09
+530,Research & Development,Healthcare Representative,27291.00,26626.09
+716,Research & Development,Healthcare Representative,27291.00,26626.09
+1102,Research & Development,Research Scientist,27192.00,26626.09
+1331,Research & Development,R&D Manager,27159.00,26626.09
+477,Research & Development,Laboratory Technician,27159.00,26626.09
+393,Research & Development,Research Director,27093.00,26626.09
+660,Sales,Sales Executive,27093.00,26409.10
+847,Research & Development,Manufacturing Director,27027.00,26626.09
+1151,Research & Development,Research Scientist,27027.00,26626.09
+233,Human Resources,Human Resources,26994.00,24800.81
+521,Sales,Sales Executive,26961.00,26409.10
+974,Research & Development,Laboratory Technician,26961.00,26626.09
+1178,Research & Development,Research Director,26829.00,26626.09
+35,Research & Development,Research Scientist,26829.00,26626.09
+235,Research & Development,Laboratory Technician,26829.00,26626.09
+302,Sales,Sales Representative,26796.00,26409.10
+1301,Sales,Sales Executive,26730.00,26409.10
+518,Sales,Sales Executive,26730.00,26409.10
+349,Research & Development,Research Director,26730.00,26626.09
+11,Research & Development,Laboratory Technician,26697.00,26626.09
+132,Sales,Sales Executive,26697.00,26409.10
+1196,Research & Development,R&D Manager,26697.00,26626.09
+1263,Research & Development,Research Scientist,26631.00,26626.09
+101,Human Resources,Human Resources,26631.00,24800.81
+134,Sales,Sales Executive,26466.00,26409.10
+1432,Sales,Sales Executive,26433.00,26409.10
+760,Human Resources,Human Resources,26004.00,24800.81
+963,Human Resources,Recruitment Manager,25410.00,24800.81

@@ -1,0 +1,1058 @@
+"employee_number","department","job_role","monthly_income","salario_promedio_empresa"
+1483,Finance,Financial Analyst,337527.00,62430.11
+1987,Finance,CFO,292229.00,62430.11
+2683,IT,Data Engineer,285544.00,62430.11
+1494,IT,Software Developer,282645.00,62430.11
+2774,Finance,Tax Specialist,277344.00,62430.11
+2559,IT,Software Developer,275733.00,62430.11
+2840,IT,Software Developer,275545.00,62430.11
+1683,Finance,CFO,271463.00,62430.11
+1876,IT,IT Manager,266603.00,62430.11
+1909,Finance,CFO,266393.00,62430.11
+2976,Operations,Operations Analyst,265589.00,62430.11
+2558,IT,Data Engineer,265464.00,62430.11
+2689,Operations,Logistics,264642.00,62430.11
+1515,Operations,Operations Manager,264517.00,62430.11
+2298,IT,System Admin,263634.00,62430.11
+2469,Finance,Accountant,262362.00,62430.11
+2900,IT,IT Manager,260740.00,62430.11
+1713,IT,IT Manager,260102.00,62430.11
+2202,Operations,Operations Analyst,259898.00,62430.11
+2660,Operations,Supply Chain,259624.00,62430.11
+2704,IT,IT Manager,259428.00,62430.11
+2135,Operations,Operations Manager,258552.00,62430.11
+2993,Finance,Tax Specialist,257128.00,62430.11
+2232,Finance,Finance Manager,255125.00,62430.11
+1812,IT,IT Manager,255033.00,62430.11
+2596,IT,Data Engineer,253986.00,62430.11
+2057,Operations,Operations Analyst,253212.00,62430.11
+1797,Finance,CFO,252798.00,62430.11
+1493,Finance,Tax Specialist,252703.00,62430.11
+2244,IT,Data Engineer,251625.00,62430.11
+2896,IT,IT Manager,251588.00,62430.11
+2481,Finance,Finance Manager,250438.00,62430.11
+1610,IT,Data Engineer,240149.00,62430.11
+2329,Operations,Operations Director,238718.00,62430.11
+1919,Operations,Operations Director,238465.00,62430.11
+1603,IT,IT Manager,237091.00,62430.11
+1956,Operations,Operations Manager,236709.00,62430.11
+2014,IT,DevOps Engineer,234689.00,62430.11
+2115,Operations,Operations Director,233372.00,62430.11
+2009,IT,System Admin,232262.00,62430.11
+1568,IT,DevOps Engineer,231826.00,62430.11
+2104,Finance,Finance Manager,231330.00,62430.11
+1780,IT,Software Developer,229477.00,62430.11
+1699,Operations,Operations Director,225897.00,62430.11
+2262,Operations,Supply Chain,220466.00,62430.11
+1475,Operations,Operations Director,219477.00,62430.11
+1856,Operations,Operations Analyst,217745.00,62430.11
+2066,Operations,Operations Analyst,211620.00,62430.11
+2544,Operations,Supply Chain,211590.00,62430.11
+2946,Finance,Tax Specialist,209634.00,62430.11
+1998,Operations,Supply Chain,202462.00,62430.11
+1615,Operations,Operations Manager,196276.00,62430.11
+2688,IT,Data Engineer,195801.00,62430.11
+1474,Finance,CFO,193877.00,62430.11
+1540,Finance,CFO,193604.00,62430.11
+2640,IT,Data Engineer,191895.00,62430.11
+2664,IT,Data Engineer,191829.00,62430.11
+2619,Operations,Logistics,190606.00,62430.11
+1788,Operations,Operations Analyst,190030.00,62430.11
+2381,IT,IT Manager,188258.00,62430.11
+1594,IT,DevOps Engineer,187726.00,62430.11
+2301,IT,DevOps Engineer,187679.00,62430.11
+1611,Finance,Finance Manager,185546.00,62430.11
+2450,Finance,Financial Analyst,184553.00,62430.11
+2775,IT,Data Engineer,183850.00,62430.11
+2665,Finance,CFO,183291.00,62430.11
+2681,IT,IT Manager,182719.00,62430.11
+1621,IT,Data Engineer,182677.00,62430.11
+2593,IT,Software Developer,182582.00,62430.11
+2016,IT,Data Engineer,182142.00,62430.11
+2795,IT,Software Developer,181915.00,62430.11
+1903,Operations,Logistics,181704.00,62430.11
+2081,Finance,Finance Manager,181430.00,62430.11
+1696,IT,Data Engineer,180541.00,62430.11
+2414,IT,Data Engineer,180006.00,62430.11
+1685,Finance,CFO,179645.00,62430.11
+1781,IT,Software Developer,179306.00,62430.11
+2007,Finance,CFO,179122.00,62430.11
+2127,IT,Software Developer,178889.00,62430.11
+1712,Finance,Financial Analyst,178770.00,62430.11
+1861,Operations,Operations Director,178211.00,62430.11
+2213,Finance,CFO,178052.00,62430.11
+2451,IT,Software Developer,177834.00,62430.11
+1631,IT,DevOps Engineer,177802.00,62430.11
+2377,IT,System Admin,177615.00,62430.11
+2726,IT,DevOps Engineer,177589.00,62430.11
+1681,IT,DevOps Engineer,175930.00,62430.11
+1818,Finance,CFO,175898.00,62430.11
+2132,IT,IT Manager,175219.00,62430.11
+1652,IT,DevOps Engineer,174990.00,62430.11
+1902,IT,Data Engineer,174830.00,62430.11
+1575,IT,Software Developer,174830.00,62430.11
+2685,IT,System Admin,174589.00,62430.11
+2910,Finance,Tax Specialist,174574.00,62430.11
+2570,IT,DevOps Engineer,174504.00,62430.11
+2933,IT,IT Manager,174267.00,62430.11
+2778,Finance,Accountant,174192.00,62430.11
+1489,Finance,Finance Manager,173797.00,62430.11
+1966,IT,Software Developer,173662.00,62430.11
+2529,Finance,Accountant,172857.00,62430.11
+1853,IT,Software Developer,172691.00,62430.11
+2313,IT,DevOps Engineer,172597.00,62430.11
+1573,Operations,Operations Analyst,172394.00,62430.11
+2762,Operations,Operations Manager,172212.00,62430.11
+2807,Operations,Operations Analyst,171736.00,62430.11
+2459,Finance,CFO,171600.00,62430.11
+2258,Finance,Finance Manager,170816.00,62430.11
+2636,Finance,CFO,170495.00,62430.11
+1773,IT,System Admin,170281.00,62430.11
+2687,IT,DevOps Engineer,170259.00,62430.11
+2005,IT,DevOps Engineer,170194.00,62430.11
+2237,IT,Software Developer,170047.00,62430.11
+2306,Finance,Finance Manager,169921.00,62430.11
+2848,IT,Data Engineer,169826.00,62430.11
+2486,IT,System Admin,169774.00,62430.11
+2443,IT,Software Developer,169622.00,62430.11
+2460,IT,System Admin,169605.00,62430.11
+2227,IT,System Admin,169156.00,62430.11
+2075,Operations,Operations Analyst,169116.00,62430.11
+2948,Operations,Logistics,168601.00,62430.11
+2341,Operations,Operations Manager,168338.00,62430.11
+2537,IT,IT Manager,168324.00,62430.11
+1715,IT,System Admin,167959.00,62430.11
+1545,IT,Data Engineer,167725.00,62430.11
+2457,Finance,Finance Manager,167547.00,62430.11
+2936,Operations,Logistics,167372.00,62430.11
+2832,IT,DevOps Engineer,167242.00,62430.11
+2954,IT,DevOps Engineer,167091.00,62430.11
+2491,IT,Data Engineer,167080.00,62430.11
+2554,IT,System Admin,167002.00,62430.11
+2957,IT,IT Manager,166871.00,62430.11
+1746,Operations,Operations Analyst,166688.00,62430.11
+1678,IT,IT Manager,166316.00,62430.11
+1559,Operations,Operations Director,166145.00,62430.11
+1617,Operations,Operations Manager,166065.00,62430.11
+1907,Operations,Operations Manager,166014.00,62430.11
+2282,Finance,Accountant,165984.00,62430.11
+2652,Operations,Logistics,165795.00,62430.11
+2369,IT,System Admin,165740.00,62430.11
+2666,Finance,Finance Manager,165731.00,62430.11
+2398,IT,DevOps Engineer,165718.00,62430.11
+2580,Finance,Accountant,165600.00,62430.11
+2844,Finance,Accountant,165486.00,62430.11
+2494,IT,IT Manager,165303.00,62430.11
+2317,IT,Software Developer,165248.00,62430.11
+2114,IT,IT Manager,164928.00,62430.11
+2730,Operations,Logistics,164903.00,62430.11
+2791,IT,Data Engineer,164887.00,62430.11
+1676,Finance,Accountant,164813.00,62430.11
+1702,Operations,Operations Analyst,164721.00,62430.11
+2603,Operations,Operations Analyst,164238.00,62430.11
+2276,Operations,Operations Analyst,163978.00,62430.11
+2552,IT,DevOps Engineer,163320.00,62430.11
+1687,Operations,Operations Analyst,163254.00,62430.11
+2256,Finance,Tax Specialist,163241.00,62430.11
+1686,Operations,Operations Analyst,163161.00,62430.11
+2851,IT,DevOps Engineer,163033.00,62430.11
+2964,IT,DevOps Engineer,163031.00,62430.11
+1834,Operations,Operations Analyst,163023.00,62430.11
+2321,Operations,Operations Analyst,162374.00,62430.11
+2141,Operations,Supply Chain,162132.00,62430.11
+2024,Operations,Operations Director,162104.00,62430.11
+2892,Finance,Finance Manager,162091.00,62430.11
+2085,Operations,Operations Manager,161911.00,62430.11
+2785,Finance,Accountant,161823.00,62430.11
+2557,Operations,Logistics,161638.00,62430.11
+2711,Finance,CFO,161591.00,62430.11
+1918,IT,Data Engineer,161311.00,62430.11
+1484,Operations,Logistics,161295.00,62430.11
+1937,IT,Software Developer,160899.00,62430.11
+2466,Operations,Operations Manager,160844.00,62430.11
+1887,Operations,Operations Director,160239.00,62430.11
+1908,IT,DevOps Engineer,159838.00,62430.11
+2677,Operations,Operations Analyst,159482.00,62430.11
+1532,IT,System Admin,158996.00,62430.11
+2738,Operations,Operations Analyst,158788.00,62430.11
+2153,Finance,Accountant,158510.00,62430.11
+1553,Operations,Operations Manager,158181.00,62430.11
+2719,IT,System Admin,158136.00,62430.11
+1742,Finance,Financial Analyst,157759.00,62430.11
+2897,Finance,Accountant,157384.00,62430.11
+2626,IT,Software Developer,157363.00,62430.11
+1735,Finance,Financial Analyst,157294.00,62430.11
+2813,IT,Data Engineer,157038.00,62430.11
+2823,IT,System Admin,156876.00,62430.11
+2887,IT,System Admin,156767.00,62430.11
+2793,Operations,Operations Manager,156435.00,62430.11
+1884,Finance,Tax Specialist,156361.00,62430.11
+2720,Finance,CFO,156344.00,62430.11
+1498,Finance,Tax Specialist,156273.00,62430.11
+2816,IT,System Admin,156170.00,62430.11
+2097,IT,Data Engineer,155540.00,62430.11
+2062,IT,IT Manager,155421.00,62430.11
+2383,Finance,Financial Analyst,155370.00,62430.11
+2458,IT,DevOps Engineer,155050.00,62430.11
+1970,IT,Software Developer,154851.00,62430.11
+2827,Finance,Financial Analyst,154782.00,62430.11
+2510,Finance,Finance Manager,154752.00,62430.11
+2408,Operations,Supply Chain,154746.00,62430.11
+1760,IT,DevOps Engineer,154574.00,62430.11
+2959,Operations,Operations Analyst,154477.00,62430.11
+2511,Finance,Financial Analyst,154347.00,62430.11
+2092,Finance,Accountant,154279.00,62430.11
+1665,Operations,Logistics,154196.00,62430.11
+2980,IT,IT Manager,154071.00,62430.11
+1558,Operations,Operations Director,153954.00,62430.11
+2766,IT,Data Engineer,153924.00,62430.11
+2406,IT,Data Engineer,153486.00,62430.11
+2287,Operations,Operations Director,153297.00,62430.11
+2992,IT,Data Engineer,153217.00,62430.11
+2880,Operations,Supply Chain,153040.00,62430.11
+2382,IT,DevOps Engineer,152904.00,62430.11
+2883,IT,Software Developer,152706.00,62430.11
+1583,Operations,Supply Chain,152682.00,62430.11
+2151,Finance,CFO,152429.00,62430.11
+2375,Operations,Logistics,152058.00,62430.11
+1657,IT,IT Manager,151819.00,62430.11
+2744,IT,DevOps Engineer,151085.00,62430.11
+1726,IT,System Admin,150780.00,62430.11
+1487,Operations,Operations Manager,150701.00,62430.11
+2059,IT,System Admin,150669.00,62430.11
+2649,IT,Data Engineer,150624.00,62430.11
+1792,IT,DevOps Engineer,150516.00,62430.11
+1862,IT,DevOps Engineer,150423.00,62430.11
+2753,Operations,Logistics,150350.00,62430.11
+2833,Finance,CFO,149888.00,62430.11
+2113,IT,System Admin,149855.00,62430.11
+2150,Finance,Accountant,149411.00,62430.11
+2613,IT,Software Developer,149331.00,62430.11
+2986,Finance,CFO,149227.00,62430.11
+2017,IT,DevOps Engineer,148999.00,62430.11
+1994,IT,Software Developer,148324.00,62430.11
+2335,Operations,Operations Analyst,148233.00,62430.11
+2395,IT,DevOps Engineer,148113.00,62430.11
+2323,IT,Data Engineer,148100.00,62430.11
+2273,IT,System Admin,147682.00,62430.11
+1857,IT,DevOps Engineer,147634.00,62430.11
+2303,Finance,Financial Analyst,147584.00,62430.11
+2206,Operations,Operations Director,147418.00,62430.11
+2682,Operations,Logistics,147415.00,62430.11
+1927,Finance,Accountant,147208.00,62430.11
+2044,Operations,Operations Director,147108.00,62430.11
+2484,Operations,Operations Analyst,146720.00,62430.11
+1632,Operations,Operations Director,146231.00,62430.11
+1478,IT,IT Manager,146175.00,62430.11
+2219,Finance,Tax Specialist,146097.00,62430.11
+2159,Finance,Finance Manager,146033.00,62430.11
+2049,Operations,Operations Manager,145998.00,62430.11
+2581,IT,DevOps Engineer,145961.00,62430.11
+1771,IT,System Admin,145671.00,62430.11
+2835,IT,IT Manager,145647.00,62430.11
+2332,Operations,Operations Manager,145380.00,62430.11
+2885,Operations,Operations Director,145317.00,62430.11
+2875,IT,IT Manager,145160.00,62430.11
+2635,IT,Data Engineer,145137.00,62430.11
+2826,Operations,Supply Chain,144823.00,62430.11
+2376,Operations,Operations Manager,144724.00,62430.11
+1815,Operations,Operations Manager,144234.00,62430.11
+2216,IT,IT Manager,144021.00,62430.11
+1984,IT,Software Developer,143915.00,62430.11
+2549,Operations,Logistics,143817.00,62430.11
+1795,IT,IT Manager,143727.00,62430.11
+2584,IT,System Admin,143595.00,62430.11
+1777,IT,System Admin,143160.00,62430.11
+2243,Finance,CFO,142848.00,62430.11
+1913,Finance,CFO,142675.00,62430.11
+2822,Finance,Finance Manager,142484.00,62430.11
+1828,IT,IT Manager,142408.00,62430.11
+1674,Finance,Accountant,142245.00,62430.11
+1590,IT,System Admin,141879.00,62430.11
+2805,IT,Software Developer,141869.00,62430.11
+2006,Operations,Operations Manager,141851.00,62430.11
+2482,Operations,Supply Chain,141773.00,62430.11
+1768,Operations,Operations Director,141706.00,62430.11
+1619,Operations,Operations Analyst,141215.00,62430.11
+2901,IT,DevOps Engineer,141149.00,62430.11
+1754,Finance,Tax Specialist,141042.00,62430.11
+2352,Operations,Operations Analyst,140990.00,62430.11
+2847,IT,Software Developer,140752.00,62430.11
+2796,IT,Data Engineer,140477.00,62430.11
+1986,Operations,Operations Director,140045.00,62430.11
+2042,IT,System Admin,139940.00,62430.11
+2942,Finance,Financial Analyst,139854.00,62430.11
+1648,Operations,Operations Director,139835.00,62430.11
+1641,IT,DevOps Engineer,139213.00,62430.11
+2914,IT,System Admin,138903.00,62430.11
+2449,Operations,Supply Chain,138609.00,62430.11
+2702,Operations,Operations Manager,138377.00,62430.11
+2038,Operations,Operations Analyst,138207.00,62430.11
+1770,Finance,Finance Manager,137920.00,62430.11
+2597,Operations,Operations Analyst,137759.00,62430.11
+2591,Operations,Operations Manager,137236.00,62430.11
+2444,Operations,Operations Analyst,137156.00,62430.11
+2916,Operations,Supply Chain,137006.00,62430.11
+1983,Finance,Finance Manager,136825.00,62430.11
+2297,Operations,Operations Manager,136794.00,62430.11
+2862,IT,IT Manager,136310.00,62430.11
+2674,Finance,Accountant,136096.00,62430.11
+2428,Operations,Operations Director,135125.00,62430.11
+2918,Operations,Operations Director,133700.00,62430.11
+1823,Operations,Operations Manager,133601.00,62430.11
+2176,Operations,Operations Director,133415.00,62430.11
+2825,Operations,Supply Chain,133274.00,62430.11
+2564,Operations,Supply Chain,132883.00,62430.11
+2309,IT,System Admin,132739.00,62430.11
+2255,IT,DevOps Engineer,132709.00,62430.11
+2743,IT,DevOps Engineer,132338.00,62430.11
+1599,Operations,Operations Manager,131742.00,62430.11
+2076,Operations,Operations Analyst,131523.00,62430.11
+1951,Operations,Logistics,130721.00,62430.11
+1520,Operations,Operations Manager,130620.00,62430.11
+1504,IT,System Admin,130386.00,62430.11
+2441,Operations,Operations Manager,130241.00,62430.11
+2483,IT,Data Engineer,130035.00,62430.11
+1645,IT,Data Engineer,129673.00,62430.11
+2971,Operations,Operations Director,129309.00,62430.11
+1844,Operations,Operations Director,129277.00,62430.11
+2004,Operations,Logistics,129079.00,62430.11
+1883,Operations,Supply Chain,128767.00,62430.11
+2143,Finance,CFO,128727.00,62430.11
+1605,IT,Data Engineer,128421.00,62430.11
+1977,Operations,Logistics,128405.00,62430.11
+1784,IT,DevOps Engineer,128288.00,62430.11
+2628,Operations,Operations Manager,127735.00,62430.11
+2995,Operations,Logistics,127319.00,62430.11
+1935,Operations,Operations Director,127296.00,62430.11
+2403,Operations,Supply Chain,127211.00,62430.11
+2003,Operations,Operations Analyst,127154.00,62430.11
+1606,Operations,Operations Analyst,126190.00,62430.11
+2284,IT,System Admin,126022.00,62430.11
+2465,Operations,Operations Analyst,125380.00,62430.11
+1769,Operations,Logistics,124858.00,62430.11
+1591,Operations,Supply Chain,124857.00,62430.11
+2253,Operations,Operations Analyst,124537.00,62430.11
+1557,Operations,Operations Analyst,124522.00,62430.11
+2129,Operations,Supply Chain,123780.00,62430.11
+1658,Operations,Operations Manager,123427.00,62430.11
+1563,Operations,Operations Director,122655.00,62430.11
+1962,Operations,Operations Director,122155.00,62430.11
+2566,IT,System Admin,119463.00,62430.11
+1758,IT,Data Engineer,119210.00,62430.11
+2876,Operations,Logistics,119013.00,62430.11
+1798,IT,System Admin,118866.00,62430.11
+1513,IT,System Admin,118852.00,62430.11
+1752,Finance,Financial Analyst,117758.00,62430.11
+2370,IT,Data Engineer,117096.00,62430.11
+2653,Finance,Finance Manager,117031.00,62430.11
+2657,IT,Software Developer,116990.00,62430.11
+1833,IT,Data Engineer,116868.00,62430.11
+2197,IT,DevOps Engineer,116752.00,62430.11
+1896,IT,Software Developer,116613.00,62430.11
+1875,IT,Data Engineer,116262.00,62430.11
+2634,IT,IT Manager,116050.00,62430.11
+2288,Finance,Financial Analyst,116039.00,62430.11
+2252,IT,System Admin,115781.00,62430.11
+2161,IT,Data Engineer,115591.00,62430.11
+1527,IT,IT Manager,115311.00,62430.11
+2325,IT,Software Developer,115229.00,62430.11
+2811,IT,Data Engineer,115189.00,62430.11
+1952,IT,System Admin,114811.00,62430.11
+2464,Operations,Operations Director,114788.00,62430.11
+1639,IT,Data Engineer,114706.00,62430.11
+2315,IT,Data Engineer,114554.00,62430.11
+1602,IT,Data Engineer,114494.00,62430.11
+2031,Finance,Tax Specialist,114119.00,62430.11
+2888,Finance,CFO,114086.00,62430.11
+1656,IT,DevOps Engineer,114029.00,62430.11
+2477,IT,IT Manager,113934.00,62430.11
+2305,IT,Software Developer,113745.00,62430.11
+1717,IT,DevOps Engineer,113622.00,62430.11
+2412,Finance,CFO,113496.00,62430.11
+2385,IT,DevOps Engineer,113427.00,62430.11
+2629,IT,DevOps Engineer,112916.00,62430.11
+1991,IT,IT Manager,112897.00,62430.11
+2185,IT,Software Developer,112692.00,62430.11
+2931,IT,Software Developer,112476.00,62430.11
+2264,IT,DevOps Engineer,112451.00,62430.11
+2200,IT,IT Manager,112433.00,62430.11
+2699,IT,Software Developer,112224.00,62430.11
+1978,IT,Data Engineer,112170.00,62430.11
+1772,Finance,Financial Analyst,111860.00,62430.11
+2203,IT,IT Manager,111420.00,62430.11
+2752,Finance,Tax Specialist,111295.00,62430.11
+2186,IT,IT Manager,111173.00,62430.11
+1597,Finance,Finance Manager,111117.00,62430.11
+1762,IT,IT Manager,111067.00,62430.11
+2717,IT,DevOps Engineer,111018.00,62430.11
+2349,IT,System Admin,110908.00,62430.11
+2218,IT,System Admin,110734.00,62430.11
+2047,Finance,Accountant,110696.00,62430.11
+2367,IT,DevOps Engineer,110559.00,62430.11
+2988,Finance,Tax Specialist,110546.00,62430.11
+1880,IT,Software Developer,110293.00,62430.11
+2480,IT,DevOps Engineer,110272.00,62430.11
+2648,Finance,Finance Manager,110106.00,62430.11
+2331,IT,System Admin,110088.00,62430.11
+2521,Finance,Finance Manager,110072.00,62430.11
+1936,Finance,Finance Manager,109917.00,62430.11
+1741,Finance,Finance Manager,109898.00,62430.11
+2968,IT,Data Engineer,109871.00,62430.11
+2927,Operations,Operations Analyst,109794.00,62430.11
+2667,IT,System Admin,109780.00,62430.11
+1490,Finance,Accountant,109767.00,62430.11
+1496,IT,Data Engineer,109640.00,62430.11
+2041,IT,IT Manager,109439.00,62430.11
+2289,IT,Data Engineer,109393.00,62430.11
+2902,IT,Data Engineer,109279.00,62430.11
+1566,IT,Data Engineer,109255.00,62430.11
+2462,IT,Data Engineer,109132.00,62430.11
+1551,IT,IT Manager,109070.00,62430.11
+2239,Finance,Tax Specialist,109016.00,62430.11
+1786,IT,DevOps Engineer,108896.00,62430.11
+2623,IT,Software Developer,108790.00,62430.11
+1707,IT,System Admin,108609.00,62430.11
+1638,Finance,CFO,108589.00,62430.11
+1850,IT,System Admin,108491.00,62430.11
+2454,IT,Data Engineer,108328.00,62430.11
+2147,IT,DevOps Engineer,108309.00,62430.11
+2246,IT,IT Manager,108144.00,62430.11
+2392,IT,System Admin,107827.00,62430.11
+2790,Finance,Tax Specialist,107809.00,62430.11
+2171,IT,Software Developer,107565.00,62430.11
+2647,IT,System Admin,107539.00,62430.11
+2228,IT,IT Manager,107530.00,62430.11
+2620,Finance,Finance Manager,107383.00,62430.11
+2437,IT,System Admin,107341.00,62430.11
+2644,IT,Data Engineer,107332.00,62430.11
+1509,IT,IT Manager,107324.00,62430.11
+2357,IT,Data Engineer,107149.00,62430.11
+1820,Finance,Financial Analyst,107147.00,62430.11
+1650,Finance,Accountant,107045.00,62430.11
+2211,IT,Software Developer,106999.00,62430.11
+2624,IT,DevOps Engineer,106918.00,62430.11
+2286,Finance,Finance Manager,106845.00,62430.11
+2048,Finance,Financial Analyst,106811.00,62430.11
+2019,Finance,Tax Specialist,106704.00,62430.11
+1897,Finance,Accountant,106649.00,62430.11
+1953,Finance,Accountant,106552.00,62430.11
+2064,IT,IT Manager,106542.00,62430.11
+2254,Finance,Tax Specialist,106516.00,62430.11
+1776,IT,IT Manager,106462.00,62430.11
+1670,IT,DevOps Engineer,106327.00,62430.11
+2935,IT,IT Manager,106234.00,62430.11
+1993,IT,IT Manager,106181.00,62430.11
+2595,IT,Data Engineer,106179.00,62430.11
+2166,IT,IT Manager,106115.00,62430.11
+2111,IT,IT Manager,106088.00,62430.11
+1523,IT,IT Manager,106058.00,62430.11
+2124,IT,Data Engineer,106038.00,62430.11
+2642,IT,IT Manager,106000.00,62430.11
+2694,IT,Data Engineer,105982.00,62430.11
+2426,IT,Data Engineer,105946.00,62430.11
+1660,IT,DevOps Engineer,105916.00,62430.11
+2567,IT,System Admin,105914.00,62430.11
+2106,IT,DevOps Engineer,105895.00,62430.11
+2810,IT,System Admin,105867.00,62430.11
+2706,IT,System Admin,105846.00,62430.11
+2722,IT,IT Manager,105781.00,62430.11
+1587,IT,Data Engineer,105669.00,62430.11
+2250,Finance,Tax Specialist,105494.00,62430.11
+1783,Finance,Financial Analyst,105431.00,62430.11
+2573,IT,Data Engineer,105424.00,62430.11
+2861,IT,System Admin,105277.00,62430.11
+2474,IT,Data Engineer,105241.00,62430.11
+1499,IT,DevOps Engineer,105142.00,62430.11
+2784,Operations,Operations Director,105041.00,62430.11
+2736,Operations,Supply Chain,105011.00,62430.11
+2871,IT,Data Engineer,104971.00,62430.11
+1965,Finance,Finance Manager,104969.00,62430.11
+1958,IT,DevOps Engineer,104692.00,62430.11
+2067,Finance,Financial Analyst,104663.00,62430.11
+1901,IT,Software Developer,104651.00,62430.11
+2670,Finance,CFO,104638.00,62430.11
+2251,Finance,Financial Analyst,104604.00,62430.11
+1955,Finance,Financial Analyst,104599.00,62430.11
+1942,Operations,Operations Manager,104512.00,62430.11
+2032,IT,DevOps Engineer,104505.00,62430.11
+1789,Finance,Tax Specialist,104451.00,62430.11
+2347,Finance,Tax Specialist,104392.00,62430.11
+1503,Finance,Accountant,104387.00,62430.11
+2326,IT,System Admin,104250.00,62430.11
+2136,Finance,Finance Manager,104234.00,62430.11
+2622,IT,Data Engineer,104230.00,62430.11
+2929,IT,IT Manager,104124.00,62430.11
+2707,Finance,Finance Manager,104028.00,62430.11
+1874,IT,Software Developer,103844.00,62430.11
+1481,Operations,Supply Chain,103815.00,62430.11
+2296,IT,Software Developer,103774.00,62430.11
+1643,IT,DevOps Engineer,103280.00,62430.11
+2069,Finance,Financial Analyst,103251.00,62430.11
+1782,Finance,Tax Specialist,103141.00,62430.11
+2838,IT,Data Engineer,103087.00,62430.11
+1920,IT,IT Manager,103039.00,62430.11
+2732,Operations,Supply Chain,103027.00,62430.11
+2245,Operations,Supply Chain,102967.00,62430.11
+2359,Finance,Financial Analyst,102933.00,62430.11
+1767,Operations,Operations Analyst,102715.00,62430.11
+1669,Finance,Tax Specialist,102689.00,62430.11
+2842,IT,IT Manager,102623.00,62430.11
+1947,IT,System Admin,102613.00,62430.11
+1871,Finance,CFO,102568.00,62430.11
+2508,Finance,Tax Specialist,102564.00,62430.11
+2122,Operations,Logistics,102492.00,62430.11
+1950,IT,DevOps Engineer,102377.00,62430.11
+2571,Finance,Tax Specialist,102371.00,62430.11
+1787,IT,DevOps Engineer,102296.00,62430.11
+2021,IT,IT Manager,102242.00,62430.11
+2077,IT,Data Engineer,102069.00,62430.11
+2012,Finance,Finance Manager,102067.00,62430.11
+2330,IT,System Admin,102031.00,62430.11
+1926,Finance,Finance Manager,102001.00,62430.11
+2324,Operations,Operations Director,101906.00,62430.11
+1932,Finance,Accountant,101893.00,62430.11
+2562,IT,Software Developer,101845.00,62430.11
+2855,Finance,Financial Analyst,101765.00,62430.11
+1963,IT,DevOps Engineer,101682.00,62430.11
+2723,Finance,Finance Manager,101604.00,62430.11
+1535,IT,IT Manager,101404.00,62430.11
+2035,Operations,Operations Analyst,101398.00,62430.11
+1852,IT,Software Developer,101379.00,62430.11
+2333,Operations,Operations Director,101357.00,62430.11
+1805,IT,IT Manager,101345.00,62430.11
+2424,IT,System Admin,101330.00,62430.11
+2173,IT,Data Engineer,101321.00,62430.11
+2882,IT,Data Engineer,101310.00,62430.11
+1537,Finance,Finance Manager,101283.00,62430.11
+1649,IT,DevOps Engineer,101259.00,62430.11
+2718,IT,DevOps Engineer,101250.00,62430.11
+2767,IT,System Admin,101247.00,62430.11
+2378,IT,DevOps Engineer,101195.00,62430.11
+2334,IT,DevOps Engineer,101050.00,62430.11
+1634,IT,System Admin,100973.00,62430.11
+1827,Operations,Logistics,100960.00,62430.11
+2065,Finance,CFO,100854.00,62430.11
+1840,IT,DevOps Engineer,100741.00,62430.11
+2697,IT,Data Engineer,100720.00,62430.11
+1692,IT,Data Engineer,100709.00,62430.11
+2140,Finance,Financial Analyst,100662.00,62430.11
+2008,Finance,Finance Manager,100623.00,62430.11
+1928,IT,DevOps Engineer,100587.00,62430.11
+2274,Finance,Financial Analyst,100556.00,62430.11
+1525,IT,DevOps Engineer,100542.00,62430.11
+1914,IT,Data Engineer,100538.00,62430.11
+2103,IT,DevOps Engineer,100511.00,62430.11
+2802,Operations,Logistics,100410.00,62430.11
+2733,Finance,Accountant,100408.00,62430.11
+2714,Finance,CFO,100335.00,62430.11
+1910,IT,Data Engineer,100200.00,62430.11
+2390,Finance,Accountant,100184.00,62430.11
+2589,IT,IT Manager,100168.00,62430.11
+1530,Operations,Operations Director,100153.00,62430.11
+2837,Finance,Financial Analyst,100073.00,62430.11
+1906,IT,IT Manager,100050.00,62430.11
+2063,Operations,Supply Chain,99916.00,62430.11
+2079,Finance,CFO,99915.00,62430.11
+1744,Operations,Operations Manager,99885.00,62430.11
+1905,IT,System Admin,99876.00,62430.11
+2247,IT,Data Engineer,99844.00,62430.11
+2054,IT,System Admin,99836.00,62430.11
+1664,Finance,Finance Manager,99761.00,62430.11
+1642,IT,Software Developer,99590.00,62430.11
+2187,Finance,Finance Manager,99447.00,62430.11
+1825,IT,Data Engineer,99414.00,62430.11
+2178,IT,Data Engineer,99350.00,62430.11
+2906,IT,Software Developer,99264.00,62430.11
+1541,Operations,Supply Chain,99176.00,62430.11
+2958,Finance,Finance Manager,99174.00,62430.11
+2879,IT,Software Developer,99147.00,62430.11
+2078,IT,DevOps Engineer,99126.00,62430.11
+2904,Operations,Operations Manager,99115.00,62430.11
+1943,Finance,Finance Manager,99056.00,62430.11
+1761,IT,System Admin,98994.00,62430.11
+2792,Operations,Logistics,98971.00,62430.11
+2241,Operations,Operations Manager,98965.00,62430.11
+2328,IT,IT Manager,98938.00,62430.11
+2199,Finance,Accountant,98902.00,62430.11
+2815,Finance,CFO,98874.00,62430.11
+1961,IT,IT Manager,98873.00,62430.11
+2760,IT,DevOps Engineer,98840.00,62430.11
+1854,Finance,Finance Manager,98780.00,62430.11
+1667,IT,Data Engineer,98755.00,62430.11
+1945,Finance,Finance Manager,98709.00,62430.11
+2364,Operations,Logistics,98705.00,62430.11
+2172,Finance,Tax Specialist,98632.00,62430.11
+2374,IT,System Admin,98617.00,62430.11
+2817,Finance,Finance Manager,98497.00,62430.11
+2884,Operations,Supply Chain,98484.00,62430.11
+2515,Operations,Operations Director,98450.00,62430.11
+1867,IT,Data Engineer,98448.00,62430.11
+2180,Finance,Accountant,98425.00,62430.11
+2797,Finance,Tax Specialist,98410.00,62430.11
+2074,IT,IT Manager,98362.00,62430.11
+2547,Operations,Logistics,98348.00,62430.11
+2073,Operations,Operations Director,98285.00,62430.11
+2867,IT,IT Manager,98136.00,62430.11
+2658,Finance,Tax Specialist,98103.00,62430.11
+2783,Operations,Logistics,98050.00,62430.11
+2771,Finance,Financial Analyst,97951.00,62430.11
+1790,Operations,Operations Analyst,97942.00,62430.11
+2128,Finance,Finance Manager,97859.00,62430.11
+1900,IT,Data Engineer,97854.00,62430.11
+2814,IT,Data Engineer,97843.00,62430.11
+2479,Finance,CFO,97841.00,62430.11
+1572,Operations,Operations Director,97821.00,62430.11
+2053,Operations,Operations Manager,97786.00,62430.11
+2154,IT,DevOps Engineer,97643.00,62430.11
+2162,Finance,Financial Analyst,97639.00,62430.11
+2292,IT,IT Manager,97603.00,62430.11
+2109,IT,DevOps Engineer,97577.00,62430.11
+1609,Operations,Logistics,97567.00,62430.11
+1888,IT,IT Manager,97566.00,62430.11
+2280,IT,DevOps Engineer,97553.00,62430.11
+2423,Operations,Operations Manager,97542.00,62430.11
+1680,Operations,Logistics,97462.00,62430.11
+1821,IT,Data Engineer,97451.00,62430.11
+2561,IT,IT Manager,97388.00,62430.11
+1957,IT,DevOps Engineer,97359.00,62430.11
+2809,IT,System Admin,97282.00,62430.11
+2471,Operations,Operations Director,97280.00,62430.11
+2740,Finance,Tax Specialist,97234.00,62430.11
+2387,Operations,Operations Analyst,97221.00,62430.11
+2086,IT,System Admin,97105.00,62430.11
+2618,Finance,Finance Manager,97066.00,62430.11
+2532,IT,System Admin,96841.00,62430.11
+1548,Finance,Financial Analyst,96708.00,62430.11
+2416,IT,System Admin,96676.00,62430.11
+2419,Operations,Supply Chain,96666.00,62430.11
+2010,Finance,Finance Manager,96577.00,62430.11
+2181,IT,IT Manager,96554.00,62430.11
+2490,IT,Software Developer,96509.00,62430.11
+1592,IT,Data Engineer,96463.00,62430.11
+2846,Finance,Accountant,96445.00,62430.11
+2514,IT,IT Manager,96320.00,62430.11
+2909,IT,System Admin,96316.00,62430.11
+2242,IT,IT Manager,96301.00,62430.11
+1860,Operations,Operations Manager,96247.00,62430.11
+1486,IT,Data Engineer,96162.00,62430.11
+1576,Operations,Operations Director,96097.00,62430.11
+2096,IT,IT Manager,96038.00,62430.11
+2516,Operations,Operations Analyst,95998.00,62430.11
+2712,Finance,Finance Manager,95949.00,62430.11
+1700,Finance,CFO,95940.00,62430.11
+1556,Operations,Operations Manager,95936.00,62430.11
+2928,Operations,Operations Director,95934.00,62430.11
+2983,Operations,Supply Chain,95771.00,62430.11
+2610,Operations,Supply Chain,95609.00,62430.11
+2614,IT,Data Engineer,95594.00,62430.11
+1757,IT,System Admin,95577.00,62430.11
+2531,Operations,Logistics,95577.00,62430.11
+2271,IT,IT Manager,95559.00,62430.11
+1832,IT,Software Developer,95539.00,62430.11
+2679,IT,Software Developer,95525.00,62430.11
+2970,Finance,CFO,95510.00,62430.11
+2932,IT,DevOps Engineer,95309.00,62430.11
+1763,IT,Data Engineer,95187.00,62430.11
+2545,Operations,Logistics,95145.00,62430.11
+1562,Operations,Logistics,95097.00,62430.11
+2824,Operations,Operations Director,95089.00,62430.11
+2794,Operations,Operations Analyst,95087.00,62430.11
+1755,IT,System Admin,94992.00,62430.11
+2493,IT,IT Manager,94977.00,62430.11
+2865,Operations,Operations Manager,94968.00,62430.11
+2990,IT,DevOps Engineer,94911.00,62430.11
+1477,IT,System Admin,94873.00,62430.11
+1620,Operations,Operations Analyst,94799.00,62430.11
+1766,Operations,Logistics,94772.00,62430.11
+2543,IT,IT Manager,94739.00,62430.11
+2853,IT,Data Engineer,94721.00,62430.11
+2163,IT,System Admin,94659.00,62430.11
+2429,Operations,Logistics,94640.00,62430.11
+2413,Operations,Logistics,94616.00,62430.11
+2539,IT,IT Manager,94597.00,62430.11
+1501,IT,Data Engineer,94459.00,62430.11
+2102,IT,IT Manager,94450.00,62430.11
+2267,IT,IT Manager,94388.00,62430.11
+1930,IT,Data Engineer,94304.00,62430.11
+1842,Finance,Accountant,94286.00,62430.11
+2165,IT,System Admin,94230.00,62430.11
+2939,Finance,CFO,94174.00,62430.11
+2050,IT,Software Developer,94152.00,62430.11
+2337,Finance,Accountant,94119.00,62430.11
+2788,Operations,Operations Manager,94111.00,62430.11
+2999,IT,Software Developer,94095.00,62430.11
+2221,Operations,Operations Analyst,93949.00,62430.11
+1859,Finance,Financial Analyst,93893.00,62430.11
+2864,Operations,Supply Chain,93880.00,62430.11
+2355,IT,Software Developer,93823.00,62430.11
+2001,Operations,Operations Manager,93777.00,62430.11
+2781,Operations,Operations Director,93630.00,62430.11
+2418,IT,Data Engineer,93571.00,62430.11
+2156,Finance,Finance Manager,93530.00,62430.11
+1533,Operations,Operations Director,93476.00,62430.11
+2040,Finance,Tax Specialist,93464.00,62430.11
+2018,Operations,Operations Director,93383.00,62430.11
+2148,IT,Software Developer,93357.00,62430.11
+2259,IT,System Admin,93341.00,62430.11
+2060,Operations,Operations Director,93255.00,62430.11
+2167,Operations,Operations Manager,93182.00,62430.11
+1940,Finance,Accountant,93102.00,62430.11
+1751,Operations,Supply Chain,92952.00,62430.11
+1691,Operations,Operations Director,92910.00,62430.11
+1759,Finance,Accountant,92898.00,62430.11
+1976,IT,DevOps Engineer,92891.00,62430.11
+1663,Operations,Supply Chain,92869.00,62430.11
+2342,IT,DevOps Engineer,92783.00,62430.11
+2605,Operations,Supply Chain,92764.00,62430.11
+2627,Operations,Operations Analyst,92725.00,62430.11
+2188,IT,System Admin,92712.00,62430.11
+1725,Operations,Logistics,92681.00,62430.11
+1480,Finance,CFO,92642.00,62430.11
+2850,IT,Software Developer,92637.00,62430.11
+2160,Operations,Operations Analyst,92604.00,62430.11
+2576,IT,System Admin,92580.00,62430.11
+2841,IT,IT Manager,92549.00,62430.11
+2663,IT,Data Engineer,92541.00,62430.11
+2966,IT,Software Developer,92515.00,62430.11
+1995,Finance,Accountant,92507.00,62430.11
+1701,IT,IT Manager,92496.00,62430.11
+2386,IT,IT Manager,92393.00,62430.11
+2592,Finance,Financial Analyst,92349.00,62430.11
+2917,IT,System Admin,92211.00,62430.11
+1996,IT,Software Developer,92197.00,62430.11
+1580,IT,IT Manager,92077.00,62430.11
+2407,IT,Software Developer,92059.00,62430.11
+1550,Operations,Operations Manager,91953.00,62430.11
+2196,Finance,Finance Manager,91828.00,62430.11
+2208,IT,System Admin,91677.00,62430.11
+1895,IT,DevOps Engineer,91658.00,62430.11
+2919,Operations,Operations Manager,91650.00,62430.11
+1756,Finance,Tax Specialist,91616.00,62430.11
+1774,IT,Software Developer,91532.00,62430.11
+1837,Finance,Finance Manager,91531.00,62430.11
+1574,Finance,Accountant,91492.00,62430.11
+1495,Finance,Finance Manager,91466.00,62430.11
+1579,Operations,Operations Analyst,91329.00,62430.11
+1516,IT,IT Manager,91250.00,62430.11
+2602,IT,System Admin,91205.00,62430.11
+2819,Operations,Operations Analyst,91136.00,62430.11
+2082,Finance,CFO,91091.00,62430.11
+2354,Operations,Operations Analyst,91048.00,62430.11
+2501,Operations,Operations Director,90985.00,62430.11
+1710,IT,Software Developer,90948.00,62430.11
+1878,Finance,CFO,90932.00,62430.11
+1659,Operations,Operations Director,90902.00,62430.11
+1626,Operations,Operations Manager,90863.00,62430.11
+1791,Operations,Operations Manager,90681.00,62430.11
+2951,IT,System Admin,90587.00,62430.11
+1912,Operations,Logistics,90583.00,62430.11
+2265,IT,Software Developer,90534.00,62430.11
+1544,IT,IT Manager,90453.00,62430.11
+2709,IT,DevOps Engineer,90344.00,62430.11
+2662,IT,IT Manager,90251.00,62430.11
+2907,Operations,Operations Manager,90244.00,62430.11
+2858,Finance,Accountant,90219.00,62430.11
+2659,Finance,Finance Manager,90218.00,62430.11
+1565,IT,Software Developer,90206.00,62430.11
+2969,IT,DevOps Engineer,90168.00,62430.11
+2578,IT,Software Developer,90136.00,62430.11
+2631,IT,IT Manager,90132.00,62430.11
+2962,IT,System Admin,90132.00,62430.11
+1858,Finance,Tax Specialist,90063.00,62430.11
+2708,Operations,Supply Chain,90037.00,62430.11
+2093,Operations,Supply Chain,89932.00,62430.11
+2002,Operations,Operations Analyst,89885.00,62430.11
+2540,Finance,Financial Analyst,89885.00,62430.11
+1863,IT,Software Developer,89793.00,62430.11
+2821,IT,DevOps Engineer,89749.00,62430.11
+2572,IT,System Admin,89700.00,62430.11
+2655,IT,DevOps Engineer,89640.00,62430.11
+2327,Finance,CFO,89589.00,62430.11
+1922,Finance,Tax Specialist,89576.00,62430.11
+1737,Finance,CFO,89488.00,62430.11
+2607,Operations,Supply Chain,89461.00,62430.11
+1593,IT,Data Engineer,89401.00,62430.11
+2389,Finance,CFO,89400.00,62430.11
+2410,Operations,Operations Manager,89390.00,62430.11
+1981,Operations,Operations Analyst,89208.00,62430.11
+2925,Operations,Operations Manager,89199.00,62430.11
+2152,Finance,Tax Specialist,89130.00,62430.11
+1618,IT,IT Manager,89047.00,62430.11
+2279,IT,Software Developer,89030.00,62430.11
+2475,Operations,Supply Chain,88986.00,62430.11
+2204,Operations,Logistics,88984.00,62430.11
+2372,Operations,Logistics,88929.00,62430.11
+2445,Finance,Tax Specialist,88919.00,62430.11
+2725,Operations,Logistics,88880.00,62430.11
+1826,Finance,Finance Manager,88838.00,62430.11
+2978,Finance,Accountant,88829.00,62430.11
+2126,Finance,Finance Manager,88785.00,62430.11
+1968,IT,Data Engineer,88783.00,62430.11
+2621,Operations,Logistics,88772.00,62430.11
+1796,Finance,Tax Specialist,88726.00,62430.11
+2960,Operations,Logistics,88696.00,62430.11
+2780,IT,DevOps Engineer,88664.00,62430.11
+1904,Finance,Accountant,88609.00,62430.11
+2036,Finance,Accountant,88352.00,62430.11
+1847,IT,IT Manager,88321.00,62430.11
+2440,Operations,Operations Analyst,88313.00,62430.11
+2500,Finance,Financial Analyst,88270.00,62430.11
+1939,IT,IT Manager,88261.00,62430.11
+2193,IT,Data Engineer,88231.00,62430.11
+2977,IT,DevOps Engineer,88115.00,62430.11
+2520,Operations,Operations Analyst,88037.00,62430.11
+2632,Finance,Finance Manager,88027.00,62430.11
+2698,Operations,Operations Manager,88017.00,62430.11
+2158,Operations,Operations Director,87951.00,62430.11
+2526,Operations,Operations Director,87872.00,62430.11
+1870,IT,Software Developer,87776.00,62430.11
+2399,IT,IT Manager,87740.00,62430.11
+2643,Operations,Operations Manager,87709.00,62430.11
+2311,Operations,Operations Director,87692.00,62430.11
+1706,IT,System Admin,87613.00,62430.11
+2080,Operations,Supply Chain,87587.00,62430.11
+2961,Operations,Operations Director,87485.00,62430.11
+2533,Finance,Accountant,87446.00,62430.11
+1830,Operations,Logistics,87433.00,62430.11
+2759,Operations,Supply Chain,87307.00,62430.11
+2894,IT,System Admin,87113.00,62430.11
+1694,Operations,Logistics,87084.00,62430.11
+2546,Operations,Logistics,87061.00,62430.11
+2320,IT,DevOps Engineer,87047.00,62430.11
+2568,IT,IT Manager,87016.00,62430.11
+2175,Finance,Accountant,86906.00,62430.11
+1988,IT,Software Developer,86905.00,62430.11
+1536,Finance,CFO,86819.00,62430.11
+2312,Operations,Operations Manager,86812.00,62430.11
+2427,IT,IT Manager,86702.00,62430.11
+2908,Finance,Finance Manager,86620.00,62430.11
+2886,Operations,Operations Manager,86527.00,62430.11
+1729,Finance,Accountant,86509.00,62430.11
+2800,IT,Data Engineer,86507.00,62430.11
+2991,Operations,Logistics,86400.00,62430.11
+2773,IT,Data Engineer,86317.00,62430.11
+1841,Operations,Logistics,86208.00,62430.11
+2769,IT,Data Engineer,86103.00,62430.11
+1929,IT,System Admin,86078.00,62430.11
+2742,IT,IT Manager,85954.00,62430.11
+1675,Finance,Accountant,85930.00,62430.11
+2801,IT,Data Engineer,85906.00,62430.11
+2518,Operations,Logistics,85822.00,62430.11
+1954,Finance,Accountant,85727.00,62430.11
+2365,Finance,CFO,85644.00,62430.11
+2169,IT,Data Engineer,85499.00,62430.11
+1727,Operations,Supply Chain,85311.00,62430.11
+2275,Operations,Operations Manager,85285.00,62430.11
+1898,Operations,Operations Director,85245.00,62430.11
+1716,Operations,Operations Director,85189.00,62430.11
+2498,Finance,Tax Specialist,85032.00,62430.11
+2599,Finance,Tax Specialist,84994.00,62430.11
+2391,IT,DevOps Engineer,84979.00,62430.11
+2560,Finance,Finance Manager,84906.00,62430.11
+2522,IT,DevOps Engineer,84840.00,62430.11
+2249,Operations,Operations Analyst,84817.00,62430.11
+2346,Operations,Operations Analyst,84682.00,62430.11
+2924,IT,System Admin,84624.00,62430.11
+2478,IT,Data Engineer,84605.00,62430.11
+2123,Operations,Operations Manager,84587.00,62430.11
+1894,Operations,Supply Chain,84572.00,62430.11
+2641,Operations,Operations Analyst,84505.00,62430.11
+2944,Operations,Supply Chain,84482.00,62430.11
+1949,Operations,Operations Director,84440.00,62430.11
+1816,Operations,Operations Manager,84412.00,62430.11
+2234,IT,DevOps Engineer,84381.00,62430.11
+1695,Operations,Supply Chain,84261.00,62430.11
+2872,Finance,Financial Analyst,84049.00,62430.11
+1637,Finance,Accountant,84001.00,62430.11
+2772,IT,Data Engineer,83989.00,62430.11
+2998,Operations,Operations Director,83971.00,62430.11
+1753,Finance,Finance Manager,83678.00,62430.11
+1889,Finance,Finance Manager,83678.00,62430.11
+2046,Finance,CFO,83677.00,62430.11
+2729,Operations,Operations Analyst,83663.00,62430.11
+2028,Finance,Tax Specialist,83636.00,62430.11
+2089,IT,System Admin,83503.00,62430.11
+2604,Operations,Supply Chain,82923.00,62430.11
+1668,Operations,Operations Manager,82834.00,62430.11
+1635,Operations,Operations Director,82804.00,62430.11
+1719,Operations,Logistics,82791.00,62430.11
+1892,Operations,Operations Analyst,82592.00,62430.11
+2452,Operations,Supply Chain,82516.00,62430.11
+2836,Operations,Logistics,82481.00,62430.11
+2721,Operations,Supply Chain,82454.00,62430.11
+2727,Finance,Financial Analyst,82373.00,62430.11
+2037,Operations,Logistics,82192.00,62430.11
+2226,Operations,Operations Director,82151.00,62430.11
+1831,Operations,Supply Chain,81877.00,62430.11
+1971,Finance,Tax Specialist,81857.00,62430.11
+2439,Finance,CFO,81829.00,62430.11
+2616,Operations,Logistics,81812.00,62430.11
+1534,IT,IT Manager,81628.00,62430.11
+2898,Operations,Supply Chain,81338.00,62430.11
+2027,Operations,Operations Analyst,81334.00,62430.11
+2534,Operations,Logistics,81332.00,62430.11
+2612,Operations,Operations Director,81279.00,62430.11
+1960,Finance,Tax Specialist,81074.00,62430.11
+2601,Operations,Operations Director,81019.00,62430.11
+2118,Finance,Financial Analyst,80967.00,62430.11
+2238,Operations,Supply Chain,80956.00,62430.11
+2345,Operations,Operations Analyst,80919.00,62430.11
+2318,Operations,Supply Chain,80896.00,62430.11
+2394,Finance,Tax Specialist,80456.00,62430.11
+1809,Operations,Operations Analyst,80380.00,62430.11
+2379,Operations,Logistics,80213.00,62430.11
+1598,Operations,Supply Chain,79809.00,62430.11
+2121,Operations,Operations Analyst,79779.00,62430.11
+2223,Operations,Operations Director,79621.00,62430.11
+2207,Operations,Operations Director,79466.00,62430.11
+2828,Operations,Operations Analyst,78989.00,62430.11
+1625,Operations,Operations Director,78906.00,62430.11
+2205,Operations,Supply Chain,78856.00,62430.11
+2617,Operations,Operations Manager,78486.00,62430.11
+2528,Operations,Operations Director,78249.00,62430.11
+2231,Operations,Operations Analyst,77870.00,62430.11
+1866,Operations,Logistics,77328.00,62430.11
+2913,Operations,Operations Director,77168.00,62430.11
+1972,Operations,Logistics,77159.00,62430.11
+1948,Operations,Logistics,77135.00,62430.11
+2302,Operations,Operations Director,77072.00,62430.11
+2155,Operations,Supply Chain,77051.00,62430.11
+2473,Operations,Operations Analyst,76989.00,62430.11
+2705,Operations,Operations Manager,76871.00,62430.11
+2934,Operations,Operations Manager,76866.00,62430.11
+2338,Operations,Operations Analyst,76740.00,62430.11
+2556,Operations,Operations Director,76721.00,62430.11
+1969,Operations,Operations Manager,76300.00,62430.11
+1552,Operations,Logistics,76083.00,62430.11
+1679,Operations,Logistics,75792.00,62430.11
+2680,Operations,Operations Director,75103.00,62430.11
+2630,Operations,Operations Analyst,75033.00,62430.11
+2671,Operations,Operations Director,74896.00,62430.11
+1607,Operations,Operations Analyst,74714.00,62430.11
+2668,IT,IT Manager,74699.00,62430.11
+2137,Operations,Supply Chain,74562.00,62430.11
+2926,Operations,Operations Manager,74165.00,62430.11
+2651,Operations,Operations Analyst,73950.00,62430.11
+2393,Operations,Operations Manager,73725.00,62430.11
+2530,Operations,Supply Chain,73674.00,62430.11
+1571,IT,Software Developer,73190.00,62430.11
+2291,IT,IT Manager,72991.00,62430.11
+2857,Operations,Supply Chain,72898.00,62430.11
+2020,Operations,Operations Manager,72828.00,62430.11
+1839,Operations,Operations Manager,72597.00,62430.11
+1819,IT,Software Developer,72101.00,62430.11
+2804,IT,IT Manager,72003.00,62430.11
+2585,IT,System Admin,72000.00,62430.11
+2195,IT,IT Manager,71495.00,62430.11
+1569,IT,Software Developer,71079.00,62430.11
+2463,IT,Data Engineer,70965.00,62430.11
+2496,IT,IT Manager,70946.00,62430.11
+1736,IT,Data Engineer,70732.00,62430.11
+2013,IT,System Admin,70598.00,62430.11
+2316,IT,DevOps Engineer,70538.00,62430.11
+1629,IT,IT Manager,70494.00,62430.11
+1519,IT,System Admin,70257.00,62430.11
+2586,IT,Data Engineer,70239.00,62430.11
+1851,IT,DevOps Engineer,70159.00,62430.11
+1881,Finance,CFO,70096.00,62430.11
+2248,IT,Software Developer,70039.00,62430.11
+1690,IT,Software Developer,69974.00,62430.11
+2487,IT,Data Engineer,69906.00,62430.11
+2761,IT,Software Developer,69830.00,62430.11
+2911,Finance,CFO,69813.00,62430.11
+2943,IT,Software Developer,69769.00,62430.11
+1944,IT,IT Manager,69712.00,62430.11
+1561,IT,System Admin,69353.00,62430.11
+2488,IT,Software Developer,69243.00,62430.11
+2673,IT,Data Engineer,69214.00,62430.11
+2107,IT,Data Engineer,69177.00,62430.11
+1990,IT,System Admin,69149.00,62430.11
+1488,IT,Data Engineer,69082.00,62430.11
+2583,Finance,CFO,69042.00,62430.11
+2881,Finance,Financial Analyst,69014.00,62430.11
+2525,IT,IT Manager,68945.00,62430.11
+2277,IT,Data Engineer,68922.00,62430.11
+2072,IT,Data Engineer,68889.00,62430.11
+1705,Finance,Financial Analyst,68733.00,62430.11
+2512,IT,Data Engineer,68731.00,62430.11
+1846,IT,Software Developer,68640.00,62430.11
+2506,IT,Software Developer,68555.00,62430.11
+1711,IT,System Admin,68478.00,62430.11
+1794,IT,Software Developer,68361.00,62430.11
+2754,IT,DevOps Engineer,68351.00,62430.11
+2133,Finance,Financial Analyst,68284.00,62430.11
+1577,IT,Software Developer,68282.00,62430.11
+1802,Finance,Financial Analyst,68266.00,62430.11
+2633,IT,IT Manager,68094.00,62430.11
+2360,IT,Software Developer,68025.00,62430.11
+2765,IT,IT Manager,68004.00,62430.11
+2912,IT,Data Engineer,67818.00,62430.11
+2588,IT,DevOps Engineer,67785.00,62430.11
+1868,IT,Software Developer,67741.00,62430.11
+2131,Finance,Accountant,67733.00,62430.11
+1492,Finance,CFO,67548.00,62430.11
+2099,IT,IT Manager,67452.00,62430.11
+2582,IT,DevOps Engineer,67078.00,62430.11
+2404,Finance,Finance Manager,67019.00,62430.11
+2776,IT,DevOps Engineer,66921.00,62430.11
+2056,Finance,Tax Specialist,66785.00,62430.11
+2922,Finance,Finance Manager,66762.00,62430.11
+2735,Finance,Finance Manager,66554.00,62430.11
+2209,IT,DevOps Engineer,66452.00,62430.11
+2542,IT,Software Developer,66381.00,62430.11
+2949,Finance,CFO,66292.00,62430.11
+2497,IT,System Admin,66205.00,62430.11
+2268,IT,Data Engineer,66063.00,62430.11
+2695,IT,System Admin,66046.00,62430.11
+2467,Finance,CFO,66014.00,62430.11
+2100,IT,DevOps Engineer,65998.00,62430.11
+1732,IT,Software Developer,65968.00,62430.11
+2170,Finance,Financial Analyst,65875.00,62430.11
+2417,IT,Software Developer,65733.00,62430.11
+2421,IT,Data Engineer,65634.00,62430.11
+1479,Finance,CFO,65562.00,62430.11
+1923,IT,Software Developer,65542.00,62430.11
+2236,Finance,Financial Analyst,65521.00,62430.11
+2600,IT,System Admin,65519.00,62430.11
+1586,IT,Data Engineer,65500.00,62430.11
+1946,Finance,Tax Specialist,65441.00,62430.11
+2456,IT,DevOps Engineer,65401.00,62430.11
+1740,Finance,Accountant,65352.00,62430.11
+1693,IT,DevOps Engineer,65254.00,62430.11
+1848,IT,Data Engineer,65161.00,62430.11
+2339,IT,Data Engineer,64982.00,62430.11
+1745,Finance,Financial Analyst,64881.00,62430.11
+1600,IT,IT Manager,64857.00,62430.11
+2116,IT,Data Engineer,64761.00,62430.11
+2975,Finance,CFO,64727.00,62430.11
+2984,Finance,Accountant,64688.00,62430.11
+1886,IT,Data Engineer,64583.00,62430.11
+2362,IT,System Admin,64276.00,62430.11
+2777,IT,DevOps Engineer,64274.00,62430.11
+2739,IT,System Admin,64179.00,62430.11
+1800,Finance,Financial Analyst,64068.00,62430.11
+1704,Finance,Accountant,64013.00,62430.11
+1931,Finance,Finance Manager,64000.00,62430.11
+1673,IT,IT Manager,63962.00,62430.11
+1682,IT,IT Manager,63954.00,62430.11
+2756,IT,System Admin,63921.00,62430.11
+1655,IT,Data Engineer,63912.00,62430.11
+2108,IT,Data Engineer,63674.00,62430.11
+1804,Finance,Tax Specialist,63542.00,62430.11
+2270,Finance,CFO,63510.00,62430.11
+1604,Operations,Supply Chain,63504.00,62430.11
+1921,IT,DevOps Engineer,63305.00,62430.11
+1803,Finance,CFO,63287.00,62430.11
+2348,IT,System Admin,63175.00,62430.11
+2278,Finance,Tax Specialist,63097.00,62430.11
+1601,Finance,Finance Manager,63087.00,62430.11
+2120,IT,DevOps Engineer,63033.00,62430.11
+2782,IT,Software Developer,63026.00,62430.11
+1824,Operations,Supply Chain,62959.00,62430.11
+2164,IT,Software Developer,62955.00,62430.11
+2283,Finance,CFO,62950.00,62430.11
+2105,IT,Data Engineer,62758.00,62430.11
+1612,IT,DevOps Engineer,62475.00,62430.11
+2895,Operations,Logistics,62453.00,62430.11
+2043,Finance,Financial Analyst,62441.00,62430.11
