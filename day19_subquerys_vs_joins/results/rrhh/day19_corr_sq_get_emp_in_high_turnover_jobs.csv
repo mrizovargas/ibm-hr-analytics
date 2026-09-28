@@ -1,0 +1,1013 @@
+"employee_number","department","job_id","monthly_income"
+3,Research & Development,103,45309.00
+5,Research & Development,103,19503.00
+6,Research & Development,103,33165.00
+7,Research & Development,103,43692.00
+8,Research & Development,103,44814.00
+11,Research & Development,103,26697.00
+12,Research & Development,103,5049.00
+14,Research & Development,103,44418.00
+15,Research & Development,103,3399.00
+18,Research & Development,103,37059.00
+31,Research & Development,103,30492.00
+33,Research & Development,103,4125.00
+41,Research & Development,103,15312.00
+42,Research & Development,103,40920.00
+43,Research & Development,103,44781.00
+45,Research & Development,103,23793.00
+50,Research & Development,103,40557.00
+51,Research & Development,103,20658.00
+52,Research & Development,103,47322.00
+58,Research & Development,103,37686.00
+59,Research & Development,103,21615.00
+62,Research & Development,103,21549.00
+75,Research & Development,103,4356.00
+81,Research & Development,103,28116.00
+88,Research & Development,103,14256.00
+100,Research & Development,103,16137.00
+103,Research & Development,103,28743.00
+110,Research & Development,103,17622.00
+112,Research & Development,103,21714.00
+114,Research & Development,103,37191.00
+119,Research & Development,103,30426.00
+129,Research & Development,103,19602.00
+141,Research & Development,103,34089.00
+147,Research & Development,103,47091.00
+149,Research & Development,103,30789.00
+150,Research & Development,103,38973.00
+154,Research & Development,103,6402.00
+173,Research & Development,103,48840.00
+174,Research & Development,103,3663.00
+178,Research & Development,103,9999.00
+180,Research & Development,103,45540.00
+184,Research & Development,103,10824.00
+197,Research & Development,103,4554.00
+204,Research & Development,103,29865.00
+208,Research & Development,103,20955.00
+221,Research & Development,103,46068.00
+231,Research & Development,103,43659.00
+235,Research & Development,103,26829.00
+237,Research & Development,103,15345.00
+240,Research & Development,103,16995.00
+241,Research & Development,103,47223.00
+257,Research & Development,103,8877.00
+260,Research & Development,103,10131.00
+261,Research & Development,103,43263.00
+263,Research & Development,103,4224.00
+265,Research & Development,103,17457.00
+270,Research & Development,103,46299.00
+284,Research & Development,103,4851.00
+287,Research & Development,103,30360.00
+289,Research & Development,103,47817.00
+297,Research & Development,103,7590.00
+299,Research & Development,103,18678.00
+306,Research & Development,103,36465.00
+312,Research & Development,103,41217.00
+316,Research & Development,103,6105.00
+331,Research & Development,103,18447.00
+337,Research & Development,103,10494.00
+338,Research & Development,103,24354.00
+352,Research & Development,103,35046.00
+362,Research & Development,103,38643.00
+365,Research & Development,103,30393.00
+374,Research & Development,103,48477.00
+387,Research & Development,103,36531.00
+389,Research & Development,103,6633.00
+392,Research & Development,103,18315.00
+396,Research & Development,103,10329.00
+400,Research & Development,103,10857.00
+405,Research & Development,103,42900.00
+406,Research & Development,103,22704.00
+417,Research & Development,103,49170.00
+420,Research & Development,103,46200.00
+427,Research & Development,103,36828.00
+431,Research & Development,103,4752.00
+432,Research & Development,103,18084.00
+437,Research & Development,103,19371.00
+442,Research & Development,103,48642.00
+444,Research & Development,103,45144.00
+450,Research & Development,103,14619.00
+464,Research & Development,103,15543.00
+477,Research & Development,103,27159.00
+480,Research & Development,103,42471.00
+484,Research & Development,103,17754.00
+492,Research & Development,103,33033.00
+506,Research & Development,103,32703.00
+516,Research & Development,103,23991.00
+524,Research & Development,103,39831.00
+544,Research & Development,103,12573.00
+551,Research & Development,103,21450.00
+557,Research & Development,103,11418.00
+559,Research & Development,103,14190.00
+572,Research & Development,103,18975.00
+582,Research & Development,103,30393.00
+586,Research & Development,103,41019.00
+587,Research & Development,103,36036.00
+588,Research & Development,103,43725.00
+590,Research & Development,103,26565.00
+602,Research & Development,103,23760.00
+632,Research & Development,103,32538.00
+638,Research & Development,103,9900.00
+641,Research & Development,103,41877.00
+644,Research & Development,103,41745.00
+657,Research & Development,103,12342.00
+658,Research & Development,103,35838.00
+661,Research & Development,103,25773.00
+668,Research & Development,103,35805.00
+670,Research & Development,103,37026.00
+672,Research & Development,103,18018.00
+678,Research & Development,103,17391.00
+683,Research & Development,103,39072.00
+687,Research & Development,103,8679.00
+688,Research & Development,103,30954.00
+690,Research & Development,103,4257.00
+697,Research & Development,103,26565.00
+714,Research & Development,103,32142.00
+718,Research & Development,103,37422.00
+719,Research & Development,103,8184.00
+726,Research & Development,103,20526.00
+733,Research & Development,103,3597.00
+735,Research & Development,103,7161.00
+741,Research & Development,103,26466.00
+743,Research & Development,103,26532.00
+753,Research & Development,103,29205.00
+757,Research & Development,103,36597.00
+762,Research & Development,103,21780.00
+778,Research & Development,103,44022.00
+782,Research & Development,103,6336.00
+787,Research & Development,103,42141.00
+794,Research & Development,103,29535.00
+797,Research & Development,103,40227.00
+798,Research & Development,103,43890.00
+801,Research & Development,103,33297.00
+817,Research & Development,103,14487.00
+825,Research & Development,103,6204.00
+829,Research & Development,103,8151.00
+831,Research & Development,103,5511.00
+832,Research & Development,103,28842.00
+841,Research & Development,103,32406.00
+842,Research & Development,103,15741.00
+843,Research & Development,103,49005.00
+844,Research & Development,103,45672.00
+849,Research & Development,103,20988.00
+853,Research & Development,103,46233.00
+857,Research & Development,103,26565.00
+869,Research & Development,103,38907.00
+872,Research & Development,103,32472.00
+874,Research & Development,103,30261.00
+875,Research & Development,103,28149.00
+881,Research & Development,103,3828.00
+902,Research & Development,103,31977.00
+916,Research & Development,103,8283.00
+921,Research & Development,103,4455.00
+922,Research & Development,103,26103.00
+930,Research & Development,103,6369.00
+931,Research & Development,103,31944.00
+933,Research & Development,103,26598.00
+940,Research & Development,103,35937.00
+942,Research & Development,103,37554.00
+945,Research & Development,103,48708.00
+954,Research & Development,103,30855.00
+966,Research & Development,103,29106.00
+968,Research & Development,103,10857.00
+973,Research & Development,103,37092.00
+974,Research & Development,103,26961.00
+980,Research & Development,103,9405.00
+1001,Research & Development,103,8514.00
+1002,Research & Development,103,48246.00
+1004,Research & Development,103,31317.00
+1005,Research & Development,103,21516.00
+1007,Research & Development,103,48675.00
+1018,Research & Development,103,45441.00
+1019,Research & Development,103,5676.00
+1023,Research & Development,103,46629.00
+1028,Research & Development,103,13233.00
+1030,Research & Development,103,21879.00
+1033,Research & Development,103,19536.00
+1037,Research & Development,103,17259.00
+1043,Research & Development,103,32373.00
+1051,Research & Development,103,24684.00
+1061,Research & Development,103,12573.00
+1067,Research & Development,103,36267.00
+1069,Research & Development,103,9537.00
+1072,Research & Development,103,8943.00
+1073,Research & Development,103,13530.00
+1083,Research & Development,103,16731.00
+1084,Research & Development,103,22308.00
+1089,Research & Development,103,39930.00
+1096,Research & Development,103,19437.00
+1098,Research & Development,103,11550.00
+1109,Research & Development,103,32736.00
+1111,Research & Development,103,3432.00
+1123,Research & Development,103,45210.00
+1129,Research & Development,103,42966.00
+1131,Research & Development,103,24750.00
+1134,Research & Development,103,32670.00
+1135,Research & Development,103,44517.00
+1137,Research & Development,103,10857.00
+1143,Research & Development,103,33495.00
+1148,Research & Development,103,23826.00
+1150,Research & Development,103,42966.00
+1156,Research & Development,103,5610.00
+1172,Research & Development,103,43857.00
+1181,Research & Development,103,10263.00
+1193,Research & Development,103,15312.00
+1194,Research & Development,103,4884.00
+1202,Research & Development,103,43560.00
+1203,Research & Development,103,49335.00
+1206,Research & Development,103,41547.00
+1207,Research & Development,103,25938.00
+1209,Research & Development,103,38181.00
+1211,Research & Development,103,8811.00
+1220,Research & Development,103,35706.00
+1225,Research & Development,103,12870.00
+1228,Research & Development,103,24453.00
+1231,Research & Development,103,16698.00
+1239,Research & Development,103,5280.00
+1241,Research & Development,103,26136.00
+1257,Research & Development,103,19602.00
+1264,Research & Development,103,28215.00
+1267,Research & Development,103,18084.00
+1273,Research & Development,103,38049.00
+1274,Research & Development,103,42702.00
+1287,Research & Development,103,20328.00
+1291,Research & Development,103,7722.00
+1303,Research & Development,103,6105.00
+1318,Research & Development,103,42801.00
+1319,Research & Development,103,18942.00
+1322,Research & Development,103,6831.00
+1326,Research & Development,103,37686.00
+1342,Research & Development,103,10263.00
+1344,Research & Development,103,19536.00
+1355,Research & Development,103,38346.00
+1361,Research & Development,103,15543.00
+1362,Research & Development,103,36168.00
+1384,Research & Development,103,44583.00
+1387,Research & Development,103,5181.00
+1391,Research & Development,103,46332.00
+1403,Research & Development,103,42108.00
+1409,Research & Development,103,18843.00
+1410,Research & Development,103,22836.00
+1413,Research & Development,103,30063.00
+1414,Research & Development,103,32241.00
+1416,Research & Development,103,43329.00
+1423,Research & Development,103,49170.00
+1427,Research & Development,103,8811.00
+1428,Research & Development,103,17919.00
+1445,Research & Development,103,10230.00
+1460,Research & Development,103,45474.00
+1466,Research & Development,103,29172.00
+1470,Research & Development,103,20724.00
+2,Research & Development,108,9207.00
+4,Research & Development,108,45936.00
+13,Research & Development,108,22110.00
+17,Research & Development,108,11022.00
+20,Research & Development,108,12243.00
+24,Research & Development,108,12903.00
+25,Research & Development,108,23067.00
+27,Research & Development,108,37125.00
+35,Research & Development,108,26829.00
+36,Research & Development,108,42009.00
+39,Research & Development,108,28116.00
+48,Research & Development,108,13464.00
+68,Research & Development,108,44187.00
+69,Research & Development,108,21912.00
+70,Research & Development,108,10494.00
+72,Research & Development,108,43824.00
+73,Research & Development,108,35706.00
+74,Research & Development,108,18084.00
+82,Research & Development,108,40062.00
+84,Research & Development,108,18909.00
+102,Research & Development,108,27291.00
+104,Research & Development,108,21945.00
+109,Research & Development,108,42240.00
+115,Research & Development,108,34023.00
+121,Research & Development,108,43296.00
+123,Research & Development,108,14553.00
+126,Research & Development,108,27753.00
+131,Research & Development,108,31581.00
+142,Research & Development,108,43428.00
+146,Research & Development,108,6633.00
+151,Research & Development,108,46035.00
+158,Research & Development,108,37785.00
+161,Research & Development,108,41448.00
+162,Research & Development,108,22803.00
+163,Research & Development,108,14520.00
+165,Research & Development,108,47850.00
+167,Research & Development,108,15345.00
+170,Research & Development,108,3960.00
+171,Research & Development,108,38181.00
+176,Research & Development,108,23529.00
+177,Research & Development,108,4422.00
+181,Research & Development,108,4620.00
+182,Research & Development,108,20757.00
+186,Research & Development,108,30723.00
+192,Research & Development,108,29502.00
+194,Research & Development,108,44352.00
+196,Research & Development,108,9570.00
+203,Research & Development,108,28974.00
+207,Research & Development,108,37488.00
+215,Research & Development,108,33165.00
+218,Research & Development,108,32736.00
+222,Research & Development,108,4851.00
+226,Research & Development,108,4686.00
+230,Research & Development,108,29568.00
+310,Research & Development,108,22803.00
+313,Research & Development,108,6336.00
+318,Research & Development,108,23859.00
+319,Research & Development,108,40260.00
+323,Research & Development,108,33594.00
+324,Research & Development,108,38181.00
+325,Research & Development,108,42075.00
+333,Research & Development,108,30624.00
+335,Research & Development,108,18117.00
+346,Research & Development,108,43197.00
+354,Research & Development,108,43527.00
+370,Research & Development,108,13464.00
+372,Research & Development,108,42339.00
+378,Research & Development,108,10857.00
+383,Research & Development,108,18975.00
+384,Research & Development,108,8349.00
+386,Research & Development,108,15312.00
+399,Research & Development,108,35079.00
+408,Research & Development,108,6336.00
+410,Research & Development,108,17556.00
+419,Research & Development,108,44517.00
+422,Research & Development,108,13464.00
+433,Research & Development,108,42999.00
+469,Research & Development,108,31548.00
+475,Research & Development,108,22803.00
+482,Research & Development,108,8382.00
+486,Research & Development,108,26334.00
+488,Research & Development,108,31647.00
+491,Research & Development,108,11946.00
+499,Research & Development,108,19932.00
+501,Research & Development,108,21318.00
+502,Research & Development,108,5280.00
+504,Research & Development,108,46101.00
+509,Research & Development,108,33561.00
+513,Research & Development,108,36795.00
+514,Research & Development,108,44946.00
+515,Research & Development,108,35508.00
+517,Research & Development,108,29205.00
+520,Research & Development,108,26598.00
+604,Research & Development,108,8316.00
+607,Research & Development,108,23166.00
+615,Research & Development,108,29271.00
+616,Research & Development,108,14619.00
+619,Research & Development,108,5940.00
+621,Research & Development,108,44319.00
+624,Research & Development,108,33396.00
+627,Research & Development,108,21054.00
+633,Research & Development,108,41943.00
+637,Research & Development,108,4290.00
+640,Research & Development,108,46794.00
+645,Research & Development,108,40326.00
+659,Research & Development,108,21813.00
+664,Research & Development,108,47091.00
+669,Research & Development,108,32835.00
+671,Research & Development,108,20394.00
+674,Research & Development,108,39534.00
+679,Research & Development,108,48477.00
+681,Research & Development,108,6204.00
+692,Research & Development,108,48477.00
+701,Research & Development,108,9537.00
+710,Research & Development,108,11055.00
+712,Research & Development,108,29898.00
+713,Research & Development,108,15213.00
+721,Research & Development,108,4554.00
+723,Research & Development,108,45903.00
+763,Research & Development,108,11286.00
+766,Research & Development,108,39138.00
+770,Research & Development,108,30393.00
+773,Research & Development,108,40920.00
+779,Research & Development,108,33099.00
+780,Research & Development,108,43659.00
+784,Research & Development,108,16797.00
+789,Research & Development,108,28281.00
+793,Research & Development,108,27291.00
+799,Research & Development,108,33561.00
+804,Research & Development,108,23001.00
+809,Research & Development,108,36531.00
+816,Research & Development,108,32472.00
+820,Research & Development,108,47883.00
+824,Research & Development,108,16170.00
+828,Research & Development,108,25509.00
+834,Research & Development,108,6567.00
+846,Research & Development,108,29766.00
+854,Research & Development,108,21285.00
+855,Research & Development,108,48081.00
+858,Research & Development,108,36201.00
+860,Research & Development,108,31086.00
+861,Research & Development,108,41448.00
+863,Research & Development,108,3663.00
+894,Research & Development,108,33330.00
+901,Research & Development,108,15477.00
+903,Research & Development,108,38511.00
+907,Research & Development,108,43560.00
+910,Research & Development,108,8745.00
+911,Research & Development,108,12309.00
+913,Research & Development,108,19239.00
+925,Research & Development,108,24255.00
+926,Research & Development,108,19899.00
+934,Research & Development,108,21120.00
+935,Research & Development,108,8778.00
+939,Research & Development,108,27984.00
+941,Research & Development,108,11880.00
+958,Research & Development,108,15114.00
+960,Research & Development,108,17259.00
+962,Research & Development,108,15906.00
+978,Research & Development,108,32967.00
+983,Research & Development,108,22869.00
+989,Research & Development,108,39600.00
+990,Research & Development,108,47487.00
+996,Research & Development,108,30690.00
+998,Research & Development,108,4455.00
+999,Research & Development,108,22539.00
+1016,Research & Development,108,18480.00
+1017,Research & Development,108,6666.00
+1046,Research & Development,108,29568.00
+1047,Research & Development,108,48411.00
+1053,Research & Development,108,32670.00
+1054,Research & Development,108,13365.00
+1070,Research & Development,108,46959.00
+1078,Research & Development,108,7392.00
+1086,Research & Development,108,18513.00
+1090,Research & Development,108,22242.00
+1093,Research & Development,108,31350.00
+1102,Research & Development,108,27192.00
+1105,Research & Development,108,19734.00
+1114,Research & Development,108,39600.00
+1115,Research & Development,108,36564.00
+1116,Research & Development,108,15807.00
+1118,Research & Development,108,44583.00
+1119,Research & Development,108,15642.00
+1128,Research & Development,108,32241.00
+1138,Research & Development,108,15081.00
+1140,Research & Development,108,20922.00
+1142,Research & Development,108,7953.00
+1151,Research & Development,108,27027.00
+1153,Research & Development,108,18018.00
+1164,Research & Development,108,48510.00
+1169,Research & Development,108,18711.00
+1208,Research & Development,108,47553.00
+1213,Research & Development,108,22374.00
+1216,Research & Development,108,4818.00
+1218,Research & Development,108,19173.00
+1227,Research & Development,108,19305.00
+1234,Research & Development,108,26169.00
+1245,Research & Development,108,43296.00
+1249,Research & Development,108,34782.00
+1253,Research & Development,108,5973.00
+1259,Research & Development,108,19470.00
+1261,Research & Development,108,31449.00
+1263,Research & Development,108,26631.00
+1266,Research & Development,108,25575.00
+1280,Research & Development,108,14157.00
+1283,Research & Development,108,28611.00
+1284,Research & Development,108,38973.00
+1294,Research & Development,108,11319.00
+1306,Research & Development,108,14223.00
+1308,Research & Development,108,40161.00
+1312,Research & Development,108,47223.00
+1316,Research & Development,108,14190.00
+1321,Research & Development,108,11715.00
+1337,Research & Development,108,27588.00
+1340,Research & Development,108,12903.00
+1345,Research & Development,108,25839.00
+1350,Research & Development,108,15906.00
+1354,Research & Development,108,31911.00
+1368,Research & Development,108,44682.00
+1369,Research & Development,108,24255.00
+1371,Research & Development,108,38577.00
+1374,Research & Development,108,46002.00
+1376,Research & Development,108,7854.00
+1377,Research & Development,108,39798.00
+1382,Research & Development,108,36399.00
+1383,Research & Development,108,32208.00
+1390,Research & Development,108,37125.00
+1398,Research & Development,108,5115.00
+1405,Research & Development,108,11055.00
+1420,Research & Development,108,18381.00
+1421,Research & Development,108,21186.00
+143,Research & Development,108,12012.00
+144,Research & Development,108,14454.00
+243,Research & Development,108,46563.00
+244,Research & Development,108,42900.00
+247,Research & Development,108,27456.00
+249,Research & Development,108,33561.00
+253,Research & Development,108,21945.00
+254,Research & Development,108,30228.00
+259,Research & Development,108,27489.00
+273,Research & Development,108,38214.00
+275,Research & Development,108,32868.00
+286,Research & Development,108,45276.00
+290,Research & Development,108,36861.00
+292,Research & Development,108,16698.00
+295,Research & Development,108,29337.00
+523,Research & Development,108,40425.00
+541,Research & Development,108,21582.00
+548,Research & Development,108,30789.00
+554,Research & Development,108,26532.00
+560,Research & Development,108,8844.00
+563,Research & Development,108,17391.00
+566,Research & Development,108,10230.00
+571,Research & Development,108,23595.00
+575,Research & Development,108,6006.00
+578,Research & Development,108,18843.00
+580,Research & Development,108,3993.00
+595,Research & Development,108,41316.00
+597,Research & Development,108,41514.00
+599,Research & Development,108,29370.00
+728,Research & Development,108,9471.00
+732,Research & Development,108,36201.00
+865,Research & Development,108,29898.00
+876,Research & Development,108,6600.00
+882,Research & Development,108,43428.00
+884,Research & Development,108,3861.00
+887,Research & Development,108,48345.00
+890,Research & Development,108,36399.00
+892,Research & Development,108,36861.00
+893,Research & Development,108,16632.00
+1021,Research & Development,108,15345.00
+1024,Research & Development,108,41415.00
+1029,Research & Development,108,42339.00
+1170,Research & Development,108,16038.00
+1171,Research & Development,108,19503.00
+1180,Research & Development,108,37290.00
+1188,Research & Development,108,39237.00
+1191,Research & Development,108,32241.00
+1333,Research & Development,108,15147.00
+1335,Research & Development,108,37323.00
+1336,Research & Development,108,27555.00
+1424,Research & Development,108,19173.00
+1425,Research & Development,108,46035.00
+1430,Research & Development,108,3828.00
+1436,Research & Development,108,34221.00
+1443,Research & Development,108,36036.00
+1450,Research & Development,108,17457.00
+1456,Research & Development,108,43626.00
+1458,Research & Development,108,39402.00
+1459,Research & Development,108,9471.00
+1461,Research & Development,108,15444.00
+22,Sales,118,40194.00
+34,Sales,118,29535.00
+37,Sales,118,28677.00
+38,Sales,118,29370.00
+87,Sales,118,17853.00
+128,Sales,118,17424.00
+153,Sales,118,47388.00
+160,Sales,118,9999.00
+172,Sales,118,19866.00
+183,Sales,118,44748.00
+227,Sales,118,10527.00
+239,Sales,118,46233.00
+293,Sales,118,14652.00
+302,Sales,118,26796.00
+348,Sales,118,43197.00
+358,Sales,118,24948.00
+363,Sales,118,29535.00
+364,Sales,118,11550.00
+371,Sales,118,5148.00
+382,Sales,118,6666.00
+415,Sales,118,47784.00
+416,Sales,118,9768.00
+438,Sales,118,13629.00
+458,Sales,118,43098.00
+471,Sales,118,17655.00
+479,Sales,118,20526.00
+481,Sales,118,14784.00
+495,Sales,118,6732.00
+496,Sales,118,46860.00
+497,Sales,118,44319.00
+540,Sales,118,10428.00
+547,Sales,118,46068.00
+556,Sales,118,35970.00
+565,Sales,118,31482.00
+581,Sales,118,12672.00
+643,Sales,118,13035.00
+646,Sales,118,11253.00
+649,Sales,118,40623.00
+663,Sales,118,16500.00
+666,Sales,118,47982.00
+676,Sales,118,5082.00
+684,Sales,118,28611.00
+689,Sales,118,13827.00
+698,Sales,118,46332.00
+755,Sales,118,34254.00
+764,Sales,118,43989.00
+765,Sales,118,37752.00
+777,Sales,118,25377.00
+819,Sales,118,26169.00
+851,Sales,118,28446.00
+877,Sales,118,21582.00
+912,Sales,118,19767.00
+953,Sales,118,34980.00
+971,Sales,118,42603.00
+981,Sales,118,23199.00
+1013,Sales,118,22011.00
+1022,Sales,118,12639.00
+1057,Sales,118,49368.00
+1060,Sales,118,21780.00
+1062,Sales,118,27390.00
+1088,Sales,118,47520.00
+1101,Sales,118,46266.00
+1103,Sales,118,38181.00
+1154,Sales,118,17952.00
+1179,Sales,118,37653.00
+1198,Sales,118,23991.00
+1205,Sales,118,23364.00
+1214,Sales,118,14091.00
+1221,Sales,118,17490.00
+1250,Sales,118,14124.00
+1272,Sales,118,11121.00
+1309,Sales,118,23859.00
+1329,Sales,118,24024.00
+1338,Sales,118,38676.00
+1339,Sales,118,31185.00
+1366,Sales,118,24618.00
+1392,Sales,118,46332.00
+1418,Sales,118,38082.00
+1429,Sales,118,7722.00
+1435,Sales,118,19305.00
+1437,Sales,118,16533.00
+1439,Sales,118,21054.00
+1465,Sales,118,38511.00
+80,Human Resources,122,31185.00
+101,Human Resources,122,26631.00
+135,Human Resources,122,44715.00
+140,Human Resources,122,40920.00
+233,Human Resources,122,26994.00
+311,Human Resources,122,3498.00
+351,Human Resources,122,17952.00
+423,Human Resources,122,16137.00
+441,Human Resources,122,32604.00
+454,Human Resources,122,14058.00
+494,Human Resources,122,36696.00
+511,Human Resources,122,13101.00
+552,Human Resources,122,4653.00
+600,Human Resources,122,34353.00
+614,Human Resources,122,27357.00
+630,Human Resources,122,38577.00
+634,Human Resources,122,42174.00
+655,Human Resources,122,45639.00
+656,Human Resources,122,35475.00
+760,Human Resources,122,26004.00
+790,Human Resources,122,45408.00
+827,Human Resources,122,14289.00
+836,Human Resources,122,17424.00
+864,Human Resources,122,4851.00
+879,Human Resources,122,5907.00
+924,Human Resources,122,21384.00
+944,Human Resources,122,32703.00
+1006,Human Resources,122,10956.00
+1036,Human Resources,122,46134.00
+1040,Human Resources,122,36531.00
+1065,Human Resources,122,10890.00
+1108,Human Resources,122,29304.00
+1166,Human Resources,122,19866.00
+1201,Human Resources,122,17424.00
+1223,Human Resources,122,7920.00
+1229,Human Resources,122,18216.00
+1244,Human Resources,122,5808.00
+1246,Human Resources,122,29601.00
+1247,Human Resources,122,19800.00
+1270,Human Resources,122,8052.00
+1281,Human Resources,122,40887.00
+1290,Human Resources,122,44088.00
+1298,Human Resources,122,30360.00
+1313,Human Resources,122,11847.00
+1314,Human Resources,122,11550.00
+1324,Human Resources,122,9240.00
+1330,Human Resources,122,11616.00
+1348,Human Resources,122,40029.00
+1380,Human Resources,122,44121.00
+1401,Human Resources,122,47652.00
+1412,Human Resources,122,10197.00
+1451,Human Resources,122,37818.00
+1,Sales,119,36366.00
+28,Sales,119,22803.00
+40,Sales,119,37653.00
+44,Sales,119,32802.00
+47,Sales,119,35145.00
+49,Sales,119,39963.00
+53,Sales,119,49104.00
+55,Sales,119,47619.00
+57,Sales,119,28149.00
+64,Sales,119,47355.00
+71,Sales,119,40425.00
+77,Sales,119,25608.00
+83,Sales,119,3663.00
+90,Sales,119,22077.00
+92,Sales,119,20856.00
+93,Sales,119,44022.00
+95,Sales,119,36069.00
+97,Sales,119,44649.00
+98,Sales,119,3960.00
+99,Sales,119,22506.00
+108,Sales,119,7920.00
+116,Sales,119,39237.00
+118,Sales,119,48411.00
+122,Sales,119,24750.00
+125,Sales,119,8217.00
+132,Sales,119,26697.00
+133,Sales,119,17886.00
+134,Sales,119,26466.00
+152,Sales,119,21846.00
+155,Sales,119,31911.00
+159,Sales,119,20790.00
+168,Sales,119,44187.00
+169,Sales,119,23166.00
+175,Sales,119,41844.00
+179,Sales,119,17358.00
+206,Sales,119,3993.00
+211,Sales,119,34485.00
+213,Sales,119,40986.00
+217,Sales,119,11022.00
+219,Sales,119,34716.00
+220,Sales,119,37851.00
+224,Sales,119,3927.00
+228,Sales,119,46629.00
+229,Sales,119,31152.00
+242,Sales,119,32208.00
+304,Sales,119,7194.00
+307,Sales,119,29898.00
+320,Sales,119,19404.00
+321,Sales,119,45441.00
+322,Sales,119,22803.00
+328,Sales,119,38346.00
+329,Sales,119,16764.00
+332,Sales,119,6930.00
+336,Sales,119,37092.00
+339,Sales,119,18810.00
+340,Sales,119,37290.00
+344,Sales,119,4752.00
+350,Sales,119,24618.00
+355,Sales,119,21153.00
+356,Sales,119,30789.00
+359,Sales,119,27885.00
+360,Sales,119,17853.00
+367,Sales,119,4719.00
+369,Sales,119,18975.00
+375,Sales,119,10032.00
+451,Sales,119,27324.00
+453,Sales,119,18513.00
+459,Sales,119,36102.00
+461,Sales,119,25575.00
+462,Sales,119,6435.00
+463,Sales,119,8514.00
+468,Sales,119,4686.00
+470,Sales,119,48642.00
+476,Sales,119,23199.00
+483,Sales,119,45045.00
+485,Sales,119,17325.00
+487,Sales,119,18414.00
+500,Sales,119,40128.00
+503,Sales,119,7854.00
+505,Sales,119,10098.00
+608,Sales,119,39072.00
+609,Sales,119,14388.00
+613,Sales,119,25080.00
+620,Sales,119,19338.00
+622,Sales,119,30624.00
+623,Sales,119,3861.00
+625,Sales,119,21813.00
+626,Sales,119,30690.00
+629,Sales,119,11286.00
+635,Sales,119,4653.00
+639,Sales,119,19239.00
+642,Sales,119,12507.00
+647,Sales,119,28644.00
+652,Sales,119,8217.00
+653,Sales,119,41316.00
+660,Sales,119,27093.00
+673,Sales,119,15246.00
+680,Sales,119,39204.00
+685,Sales,119,21714.00
+686,Sales,119,42339.00
+694,Sales,119,17490.00
+696,Sales,119,20625.00
+699,Sales,119,40227.00
+703,Sales,119,7623.00
+748,Sales,119,34155.00
+749,Sales,119,8745.00
+751,Sales,119,47784.00
+752,Sales,119,4785.00
+758,Sales,119,7128.00
+761,Sales,119,4092.00
+769,Sales,119,9900.00
+772,Sales,119,35706.00
+776,Sales,119,13695.00
+792,Sales,119,39732.00
+796,Sales,119,10197.00
+802,Sales,119,31647.00
+803,Sales,119,32010.00
+806,Sales,119,34650.00
+808,Sales,119,25410.00
+812,Sales,119,4290.00
+821,Sales,119,39006.00
+822,Sales,119,5742.00
+830,Sales,119,19899.00
+835,Sales,119,46200.00
+837,Sales,119,13464.00
+839,Sales,119,15873.00
+845,Sales,119,28116.00
+850,Sales,119,45276.00
+866,Sales,119,43857.00
+867,Sales,119,39072.00
+871,Sales,119,44913.00
+873,Sales,119,37818.00
+880,Sales,119,22968.00
+898,Sales,119,10758.00
+909,Sales,119,17688.00
+918,Sales,119,4323.00
+927,Sales,119,17523.00
+936,Sales,119,19932.00
+947,Sales,119,9867.00
+948,Sales,119,33990.00
+951,Sales,119,19371.00
+952,Sales,119,8448.00
+961,Sales,119,33594.00
+964,Sales,119,33297.00
+965,Sales,119,16731.00
+969,Sales,119,20031.00
+975,Sales,119,26169.00
+976,Sales,119,8811.00
+982,Sales,119,21846.00
+985,Sales,119,24288.00
+987,Sales,119,49434.00
+988,Sales,119,17853.00
+138,Sales,119,43857.00
+139,Sales,119,31647.00
+145,Sales,119,22737.00
+255,Sales,119,41151.00
+262,Sales,119,43791.00
+266,Sales,119,39930.00
+274,Sales,119,7524.00
+278,Sales,119,10626.00
+282,Sales,119,20955.00
+283,Sales,119,14586.00
+294,Sales,119,31350.00
+296,Sales,119,18315.00
+298,Sales,119,40656.00
+377,Sales,119,38874.00
+379,Sales,119,44946.00
+381,Sales,119,45243.00
+385,Sales,119,5412.00
+388,Sales,119,25047.00
+394,Sales,119,45573.00
+398,Sales,119,29403.00
+402,Sales,119,29898.00
+403,Sales,119,35706.00
+404,Sales,119,21285.00
+424,Sales,119,46134.00
+428,Sales,119,49467.00
+434,Sales,119,37125.00
+443,Sales,119,20955.00
+445,Sales,119,5379.00
+447,Sales,119,8811.00
+448,Sales,119,20427.00
+508,Sales,119,38808.00
+518,Sales,119,26730.00
+519,Sales,119,8019.00
+521,Sales,119,26961.00
+522,Sales,119,46530.00
+526,Sales,119,22869.00
+528,Sales,119,30657.00
+529,Sales,119,18546.00
+533,Sales,119,23199.00
+534,Sales,119,19140.00
+537,Sales,119,38907.00
+545,Sales,119,7161.00
+546,Sales,119,16533.00
+549,Sales,119,25575.00
+564,Sales,119,29139.00
+567,Sales,119,23727.00
+568,Sales,119,10032.00
+570,Sales,119,47322.00
+574,Sales,119,37818.00
+577,Sales,119,27357.00
+584,Sales,119,36663.00
+592,Sales,119,3894.00
+704,Sales,119,5016.00
+705,Sales,119,29106.00
+706,Sales,119,29799.00
+707,Sales,119,48807.00
+1197,Sales,119,39798.00
+1199,Sales,119,17490.00
+1212,Sales,119,42174.00
+1217,Sales,119,38907.00
+1219,Sales,119,30294.00
+1224,Sales,119,36069.00
+1235,Sales,119,17919.00
+1236,Sales,119,42141.00
+1237,Sales,119,48048.00
+1238,Sales,119,31812.00
+1242,Sales,119,12243.00
+1248,Sales,119,33099.00
+1252,Sales,119,32307.00
+1254,Sales,119,42339.00
+709,Sales,119,40557.00
+720,Sales,119,31515.00
+840,Sales,119,21351.00
+885,Sales,119,3531.00
+886,Sales,119,44748.00
+889,Sales,119,39996.00
+991,Sales,119,36663.00
+992,Sales,119,16467.00
+994,Sales,119,45276.00
+997,Sales,119,6765.00
+1012,Sales,119,38742.00
+1014,Sales,119,28215.00
+1020,Sales,119,10857.00
+1026,Sales,119,48708.00
+1027,Sales,119,19833.00
+1031,Sales,119,10758.00
+1032,Sales,119,12441.00
+1039,Sales,119,40293.00
+1042,Sales,119,28578.00
+1125,Sales,119,48246.00
+1133,Sales,119,3894.00
+1144,Sales,119,11088.00
+1145,Sales,119,23595.00
+1163,Sales,119,24321.00
+1168,Sales,119,25179.00
+1173,Sales,119,15477.00
+1187,Sales,119,29040.00
+1189,Sales,119,32703.00
+1190,Sales,119,12936.00
+1192,Sales,119,36696.00
+1255,Sales,119,43329.00
+1256,Sales,119,6963.00
+1258,Sales,119,35607.00
+1268,Sales,119,45375.00
+1271,Sales,119,16863.00
+1275,Sales,119,6468.00
+1277,Sales,119,19437.00
+1282,Sales,119,9999.00
+1286,Sales,119,28017.00
+1293,Sales,119,25278.00
+1296,Sales,119,26268.00
+1301,Sales,119,26730.00
+1307,Sales,119,37125.00
+1310,Sales,119,18876.00
+1315,Sales,119,19437.00
+1317,Sales,119,46926.00
+1320,Sales,119,43494.00
+1327,Sales,119,13662.00
+1328,Sales,119,43527.00
+1334,Sales,119,41382.00
+1434,Sales,119,45606.00
+1440,Sales,119,18381.00
+1447,Sales,119,23232.00
+1448,Sales,119,9933.00
+1048,Sales,119,14190.00
+1049,Sales,119,43758.00
+1050,Sales,119,44814.00
+1052,Sales,119,12639.00
+1058,Sales,119,3795.00
+1059,Sales,119,26070.00
+1064,Sales,119,41118.00
+1068,Sales,119,18843.00
+1071,Sales,119,15411.00
+1085,Sales,119,32043.00
+1095,Sales,119,44286.00
+1104,Sales,119,16236.00
+1106,Sales,119,40986.00
+1107,Sales,119,24420.00
+1110,Sales,119,42504.00
+1120,Sales,119,41085.00
+1121,Sales,119,14421.00
+1122,Sales,119,29172.00
+1449,Sales,119,30690.00
+1452,Sales,119,11385.00
+1453,Sales,119,28974.00
+1454,Sales,119,36960.00
+1455,Sales,119,12342.00
+1462,Sales,119,13530.00
+1463,Sales,119,23826.00
+1469,Sales,119,33759.00
+1341,Sales,119,41778.00
+1343,Sales,119,48840.00
+1351,Sales,119,16863.00
+1356,Sales,119,11055.00
+1357,Sales,119,11121.00
+1359,Sales,119,35607.00
+1360,Sales,119,24255.00
+1364,Sales,119,7161.00
+1365,Sales,119,25839.00
+1367,Sales,119,41283.00
+1370,Sales,119,48675.00
+1372,Sales,119,47619.00
+1379,Sales,119,13827.00
+1381,Sales,119,22506.00
+1385,Sales,119,30921.00
+1386,Sales,119,40887.00
+1393,Sales,119,40392.00
+1394,Sales,119,31482.00
+1396,Sales,119,24882.00
+1397,Sales,119,38544.00
+1404,Sales,119,3927.00
+1411,Sales,119,14652.00
+1417,Sales,119,43593.00
+1432,Sales,119,26433.00

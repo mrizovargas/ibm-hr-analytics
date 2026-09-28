@@ -1,0 +1,1058 @@
+"employee_number","department","job_role","monthly_income"
+1483,Finance,Financial Analyst,337527.00
+1987,Finance,CFO,292229.00
+2683,IT,Data Engineer,285544.00
+1494,IT,Software Developer,282645.00
+2774,Finance,Tax Specialist,277344.00
+2559,IT,Software Developer,275733.00
+2840,IT,Software Developer,275545.00
+1683,Finance,CFO,271463.00
+1876,IT,IT Manager,266603.00
+1909,Finance,CFO,266393.00
+2976,Operations,Operations Analyst,265589.00
+2558,IT,Data Engineer,265464.00
+2689,Operations,Logistics,264642.00
+1515,Operations,Operations Manager,264517.00
+2298,IT,System Admin,263634.00
+2469,Finance,Accountant,262362.00
+2900,IT,IT Manager,260740.00
+1713,IT,IT Manager,260102.00
+2202,Operations,Operations Analyst,259898.00
+2660,Operations,Supply Chain,259624.00
+2704,IT,IT Manager,259428.00
+2135,Operations,Operations Manager,258552.00
+2993,Finance,Tax Specialist,257128.00
+2232,Finance,Finance Manager,255125.00
+1812,IT,IT Manager,255033.00
+2596,IT,Data Engineer,253986.00
+2057,Operations,Operations Analyst,253212.00
+1797,Finance,CFO,252798.00
+1493,Finance,Tax Specialist,252703.00
+2244,IT,Data Engineer,251625.00
+2896,IT,IT Manager,251588.00
+2481,Finance,Finance Manager,250438.00
+1610,IT,Data Engineer,240149.00
+2329,Operations,Operations Director,238718.00
+1919,Operations,Operations Director,238465.00
+1603,IT,IT Manager,237091.00
+1956,Operations,Operations Manager,236709.00
+2014,IT,DevOps Engineer,234689.00
+2115,Operations,Operations Director,233372.00
+2009,IT,System Admin,232262.00
+1568,IT,DevOps Engineer,231826.00
+2104,Finance,Finance Manager,231330.00
+1780,IT,Software Developer,229477.00
+1699,Operations,Operations Director,225897.00
+2262,Operations,Supply Chain,220466.00
+1475,Operations,Operations Director,219477.00
+1856,Operations,Operations Analyst,217745.00
+2066,Operations,Operations Analyst,211620.00
+2544,Operations,Supply Chain,211590.00
+2946,Finance,Tax Specialist,209634.00
+1998,Operations,Supply Chain,202462.00
+1615,Operations,Operations Manager,196276.00
+2688,IT,Data Engineer,195801.00
+1474,Finance,CFO,193877.00
+1540,Finance,CFO,193604.00
+2640,IT,Data Engineer,191895.00
+2664,IT,Data Engineer,191829.00
+2619,Operations,Logistics,190606.00
+1788,Operations,Operations Analyst,190030.00
+2381,IT,IT Manager,188258.00
+1594,IT,DevOps Engineer,187726.00
+2301,IT,DevOps Engineer,187679.00
+1611,Finance,Finance Manager,185546.00
+2450,Finance,Financial Analyst,184553.00
+2775,IT,Data Engineer,183850.00
+2665,Finance,CFO,183291.00
+2681,IT,IT Manager,182719.00
+1621,IT,Data Engineer,182677.00
+2593,IT,Software Developer,182582.00
+2016,IT,Data Engineer,182142.00
+2795,IT,Software Developer,181915.00
+1903,Operations,Logistics,181704.00
+2081,Finance,Finance Manager,181430.00
+1696,IT,Data Engineer,180541.00
+2414,IT,Data Engineer,180006.00
+1685,Finance,CFO,179645.00
+1781,IT,Software Developer,179306.00
+2007,Finance,CFO,179122.00
+2127,IT,Software Developer,178889.00
+1712,Finance,Financial Analyst,178770.00
+1861,Operations,Operations Director,178211.00
+2213,Finance,CFO,178052.00
+2451,IT,Software Developer,177834.00
+1631,IT,DevOps Engineer,177802.00
+2377,IT,System Admin,177615.00
+2726,IT,DevOps Engineer,177589.00
+1681,IT,DevOps Engineer,175930.00
+1818,Finance,CFO,175898.00
+2132,IT,IT Manager,175219.00
+1652,IT,DevOps Engineer,174990.00
+1575,IT,Software Developer,174830.00
+1902,IT,Data Engineer,174830.00
+2685,IT,System Admin,174589.00
+2910,Finance,Tax Specialist,174574.00
+2570,IT,DevOps Engineer,174504.00
+2933,IT,IT Manager,174267.00
+2778,Finance,Accountant,174192.00
+1489,Finance,Finance Manager,173797.00
+1966,IT,Software Developer,173662.00
+2529,Finance,Accountant,172857.00
+1853,IT,Software Developer,172691.00
+2313,IT,DevOps Engineer,172597.00
+1573,Operations,Operations Analyst,172394.00
+2762,Operations,Operations Manager,172212.00
+2807,Operations,Operations Analyst,171736.00
+2459,Finance,CFO,171600.00
+2258,Finance,Finance Manager,170816.00
+2636,Finance,CFO,170495.00
+1773,IT,System Admin,170281.00
+2687,IT,DevOps Engineer,170259.00
+2005,IT,DevOps Engineer,170194.00
+2237,IT,Software Developer,170047.00
+2306,Finance,Finance Manager,169921.00
+2848,IT,Data Engineer,169826.00
+2486,IT,System Admin,169774.00
+2443,IT,Software Developer,169622.00
+2460,IT,System Admin,169605.00
+2227,IT,System Admin,169156.00
+2075,Operations,Operations Analyst,169116.00
+2948,Operations,Logistics,168601.00
+2341,Operations,Operations Manager,168338.00
+2537,IT,IT Manager,168324.00
+1715,IT,System Admin,167959.00
+1545,IT,Data Engineer,167725.00
+2457,Finance,Finance Manager,167547.00
+2936,Operations,Logistics,167372.00
+2832,IT,DevOps Engineer,167242.00
+2954,IT,DevOps Engineer,167091.00
+2491,IT,Data Engineer,167080.00
+2554,IT,System Admin,167002.00
+2957,IT,IT Manager,166871.00
+1746,Operations,Operations Analyst,166688.00
+1678,IT,IT Manager,166316.00
+1559,Operations,Operations Director,166145.00
+1617,Operations,Operations Manager,166065.00
+1907,Operations,Operations Manager,166014.00
+2282,Finance,Accountant,165984.00
+2652,Operations,Logistics,165795.00
+2369,IT,System Admin,165740.00
+2666,Finance,Finance Manager,165731.00
+2398,IT,DevOps Engineer,165718.00
+2580,Finance,Accountant,165600.00
+2844,Finance,Accountant,165486.00
+2494,IT,IT Manager,165303.00
+2317,IT,Software Developer,165248.00
+2114,IT,IT Manager,164928.00
+2730,Operations,Logistics,164903.00
+2791,IT,Data Engineer,164887.00
+1676,Finance,Accountant,164813.00
+1702,Operations,Operations Analyst,164721.00
+2603,Operations,Operations Analyst,164238.00
+2276,Operations,Operations Analyst,163978.00
+2552,IT,DevOps Engineer,163320.00
+1687,Operations,Operations Analyst,163254.00
+2256,Finance,Tax Specialist,163241.00
+1686,Operations,Operations Analyst,163161.00
+2851,IT,DevOps Engineer,163033.00
+2964,IT,DevOps Engineer,163031.00
+1834,Operations,Operations Analyst,163023.00
+2321,Operations,Operations Analyst,162374.00
+2141,Operations,Supply Chain,162132.00
+2024,Operations,Operations Director,162104.00
+2892,Finance,Finance Manager,162091.00
+2085,Operations,Operations Manager,161911.00
+2785,Finance,Accountant,161823.00
+2557,Operations,Logistics,161638.00
+2711,Finance,CFO,161591.00
+1918,IT,Data Engineer,161311.00
+1484,Operations,Logistics,161295.00
+1937,IT,Software Developer,160899.00
+2466,Operations,Operations Manager,160844.00
+1887,Operations,Operations Director,160239.00
+1908,IT,DevOps Engineer,159838.00
+2677,Operations,Operations Analyst,159482.00
+1532,IT,System Admin,158996.00
+2738,Operations,Operations Analyst,158788.00
+2153,Finance,Accountant,158510.00
+1553,Operations,Operations Manager,158181.00
+2719,IT,System Admin,158136.00
+1742,Finance,Financial Analyst,157759.00
+2897,Finance,Accountant,157384.00
+2626,IT,Software Developer,157363.00
+1735,Finance,Financial Analyst,157294.00
+2813,IT,Data Engineer,157038.00
+2823,IT,System Admin,156876.00
+2887,IT,System Admin,156767.00
+2793,Operations,Operations Manager,156435.00
+1884,Finance,Tax Specialist,156361.00
+2720,Finance,CFO,156344.00
+1498,Finance,Tax Specialist,156273.00
+2816,IT,System Admin,156170.00
+2097,IT,Data Engineer,155540.00
+2062,IT,IT Manager,155421.00
+2383,Finance,Financial Analyst,155370.00
+2458,IT,DevOps Engineer,155050.00
+1970,IT,Software Developer,154851.00
+2827,Finance,Financial Analyst,154782.00
+2510,Finance,Finance Manager,154752.00
+2408,Operations,Supply Chain,154746.00
+1760,IT,DevOps Engineer,154574.00
+2959,Operations,Operations Analyst,154477.00
+2511,Finance,Financial Analyst,154347.00
+2092,Finance,Accountant,154279.00
+1665,Operations,Logistics,154196.00
+2980,IT,IT Manager,154071.00
+1558,Operations,Operations Director,153954.00
+2766,IT,Data Engineer,153924.00
+2406,IT,Data Engineer,153486.00
+2287,Operations,Operations Director,153297.00
+2992,IT,Data Engineer,153217.00
+2880,Operations,Supply Chain,153040.00
+2382,IT,DevOps Engineer,152904.00
+2883,IT,Software Developer,152706.00
+1583,Operations,Supply Chain,152682.00
+2151,Finance,CFO,152429.00
+2375,Operations,Logistics,152058.00
+1657,IT,IT Manager,151819.00
+2744,IT,DevOps Engineer,151085.00
+1726,IT,System Admin,150780.00
+1487,Operations,Operations Manager,150701.00
+2059,IT,System Admin,150669.00
+2649,IT,Data Engineer,150624.00
+1792,IT,DevOps Engineer,150516.00
+1862,IT,DevOps Engineer,150423.00
+2753,Operations,Logistics,150350.00
+2833,Finance,CFO,149888.00
+2113,IT,System Admin,149855.00
+2150,Finance,Accountant,149411.00
+2613,IT,Software Developer,149331.00
+2986,Finance,CFO,149227.00
+2017,IT,DevOps Engineer,148999.00
+1994,IT,Software Developer,148324.00
+2335,Operations,Operations Analyst,148233.00
+2395,IT,DevOps Engineer,148113.00
+2323,IT,Data Engineer,148100.00
+2273,IT,System Admin,147682.00
+1857,IT,DevOps Engineer,147634.00
+2303,Finance,Financial Analyst,147584.00
+2206,Operations,Operations Director,147418.00
+2682,Operations,Logistics,147415.00
+1927,Finance,Accountant,147208.00
+2044,Operations,Operations Director,147108.00
+2484,Operations,Operations Analyst,146720.00
+1632,Operations,Operations Director,146231.00
+1478,IT,IT Manager,146175.00
+2219,Finance,Tax Specialist,146097.00
+2159,Finance,Finance Manager,146033.00
+2049,Operations,Operations Manager,145998.00
+2581,IT,DevOps Engineer,145961.00
+1771,IT,System Admin,145671.00
+2835,IT,IT Manager,145647.00
+2332,Operations,Operations Manager,145380.00
+2885,Operations,Operations Director,145317.00
+2875,IT,IT Manager,145160.00
+2635,IT,Data Engineer,145137.00
+2826,Operations,Supply Chain,144823.00
+2376,Operations,Operations Manager,144724.00
+1815,Operations,Operations Manager,144234.00
+2216,IT,IT Manager,144021.00
+1984,IT,Software Developer,143915.00
+2549,Operations,Logistics,143817.00
+1795,IT,IT Manager,143727.00
+2584,IT,System Admin,143595.00
+1777,IT,System Admin,143160.00
+2243,Finance,CFO,142848.00
+1913,Finance,CFO,142675.00
+2822,Finance,Finance Manager,142484.00
+1828,IT,IT Manager,142408.00
+1674,Finance,Accountant,142245.00
+1590,IT,System Admin,141879.00
+2805,IT,Software Developer,141869.00
+2006,Operations,Operations Manager,141851.00
+2482,Operations,Supply Chain,141773.00
+1768,Operations,Operations Director,141706.00
+1619,Operations,Operations Analyst,141215.00
+2901,IT,DevOps Engineer,141149.00
+1754,Finance,Tax Specialist,141042.00
+2352,Operations,Operations Analyst,140990.00
+2847,IT,Software Developer,140752.00
+2796,IT,Data Engineer,140477.00
+1986,Operations,Operations Director,140045.00
+2042,IT,System Admin,139940.00
+2942,Finance,Financial Analyst,139854.00
+1648,Operations,Operations Director,139835.00
+1641,IT,DevOps Engineer,139213.00
+2914,IT,System Admin,138903.00
+2449,Operations,Supply Chain,138609.00
+2702,Operations,Operations Manager,138377.00
+2038,Operations,Operations Analyst,138207.00
+1770,Finance,Finance Manager,137920.00
+2597,Operations,Operations Analyst,137759.00
+2591,Operations,Operations Manager,137236.00
+2444,Operations,Operations Analyst,137156.00
+2916,Operations,Supply Chain,137006.00
+1983,Finance,Finance Manager,136825.00
+2297,Operations,Operations Manager,136794.00
+2862,IT,IT Manager,136310.00
+2674,Finance,Accountant,136096.00
+2428,Operations,Operations Director,135125.00
+2918,Operations,Operations Director,133700.00
+1823,Operations,Operations Manager,133601.00
+2176,Operations,Operations Director,133415.00
+2825,Operations,Supply Chain,133274.00
+2564,Operations,Supply Chain,132883.00
+2309,IT,System Admin,132739.00
+2255,IT,DevOps Engineer,132709.00
+2743,IT,DevOps Engineer,132338.00
+1599,Operations,Operations Manager,131742.00
+2076,Operations,Operations Analyst,131523.00
+1951,Operations,Logistics,130721.00
+1520,Operations,Operations Manager,130620.00
+1504,IT,System Admin,130386.00
+2441,Operations,Operations Manager,130241.00
+2483,IT,Data Engineer,130035.00
+1645,IT,Data Engineer,129673.00
+2971,Operations,Operations Director,129309.00
+1844,Operations,Operations Director,129277.00
+2004,Operations,Logistics,129079.00
+1883,Operations,Supply Chain,128767.00
+2143,Finance,CFO,128727.00
+1605,IT,Data Engineer,128421.00
+1977,Operations,Logistics,128405.00
+1784,IT,DevOps Engineer,128288.00
+2628,Operations,Operations Manager,127735.00
+2995,Operations,Logistics,127319.00
+1935,Operations,Operations Director,127296.00
+2403,Operations,Supply Chain,127211.00
+2003,Operations,Operations Analyst,127154.00
+1606,Operations,Operations Analyst,126190.00
+2284,IT,System Admin,126022.00
+2465,Operations,Operations Analyst,125380.00
+1769,Operations,Logistics,124858.00
+1591,Operations,Supply Chain,124857.00
+2253,Operations,Operations Analyst,124537.00
+1557,Operations,Operations Analyst,124522.00
+2129,Operations,Supply Chain,123780.00
+1658,Operations,Operations Manager,123427.00
+1563,Operations,Operations Director,122655.00
+1962,Operations,Operations Director,122155.00
+2566,IT,System Admin,119463.00
+1758,IT,Data Engineer,119210.00
+2876,Operations,Logistics,119013.00
+1798,IT,System Admin,118866.00
+1513,IT,System Admin,118852.00
+1752,Finance,Financial Analyst,117758.00
+2370,IT,Data Engineer,117096.00
+2653,Finance,Finance Manager,117031.00
+2657,IT,Software Developer,116990.00
+1833,IT,Data Engineer,116868.00
+2197,IT,DevOps Engineer,116752.00
+1896,IT,Software Developer,116613.00
+1875,IT,Data Engineer,116262.00
+2634,IT,IT Manager,116050.00
+2288,Finance,Financial Analyst,116039.00
+2252,IT,System Admin,115781.00
+2161,IT,Data Engineer,115591.00
+1527,IT,IT Manager,115311.00
+2325,IT,Software Developer,115229.00
+2811,IT,Data Engineer,115189.00
+1952,IT,System Admin,114811.00
+2464,Operations,Operations Director,114788.00
+1639,IT,Data Engineer,114706.00
+2315,IT,Data Engineer,114554.00
+1602,IT,Data Engineer,114494.00
+2031,Finance,Tax Specialist,114119.00
+2888,Finance,CFO,114086.00
+1656,IT,DevOps Engineer,114029.00
+2477,IT,IT Manager,113934.00
+2305,IT,Software Developer,113745.00
+1717,IT,DevOps Engineer,113622.00
+2412,Finance,CFO,113496.00
+2385,IT,DevOps Engineer,113427.00
+2629,IT,DevOps Engineer,112916.00
+1991,IT,IT Manager,112897.00
+2185,IT,Software Developer,112692.00
+2931,IT,Software Developer,112476.00
+2264,IT,DevOps Engineer,112451.00
+2200,IT,IT Manager,112433.00
+2699,IT,Software Developer,112224.00
+1978,IT,Data Engineer,112170.00
+1772,Finance,Financial Analyst,111860.00
+2203,IT,IT Manager,111420.00
+2752,Finance,Tax Specialist,111295.00
+2186,IT,IT Manager,111173.00
+1597,Finance,Finance Manager,111117.00
+1762,IT,IT Manager,111067.00
+2717,IT,DevOps Engineer,111018.00
+2349,IT,System Admin,110908.00
+2218,IT,System Admin,110734.00
+2047,Finance,Accountant,110696.00
+2367,IT,DevOps Engineer,110559.00
+2988,Finance,Tax Specialist,110546.00
+1880,IT,Software Developer,110293.00
+2480,IT,DevOps Engineer,110272.00
+2648,Finance,Finance Manager,110106.00
+2331,IT,System Admin,110088.00
+2521,Finance,Finance Manager,110072.00
+1936,Finance,Finance Manager,109917.00
+1741,Finance,Finance Manager,109898.00
+2968,IT,Data Engineer,109871.00
+2927,Operations,Operations Analyst,109794.00
+2667,IT,System Admin,109780.00
+1490,Finance,Accountant,109767.00
+1496,IT,Data Engineer,109640.00
+2041,IT,IT Manager,109439.00
+2289,IT,Data Engineer,109393.00
+2902,IT,Data Engineer,109279.00
+1566,IT,Data Engineer,109255.00
+2462,IT,Data Engineer,109132.00
+1551,IT,IT Manager,109070.00
+2239,Finance,Tax Specialist,109016.00
+1786,IT,DevOps Engineer,108896.00
+2623,IT,Software Developer,108790.00
+1707,IT,System Admin,108609.00
+1638,Finance,CFO,108589.00
+1850,IT,System Admin,108491.00
+2454,IT,Data Engineer,108328.00
+2147,IT,DevOps Engineer,108309.00
+2246,IT,IT Manager,108144.00
+2392,IT,System Admin,107827.00
+2790,Finance,Tax Specialist,107809.00
+2171,IT,Software Developer,107565.00
+2647,IT,System Admin,107539.00
+2228,IT,IT Manager,107530.00
+2620,Finance,Finance Manager,107383.00
+2437,IT,System Admin,107341.00
+2644,IT,Data Engineer,107332.00
+1509,IT,IT Manager,107324.00
+2357,IT,Data Engineer,107149.00
+1820,Finance,Financial Analyst,107147.00
+1650,Finance,Accountant,107045.00
+2211,IT,Software Developer,106999.00
+2624,IT,DevOps Engineer,106918.00
+2286,Finance,Finance Manager,106845.00
+2048,Finance,Financial Analyst,106811.00
+2019,Finance,Tax Specialist,106704.00
+1897,Finance,Accountant,106649.00
+1953,Finance,Accountant,106552.00
+2064,IT,IT Manager,106542.00
+2254,Finance,Tax Specialist,106516.00
+1776,IT,IT Manager,106462.00
+1670,IT,DevOps Engineer,106327.00
+2935,IT,IT Manager,106234.00
+1993,IT,IT Manager,106181.00
+2595,IT,Data Engineer,106179.00
+2166,IT,IT Manager,106115.00
+2111,IT,IT Manager,106088.00
+1523,IT,IT Manager,106058.00
+2124,IT,Data Engineer,106038.00
+2642,IT,IT Manager,106000.00
+2694,IT,Data Engineer,105982.00
+2426,IT,Data Engineer,105946.00
+1660,IT,DevOps Engineer,105916.00
+2567,IT,System Admin,105914.00
+2106,IT,DevOps Engineer,105895.00
+2810,IT,System Admin,105867.00
+2706,IT,System Admin,105846.00
+2722,IT,IT Manager,105781.00
+1587,IT,Data Engineer,105669.00
+2250,Finance,Tax Specialist,105494.00
+1783,Finance,Financial Analyst,105431.00
+2573,IT,Data Engineer,105424.00
+2861,IT,System Admin,105277.00
+2474,IT,Data Engineer,105241.00
+1499,IT,DevOps Engineer,105142.00
+2784,Operations,Operations Director,105041.00
+2736,Operations,Supply Chain,105011.00
+2871,IT,Data Engineer,104971.00
+1965,Finance,Finance Manager,104969.00
+1958,IT,DevOps Engineer,104692.00
+2067,Finance,Financial Analyst,104663.00
+1901,IT,Software Developer,104651.00
+2670,Finance,CFO,104638.00
+2251,Finance,Financial Analyst,104604.00
+1955,Finance,Financial Analyst,104599.00
+1942,Operations,Operations Manager,104512.00
+2032,IT,DevOps Engineer,104505.00
+1789,Finance,Tax Specialist,104451.00
+2347,Finance,Tax Specialist,104392.00
+1503,Finance,Accountant,104387.00
+2326,IT,System Admin,104250.00
+2136,Finance,Finance Manager,104234.00
+2622,IT,Data Engineer,104230.00
+2929,IT,IT Manager,104124.00
+2707,Finance,Finance Manager,104028.00
+1874,IT,Software Developer,103844.00
+1481,Operations,Supply Chain,103815.00
+2296,IT,Software Developer,103774.00
+1643,IT,DevOps Engineer,103280.00
+2069,Finance,Financial Analyst,103251.00
+1782,Finance,Tax Specialist,103141.00
+2838,IT,Data Engineer,103087.00
+1920,IT,IT Manager,103039.00
+2732,Operations,Supply Chain,103027.00
+2245,Operations,Supply Chain,102967.00
+2359,Finance,Financial Analyst,102933.00
+1767,Operations,Operations Analyst,102715.00
+1669,Finance,Tax Specialist,102689.00
+2842,IT,IT Manager,102623.00
+1947,IT,System Admin,102613.00
+1871,Finance,CFO,102568.00
+2508,Finance,Tax Specialist,102564.00
+2122,Operations,Logistics,102492.00
+1950,IT,DevOps Engineer,102377.00
+2571,Finance,Tax Specialist,102371.00
+1787,IT,DevOps Engineer,102296.00
+2021,IT,IT Manager,102242.00
+2077,IT,Data Engineer,102069.00
+2012,Finance,Finance Manager,102067.00
+2330,IT,System Admin,102031.00
+1926,Finance,Finance Manager,102001.00
+2324,Operations,Operations Director,101906.00
+1932,Finance,Accountant,101893.00
+2562,IT,Software Developer,101845.00
+2855,Finance,Financial Analyst,101765.00
+1963,IT,DevOps Engineer,101682.00
+2723,Finance,Finance Manager,101604.00
+1535,IT,IT Manager,101404.00
+2035,Operations,Operations Analyst,101398.00
+1852,IT,Software Developer,101379.00
+2333,Operations,Operations Director,101357.00
+1805,IT,IT Manager,101345.00
+2424,IT,System Admin,101330.00
+2173,IT,Data Engineer,101321.00
+2882,IT,Data Engineer,101310.00
+1537,Finance,Finance Manager,101283.00
+1649,IT,DevOps Engineer,101259.00
+2718,IT,DevOps Engineer,101250.00
+2767,IT,System Admin,101247.00
+2378,IT,DevOps Engineer,101195.00
+2334,IT,DevOps Engineer,101050.00
+1634,IT,System Admin,100973.00
+1827,Operations,Logistics,100960.00
+2065,Finance,CFO,100854.00
+1840,IT,DevOps Engineer,100741.00
+2697,IT,Data Engineer,100720.00
+1692,IT,Data Engineer,100709.00
+2140,Finance,Financial Analyst,100662.00
+2008,Finance,Finance Manager,100623.00
+1928,IT,DevOps Engineer,100587.00
+2274,Finance,Financial Analyst,100556.00
+1525,IT,DevOps Engineer,100542.00
+1914,IT,Data Engineer,100538.00
+2103,IT,DevOps Engineer,100511.00
+2802,Operations,Logistics,100410.00
+2733,Finance,Accountant,100408.00
+2714,Finance,CFO,100335.00
+1910,IT,Data Engineer,100200.00
+2390,Finance,Accountant,100184.00
+2589,IT,IT Manager,100168.00
+1530,Operations,Operations Director,100153.00
+2837,Finance,Financial Analyst,100073.00
+1906,IT,IT Manager,100050.00
+2063,Operations,Supply Chain,99916.00
+2079,Finance,CFO,99915.00
+1744,Operations,Operations Manager,99885.00
+1905,IT,System Admin,99876.00
+2247,IT,Data Engineer,99844.00
+2054,IT,System Admin,99836.00
+1664,Finance,Finance Manager,99761.00
+1642,IT,Software Developer,99590.00
+2187,Finance,Finance Manager,99447.00
+1825,IT,Data Engineer,99414.00
+2178,IT,Data Engineer,99350.00
+2906,IT,Software Developer,99264.00
+1541,Operations,Supply Chain,99176.00
+2958,Finance,Finance Manager,99174.00
+2879,IT,Software Developer,99147.00
+2078,IT,DevOps Engineer,99126.00
+2904,Operations,Operations Manager,99115.00
+1943,Finance,Finance Manager,99056.00
+1761,IT,System Admin,98994.00
+2792,Operations,Logistics,98971.00
+2241,Operations,Operations Manager,98965.00
+2328,IT,IT Manager,98938.00
+2199,Finance,Accountant,98902.00
+2815,Finance,CFO,98874.00
+1961,IT,IT Manager,98873.00
+2760,IT,DevOps Engineer,98840.00
+1854,Finance,Finance Manager,98780.00
+1667,IT,Data Engineer,98755.00
+1945,Finance,Finance Manager,98709.00
+2364,Operations,Logistics,98705.00
+2172,Finance,Tax Specialist,98632.00
+2374,IT,System Admin,98617.00
+2817,Finance,Finance Manager,98497.00
+2884,Operations,Supply Chain,98484.00
+2515,Operations,Operations Director,98450.00
+1867,IT,Data Engineer,98448.00
+2180,Finance,Accountant,98425.00
+2797,Finance,Tax Specialist,98410.00
+2074,IT,IT Manager,98362.00
+2547,Operations,Logistics,98348.00
+2073,Operations,Operations Director,98285.00
+2867,IT,IT Manager,98136.00
+2658,Finance,Tax Specialist,98103.00
+2783,Operations,Logistics,98050.00
+2771,Finance,Financial Analyst,97951.00
+1790,Operations,Operations Analyst,97942.00
+2128,Finance,Finance Manager,97859.00
+1900,IT,Data Engineer,97854.00
+2814,IT,Data Engineer,97843.00
+2479,Finance,CFO,97841.00
+1572,Operations,Operations Director,97821.00
+2053,Operations,Operations Manager,97786.00
+2154,IT,DevOps Engineer,97643.00
+2162,Finance,Financial Analyst,97639.00
+2292,IT,IT Manager,97603.00
+2109,IT,DevOps Engineer,97577.00
+1609,Operations,Logistics,97567.00
+1888,IT,IT Manager,97566.00
+2280,IT,DevOps Engineer,97553.00
+2423,Operations,Operations Manager,97542.00
+1680,Operations,Logistics,97462.00
+1821,IT,Data Engineer,97451.00
+2561,IT,IT Manager,97388.00
+1957,IT,DevOps Engineer,97359.00
+2809,IT,System Admin,97282.00
+2471,Operations,Operations Director,97280.00
+2740,Finance,Tax Specialist,97234.00
+2387,Operations,Operations Analyst,97221.00
+2086,IT,System Admin,97105.00
+2618,Finance,Finance Manager,97066.00
+2532,IT,System Admin,96841.00
+1548,Finance,Financial Analyst,96708.00
+2416,IT,System Admin,96676.00
+2419,Operations,Supply Chain,96666.00
+2010,Finance,Finance Manager,96577.00
+2181,IT,IT Manager,96554.00
+2490,IT,Software Developer,96509.00
+1592,IT,Data Engineer,96463.00
+2846,Finance,Accountant,96445.00
+2514,IT,IT Manager,96320.00
+2909,IT,System Admin,96316.00
+2242,IT,IT Manager,96301.00
+1860,Operations,Operations Manager,96247.00
+1486,IT,Data Engineer,96162.00
+1576,Operations,Operations Director,96097.00
+2096,IT,IT Manager,96038.00
+2516,Operations,Operations Analyst,95998.00
+2712,Finance,Finance Manager,95949.00
+1700,Finance,CFO,95940.00
+1556,Operations,Operations Manager,95936.00
+2928,Operations,Operations Director,95934.00
+2983,Operations,Supply Chain,95771.00
+2610,Operations,Supply Chain,95609.00
+2614,IT,Data Engineer,95594.00
+2531,Operations,Logistics,95577.00
+1757,IT,System Admin,95577.00
+2271,IT,IT Manager,95559.00
+1832,IT,Software Developer,95539.00
+2679,IT,Software Developer,95525.00
+2970,Finance,CFO,95510.00
+2932,IT,DevOps Engineer,95309.00
+1763,IT,Data Engineer,95187.00
+2545,Operations,Logistics,95145.00
+1562,Operations,Logistics,95097.00
+2824,Operations,Operations Director,95089.00
+2794,Operations,Operations Analyst,95087.00
+1755,IT,System Admin,94992.00
+2493,IT,IT Manager,94977.00
+2865,Operations,Operations Manager,94968.00
+2990,IT,DevOps Engineer,94911.00
+1477,IT,System Admin,94873.00
+1620,Operations,Operations Analyst,94799.00
+1766,Operations,Logistics,94772.00
+2543,IT,IT Manager,94739.00
+2853,IT,Data Engineer,94721.00
+2163,IT,System Admin,94659.00
+2429,Operations,Logistics,94640.00
+2413,Operations,Logistics,94616.00
+2539,IT,IT Manager,94597.00
+1501,IT,Data Engineer,94459.00
+2102,IT,IT Manager,94450.00
+2267,IT,IT Manager,94388.00
+1930,IT,Data Engineer,94304.00
+1842,Finance,Accountant,94286.00
+2165,IT,System Admin,94230.00
+2939,Finance,CFO,94174.00
+2050,IT,Software Developer,94152.00
+2337,Finance,Accountant,94119.00
+2788,Operations,Operations Manager,94111.00
+2999,IT,Software Developer,94095.00
+2221,Operations,Operations Analyst,93949.00
+1859,Finance,Financial Analyst,93893.00
+2864,Operations,Supply Chain,93880.00
+2355,IT,Software Developer,93823.00
+2001,Operations,Operations Manager,93777.00
+2781,Operations,Operations Director,93630.00
+2418,IT,Data Engineer,93571.00
+2156,Finance,Finance Manager,93530.00
+1533,Operations,Operations Director,93476.00
+2040,Finance,Tax Specialist,93464.00
+2018,Operations,Operations Director,93383.00
+2148,IT,Software Developer,93357.00
+2259,IT,System Admin,93341.00
+2060,Operations,Operations Director,93255.00
+2167,Operations,Operations Manager,93182.00
+1940,Finance,Accountant,93102.00
+1751,Operations,Supply Chain,92952.00
+1691,Operations,Operations Director,92910.00
+1759,Finance,Accountant,92898.00
+1976,IT,DevOps Engineer,92891.00
+1663,Operations,Supply Chain,92869.00
+2342,IT,DevOps Engineer,92783.00
+2605,Operations,Supply Chain,92764.00
+2627,Operations,Operations Analyst,92725.00
+2188,IT,System Admin,92712.00
+1725,Operations,Logistics,92681.00
+1480,Finance,CFO,92642.00
+2850,IT,Software Developer,92637.00
+2160,Operations,Operations Analyst,92604.00
+2576,IT,System Admin,92580.00
+2841,IT,IT Manager,92549.00
+2663,IT,Data Engineer,92541.00
+2966,IT,Software Developer,92515.00
+1995,Finance,Accountant,92507.00
+1701,IT,IT Manager,92496.00
+2386,IT,IT Manager,92393.00
+2592,Finance,Financial Analyst,92349.00
+2917,IT,System Admin,92211.00
+1996,IT,Software Developer,92197.00
+1580,IT,IT Manager,92077.00
+2407,IT,Software Developer,92059.00
+1550,Operations,Operations Manager,91953.00
+2196,Finance,Finance Manager,91828.00
+2208,IT,System Admin,91677.00
+1895,IT,DevOps Engineer,91658.00
+2919,Operations,Operations Manager,91650.00
+1756,Finance,Tax Specialist,91616.00
+1774,IT,Software Developer,91532.00
+1837,Finance,Finance Manager,91531.00
+1574,Finance,Accountant,91492.00
+1495,Finance,Finance Manager,91466.00
+1579,Operations,Operations Analyst,91329.00
+1516,IT,IT Manager,91250.00
+2602,IT,System Admin,91205.00
+2819,Operations,Operations Analyst,91136.00
+2082,Finance,CFO,91091.00
+2354,Operations,Operations Analyst,91048.00
+2501,Operations,Operations Director,90985.00
+1710,IT,Software Developer,90948.00
+1878,Finance,CFO,90932.00
+1659,Operations,Operations Director,90902.00
+1626,Operations,Operations Manager,90863.00
+1791,Operations,Operations Manager,90681.00
+2951,IT,System Admin,90587.00
+1912,Operations,Logistics,90583.00
+2265,IT,Software Developer,90534.00
+1544,IT,IT Manager,90453.00
+2709,IT,DevOps Engineer,90344.00
+2662,IT,IT Manager,90251.00
+2907,Operations,Operations Manager,90244.00
+2858,Finance,Accountant,90219.00
+2659,Finance,Finance Manager,90218.00
+1565,IT,Software Developer,90206.00
+2969,IT,DevOps Engineer,90168.00
+2578,IT,Software Developer,90136.00
+2631,IT,IT Manager,90132.00
+2962,IT,System Admin,90132.00
+1858,Finance,Tax Specialist,90063.00
+2708,Operations,Supply Chain,90037.00
+2093,Operations,Supply Chain,89932.00
+2540,Finance,Financial Analyst,89885.00
+2002,Operations,Operations Analyst,89885.00
+1863,IT,Software Developer,89793.00
+2821,IT,DevOps Engineer,89749.00
+2572,IT,System Admin,89700.00
+2655,IT,DevOps Engineer,89640.00
+2327,Finance,CFO,89589.00
+1922,Finance,Tax Specialist,89576.00
+1737,Finance,CFO,89488.00
+2607,Operations,Supply Chain,89461.00
+1593,IT,Data Engineer,89401.00
+2389,Finance,CFO,89400.00
+2410,Operations,Operations Manager,89390.00
+1981,Operations,Operations Analyst,89208.00
+2925,Operations,Operations Manager,89199.00
+2152,Finance,Tax Specialist,89130.00
+1618,IT,IT Manager,89047.00
+2279,IT,Software Developer,89030.00
+2475,Operations,Supply Chain,88986.00
+2204,Operations,Logistics,88984.00
+2372,Operations,Logistics,88929.00
+2445,Finance,Tax Specialist,88919.00
+2725,Operations,Logistics,88880.00
+1826,Finance,Finance Manager,88838.00
+2978,Finance,Accountant,88829.00
+2126,Finance,Finance Manager,88785.00
+1968,IT,Data Engineer,88783.00
+2621,Operations,Logistics,88772.00
+1796,Finance,Tax Specialist,88726.00
+2960,Operations,Logistics,88696.00
+2780,IT,DevOps Engineer,88664.00
+1904,Finance,Accountant,88609.00
+2036,Finance,Accountant,88352.00
+1847,IT,IT Manager,88321.00
+2440,Operations,Operations Analyst,88313.00
+2500,Finance,Financial Analyst,88270.00
+1939,IT,IT Manager,88261.00
+2193,IT,Data Engineer,88231.00
+2977,IT,DevOps Engineer,88115.00
+2520,Operations,Operations Analyst,88037.00
+2632,Finance,Finance Manager,88027.00
+2698,Operations,Operations Manager,88017.00
+2158,Operations,Operations Director,87951.00
+2526,Operations,Operations Director,87872.00
+1870,IT,Software Developer,87776.00
+2399,IT,IT Manager,87740.00
+2643,Operations,Operations Manager,87709.00
+2311,Operations,Operations Director,87692.00
+1706,IT,System Admin,87613.00
+2080,Operations,Supply Chain,87587.00
+2961,Operations,Operations Director,87485.00
+2533,Finance,Accountant,87446.00
+1830,Operations,Logistics,87433.00
+2759,Operations,Supply Chain,87307.00
+2894,IT,System Admin,87113.00
+1694,Operations,Logistics,87084.00
+2546,Operations,Logistics,87061.00
+2320,IT,DevOps Engineer,87047.00
+2568,IT,IT Manager,87016.00
+2175,Finance,Accountant,86906.00
+1988,IT,Software Developer,86905.00
+1536,Finance,CFO,86819.00
+2312,Operations,Operations Manager,86812.00
+2427,IT,IT Manager,86702.00
+2908,Finance,Finance Manager,86620.00
+2886,Operations,Operations Manager,86527.00
+1729,Finance,Accountant,86509.00
+2800,IT,Data Engineer,86507.00
+2991,Operations,Logistics,86400.00
+2773,IT,Data Engineer,86317.00
+1841,Operations,Logistics,86208.00
+2769,IT,Data Engineer,86103.00
+1929,IT,System Admin,86078.00
+2742,IT,IT Manager,85954.00
+1675,Finance,Accountant,85930.00
+2801,IT,Data Engineer,85906.00
+2518,Operations,Logistics,85822.00
+1954,Finance,Accountant,85727.00
+2365,Finance,CFO,85644.00
+2169,IT,Data Engineer,85499.00
+1727,Operations,Supply Chain,85311.00
+2275,Operations,Operations Manager,85285.00
+1898,Operations,Operations Director,85245.00
+1716,Operations,Operations Director,85189.00
+2498,Finance,Tax Specialist,85032.00
+2599,Finance,Tax Specialist,84994.00
+2391,IT,DevOps Engineer,84979.00
+2560,Finance,Finance Manager,84906.00
+2522,IT,DevOps Engineer,84840.00
+2249,Operations,Operations Analyst,84817.00
+2346,Operations,Operations Analyst,84682.00
+2924,IT,System Admin,84624.00
+2478,IT,Data Engineer,84605.00
+2123,Operations,Operations Manager,84587.00
+1894,Operations,Supply Chain,84572.00
+2641,Operations,Operations Analyst,84505.00
+2944,Operations,Supply Chain,84482.00
+1949,Operations,Operations Director,84440.00
+1816,Operations,Operations Manager,84412.00
+2234,IT,DevOps Engineer,84381.00
+1695,Operations,Supply Chain,84261.00
+2872,Finance,Financial Analyst,84049.00
+1637,Finance,Accountant,84001.00
+2772,IT,Data Engineer,83989.00
+2998,Operations,Operations Director,83971.00
+1889,Finance,Finance Manager,83678.00
+1753,Finance,Finance Manager,83678.00
+2046,Finance,CFO,83677.00
+2729,Operations,Operations Analyst,83663.00
+2028,Finance,Tax Specialist,83636.00
+2089,IT,System Admin,83503.00
+2604,Operations,Supply Chain,82923.00
+1668,Operations,Operations Manager,82834.00
+1635,Operations,Operations Director,82804.00
+1719,Operations,Logistics,82791.00
+1892,Operations,Operations Analyst,82592.00
+2452,Operations,Supply Chain,82516.00
+2836,Operations,Logistics,82481.00
+2721,Operations,Supply Chain,82454.00
+2727,Finance,Financial Analyst,82373.00
+2037,Operations,Logistics,82192.00
+2226,Operations,Operations Director,82151.00
+1831,Operations,Supply Chain,81877.00
+1971,Finance,Tax Specialist,81857.00
+2439,Finance,CFO,81829.00
+2616,Operations,Logistics,81812.00
+1534,IT,IT Manager,81628.00
+2898,Operations,Supply Chain,81338.00
+2027,Operations,Operations Analyst,81334.00
+2534,Operations,Logistics,81332.00
+2612,Operations,Operations Director,81279.00
+1960,Finance,Tax Specialist,81074.00
+2601,Operations,Operations Director,81019.00
+2118,Finance,Financial Analyst,80967.00
+2238,Operations,Supply Chain,80956.00
+2345,Operations,Operations Analyst,80919.00
+2318,Operations,Supply Chain,80896.00
+2394,Finance,Tax Specialist,80456.00
+1809,Operations,Operations Analyst,80380.00
+2379,Operations,Logistics,80213.00
+1598,Operations,Supply Chain,79809.00
+2121,Operations,Operations Analyst,79779.00
+2223,Operations,Operations Director,79621.00
+2207,Operations,Operations Director,79466.00
+2828,Operations,Operations Analyst,78989.00
+1625,Operations,Operations Director,78906.00
+2205,Operations,Supply Chain,78856.00
+2617,Operations,Operations Manager,78486.00
+2528,Operations,Operations Director,78249.00
+2231,Operations,Operations Analyst,77870.00
+1866,Operations,Logistics,77328.00
+2913,Operations,Operations Director,77168.00
+1972,Operations,Logistics,77159.00
+1948,Operations,Logistics,77135.00
+2302,Operations,Operations Director,77072.00
+2155,Operations,Supply Chain,77051.00
+2473,Operations,Operations Analyst,76989.00
+2705,Operations,Operations Manager,76871.00
+2934,Operations,Operations Manager,76866.00
+2338,Operations,Operations Analyst,76740.00
+2556,Operations,Operations Director,76721.00
+1969,Operations,Operations Manager,76300.00
+1552,Operations,Logistics,76083.00
+1679,Operations,Logistics,75792.00
+2680,Operations,Operations Director,75103.00
+2630,Operations,Operations Analyst,75033.00
+2671,Operations,Operations Director,74896.00
+1607,Operations,Operations Analyst,74714.00
+2668,IT,IT Manager,74699.00
+2137,Operations,Supply Chain,74562.00
+2926,Operations,Operations Manager,74165.00
+2651,Operations,Operations Analyst,73950.00
+2393,Operations,Operations Manager,73725.00
+2530,Operations,Supply Chain,73674.00
+1571,IT,Software Developer,73190.00
+2291,IT,IT Manager,72991.00
+2857,Operations,Supply Chain,72898.00
+2020,Operations,Operations Manager,72828.00
+1839,Operations,Operations Manager,72597.00
+1819,IT,Software Developer,72101.00
+2804,IT,IT Manager,72003.00
+2585,IT,System Admin,72000.00
+2195,IT,IT Manager,71495.00
+1569,IT,Software Developer,71079.00
+2463,IT,Data Engineer,70965.00
+2496,IT,IT Manager,70946.00
+1736,IT,Data Engineer,70732.00
+2013,IT,System Admin,70598.00
+2316,IT,DevOps Engineer,70538.00
+1629,IT,IT Manager,70494.00
+1519,IT,System Admin,70257.00
+2586,IT,Data Engineer,70239.00
+1851,IT,DevOps Engineer,70159.00
+1881,Finance,CFO,70096.00
+2248,IT,Software Developer,70039.00
+1690,IT,Software Developer,69974.00
+2487,IT,Data Engineer,69906.00
+2761,IT,Software Developer,69830.00
+2911,Finance,CFO,69813.00
+2943,IT,Software Developer,69769.00
+1944,IT,IT Manager,69712.00
+1561,IT,System Admin,69353.00
+2488,IT,Software Developer,69243.00
+2673,IT,Data Engineer,69214.00
+2107,IT,Data Engineer,69177.00
+1990,IT,System Admin,69149.00
+1488,IT,Data Engineer,69082.00
+2583,Finance,CFO,69042.00
+2881,Finance,Financial Analyst,69014.00
+2525,IT,IT Manager,68945.00
+2277,IT,Data Engineer,68922.00
+2072,IT,Data Engineer,68889.00
+1705,Finance,Financial Analyst,68733.00
+2512,IT,Data Engineer,68731.00
+1846,IT,Software Developer,68640.00
+2506,IT,Software Developer,68555.00
+1711,IT,System Admin,68478.00
+1794,IT,Software Developer,68361.00
+2754,IT,DevOps Engineer,68351.00
+2133,Finance,Financial Analyst,68284.00
+1577,IT,Software Developer,68282.00
+1802,Finance,Financial Analyst,68266.00
+2633,IT,IT Manager,68094.00
+2360,IT,Software Developer,68025.00
+2765,IT,IT Manager,68004.00
+2912,IT,Data Engineer,67818.00
+2588,IT,DevOps Engineer,67785.00
+1868,IT,Software Developer,67741.00
+2131,Finance,Accountant,67733.00
+1492,Finance,CFO,67548.00
+2099,IT,IT Manager,67452.00
+2582,IT,DevOps Engineer,67078.00
+2404,Finance,Finance Manager,67019.00
+2776,IT,DevOps Engineer,66921.00
+2056,Finance,Tax Specialist,66785.00
+2922,Finance,Finance Manager,66762.00
+2735,Finance,Finance Manager,66554.00
+2209,IT,DevOps Engineer,66452.00
+2542,IT,Software Developer,66381.00
+2949,Finance,CFO,66292.00
+2497,IT,System Admin,66205.00
+2268,IT,Data Engineer,66063.00
+2695,IT,System Admin,66046.00
+2467,Finance,CFO,66014.00
+2100,IT,DevOps Engineer,65998.00
+1732,IT,Software Developer,65968.00
+2170,Finance,Financial Analyst,65875.00
+2417,IT,Software Developer,65733.00
+2421,IT,Data Engineer,65634.00
+1479,Finance,CFO,65562.00
+1923,IT,Software Developer,65542.00
+2236,Finance,Financial Analyst,65521.00
+2600,IT,System Admin,65519.00
+1586,IT,Data Engineer,65500.00
+1946,Finance,Tax Specialist,65441.00
+2456,IT,DevOps Engineer,65401.00
+1740,Finance,Accountant,65352.00
+1693,IT,DevOps Engineer,65254.00
+1848,IT,Data Engineer,65161.00
+2339,IT,Data Engineer,64982.00
+1745,Finance,Financial Analyst,64881.00
+1600,IT,IT Manager,64857.00
+2116,IT,Data Engineer,64761.00
+2975,Finance,CFO,64727.00
+2984,Finance,Accountant,64688.00
+1886,IT,Data Engineer,64583.00
+2362,IT,System Admin,64276.00
+2777,IT,DevOps Engineer,64274.00
+2739,IT,System Admin,64179.00
+1800,Finance,Financial Analyst,64068.00
+1704,Finance,Accountant,64013.00
+1931,Finance,Finance Manager,64000.00
+1673,IT,IT Manager,63962.00
+1682,IT,IT Manager,63954.00
+2756,IT,System Admin,63921.00
+1655,IT,Data Engineer,63912.00
+2108,IT,Data Engineer,63674.00
+1804,Finance,Tax Specialist,63542.00
+2270,Finance,CFO,63510.00
+1604,Operations,Supply Chain,63504.00
+1921,IT,DevOps Engineer,63305.00
+1803,Finance,CFO,63287.00
+2348,IT,System Admin,63175.00
+2278,Finance,Tax Specialist,63097.00
+1601,Finance,Finance Manager,63087.00
+2120,IT,DevOps Engineer,63033.00
+2782,IT,Software Developer,63026.00
+1824,Operations,Supply Chain,62959.00
+2164,IT,Software Developer,62955.00
+2283,Finance,CFO,62950.00
+2105,IT,Data Engineer,62758.00
+1612,IT,DevOps Engineer,62475.00
+2895,Operations,Logistics,62453.00
+2043,Finance,Financial Analyst,62441.00
