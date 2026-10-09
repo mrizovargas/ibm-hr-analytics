@@ -1,0 +1,32 @@
+erDiagram
+    dim_jobs ||--o{ fact_employees: "1 a Varios Optativo (1:N)"
+    dim_demographics ||--o{ fact_employees: "1 a Varios Optativo (1:N)"
+
+    dim_jobs{
+        bigint sk_job_id PK "Clave Primaria (Surrogate Key)"
+        bigint job_id "Identificador de negocio del puesto"
+        varchar(100) job_role "Nombre o role de la posición"
+        varchar(100) department "Departamento o área de trabajo"
+        int standard_hours "Horas laborales estándar fijadas"
+        boolean is_active "Indica si la posición sigue activa (Default TRUE)"
+        varchar(3) high_turnover_risk "Indicador de riesgo de rotación"
+    }
+
+    dim_demographics{
+        bigint sk_demographics_id PK "Clave Primaria (Surrogate Key)"
+        varchar(20) gender "Género registrado del colaborador"
+        varchar(100) education_field "Especialidad o campo de estudio"
+        varchar(20) marital_status "Estado civil actual dewl colaborador"
+    }
+
+    fact_employees{
+        bigint sk_employee_id PK "Identificador único"
+        int employee_number "Número único del empleado"
+        bigint sk_job_id "Clave sustituta (Surrogate Key) para emlazar puesto"
+        bigint sk_demographics_id "Clave sustituta (Surrogate Key) para enlazar demografía"
+        int attrition_numeric "indicador numérico de salida (0/1)"
+        varchar(5) attrition "Estado de rotación registrado"
+        numeric(10,2) monthly_income "Sueldo o ingreso mensual"
+        int years_at_company "Antigüedad en años en la empresa"
+        int total_working_years "Años totales de experiencia laboral"
+    }

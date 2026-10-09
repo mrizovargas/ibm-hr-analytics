@@ -1,0 +1,33 @@
+erDiagram
+    DIM_JOBS {
+        int sk_job_id PK      "Clave Primaria / Surrogate Key"
+        int job_id
+        string job_role
+        string department
+        int standard_hours
+        boolean is_active
+        string high_turnover_risk
+    }
+
+    DIM_DEMOGRAPHICS {
+        int sk_demographics_id    "Clave Primaria / Surrogate Key"
+        string gender
+        string education_field
+        string marital_status
+    }
+    
+    FACT_EMPLOYEES {
+        int sk_employee_id PK      "Clave Primaria / Surrogate Key"
+        int employee_number
+        int sk_job_id FK       "Clave Foránea"
+        int sk_demographic_id FK       "Clave Foránea"
+        int attritio_numeric
+        string attritio
+        numeric monthly_income
+        int years_at_company
+        int total_working_years
+    }
+    
+    %% Nomenclatura de Relación (Uno a Muchos)
+    DIM_JOBS ||--o{ FACT_EMPLOYEES :      "1 a Varios (1:N)"
+    DIM_DEMOGRAPHICS ||--o{ FACT_EMPLOYEES :      "1 a Varios (1:N)"
